@@ -1,0 +1,497 @@
+kanda kati  -- dodoma, singida, tabora  (kanda)
+kanda pwani  -- dar es salaam, lindi, morogoro, mtwara, pwani  (kanda)
+kanda ziwa  -- geita, kagera, mara, mwanza, shinyanga, simiyu  (kanda)
+kanda kaskazini  -- arusha, kilimanjaro, manyara, tanga  (kanda)
+kanda nyanda za juu kusini  -- iringa, mbeya, njombe, rukwa, ruvuma, songwe  (kanda)
+kanda magharibi  -- katavi, kigoma  (kanda)
+kanda zanzibar  -- mjini magharibi, pemba north, pemba south, unguja north, unguja south  (kanda)
+-------------------
+arusha  -- monduli, longido, meru, arusha vijijini, arusha mjini, ngorongoro, karatu  (mkoa)
+dar es salaam  -- ilala, kinondoni, temeke, kigamboni, ubungo  (mkoa)
+dodoma  --  bahi, chamwino, chemba, dodoma mjini, kondoa, kondoa mjini, kongwa, mpwapwa  (mkoa)
+geita  -- bukombe, chato, geita, geita mjini, mbogwe, nyang'hwale  (mkoa)
+iringa  --  iringa vijijini, mufindi, kilolo, iringa mjini, mafinga mjini  (mkoa)
+kagera  -- bukoba, misenyi, muleba, karagwe, ngara, biharamulo, kyerwa  (mkoa)
+katavi  -- mlele, nsimbo, mpanda mjini, tanganyika, mpimbwe  (mkoa)
+kigoma  -- kasulu, kibondo, kigoma vijijini, kigoma mjini, kigoma-ujiji, buhigwe, kakonko, uvinza  (mkoa)
+kilimanjaro  -- hai, mwanga, moshi mjini, moshi vijijini, rombo, same, siha  (mkoa)
+lindi  -- lindi mjini, mtama, kilwa, nachingwea, liwale, ruangwa  (mkoa)
+manyara  -- babati vijijini, babati mjini, hanang, mbulu vijijini, mbulu mjini, simanjiro, kiteto  (mkoa)
+mara  -- bunda mjini, bunda vijijini, serengeti, tarime vijijini, tarime mjini, rorya, butiama, musoma mjini, musoma vijijini  (mkoa)
+mbeya  -- mbeya mjini, mbeya vijijini, rungwe, kyela, ileje, mbozi, chunya, momba, mbarali  (mkoa)
+morogoro  -- gairo, kilosa, malinyi, mlimba, morogoro vijijini, morogoro mjini, mvomero, ulanga  (mkoa)
+mtwara  -- mtwara mjini/mikindani, mtwara vijijini, masasi mjini, masasi, nanyamba, nanyumbu, newala mjini, newala, tandahimba  (mkoa)
+mwanza  -- ukerewe, magu, sengerema, buchosa, misungwi, kwimba, nyamagana, ilemela  (mkoa)
+njombe  -- njombe mjini, njombe vijijini, makambako, makete, ludewa, wanging'ombe  (mkoa)
+pwani  -- bagamoyo, chalinze, kibaha mjini, kibaha vijijini, kisarawe, mkuranga, mafia, rufiji, kibiti  (mkoa)
+rukwa  -- sumbawanga mjini, sumbawanga, nkasi, kalambo  (mkoa)
+ruvuma  -- nyasa songea mjini, songea vijijini, tunduru, madaba, mbinga vijijini, mbinga mjini, namtumbo  (mkoa)
+shinyanga  -- kahama mjini, ushetu, msalala, kishapu[1], shinyanga vijijini, shinyanga mjini  (mkoa)
+simiyu  -- bariadi mjini, bariadi, busega, maswa, meatu, itilima  (mkoa)
+singida  --  iramba, manyoni, singida vijijini, singida mjini, ikungi, itigi, mkalama  (mkoa)
+songwe  -- tunduma, ileje, mbozi, momba, songwe  (mkoa)
+tabora  -- tabora mjini, nzega vijijini, nzega mjini, igunga, uyui, urambo, sikonge, kaliua  (mkoa)
+tanga  -- bumbuli, handeni vijijini, handeni mjini, kilindi, korogwe vijijini, korogwe mjini, lushoto, mkinga, muheza, pangani, tanga mjini  (mkoa)
+mjini magharibi  -- jiji_la_zanzibar, magharibi_a, magharibi_b  (mkoa)
+pemba kaskazini  -- wete, micheweni  (mkoa)
+pemba kusini  -- mkoani, chake chake  (mkoa)
+unguja kaskazini  -- unguja_a, unguja_b  (mkoa)
+unguja kusini  -- kati, kusini  (mkoa)
+-------------------
+hifadhi ya msitu asili  -- nature forest reserve (nfr)
+mashamba ya miti  -- forest plantation  (fp)
+amani nfr  -- mkoa: tanga
+biharamulo fp  -- mkoa: geita, kagera
+buhindi fp  -- mkoa: mwanza
+chome nfr  -- mkoa: pwani
+iyondo mswima fp  -- mkoa: songwe
+kawetire fp  -- mkoa: mbeya
+kilombero fp  -- mkoa: morogoro
+kipo fp  -- mkoa: iringa
+korogwe fp  -- mkoa: tanga / handeni
+longuza fp  -- mkoa: tanga / usambara mtns
+magamba nfr  -- mkoa: tanga
+mbizi fp  -- mkoa: rukwa
+meru/usa fp  -- mkoa: arusha / mt meru
+minziro nfr  -- mkoa: kagera
+mkingu nfr  -- mkoa: tanga
+morogoro fp  -- mkoa: morogoro
+mpepo fp  -- mkoa: ruvuma / nyasa
+mt hanang nfr  -- mkoa: manyara 
+mt longido nfr  -- mkoa: arusha
+mt rungwe nfr  -- mkoa: mbeya
+mtibwa fp  -- mkoa: morogoro / mvomero nguu mtns
+nilo nfr  -- mkoa: mbeya
+north kilimanjaro fp  -- mkoa: kilimanjaro
+north ruvu fp  -- mkoa: pwani / kibaha, bagamoyo
+rondo nfr  -- mkoa: lindi
+rubare fp  -- mkoa: kagera / bukoba
+rubya fp  -- mkoa: mwanza / ukerewe
+sao-hill fp  -- mkoa: iringa / mufindi
+shume fp  -- mkoa: tanga / lushoto
+ukaguru fp  -- mkoa: morogoro / ukaguru mtns
+uluguru nfr  -- mkoa: morogoro / kidatu uluguru mtns
+uzungwa scarp nfr  -- mkoa: iringa
+west kilimanjaro fp  -- mkoa: kilimanjaro
+wino fp  -- mkoa: ruvuma / madaba
+-------------------
+mashamba ya nyuki  -- national bees reserves (nbr)
+malinga nbr  -- mkoa: songwe / momba
+shinji nbr  -- mkoa: songwe / ileje
+kwenyunga-magiri nbr  -- mkoa: tanga / handeni
+kang’ata nbr  -- mkoa: tanga / handeni
+mialo kwamtoro nbr  -- mkoa: dodoma / chemba
+maganzemzaree nbr  -- mkoa: dodoma / chemba
+songolo nbr  -- mkoa: dodoma / chemba
+lebbajumbe nbr  -- mkoa: dodoma / chemba
+aghondi nbr  -- mkoa: singida / manyoni
+-------------------
+hifadhi ya mawindo  -- hunting reserve (hr)
+eneo lenye udhibiti wa wanyamapori  -- game controlled area (gca)
+endulen gca  -- mkoa: arusha
+handeni gca  -- mkoa: tanga
+kalimawe gca  -- mkoa: singida
+masailand gca  -- mkoa: manyara
+kitwai gca  -- mkoa: katavi
+-------------------
+mapori ya akiba  -- game reserve; hifadhi ya wanyamapori (gr)
+biharamulo gr  -- mkoa: geita
+burigi gr  -- mkoa: kagera
+ikorongo na grumet gr  -- mkoa: mara
+kigosi gr  -- mkoa: simiyu
+kijereshi gr  -- mkoa: simiyu
+kingera-mpanya gr  -- mkoa: njombe
+kipengere mpanga gr  -- mkoa: njombe
+kizigo gr  -- mkoa: singida
+luafi gr  -- mkoa: katavi
+lukwata-lumesale gr  -- mkoa: mtwara
+lukwati gr  -- mkoa: rukwa
+lukwati na piti gr  -- mkoa: songwe
+maswa gr  -- mkoa: simiyu
+mkungunero gr  -- mkoa: dodoma
+moyowosi gr  -- mkoa: manyara, kigoma
+msanjesi gr  -- mkoa: mtwara
+muhesi gr  -- mkoa: singida
+n kahama gr  -- mkoa: shinyaga
+pande gr  -- mkoa: dar es salaam
+rukwa gr  -- mkoa: rukwa
+rungwa gr  -- mkoa: singida
+swagaswaga gr  -- mkoa: dodoma
+usungu gr  -- mkoa: mbeya
+uwanda gr  -- mkoa: rukwa, songwe
+-------------------
+hifadhi za bahari  -- marine preserve (mp)
+mafia island mp  -- mkoa: pwani
+tanga coelacanth mp  -- mkoa: tanga
+dar es salaam mp  -- mkoa: dar es salaam
+mnazi bay-ruvumba estuary mp  -- mkoa: mtwara
+-------------------
+ngorongoro eneo la uhifadhi  -- conservation area; mkoa: arusha
+-------------------
+mbuga za taifa la tanzania  -- national park (np)
+arusha np  -- mkoa: arusha
+burigi-chato np  -- mkoa: kagera
+gombe np  -- mkoa: kigoma
+ibanda-kyerwa np  -- mkoa: mbeya
+jozani chwaka [ghuba ya] np  -- mkoa: zanzibar
+katavi np  -- mkoa: rukwa
+kilimanjaro [mlima] np  -- mkoa: kilimanjaro
+kitulo np  -- mkoa: mbeya
+mahale [milima ya] np  -- mkoa: kigoma
+manyara [ziwa] np  -- mkoa: manyara
+mikumi np  -- mkoa: morogoro
+mkomazi np  -- mkoa: tanga
+ngorongoro np  -- mkoa: arusha
+nyerere np  -- mkoa: lindi, morogoro
+ruaha np  -- mkoa: iringa
+rubondo [kisiwa cha]  np  -- mkoa: mwanza
+rumanyika-karagwe np  -- mkoa: kagera
+saadani np  -- mkoa: pwani
+saanane [kisiwa cha]  np  -- mkoa: mtwara
+serengeti np  -- mkoa: mara, simiyu
+tarangire np  -- mkoa: manyara
+udzungwa [milima ya] np  -- mkoa: iringa
+-------------------
+bongoyo maeneo tengefu  -- mkoa: dar es salaam 
+mbudya maeneo tengefu  -- mkoa: dar es salaam
+-------------------
+udzungwa mtns  -- mkoa: iringa
+uluguru mtns  -- mkoa: morogoro
+rungwe mtn  -- mkoa: mbeya
+usambara mtns  -- mkoa: tanga
+malundwe mtns  -- mkoa: morogoro
+rubeho mtns  -- mkoa: dodoma
+longido mtn  -- mkoa: mara
+kilimanjaro mtn  -- mkoa: kilimanjaro
+meru mtn  -- mkoa: arusha
+pare mtns  -- mkoa: kilimanjaro
+kipengere mtns  -- mkoa: njombe
+mahenge mtns  -- mkoa: morogoro
+nguru mtns  -- mkoa: morogoro
+ukaguru mtns  -- mkoa: morogoro
+lukwangule plateau  -- mkoa: morogoro
+makonde plateau  -- mkoa: mtwara
+lorujouj plateau  -- mkoa: arusha
+shira plateau  -- mkoa: kilimanjaro
+ufipa plateau  -- mkoa: rukwa
+-------------------
+ziwa victoria  -- mkoa: kanda ya ziwa
+ziwa tanganyika  -- mkoa: kigoma, katavi, rukwa
+ziwa rukwa  -- mkoa: rukwa
+ziwa nyasa  -- mkoa: njombe, ruvuma
+ziwa manyara  -- mkoa: manyara
+ziwa natron  -- mkoa: mara
+ziwa eyasi  -- mkoa: arusha
+ziwa burigi  -- mkoa: kagera 
+ziwa babati  -- mkoa: manyara
+ziwa sulunga   -- mkoa: dodoma
+-------------------
+rufiji mto  -- mkoa: pwani
+ruvuma mto  -- mkoa: ruvuma
+kagera mto  -- mkoa: kagera
+pangani mto  -- mkoa: tanga
+wami mto  -- mkoa: morogoro, pwani
+malagarasi mto  -- mkoa: kigoma
+mara mto  -- mkoa: mara
+mori mto  -- mkoa: mara
+-------------------
+bandarini mto  -- mkoa: dar
+kimanga mto  -- mkoa: dar
+kimani mto  -- mkoa: dar
+kinyenyele mto  -- mkoa: dar
+kurasini mto  -- mkoa: dar
+kwangula mto  -- mkoa: dar
+luhanga mto  -- mkoa: dar
+makulamula mto  -- mkoa: dar
+mambizi mto  -- mkoa: dar
+manyema mto  -- mkoa: dar
+masika mto  -- mkoa: dar
+mazizini mto  -- mkoa: dar
+mbezi mto  -- mkoa: dar
+mborohadi mto  -- mkoa: dar
+mgigawa mto  -- mkoa: dar
+minyonyoni mto  -- mkoa: dar
+mironge mto  -- mkoa: dar
+mnguvia mto  -- mkoa: dar
+moshibar mto  -- mkoa: dar
+mpiji mto  -- mkoa: dar
+msimbazi mto  -- mkoa: dar
+mulalakuwa mto  -- mkoa: dar
+mzinga mto  -- mkoa: dar
+nyakasangwe mto  -- mkoa: dar
+quarter mto  -- mkoa: dar
+sinza mto  -- mkoa: dar
+tegeta mto  -- mkoa: dar
+ubungo mto  -- mkoa: dar
+ukooni mto  -- mkoa: dar
+uvumba mto  -- mkoa: dar
+zimbire mto  -- mkoa: dar
+---------------------
+central line  -- dar es salaam, ruvu [jct tanga line], morogoro , kilosa [jct kidatu line], gulwe, igandu, dodoma, manyoni [jct singida line], itigi, ikungu, tabora [jct mwanza line], kaliua [jct mpanda line], kigoma
+kidatu line  -- kilosa [jct central line], kidatu [jct tazara line]
+mwanza line  -- tabora [jct central line], bukene, isaka [dry port], shinyanga, mwanza
+mpanda line  -- kaliua [jct central line], mpanda
+singida line  -- manyoni [jct central line], issuna, ikungi, puma, singida
+link line  -- morogoro [jct central line], ruvu [jct central line], kitonga, sadani, hale - [mruazi jct tanga line], korogwe [jct tanga line]
+tanga line  -- tanga, korogwe [jct link line], mkomazi, same, moshi [jct kenya], arusha
+sgr line dodoma  -- dar es salaam, pugu, soga, ruvu, morogoro, mkata, kilosa, kidete, gulwe, igandu, dodoma, bahi, makutupora, tabora, bukene, mzubuka, isaka, mwanza
+sgr line kigoma  -- tabora, mabama, urambo, kaliua, usinge, nguruka, uvinza, kazuramimba, kigoma
+mtwara line [proposed]  -- mtwara, lindi, nachingwea, mchuchuma, songea, mbamba bay
+tazara line  -- dar es salaam, mzenga, kisaki, kidatu [jct kidatu line], mang'ula, kiberege, ifakara, lwipa, mbingu, mngeta, chita, mlimba, makambako, chimala, mbeya, mbozi, vwawa, tunduma [border], zambia mkushi, kasama
+-------------------
+kidatu hydro  -- mkoa: morogoro
+kihansi hydro  -- mkoa: morogoro
+mtera hydro  -- mkoa: iringa
+pangani falls hydro  -- mkoa: tanga
+hale hydro  -- mkoa: kilimanjaro
+uwemba hydro  -- mkoa: rukwa
+nyumba ya mungu hydro  -- mkoa: iringa
+nyerere hydro  -- mkoa: pwani
+-------------------
+kinyerezi power-gen  -- mkoa: dar es salaam
+ubungo power-gen  -- mkoa: dar es salaam
+tegeta power-gen  -- mkoa: dar es salaam
+somanga power-gen  -- mkoa: pwani
+mtwara power-gen  -- mkoa: mtwara
+zuzu dodoma power-gen  -- mkoa: dodoma
+nyakato power-gen  -- mkoa: mwanza
+ngara power-gen  -- mkoa: kagera
+biharamulo power-gen  -- mkoa: kagera
+songea power-gen  -- mkoa: ruvuma
+mbina power-gen  -- mkoa: mbeya
+ludewa power-gen  -- mkoa: iringa
+amtumbo power-gen  -- mkoa: tanga
+liwale power-gen  -- mkoa: lindi
+tunduru power-gen  -- mkoa: ruvuma
+madaba power-gen  -- mkoa: songwe
+-----------------------------------
+arusha  -- maasai, iraqw, meru  (kabila)
+dar es salaam  -- zigua, sukuma, nyamwezi, makonde, zaramo  (kabila)
+dodoma  -- gogo  (kabila)
+geita  -- sukuma, zanaki  (kabila)
+iringa  -- hehe, sangu, makonde  (kabila)
+kagera  -- haya, waha, tutsi  (kabila)
+katavi  -- bende, holoholo, konongo, pimbwe, tongwe, vinza  (kabila)
+kigoma  -- waha, ziba  (kabila)
+kilimanjaro  -- chagga, pare, rombo  (kabila)
+lindi  -- makonde, mwera  (kabila)
+manyara  -- maasai, iraqw, datooga  (kabila)
+mara  -- kurya, luo, sukuma  (kabila)
+mbeya  -- nyakyusa, kimbu, sangu  (kabila)
+morogoro  -- luguru, doe, kwere  (kabila)
+mtwara  -- makonde, mwera  (kabila)
+mwanza  -- sukuma, jita, zanaki  (kabila)
+njombe  -- bena, kinga  (kabila)
+pwani  -- zigua, doe, rufiji  (kabila)
+rukwa  -- sumbwa, pangwa  (kabila)
+ruvuma  -- makonde, ngoni  (kabila)
+shinyanga  -- nyamwezi, sukuma, sumbwa  (kabila)
+simiyu  -- sukuma, nyamwezi  (kabila)
+singida  -- nyaturu, iraqw  (kabila)
+songwe  -- nyakyusa, kimbu  (kabila)
+tabora  -- sukuma, nyamwezi  (kabila)
+tanga  -- shambaa, bondei, pare  (kabila)
+zanzibar  -- swahili, shiraz  (kabila)
+-------------------
+kinondoni kata za  -- bunju, hananasif, kawe, kigogo, kijitonyama, kinondoni, kunduchi, mabwepande, makongo, makumbusho, makurumla, mbezi, mbezi juu, mbweni, mikocheni, msasani, mwananyamala, mzimuni, ndugumbi, saranga, tandale, wazo  (kata)
+ubungo kata za  -- goba, kibamba, kimara, kwembe, mabibo, magomeni, makuburi, makurumla, manzese, mburahati, msigani, saranga, sinza, ubungo  (kata)
+ilala kata za  -- buguruni, chanika, gerezani, gongo la mboto, ilala, jangwani, kariakoo, kimanga, kinyerezi, kipawa, kisutu, kitunda, kivukoni, kivule, kiwalani, majohe, mchafukoge, mchikichini, msongola, pugu, segerea, tabata, ukonga, upanga magharibi, upanga mashariki, vingunguti  (kata)
+temeke kata za  -- azimio, buza, chamazi, chang'ombe, charambe, keko, kiburugwa, kijichi, kilakala, kurasini, makangarawe, mbagala, mbagala kuu, mianzini, miburani, mtoni, sandali, tandika, temeke, toangoma, yombo vituka (kata)
+kigamboni kata za  -- kibada, kigamboni, kimbiji, kisarawe ii, mjimwema, pembamnazi, somangila, tungi, vijibweni   (kata)
+---------------------
+maporomoko ya maji  -- waterfalls
+kalambo  -- rukwa @ mpanda; mbizi nfr (falls)
+marangu  -- kilimanjaro @ moshi; kilimanjaro np (falls)
+materuni  -- kilimanjaro @ moshi; mt meru ca (falls)
+sanje  -- morogoro @ mikumi; udzungwa mountains np (falls)
+nduruma  -- arusha @ arusha; mt meru nfr  (falls)
+napuru  -- arusha @ arusha; mt meru ca  (falls)
+ndoro  -- kilimanjaro @ moshi; mount kilimanjaro np  (falls)
+kisasa  -- tanga @ lushoto; west usambara mountain reserve  (falls)
+choma  -- morogoro @ morogoro; mikumi np  (falls)
+ngere sero  -- arusha @ arusha; lake natron  (falls)
+kapotogwe  -- mbeya @ mbeya  (falls)
+mbokomu  -- kilimanjaro @ moshi  (falls)
+--------------------
+masoko ya dar  -- open air markets in dar
+kariakoo  -- ilala  (soko)
+mabibo  -- mabibo  (soko)
+ilala  -- ilala  (soko)
+mwananyamala  -- mwananyamala  (soko)
+mbagala  -- mbagala  (soko)
+kivukoni  -- kariakoo  (soko)
+magomeni  -- temeke  (soko)
+tandika  -- temeke  (soko)
+pugu kajiungeni  -- pugu  (soko)
+africa sana  -- kijitonyama, shekilango road  (soko)
+bunju b  -- bunju b  (soko)
+tegeta nyuki  -- tegeta nyuki  (soko)
+gongalamboto  -- gongalamboto  (soko)
+--------------------
+madaraja  -- bridges
+tanzanite	dar es salaam	dar es salaam / msimbazi river
+nyerere	dar	kigamboni / gulf of dar
+kigongo-busisi	mwanza	mwanza / gulf of mwanza
+mkapa	pwani	ikwiri / rufiji river
+unity	mtwara	mtambaswala / ruvuma river
+kilombero	morogoro	ifakara / mnyera river
+kyaka	kagera	kyaka / kagera river
+songwe	mbeya	malawi / songwe river
+kikwete	kigoma	uvinza / malagarasi river
+--------------------
+daladala njia dar  -- daladala lines
+banana <> kibeberu  -- ilala / mzinga
+banana <> kinyantira/shule  -- ilala / mzinga
+banana <> kitunda  -- ilala / kitunda kati
+banana <> kivule  -- ilala / yangeyanye
+banana <> machimbo  -- ilala / kpunguni-b
+banana <> magole  -- ilala / kivule
+banana <> mwanagati  -- ilala / mzinga
+banana/mombasa <> kwa moshi  -- ilala / kitunda kati
+buguruni <> kivukoni/mnazi mmoja -- ilala / kivukoni
+buguruni <> machimbo  -- ilala / lami ya mwisho
+buguruni <> makumbusho -- kinondoni
+buguruni <> masaki  -- kinondoni
+buguruni <> mbagala rangi 3  -- temeke
+buguruni <> muhimbili  -- ilala
+buguruni <> mvuti  -- ilala / mwembe bami
+buguruni <> yombo vituka/viwandani  -- ilala / kiwalani / yombo
+gongo la mboto <> buguruni  -- ilala / buguruni
+gongo la mboto <> chanika  -- ilala / chanika
+gongo la mboto <> kariakoo  -- ilala / kariakoo
+gongo la mboto <> kivukoni/mnazi mmoja  -- ilala / kivukoni
+gongo la mboto <> mbagala rangi 3  -- temeke / mbagala
+gongo la mboto <> mbezi  -- ubungo / mbezi magufuli bus
+gongo la mboto <> mtoni mtongani  -- temeke / mtoni
+gongo la mboto <> mwenge /sam nujoma rd   -- kinondoni / mwenge
+gongo la mboto <> mwenge /uhuru/kawawa  -- kinondoni / mwenge
+gongo la mboto <> temeke  -- temeke / temeke mwisho
+gongo la mboto <> ubungo  -- ubungo / mawasiliano
+kawe <> kariakoo  -- kariakoo
+kawe <> ubungo  -- ubungo
+kigamboni <> kibada  -- kigamboni / nyakwale
+kigamboni <> kibugumo  -- kigamboni / kibugumo
+kigamboni <> kisiwani  -- kigamboni / mkwajuni
+kigamboni <> kongowe  -- temeke / kipala mpakani
+kigamboni <> ungindoni  -- kigamboni / ungindoni
+kigamboni <> vijibweni  -- kigamboni / kibene
+kimara mwisho <> bonyokwa  -- ubungo / bonyokwa
+kimara mwisho <> buguruni  -- ilala / buguruni
+kimara mwisho <> kariakoo  -- ilala / kariakoo msimbazi st
+kimara mwisho <> kivukoni  -- ilala / kivukoni
+kimara mwisho <> muhimbili  -- ilala / muhimbili
+kimara mwisho <> mwenge/makumbusho  -- kinondoni / mwenge
+kimara mwisho <> posta  -- ilala / posta
+mabibo mwisho <> kariakoo via moro rd  -- kariakoo
+mabibo mwisho <> makumbusho via moro rd  -- makumbusho
+mabibo mwisho <> mnazi mmoja via kigogo  -- mnazi mmoja
+mabibo mwisho <> muhimbili /kigogo  -- muhimbili
+mabibo mwisho via moro rd <> kivukoni  -- kivukoni
+machimbo <> kariakoo  -- kariakoo
+machimbo <> ubungo  -- ubungo
+makumbusho / ali hassan mwinyi <> posta  -- posta
+makumbusho <> bunju  -- bunju
+makumbusho <> kariakoo  -- kariakoo
+makumbusho <> kariakoo /kawawa road  -- kariakoo
+makumbusho <> kariakoo /shekilango rd  -- kariakoo
+makumbusho <> kivukoni/posta /mwanyamala  -- kivukoni
+makumbusho <> kunduchi  -- kunduchi
+makumbusho <> makongo juu  -- kinondoni / makongo
+makumbusho <> muhimbili /kawawa rd  -- muhimbili
+makumbusho <> posta /shekilango rd  -- posta
+makumbusho <> stesheni  -- stesheni
+makumbusho <> ununio  -- ununio
+manzese <> buguruni  -- ubungo / kagera morogoro rd
+masaki <> kariakoo  -- kariakoo
+masaki <> ubungo -- ubungo
+mbagala rangi 3 <> charambe  -- temeke / mbagala-sw
+mbagala rangi 3 <> kariakoo  -- kariakoo
+mbagala rangi 3 <> kawe  -- kawe
+mbagala rangi 3 <> kilungule  -- kilungule
+mbagala rangi 3 <> kongowe  -- temeke / kipala mpakani
+mbagala rangi 3 <> makumbusho  -- makumbusho
+mbagala rangi 3 <> mbande  -- temeke / kiponza
+mbagala rangi 3 <> mvuti  -- ilala / kimwani
+mbagala rangi 3 <> mwenge/makumbusho  -- mwenge
+mbagala rangi 3 <> posta  -- posta
+mbagala rangi 3 <> stesheni  -- stesheni
+mbagala rangi 3 <> temeke  -- temeke
+mbagala rangi 3 <> ubungo  -- ubungo
+mbagala zakhem <> kiburugwa  -- temeke / kiburugwa
+mbagala zakhem <> kwa mnyani  -- ilala / mnyamani
+mbagala zakhem <> mbagala kuu  -- temeke / mbagala
+mbande <> mtoni mtongani  -- temeke / mtoni
+mbezi <> buguruni  -- ilala / buguruni
+mbezi <> goba  -- ubungo / goba
+mbezi <> kariakoo  -- ilala / kariako
+mbezi <> kawe  -- kinondoni / kawe
+mbezi <> kivukoni/posta  -- ilala / kivukoni
+mbezi <> makumbusho  -- kinondoni / makumbusho
+mbezi <> muhimbili  -- ilala / muhimbili
+mbezi <> ubungo  -- ubungo / ubungo
+mnyamani <> mnazi mmoja  -- ilala / vingunguti
+mtoni mtongani <> mwenge / kawawa rd -- temeke / mtoni
+muhimbili <> mwenge/makumbusho  -- kinondoni / mwenge
+pugu <> kawe  -- kinondoni / kawe
+pugu <> masaki  -- kinondoni / masaki
+pugu kajiungeni <> buguruni/gongola mboto  -- ilala / bombani
+pugu kwalala <> shule ya uhuru/gongo la mboto  -- ilala / bombani
+pugu/chanika <> buguruni  -- ilala / bombani
+tabata cha_ng'ombe <> mnazi mmoja   -- ilala / tabata
+tabata cha_ng'ombe <> buguruni  -- ilala / buguruni
+tabata cha_ng'ombe <> ubungo  -- ubungo
+tabata cha_ng'ombe <> vingunguti /via bakhresa  -- ilala / vingunguti
+tabata kimanga <> buguruni  -- ilala / buguruni
+tabata kimanga <> kivukoni/mnazi mmoja  -- ilala / kivukoni
+tabata kimanga <> makumbusho  -- kinondoni / makumbusho
+tabata kimanga <> mnazi mmoja  -- ilala / mnazi mmoja
+tabata kimanga <> temeke  -- temeke
+tabata kimanga <> ubungo  -- ubungo
+tabata segerea <> kinyerezi  -- ilala / kinyerezi
+tabata segerea <> makumbusho  -- kinondoni / makumbusho
+tabata segerea <> mnazi mmoja  -- ilala / mnazi mmoja
+tabata segerea <> temeke/tandika  -- temeke
+tabata segerea <> ubungo  -- ubungo
+tandika <> buza  -- ilala / buza
+tegeta <> madale  -- ubungo / matosa-goba 
+tegeta <> mbweni  -- kinondoni / mweni
+tegeta <> posta  -- ilala / posta
+tegeta <> ununio  -- kinondoni / ununio
+tegeta nyuki <> mwenge/makumbusho  -- kinondoni / mwenge
+temeke <> charambe  -- ilala / 
+temeke <> kariakoo /kilwa road  -- ilala / 
+temeke <> makumbusho
+temeke <> mbagala kuu
+temeke <> mtoni kijichi
+temeke <> muhimbili /changombe rd  -- ilala / 
+temeke <> mwenge /via kawawa rd/makumbusho
+temeke <> nzasa  -- ilala / 
+temeke <> stesheni  -- ilala / 
+temeke <> ubungo
+temeke <> vingunguti  -- ilala / 
+temeke/mtongani <> kawe  -- / 
+temeke <> kongowe   -- temeke / kipala mpakani
+ubungo <> buguruni  -- / 
+ubungo <> changanyikieni  -- ubungo / goba-makongo
+ubungo <> kariakoo  -- / 
+ubungo <> kivukoni/mnazi mmoja  -- / 
+ubungo <> makumbusho  -- / 
+ubungo <> makumbusho/chuo kikuu  -- / 
+ubungo <> mnazi mmoja/mandela rd  -- / 
+ubungo <> mtoni mtongani  -- / 
+ubungo <> muhimbili  -- / 
+ubungo <> posta  -- / 
+ubungo <> tegeta  -- / 
+ukonga madafu <> buguruni rozana  -- ilala / ukonga  
+ukonga madafu <> mnazi mmoja  -- ilala / ukonga  
+ukonga madafu <> mtoni mtongani  -- ilala / ukonga  
+ukonga madafu <> shule ya uhuru  -- ilala / ukonga  
+ukonga minazi mirefu <> shule ya uhuru  -- ilala / ukonga  
+vingunguti <> kivukoni  -- / 
+vingunguti <> makumbusho  -- / 
+vingunguti <> sinza  -- / 
+vingunguti <> ubungo  -- / 
+yombo vituka <> muhimbili  -- / 
+yombo vituka <> ubungo  -- / 
+--------------------
+

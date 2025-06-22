@@ -1,0 +1,9 @@
+{
+  "promptStr": "sözlük",
+  "langName": "turkish",
+  "langCode": "tr",
+  "flagCode": "tr",
+  "kamusiList": ["turkce_dictionary.json","turkce_phrases.json"],
+  "methaliList": [],
+  "testList": []
+}
