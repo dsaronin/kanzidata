@@ -4411,10 +4411,12 @@ jike ndume  -- mare in heat [lit mare stallion]
 -jiketua  -- pretend to be/have sth	__ Juma anajiketua kuwa na digrii mbili kumbe hana.
 jiki  -- bleach
 -jikimu  -- financially support oneself	__ alijikimu alipokuwa anasoma ng'ambo.
--jikita  -- firmly stand straight; simama wima imara
--jikita  -- hold firmly, concentrate, fixated on	__ ilijikita katika utamaduni wetu. ni rahisi kujikita katika uchambuzi wa vipengele tamkwa.
--jikita  -- kuwa madhubuti kuhusu mwelekeo fulani	__ jikita katika itikadi za kimaendeleo.
+-jikita  -- firmly stand straight; simama wima imara	__ mti ulijikita ardhini, haukuweza kuanguka.
+-jikita  -- focused on, concentrate, fixated on [stable]; weka mawazo au umakini wote kwenye jambo fulani	__ ilijikita katika utamaduni wetu. ni rahisi kujikita katika uchambuzi wa vipengele tamkwa. mradi unajikita katika kutatua tatizo la maji safi.
+-jikita  -- be steadfast, adhere firmly to; kuwa madhubuti kuhusu mwelekeo fulani	__ jikita katika itikadi za kimaendeleo.
+-jikita  -- be central to, be based on, be rooted in [centrality, foundation]; kuwa kiini au msingi wa jambo	__ mjadala wetu unajikita kwenye misingi ya biashara.
 -jikita  -- show-off, brag, boast; jisifu, jinaki, jibodoa, jinadi, jifutua, jigamba, jifaragua, jivuna
+-jikita  -- feel confident and proud, show off [more about outward display of confidence than verbal boasting]	__ wanajikita sana baada ya kufunga bao. kilichonitia fahari ni kwamba ilijikita katika utamaduni wetu. 
 jiko  {ma}  -- cooking hearth 3-stones	__ jiko la makaa
 jiko  {ma}  -- stone
 -jikombakomba  -- ingratiate self; kujidhalilisha ili kupata upendeleo	__ sina haja tena ya kujikombakomba: nachotaka wanilipe tu mshahara wangu wa mwezi huu niliofanya kazi, tuachane.
@@ -6133,7 +6135,6 @@ kisukusuku  -- elbow	__
 kisura  -- pretty girl	__ 
 kisuunzi  -- bumbuazi
 kitaaluma  -- academically	__ 
--kita  -- be erect, firm	__ mboo yake imekita.
 kitabu cha anwani  -- address book  (tech)
 kitabu cha ziada  -- supplementary book
 kitabu  {ki}  -- book
@@ -6169,7 +6170,9 @@ kitaru  {ki}  -- seedling for later transplant; plot	__
 kitaru  -- plot (for building houses)	__ 
 kitaru  -- seedling (for later transplanting)	__ 
 kitasa  -- lock	__ 
--kita  -- stick / stand sth forcefully	__ kita mkuki. mwiba umemkita kooni mwake. kilichonitia fahari ni kwamba ilijikita katika utamaduni wetu. alimkitia mkuki wa shingo swara aliyekua akimwinda. alijikita sindano kwa ajili ya kujitibu mgonjwa wa sukari. walikitana visu vya vitumboni baada ya kukosana.
+-kita  -- be erect, firm (slang); simama imara	__ mboo yake imekita.
+-kita  -- stick/stand forcefully, drive in; chomeka au simamisha kitu kwa nguvu	__ kita mkuki. mwiba umemkita kooni mwake. walikitana visu vya vitumboni baada ya kukosana. alijikita sindano kwa ajili ya kujitibu mgonjwa wa sukari. 
+-kita  -- to hit, strike, beat; piga kitu kwa nguvu  (arch)	__ alimkita teke la nguvu mpinzani wake.
 kitata  {ki}  -- splint [to firmly hold broken bone]
 kitata  {ki}  -- stammer, stutter; kigugumizi	__ ana kitata.
 kitatange  {ki}  -- inciter, firebrand, rabblerouser	__ kitatange yule amewafitinisha marafiki wawili.
@@ -6986,6 +6989,7 @@ kwa hivyo nipo chini ya miguu yako unisaidie na nauli tafadhali; naomba ni ghafl
 kwa  -- with [specific person, place]; hutumika kuonyesha kuwa mahali fulani kunamhusu mtu fulani	__ anatoka kwa juma. nitakwenda kwa kiongozi. unakwenda kwa nani?
 kwa  -- by [result similarity, difference]; hutumika kuonyesha mshabaha au tofauti	__ wamefungana mabao matano kwa matano. walishinda mbio kwa sekunde tatu.
 kwa  -- with [association/relationship]; hutumika kuonyesha utumikaji wa kitu pamoja na kitu kingine	__ alikula wali kwa mchuzi. tunakunywa chai kwa sukari.
+kwa  -- with [having the state of]; kuonyesha hali au sifa ya kitu	__ mfanyabiashara kwa mafanikio. mchezaji kwa ustadi. mtu kwa matumaini.
 kwa  -- by [adverbial manner or way of doing]; namna au njia kufanyia kitendo fulani	__ alimwendea kwa siri. alizungumza kwa upole. walifanya kazi kwa bidii.
 kwa  -- by [adverbial instrument/means doing]; neno linaloweka uhusiano baina ya kitendo na kitu kilichotumiwa kutendea kitendo hicho	__ alimpiga kwa fimbo. nilikata mkate kwa kisu. walipanda mlima kwa miguu.
 kwa  -- by [inanimate agent of passive]; wakala lisilo hai katika kauli ya kutendwa	__ chakula kililetwa kwa gari. barua ilitumwa kwa posta.
@@ -16774,7 +16778,6 @@ kitafunwa {ki}  -- snack; kitafunio
 -jigamba na x  -- boast about something specific	__ jigamba na ushindi wake
 -jiheshimu  -- self-respect, can sometimes overlap with boasting about one's own qualities  
 -jiinamia  -- boast about oneself, admire oneself [implies self-admiration alongside boasting]	__ yeye hujiinamia sana uzuri wake.
--jikita  -- feel confident and proud, show off [more about outward display of confidence than verbal boasting]	__ wanajikita sana baada ya kufunga bao.
 -jinaki  -- make fun of oneself in a boastful way [boasting through self-deprecation, often ironic or sarcastic]	__ anajinaki na umaskini wake kana kwamba tajiri.
 -jipiga kifua  -- signifies boasting confidently and openly ["beat one's chest"]
 -jirusha  -- throw [figuratively to boast about throwing money around]
@@ -17771,4 +17774,7 @@ msaada wa kisheria  -- legal aid	__ uzinduzi wa kampeni ya msaada wa kisheria
 cheti cha kifo  -- death certificate  (law)
 rita  -- registration, insolvency and trusteeship agency (rita)
 mazao ya damu  -- blood donation
+-anza na mambo gani  -- what are essential first steps?, where to begin? [request for guidance/roadmap]; eleza hatua za kwanza za msingi za kuanzisha au kufanya jambo	__ ukitaka kuanza biashara, unajua kuanza na mambo gani?
+verb-e {subjunctive}  --  intention, requirement, or recommendation
+maelezo ya jumla  -- general concept
 
