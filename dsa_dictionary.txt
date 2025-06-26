@@ -535,7 +535,6 @@ aya  -- paragraph	__ andika insha ya aya tatu juu ya mada uliyopewa hapo juu
 ayari  [i-zi]  -- kamba ya nanga au ya kutwekea tanga iliyotiwa ktk roda, sharti	__ ayari za mbele/nyuma.
 ayari  {ma} [a-wa]  -- conman, cheat; mtu mdanganyifu; mwongo, laghai, mzushi, mjanja, kanda
 ayuni  -- steps, processes, movements; nyendo	__ alijitenga mbali na auni katika nyendo zake kiasi kwamba.
--aza  -- think, suppose	__ tumia ubongo kwa kutatua matatizo au kuelewa zaidi jambo; tia katika ubongo; fikiri. ikimaliza miezi mitatu inaaza kuleta shida
 -azima  -- borrow, lend	__ tafadhali niazime kitabu chako.
 azima  -- charm, talisman, amulet
 azima  -- intention, aim, objective	__ azima yangu ni kuwa mhandisi.
@@ -1946,7 +1945,6 @@ dhana potovu  -- misleading idea
 dhana  -- suspicion, doubt, disbelief; shaka, tuhuma	__ hakuna uhakika kuwa yeye ameiba; hiyo ni dhana tu.
 -dhania  -- imagine, think; fikiria	__ alidhania kwamba wewe ulikuwa unatuzuga tu.
 dhanifu  -- ideal, belief ?	__ kidhanifu
--dhani  -- think, suppose, believe, presume; fikiri bila ya kuwa na hakika; shuku, fikiri, tuhumu, fikiria, hesabu	__ kwa nini unadhani kwamba shangazi yako hatafika leo?
 dhara  {ma}  -- harm, damage; kitu au jambo linaloleta hasara, athari mbaya, maumivu, hasara, haribiko
 -dharau  -- disrespect, belittle, scorn; tabia ya kutothamini au kutoheshimu mtu au kitu	__ japo kuna mmoja amenicheka kwa dharau.
 -dharau  -- ignore, neglect; tabia ya kupuuza; dhalala, puruzai	__ usidharau kabila lako ukifikiri la watu wengine ni bora. 
@@ -10891,7 +10889,6 @@ ondokeo  {ma}  -- starting point of journey; departure	__ ondokeo lake katika bi
 -oneka  -- be feasible, be see-able	__ 
 -onekana  -- be seen, visible; kuwa wazi; kuwa dhahiri; dhulu	__ rafiki yako haonekani siku hizi.
 -onekana  -- seen as, looks like; kuwa na ishara ya kutendeka jambo; oneka	__ inaonekana kwamba mvua zi karibu.
--onelea  -- think,consider, assume; pendelea, shauri, pendekeza	__ sisi tunaonelea kuwa ni bora kuivunja safari yetu.
 -onesha  -- show  (tech)
 -onesha walakini  -- reveal weakness, err, defect
 ~onevu  -- bully, oppressive	__ mtawala mwonevu.
@@ -11617,7 +11614,7 @@ pindu  -- overturn, reverse; -enye kuwea kupinduka au kugeuka; -enye tabia ya ku
 -pinduza  -- invert, reverse, turn inside out	__ 
 pingamizi  -- obstruction, obstacle, hindrance	__ alileta pingamizi nyingi kwenye maendeleo ya nchi.
 -pinga  -- obstruct, block; oppose, resist; bet against; kutokubaliana kwa mambo fulani.	__ alizipinga fikira zetu. alinipinga kama timu yetu itashinda kesho. tunapinga vikali hatua ya wabunge kujiongezea mshahara.
--pinga wazo  -- obstruct, oppose	__ alizipinga fikira zetu
+-pinga wazo  -- obstruct, oppose	__ alizipinga fikira zetu.
 pingili  -- knots or joints in a plant like sugarcane
 pingili za mgongo  -- spinal vertabrae	__ pingili za mgongo haziko sawa.
 pingiti  {ma}  -- torso of body	__ pingiti la binadamu
@@ -13295,7 +13292,6 @@ taahira  -- delay, retarded; ukawiaji, hali ya kuchelewa	__ mbona akili yangu in
 -taahiri  -- chelewa, limatia	__ nawe umetaahiri mno.
 taa  -- light {n}
 taaluma  -- academic field, discipline	__ taaluma za kisayansi zimepewa umuhimu sana katika taasisi zetu
--taamali  -- think, contemplate, ponder	__ daktari alitaamali juu ya operesheni ngumu atakayomfanyia mgonjwa wake.
 taamuli  -- consideration, contemplation; tafakuri, uzingativu	__ ni bora kulifanyia taamuli suala nyeti kama hili.
 -taamuli  -- contemplate, consider; tia akilini, fikiri, zingatia, tafakari, waza, dhukuru	__ 
 taamuli  -- uwezo wa kuvuta wazo au fikira juu ya jambo fulani; uwezo wa kuzingatia akilini jambo; tafakuri, zingatio
@@ -13354,8 +13350,6 @@ tadi  -- rudeness, discourteousness, impoliteness; ufidhuli, ujeuri	__ meneja al
 tafadhali  -- please [do sth]	__ tafadhali niletee chakula changu.
 -tafadhalisha  -- kanya mtu, onya mtu
 -tafahari  -- please, be good to	__ hutafadhali ukanitengezea chai?
--tafakari  -- meditate, reflect	__ daudi anatafakari kila wakati anapoamka.
--tafakuri  -- meditate, reflect	__ daudi anatafakuri kila wakuti anapoamku.
 -tafaraji  -- comfort, entertain	__ walijitafaraji kwa kusikiliza muziki wa asili.
 -tafiri  -- harass, irritate, annoy	__ alitutafiri tulipokuwa tunazungumza.
 -tafiti  -- research, inquire	__ utafiti vizuri
@@ -16152,8 +16146,6 @@ wayo  -- footer  (tech)
 wayo  {ny}  -- sole of foot	__ wayo ni sehemu ya chini ya miguu na hutumika kukanyagia.
 wayowayo  -- anxiety, worry, uneasiness	__ bibi aliingiwa na wayowayo aliposikia kwamba mumewe ametiwa korokoroni.
 wazabe vibao  -- kuwatia makofi  (idm)
--waza  -- think	__ 
--waza  -- think, suppose	__ tumia ubongo kwa kutatua matatizo au kuelewa zaidi jambo; tia katika ubongo; fikiri. ikimaliza miezi mitatu inaaza kuleta shida
 wazimu  -- mad, insane	__ nimesikia ndugu yangu Juma karibu kufanya wazimu.
 ~wazi  -- open, empty	__ mlango uko wazi. maamrisho yake yako wazi kabisa.
 waziwazi  -- clear, plain, frank	__ eleza vizuri na waziwazi
@@ -16165,7 +16157,6 @@ wazo potovu  -- wrong/misleading idea
 -wehua  -- madden sby, crazy; fanya mtu kuwa mwehu	__ watoto walikuwa wakimwehua mzee mmoja kwa kumchokoza.
 -weka  -- put, place, set, lay; tua kitu mahali; ika	__ weka kitabu mezani. weka silaha chini.
 -weka  -- store, accumulate; saza, bakiza, limbikiza	__ 
-
 -weka ahadi  -- keep promise
 -weka akiba  -- save; put into savings
 -weka amana  -- make a deposit, give security  (biz)
@@ -17777,4 +17768,14 @@ mazao ya damu  -- blood donation
 -anza na mambo gani  -- what are essential first steps?, where to begin? [request for guidance/roadmap]; eleza hatua za kwanza za msingi za kuanzisha au kufanya jambo	__ ukitaka kuanza biashara, unajua kuanza na mambo gani?
 verb-e {subjunctive}  --  intention, requirement, or recommendation
 maelezo ya jumla  -- general concept
+direct  -- direct, straightforward; bila kupinda-pinda au kuzunguka-zunguka, fika moja kwa moja kwenye lengo au kusudio	__ wazo uende direct.
+-fikiri  -- think, reason, calculate [objective, rational]; tumia akili kuchambua, kutatua, au kuelewa jambo	__ tunafikiri tunavyofanya kazi zetu.
+-waza  -- ponder, muse, worry [subjective, musing]; tumia ubongo kwa kutatua matatizo au kuelewa zaidi jambo; tia katika ubongo; fikiri	__ anawaza sana kuhusu matatizo yake.
+-aza  -- think, plan briefly [concise, future-oriented]; fikiria haraka au kwa juujuu mara nyingi kuhusu jambo la baadaye	__ nawaaza nifanye nini sasa.
+-jiaza  -- muse to oneself, contemplate privately; kufikiria jambo kimyakimya mwenyewe	__ alijiaza jinsi ya kutatua tatizo hilo.
+-dhani  -- suppose, assume, imagine [belief, conjecture]; fikiria jambo bila uhakika kamili; shuku, fikiri, tuhumu, fikiria, hesabu	__ nadhani mvua itanyesha leo. kwa nini unadhani kwamba shangazi yako hatafika leo?
+-onelea  -- be of the opinion, perceive [perceived viewpoint]; kuwa na maoni au hitimisho binafsi kuhusu jambo	__ sisi tunaonelea kuwa ni bora kuivunja safari yetu.
+-taamali  -- contemplate, reflect deeply [philosophical insight]; kutafakari jambo kwa kina na utulivu, mara nyingi kwa kutafuta uelewa wa kiroho au falsafa	__ mzee alikaa akitaamali maisha yake. daktari alitaamali juu ya operesheni ngumu atakayomfanyia mgonjwa wake.
+-tafakari  -- ponder deeply, deliberate [introspective]; kufikiria jambo kwa uangalifu na kwa muda mrefu kabla ya kufanya uamuzi	__ kabla ya kujibu, alitafakari kwa muda mrefu.
+-tafakuri  -- taz tafakari: meditate, reflect
 
