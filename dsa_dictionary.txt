@@ -2030,7 +2030,7 @@ dingi  -- dinghy, life boat  (slang)
 dini  -- religion, worship, creed, dogma	__ 
 dinosau  -- dinosaur
 dira  -- compass	__ 
-dira  -- mission [statement]	__ dira ya JKT ni kkupitia mafunzo ya jeshi la kujenga taifa ...
+dira  -- mission [statement]	__ dira ya JKT ni kupitia mafunzo ya jeshi la kujenga taifa ...
 -diriki  -- be in time to take action; fanya jambo kwa wakati kabla ya kuharibika	__ wazima moto walidiriki kuwaokoa wanawake na watoto waliokuwa ndani ya nyumba iliyokuwa ikiungua.
 -diriki  -- be stable in one place; tulia mahali pamoja. makinika	__ nimediriki katika kijiji hiki kwa miaka mingi. wazimamoto walidiriki kuwaokoa wanawake na watoto waliokuwa ndani ya nymba iliyokuwa ikiungua.
 -diriki  -- dare to try	__ alikuwa anawatukana majirani na mimi nikadiriki kumkataza asifanye hivyo.
@@ -13305,7 +13305,7 @@ taarabu  -- a woman's behind; maungo ya nyuma ya mwanamke  (slang)
 -taaradhi  -- pry, meddle, interfere	__ mbona unapenda kutaaradhi katika mambo ya watu?
 -taaridhi  -- encroach sby's freedom to fulfil one's objectives
 -taaridhi  -- spy, observe sby's activities
-taarifa  -- informantion, info  (tech)
+taarifa  -- information, info  (tech)
 taarifa  -- notice, report	__ taarifa yako inanisumbua kama nini.
 taarifa yakinifu  -- correct statement
 -taarifu  -- inform, notify [official, broad audience]; fanya mwingine ajue jambo fulani; peleka habari za kujulisha jambo; sema, eleza, ripoti, arifu	__ rais anapenda kutaarifu wananchi. [wadau, walimu, wafanyakazi, wanachama]
@@ -17778,4 +17778,7 @@ direct  -- direct, straightforward; bila kupinda-pinda au kuzunguka-zunguka, fik
 -taamali  -- contemplate, reflect deeply [philosophical insight]; kutafakari jambo kwa kina na utulivu, mara nyingi kwa kutafuta uelewa wa kiroho au falsafa	__ mzee alikaa akitaamali maisha yake. daktari alitaamali juu ya operesheni ngumu atakayomfanyia mgonjwa wake.
 -tafakari  -- ponder deeply, deliberate [introspective]; kufikiria jambo kwa uangalifu na kwa muda mrefu kabla ya kufanya uamuzi	__ kabla ya kujibu, alitafakari kwa muda mrefu.
 -tafakuri  -- taz tafakari: meditate, reflect
+mwazo  {mi}  -- act, process of thinking
+mwaza  {wa}  -- sby who thinks, ponders
+-wazia  -- intend, plan for, think about; kuwa na nia au mpango juu ya jambo au mtu	__ nimewazia kumshinda.
 
