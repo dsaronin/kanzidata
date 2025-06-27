@@ -14882,8 +14882,7 @@ ujamaa  -- familyhood
 ujanajike  -- womanhood	__ kaonyesha ujeuri wa ujanajike.
 ujana  -- youth, adolescence	__ alikuwa mchezaji hodari wa mpira wakati wa ujana wake.
 ujangili  -- poaching	__ matukio ya ujangili yapungua porini.
-ujanja  -- cunning, craft, trickery; werevu, uayari, hadaa, ghiliba	__ 
-ujanja  -- trickery cunning	__ ujanja wenye faida twautaka.
+ujanja  -- cunning, trickery, craft; werevu, uayari, hadaa, ghiliba	__ ujanja wenye faida twautaka.
 ujao  -- future	__ mwaka ujao
 ujari  {nj}  -- rudder tackle	__ 
 ujasiriamali  -- entrepreneurship; uwekezaji mtaji katika biashara  (biz)
@@ -17781,4 +17780,5 @@ direct  -- direct, straightforward; bila kupinda-pinda au kuzunguka-zunguka, fik
 mwazo  {mi}  -- act, process of thinking
 mwaza  {wa}  -- sby who thinks, ponders
 -wazia  -- intend, plan for, think about; kuwa na nia au mpango juu ya jambo au mtu	__ nimewazia kumshinda.
+-kimbiakimbia ujanja  -- evade responsibility, dodge obligations, circumvent rules, escape consequences [evasive trickery, loopholes]; kukwepa majukumu au sheria kwa kutumia hila au mbinu za udanganyifu  (idm)	__ serikali inapinga wafanyabiashara wanaokimbiakimbia ujanja wa kulipa kodi.
 
