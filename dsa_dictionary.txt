@@ -17781,4 +17781,5 @@ mwazo  {mi}  -- act, process of thinking
 mwaza  {wa}  -- sby who thinks, ponders
 -wazia  -- intend, plan for, think about; kuwa na nia au mpango juu ya jambo au mtu	__ nimewazia kumshinda.
 -kimbiakimbia ujanja  -- evade responsibility, dodge obligations, circumvent rules, escape consequences [evasive trickery, loopholes]; kukwepa majukumu au sheria kwa kutumia hila au mbinu za udanganyifu  (idm)	__ serikali inapinga wafanyabiashara wanaokimbiakimbia ujanja wa kulipa kodi.
+ifikie hapo ilipofikia sasa  -- let's keep things as they are, especially if they're good, or may this progress be sustained.	__ ni kitu gani ambacho kimefanya biashara yako isimame na ifikie hapo ilipofikia hivi sasa?
 
