@@ -7293,7 +7293,6 @@ limuzini  -- limosine
 limuzini  -- limousine
 -limwa  -- be farmed
 -limwaia  -- sprinkle over; mwangia mtu kitu cha maji maji	__ taa za umeme zilikuwa zimelimwaia jiji mchana bandia wa mwangaza.
--linda  -- guard	__ nimelinda simu yangu vizuri.
 -lindana  -- guard, protect each other
 lindi la choo  -- cesspool, latrine
 lindi la mapenzi  -- abyss of romantic love	__ tumetumbukia katika lindi la mapenzi.
@@ -14465,7 +14464,6 @@ tunu  -- souvenir, memento; kitu unachohifadhi kama kumbukumbu ya mahali, tukio,
 tunu  -- special gift/blessing as affection; kitu anachopewa mtu na mwingine kuwa ni ishara ya mapenzi; hidaya, zawadi, adia, hiba, azizi.	__ nilimpa tunu rafiki yangu alipoenda ng'ambo kwa masomo.
 tunu  -- rarity; kitu ambacho ni adimu kupatikana na chenye kutumika kwa nadra; azizi	__ maembe yamekuwa tunu siku hizi.
 tunutu  -- immature locust	__ 
--tunza  -- care for, look after, guard, protect	__ aliwatunza watoto wangu nilipokuwa masomoni. nimetunza vizuri sana gari langu hili jekundu.
 -tunza kumbukumbu  -- log {v}  (tech)
 -tunza siri  -- protect secret  (idm)
 tunzo  -- gift, present, reward; kitu kinachotolewa kuwa ni zawadi anayopewa mtu baada ya kufanya jambo zuri; hadia, tuzo	__ mfanyakazi mwenye nidhamu alipewa tunzo.
@@ -17782,4 +17780,17 @@ mwaza  {wa}  -- sby who thinks, ponders
 -wazia  -- intend, plan for, think about; kuwa na nia au mpango juu ya jambo au mtu	__ nimewazia kumshinda.
 -kimbiakimbia ujanja  -- evade responsibility, dodge obligations, circumvent rules, escape consequences [evasive trickery, loopholes]; kukwepa majukumu au sheria kwa kutumia hila au mbinu za udanganyifu  (idm)	__ serikali inapinga wafanyabiashara wanaokimbiakimbia ujanja wa kulipa kodi.
 ifikie hapo ilipofikia sasa  -- let's keep things as they are, especially if they're good, or may this progress be sustained.	__ ni kitu gani ambacho kimefanya biashara yako isimame na ifikie hapo ilipofikia hivi sasa?
+utengenezaji  -- repair, restoration; namna au jinsi ya kufanya kitu kilichoharibika kiwe kizima
+utengenezaji  -- manufacture, production; uundaji wa kitu; uundaji	__ utengenezaji wa magari unafanyika ktk kiwanda hiki.
+utengezaji  -- taz utengenezaji: manufacture
+utenguo  -- invalidation, annulment, repeal	__ 
+mtenguo {mi}  -- invalidation, annulment, repeal	__ 
+utenguo wa sheria uliwafurahisha raia.
+utenguzi  -- nullification, annulment; ubatilishaji	__ utenguzi wa matokeo ya uchaguzi ktk eneo letu haukutegemewa.
+utenguzi  -- destruction, spoil	__ utenguzi wa mipango yangu ulifanywa makusudi.
+utengeneshaji  -- act of separating sby from society, alienation, separation; mfarakano
+-tunza  -- care for, look after; weka chini ya uangalizi ili kisiharibike au kisidhurike; hifadhi, angalia, dhibiti, hami, chunga, lea	__ aliwatunza watoto wangu nilipokuwa masomoni.
+-tunza  -- maintain, preserve; weka katika hali nzuri ya kufanya kazi	__ nimetunza vizuri sana gari langu hili jekundu.
+-tunza  -- reward; kupa zawadi mtu baada ya kufanya jambo vizuri k.v. kucheza ngoma, kuimba, n.k.	__ alimtunza mtoto kwa kupasi mtihani.
+-linda  -- guard, protect, defend; weka salama dhidi ya hatari au madhara; angalia, hami, chunga	__ nimelinda simu yangu vizuri. baba hulinda familia dhidi ya hatari.
 
