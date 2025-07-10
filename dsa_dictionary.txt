@@ -662,7 +662,7 @@ balouch, kibalouch  -- tribe in tanzania [coastal tanzania]
 balozi  {ma} [a-wa]  -- ambassador, high commissioner	__ 
 -bamba  -- arrest, catch, apprehend, sieze; kamata	__ askari alimbamba mwizi kichochoroni. 
 -bamba  -- hold gently, casually [delicate]	__ msanii alibamba brashi kwa uangalifu huku akipaka rangi.
--bamba  -- have, get  (slang)	__ siku hizi nakuwa niki-bamba hela kidogo tu.
+-bamba  -- have, get  (slang)	__ siku hizi nakuwa nikibamba hela kidogo tu. misemo iliyobamba mwaka 2024.
 -bamba poa  -- i'm good, chilling  (slang)
 -bamba  -- block, clog; zuia, ziba	__ wanamazingara waliibamba barabara.
 bamba la chuma  -- hoop iron	__ 
@@ -4329,11 +4329,11 @@ jembe  {ma}  -- hoe	__
 jeneza  {ma}  -- coffin, bier	__ jeneza lile lina maiti ya rafiki yangu.
 -jenga mwili  -- well built body, attractive	__ 
 jengo lililohamwa  -- vacant, abandoned building
-jengo lililohamwa  -- vacant building
 -jengua  -- deconstruct sth, demolish sth, tear down sth; vunja kitu kilichojengwa	__ alivijengua vibanda vibovu. aliijengua mipango yangu.
 -jepa  -- steal, take
 jeraha la ubongo  -- concussion
-jeraha  -- wound, injury; trauma	__ 
+jeraha {ma}  -- wound, injury, trauma; kidonda au michubuko katika mwili inayotokana na kupigwa, kukatwa au maradhi	__ alipata jeraha baya mguuni. daktari alishughulikia majeraha ya mgonjwa.
+majeruhi [a-wa]  -- injured person(s), casualties; mtu aliyeumia au kujeruhiwa	__ kulikuwa na majeruhi wawili katika ajali ile.
 jerikeni  -- jerry can, large plastic container for carrying liquids
 jero  -- 500 tshs; tsh 500  (slang)
 -jesha  -- taz ha-ja-isha
@@ -11738,22 +11738,23 @@ posho  -- per diem, allowance, apportionment
 posti  -- post [blog, IG, twitter]	__ nimeamua kufuta baadhi ya posti zangu.
 -potea  -- be lost, be missing	__ kitabu chake kimepotea.
 -potea  -- go astray, be ruined, misguided	__ zamani, alikuwa kijana mzuri lakini sasa amepotea.
--potelea  -- be lost forever, completely (< -potea)
+-potelea  -- be lost forever, completely (< -potea); kupotea kabisa bila matumaini ya kupatikana tena	__ funguo zake zilipotelea baharini.
 pote  {ma}  -- team, group, party of	__ nililiona pote la madaktari.
-~potevu  -- depraved, misguided, misled, subverted	__ mtu mpotevu
+~potevu  -- depraved, misguided, misled, subverted; mwenye tabia mbaya au aliyepotoka kimaadili	__ mtu mpotevu huleta shida kwa jamii.
 -poteza mawazo  -- lose thoughts	__ sina simu ya kuniriwadha na kwa kupoteza mawazo.
 -poteza udhibiti wa utashi  -- lose control of desires lusts  (phrs)
 -poteza wakati  -- waste time	__ tusipoteze wakati wetu hapa.
 -potoa  -- bent, curved; fanya kitu kiende kombo. <> nyosha
 -potoa  -- lead astray, pervert, corrupt; fanya kitu kiharibike kwa kutokifanya	__ wameipotoa tabia yake.
--potoa  -- pervert, spoil	__ potoa maneno
+-potoa  -- distort words, twist meaning; kubadili maana halisi ya maneno kwa makusudi	__ alijaribu kupotoa maneno yangu ili kuleta ugomvi.
+-potoa maneno  -- distort words
 -potoa  -- tie poles for ceiling or wall construction	__ 
 poto  -- confused, mistaken  (slang)	__ kichwa kinapata poto, sijui nifanye nini. nimepata poto, nimepoteza pesa zangu zote. nina poto sana, siwezi kufikiri vizuri. una poto sana, unafanya maamuzi mabaya. acha kupoto, tufanye kazi.
 ~potofu  -- taz. potovu	__ 
--potoka  -- be misguided, be perverted, be spoiled
--potoka  -- be misguided, perverted, spoiled	__ 
--potoka  -- misguided, go astray, be perverted, spoiled	__ wazazi hawawezi kufurahia kumwona mwanao akipotoka.
--potosha  -- lead astray, corrupt, pervert	__ walimpotosha kijana yule. usisikilize kabisa hawa ambao wannakwambia hakuna madhara ya punyeto, wanakupotosha.
+-potoka  -- go astray, be misguided, be perverted; kupotea njia au mwelekeo sahihi; kuharibika kimaadili	__ wazazi hawawezi kufurahia kumwona mwanao akipotoka. vijana wengi hupotoka kwa kukosa malezi bora.
+-potoka  -- be distorted, be misrepresented; kubadilika kutoka hali ya ukweli au usahihi	__ taarifa nyingi zilizosambazwa zilipotosha ukweli wa mradi.
+-potosha  -- lead astray, corrupt, pervert; kusababisha mtu kupotea njia au kuharibika kimaadili	__ walimpotosha kijana yule. usisikilize kabisa hawa ambao wanakwambia hakuna madhara ya punyeto, wanakupotosha.
+-potosha  -- distort, misrepresent; kubadili ukweli au maana halisi ya jambo	__ maneno yake yalipotosha maana halisi ya hotuba yangu.
 -potosha  -- make tie poles for construction of ceiling or wall	__ aliwashutumu waandishi wa habari hizo za kupotosha.
 poto  -- taz potovu: messed up  (slang)?
 potovu  -- messed up, tangled up, desperate	__ kichwa kinapata potovu.
@@ -15329,8 +15330,10 @@ upotevu  -- waste, wastefulness, prodigality, profligacy; hali ya kupoteza mali 
 upotevu  -- loss; hali ya kupotea	__ upotevu wa maji wapigiwa kelele.
 upotevu  -- taz upoteaji: get lost, lose way	__ alipokuwa msituni, alipata upotevu na hakuweza kupata njia ya kurudi.
 upotofu  -- taz upotovu: depravity, perversion
-upotoshaji  -- making sth pervert, corrupt, miscarriage
-upotovu  -- perversion, ruin, depravity	__ upotovu wa mwanafunzi ulisababishwa na umasikini.
+upotoshaji  -- perversion, corruption; kitendo cha kufanya kitu kiwe kibaya kimaadili au kinyume na ukweli	__ mwandishi huyo alishtakiwa kwa upotoshaji wa ukweli wa historia.
+upotoshaji  -- distortion, misrepresentation, misinformation; hali ya kupotosha ukweli au taarifa ili ionekane tofauti na ilivyo	__ ni upotoshaji kutamka ujenzi wa sgr umesimama.
+upotoshi  -- hali ya kusababisha mtu kupotoka au kfuata njia isyo sahihi.
+upotovu  -- perversion, ruin, depravity; hali ya kupotoka; hali ya kuwa na tabia mbaya; dhalala	__ upotovu wa mwanafunzi ulisababishwa na umasikini.
 upo wakati  -- kuna wakati
 upumuaji  -- breathing
 upungufu wa akili  -- mental retardation
@@ -17793,4 +17796,33 @@ utengeneshaji  -- act of separating sby from society, alienation, separation; mf
 -tunza  -- maintain, preserve; weka katika hali nzuri ya kufanya kazi	__ nimetunza vizuri sana gari langu hili jekundu.
 -tunza  -- reward; kupa zawadi mtu baada ya kufanya jambo vizuri k.v. kucheza ngoma, kuimba, n.k.	__ alimtunza mtoto kwa kupasi mtihani.
 -linda  -- guard, protect, defend; weka salama dhidi ya hatari au madhara; angalia, hami, chunga	__ nimelinda simu yangu vizuri. baba hulinda familia dhidi ya hatari.
+dafu {ma}  -- unripe coconut	__ utando laini ndani ya dafu changa.
+uramberambe  -- utando laini ndani ya dafu changa
+ubaya ubwela  -- wrongdoing will be avenged (slang)
+gusa achia twende kwaou  -- touch and go, let's go to their place (slang)
+sicheki na wowote  -- i don't joke around with anyone (slang)
+ninge comment ila mwanasheria wangu yupo likizo  -- i would comment but my lawyer is on vacation (slang)
+we huogopi..!  -- aren't you afraid?! (slang)
+yanga hii unaifungaje?  -- how do you beat this yanga team? (slang)
+mtoto kautaka  -- the child got what they deserved (slang)
+naijua hiyo  -- i know that one (slang)
+kipengele uje nacho wewe tajiri  -- you, rich person, come with the condition (slang)
+watoto wa 2000  --  gen-z  (slang)
+ukija bila gadi nitagawa wastani kwa idadi  -- "if you come unprepared or unprotected, i will utterly dismantle, expose, or defeat you (slang)
+kamdomo  -- gossip, loose talk (slang)
+mambo kwa ushahidi  -- matters by evidence (slang)
+na hapa ipo  -- and here it is (slang)
+maandishi haya si mageni jijini, labda kwa mgeni wa jiji  -- common urban
+knowledge [writings not strange in the city, perhaps only to a city newcomer]  (slang)
+ila harmonize!  -- expl surprise, shock re sth unexpected (slang)
+mtu sio nyau  -- a person has dignity (slang)
+ukihitajika utaitwa  -- when needed, you'll be called (slang)
+salimia watu  --be polite, mind your manners (slang)
+tunaye na tunatamba naye  -- pride in possessing sth/sby (slang)
+kumeanza kuchangamka  -- things starting to liven up (slang)
+kila mtu atachanganyikiwa kwa wakati wake  -- inevitable confusion or challenges (slang)
+nyau  -- cat; mnyama mdogo anayefugwa nyumbani kwa ajili ya ulinzi au burudani, mara nyingi hula panya	__ paka wangu ana rangi nyeupe na madoa meusi.
+-jeruhi  -- afflict a wound, injure; tia jeraha; umiza, athiri	__ alijeruhiwa vibaya kwenye ajali ya gari.
+mukezu {mi}  -- kola nut tree
+
 
