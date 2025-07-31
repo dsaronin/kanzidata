@@ -13499,7 +13499,8 @@ tanari  -- tunnel
 tanbihi  -- footnote
 tandabelua  -- uproar, chaos, rumoil	__ wanafunzi watukutu walileta tandabelua chuoni.
 tandala  [a-wa]  -- kudu [animal]
--tanda  -- spread out; be overcast	__ mawingu yametanda juu angani
+-tanda  -- be overcast	__ mawingu yametanda juu angani.
+-tanda  -- spread out	__ hofu yatanda tetemeko la ardhi.
 tandatu  -- six, 6 (arch)
 -tandaza mikono  -- spread arms
 -tandika  -- beat, thrash	__ mzazi alimtandika mwanawe. tutawatandika vizuri adui wetu.
@@ -17824,5 +17825,6 @@ kila mtu atachanganyikiwa kwa wakati wake  -- inevitable confusion or challenge
 nyau  -- cat; mnyama mdogo anayefugwa nyumbani kwa ajili ya ulinzi au burudani, mara nyingi hula panya	__ paka wangu ana rangi nyeupe na madoa meusi.
 -jeruhi  -- afflict a wound, injure; tia jeraha; umiza, athiri	__ alijeruhiwa vibaya kwenye ajali ya gari.
 mukezu {mi}  -- kola nut tree
+josho  {ma}  -- dipping trough [animal medication]	__ josho la mbwembwe.
 
 
