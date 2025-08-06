@@ -2282,7 +2282,7 @@ endapo  -- in case that; hali ya kuonyeshea masharti fulani	__ nitakulindia mizi
 -endelea  -- continue, keep on, hang on	__ utaendelea kuiishi katika nyumba yangu?
 -endelea  -- progress, advance, proceed	__ kesi yake inaendelea vizuri mahakamani.
 -endelea  -- prosper, flourish thrive	__ uchumi wa nchi yetu uynazidi kuendelea.
-endelevu  -- continuous, progressive	__ mipango endelevu.
+endelevu  -- sustainable, continuous, progressive	__ mipango endelevu. huduma endelevu ya umeme.
 endelevu  -- taz endelezi: having continuity
 -endeleza  -- cause to develop, flourish, promote; fanya jambo liendelee kutendeka; auka	__ raisi mpya anaendeleza sera ile ile ya ubepari. uongozi mpya utaendeleza kampeni dhika ya ukimwi.
 -endeleza  -- complete sth	__ endeleza sentensi hii.
@@ -12988,8 +12988,8 @@ sitiari  -- metaphor
 sitini  -- 60 sixty
 -sitiri  -- conceal, cover-up, hide; protect; ficha jambo / kitu cha aibu ili kisionekea	__ husitiri mabaya yao kwa nguvu zao. sababu kuu ni kujisitiri wasionekane uchi.
 siti  -- seat [on bus, train, ndege]
--sitisha  -- halt, stop [a download, action]  (tech)
--sitisha  -- stop, halt, suspend [an activity]; komesha, simamisha	__ kampuni imesitishwa kazi na serikali.
+-sitisha  -- halt, stop [a download, action][< -sita]  (tech)
+-sitisha  -- stop, halt, suspend [an activity][< -sita]; komesha, simamisha	__ kampuni imesitishwa kazi na serikali. Je unadaiwa Bili ya Umeme? Usisubiri kusitishiwa huduma lipa sasa kwa hiari!
 -sitisha ulafi  -- cease greed	__ kusitisha ulafi wao kwa kubeba abiria kupita kiasi ili wapate pesa za ziada.
 si wa maji, si wa chakula  -- mgonjwa mahututi  (idm)
 siwa  -- trumpet-horn  [symbol of tribe ruler]	__ 
@@ -17345,6 +17345,7 @@ kiimbo mpandoshuko  -- cadence [music]
 rekebisha sauti  -- pitch [music]
 edukea  -- education
 ankara  -- invoice; orodha ya vitu vilivyouzwa au vilivyonunuliwa na bei zake  (biz)	__ ankara hutumika kutunza kumbukumbu ya mahitaji, matumizi, mauzo na mapato ktk muda fulani.
+ankara  -- bill, statement	__ ankara za madeni ya umeme.
 leja  -- ledger  (biz)	__ leja ya madaftari.
 gharama za uendeshaji  -- handling fee, operational costs  (biz)
 mzunguko wa orodha  -- inventory turnover  (biz)
