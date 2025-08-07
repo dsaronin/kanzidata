@@ -4432,8 +4432,11 @@ jiko  {ma}  -- stone
 -jikwatua  -- tidy up oneself; gussy up	__ wanawake wa mjini hujikwatua sana.
 jimama  -- a lady with a big behind; mwanamke aliyejaaliwa maungo ya nyuma  (slang)
 jimbi  -- rooster	__ 
-jimbo  {ma}  -- constituency	__ jimbo la uchaguzi
-jimbo  {ma}  -- state, province, region	__ jimbo la magharibi
+jimbo  {ma}  -- electoral district [UK: constituency]; wilaya au sehemu ya wilaya yenye mbunge wa kuwawakilisha watu wa eneo hilo bungeni	__ jimbo la uchaguzi.
+jimbo  {ma}  -- governing district: state, province; sehemu ya nchi iliyo kubwa kuliko wilaya ambayo mkuu wake huteuliwa na kiongozi wa nchi; mkoa	__ jimbo la magharibi.
+jimbo  {ma}  -- religious district, diocese; dayosisi
+jimbo  {ma}  -- geographic administrative district, county; gatuzi, kaunti
+jimbo  {ma}  -- herbal medicine [bath newborns]; dawa ya mitishamba ya kuwaogeshea watoto wachanga ili wapate afya njema.
 -jinadi  -- self-proclaim, show-off
 jinai  {ma}  -- crime	__ amewekwa rumande kwa kosa la jinai.
 jina jingine  -- alias  (tech)
@@ -8691,9 +8694,10 @@ mjo  {mi}  -- the coming [of sth]
 mjukuu  {wa}  -- grandchild	__ 
 mjukuu wa kike  -- granddaughter
 mjukuu wa kiume  -- grandson
-mjumbe  {wa}  -- delegate, messenger	__ mjumbe alizuru shule yetu na kutuletea vitabu.
+mjumbe  {wa}  -- delegate; mtu anayewakilisha watu wengine ktk shughuli kv mkutanoni; kijumbe, wakala, mwakilishi	__ mjumbe alizuru shule yetu na kutuletea vitabu. wajumbe wa chama cha mapinduzi.
+mjumbe  {wa}  -- messenger; mtu aliyetumwa kuwasilisha habari fulani; tarishi	__ mjumbe hauawi.
 mjusikafiri  -- lizard small	__ mdudu wa tambaa
-mjusi  {mi}  -- lizard	__ 
+mjusi  {mi}  -- lizard
 mjusi  {wa}  -- lizard
 mkaazi  {wa}  -- inhabitant	__ wakaazi wa mkoa huu ni huwa wakulima.
 mkabala  {mi}  -- encounter; utaratibu unaofuatwa kukabili jambo; hali ya kuwa uso kwa uso
@@ -12564,13 +12568,13 @@ shawishi  -- busybody, meddler, gossip	__ mimi nimechoka na vitendo vya shawishi
 -shawishi  -- -pa mtu maelezo ili kutaka kumfanya akubali kufuata fikira au maelezo yako
 -shawishi  -- persuade, influence, induce [by persuasion]	__ alinishawishi nimwazime baiskeli yangu.
 -shawishi  -- tempt, coax, entice, seduce	__ nilifanya kazi ya ziada kuushawishi uongozi wa kampuni juu ya hili,
-shayiri  -- oats	__ 
+shayiri  -- oats  (food)	__ 
 shazi  -- crowd; umati wa watu  (slang)
 shazi la nafaka  -- ear of grain; string of grains	__ 
 shazi  -- many; nyingi	__ leo sokoni kulikua na watu shazi.
 shega  -- its all good; mambo mazuri  (slang)
-sheha  {ma}  -- chief; head of village/party; [sheik]	__ 
-sheha wa mji, mjumbe  -- heaedman of village
+sheha  {ma}  -- chief; head of village/party; [sheik]	__ sheha wa mji.
+sheha wa mji  -- village headman; mjumbe
 shehena  -- freight, load, cargo [specific shipment]	__ mtumishi aziweke shehena wapi?
 shehena ya ~  -- load of sth	__ lori lile limebeba shehena ya magunia ya mahindi.
 shehena ya mizigo  -- load of luggage	__ 
@@ -14800,7 +14804,7 @@ ugaidi wa kisiasa  -- poltical terrorism	__
 ugali  -- ugali
 uganga  -- medicine, treatment, witchcraft	__ 
 uganifu  -- joiner syllable	__ 
-ugatuzi  -- ugawiji madaraka	__ 
+ugatuzi  -- county, governing district; ugawiji madaraka	__ 
 ugavi  -- distribution, supply [< -gawa]; tendo la kugawa na kusambaza huduma, vitu nk, ugawaji	__ vijiji vingi havipati ugavi wa kutosha wa maji safi.
 ugavi na utashi  -- supply and demand	__ 
 ugavi wa umeme  -- electrical supply	__ 
@@ -17827,5 +17831,8 @@ nyau  -- cat; mnyama mdogo anayefugwa nyumbani kwa ajili ya ulinzi au burudani,
 -jeruhi  -- afflict a wound, injure; tia jeraha; umiza, athiri	__ alijeruhiwa vibaya kwenye ajali ya gari.
 mukezu {mi}  -- kola nut tree
 josho  {ma}  -- dipping trough [animal medication]	__ josho la mbwembwe.
-
+mjeledi  {mi}  -- whip, lash; kitu kinachonepa kv kiboko cha kuchapia	__ mtu anayejipiga mjeledi.
+mjarari  {mi}  -- pulley belt; kamba inayotumiwa kuendesha usukani wa chombo au kuzungushia gurudumu la cherehani au cherehe; ujari
+-jilisi  -- sit down, seat oneself; kaa, keti	__ alijilisi kwenye mkeka.
+-jimamasa  -- treat with contempt, pretend not to know/understand; babaisha, jibarauza, gangaiza	__ anajimamasa kila nikimwambia aniregeshee vitabu vyangu.
 
