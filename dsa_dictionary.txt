@@ -8503,7 +8503,7 @@ mgogoro wa kisiasa  -- political crisis
 mgolole  {mi}  -- shuka ndefu inayovaliwa kwa kupitishwa begani	__ jivika mgorore.
 mgombakofi  {mi}  -- yam-producing banana-like plant	__ 
 mgomba  {mi}  -- banana plant
-mgombea  {wa}  -- candidate	__ mgombea huyo wa upinzani.
+mgombea  {wa}  -- candidate	__ mgombea huyo wa upinzani. chaumma watangaza mgombea urais.
 mgomo  {mi}  -- strike; tendo la kundi la watu kukataa kuendelea na shughuli zu kazi yao mpaka masharti fulani yatimizwe	__ safari za ndege zafutwa kisa mgomo wa wafanyakazi wakidai maslahi ujerumani.
 mgomo baridi  -- slow work; mgomo wa kufanya kazi taratibu au polepole
 mgomvi  {wa}  -- troublemaker; mtu mwenye tabia ya kugombana na watu; mshari, mtesi, hasimu
@@ -17835,4 +17835,9 @@ mjeledi  {mi}  -- whip, lash; kitu kinachonepa kv kiboko cha kuchapia	__ mtu ana
 mjarari  {mi}  -- pulley belt; kamba inayotumiwa kuendesha usukani wa chombo au kuzungushia gurudumu la cherehani au cherehe; ujari
 -jilisi  -- sit down, seat oneself; kaa, keti	__ alijilisi kwenye mkeka.
 -jimamasa  -- treat with contempt, pretend not to know/understand; babaisha, jibarauza, gangaiza	__ anajimamasa kila nikimwambia aniregeshee vitabu vyangu.
-
+faru {ma} [a-wa]  -- rhinoceros; kifaru	__ gamba la faru.
+falaki  -- astronomy; elimu ya nyota; unajimu  (sci)
+falaki  -- astrology; maisha ya kubahatisha mambo yatakayotokea kulingana na elimu ya nyota	__ piga falaki.
+-piga falaki  -- read horoscope
+falaki  -- orbit; njia ya sayari kv mwezi au jua  (sci)
+falaki  -- skies; mbingu, anga
