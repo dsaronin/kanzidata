@@ -340,7 +340,8 @@ ana moyo  -- he has courage  (idm)
 anasa  -- luxury, self-indulgence; wealth	__ anapenda mambo ya anasa.
 anatoa huduma kwa njia ya simu popote ulipo  -- he provides his service by phone whereever you are  (phrs)
 -andaa meza  -- tayarisha chakula   (idm)	__ 
--andaa  -- prepare, ready, organize, cater [esp. food]	__ mama atatuandalia sisi chakula.
+-andaa  -- prepare, ready, cater [food]	__ mama atatuandalia sisi chakula.
+-andaa  -- prepare, organize [sby, sth]	__ mbinu za kumuandaa kijana kuwa kiongozi.
 -andama  -- begin, start; anza	__ kufunga kumeandama.
 -andama  -- chase, pursue, run after, follow up; peleleza	__ askari wananiandama.
 -andama  -- follow up, be next [in order]; fuata, inza, fuasa, fuatia, ambatana unyounyo	__ wezi wanamwa.
@@ -1152,7 +1153,7 @@ chachandu  -- octopus; pweza
 -chachisha  -- provoke, exasperate, anger
 -chachisha  -- sour sth	__ aliuchachisha mchuzi
 -chachua  -- ferment, leaven, sour; dodesha, ozesha	__ aliuchachua mchuzi.
-chachu  -- catalyst	_- chachu ya maendeleo
+chachu  -- catalyst	_- chachu ya maendeleo. vijana watakiwa kuwa chachu ya mabadiliko.
 -chachuka  -- ferment, go bad, turn sour
 chachu  -- sour	__ 
 chachu  -- yeast, leaven, ferment; hamira	__ alitia chachu katika pombe.
@@ -8209,6 +8210,8 @@ mbweha  -- jackal, fox	__
 mbweko  {mi}  -- barking sound [dog, animal]	__ tulisikia mibweko ya majibwa yakibweka bwebwebwe.
 mbwela  -- confused?	__ ongeana mbwela
 mbwembwe  -- swagger, boastfulness, posing; kero, mikogo, majivuno, maringo, madaha	__ mbwembwe wakihitimu mafungo yao.
+kwa mbwembwe  -- with swagger, flair, fanfare [celebratory]; matendo ya sherehe yenye madaha au shamrashamra nyingi, hasa zinapotendwa hadharani	__ wagombea wachukua fomu kwa mbwembwe.
+acha mbwembwe!  -- stop showing off!
 mchaa  -- directly, straight {adv}
 mchaa  {u}  -- direction, course, way
 mchache wa muhali  -- anaweza kufanya lolote  (idm)
@@ -9948,9 +9951,8 @@ mwenyekiti  {wa}  -- chairman	__
 mwenye kuvutia  -- attractive	__ wewe ni hodari na mwenye kuvutia.
 mwenye kuwiwa  -- be a creditor
 mwenye  -- owner, proprietor [swahili town elder]	__ mwenye mkuu [chief proprietor]
-mwenza  -- co-	__ mke mwenza
 mwenzako hadi atakapokihitaji  (biz)	__ nimeiweka amana yake.
-mwenza  {wa}  -- co- sth	__ 
+mwenza  {wa}  -- co- [sth]	__ mgombea mwenza. mke mwenza.
 mwenzi  {wa}  -- friend, companion; acquaintance	__ mwenzi wangu ni mtu mpole sana.
 mwenzi wa zinaa  -- adulterous spouse, cheating partner
 mwepuke mtu huyo  -- avoid that person  (phrs)
@@ -17848,4 +17850,17 @@ mashine ya kufungia mifuko  -- sealer [machine]
 faida ghafi  -- gross margin  (biz)
 faida halisi  -- net margin  (biz)
 -anika  -- lay out, expose, reveal [news]	__ sekta zinazoongoza kwa ajira zaanikwa.
+msajili  {wa}  -- registrar	__ msajili azuia uteuzi wa juma.
+fomu  -- form, procedural document to be filled out; hati ya kujaza maelezo	__ jaza fomu hii kwa wino mweusi.
+zoezi la uteuzi  -- electoral process, nomination exercise; hatua za uchaguzi wa wagombea	__ zoezi la uteuzi litaanza kesho.
+fomu za uteuzi  -- nomination forms; fomu zinazotumiwa katika mchakato wa uchaguzi	__ wagombea walichukua fomu za uteuzi.
+-toa fomu  -- issue forms, give out forms; kutoa au kukabidhi fomu kwa mtu fulani	__ tume ilianza kutoa fomu za uteuzi.
+-wasilisha fomu  -- submit forms; kukabidhi fomu zilizokamilika kwa mamlaka husika	__ waombaji wametakiwa kuwasilisha fomu zao leo.
+-chukua fomu  -- pick up forms, take forms; kupokea fomu kwa ajili ya kuzijaza	__ wagombea walifika ofisini kuchukua fomu.
+-rejesha fomu  -- return forms; kurudisha fomu zilizokamilika	__ mshiriki anatakiwa kurejesha fomu yake kesho.
+-bandika fomu  -- post form [publicly display]; kubandika fomu ukutani ili zionekane na umma	__ fomu za wagombea zitabandikwa nje ya ofisi.
+msimamo {mi}  -- stand, position; maoni au uamuzi thabiti kuhusu jambo fulani	__ chama kinaweka msimamo kuwa hakitofuata maelekezo ya msajili.
+-weka msimamo  -- take a stand, take a position; kufanya uamuzi thabiti au kutoa maoni yasiyobadilika	__ serikali iliweka msimamo mkali dhidi ya ufisadi.
+-peperusha bendera  -- hoist a flag, wave a flag; kuinua au kutikisa bendera kwa mikono	__ wanafunzi walikusanyika kupeperusha bendera ya taifa.
+-peperusha bendera  -- represent [a political party], run for office [as a party candidate]; kumwakilisha chama cha siasa katika uchaguzi	__ wagombea walichaguliwa kupeperusha bendera za vyama vyao.
 
