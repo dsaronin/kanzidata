@@ -2914,7 +2914,7 @@ fungo  {ma}  -- share, portion	__ alipata fungo kubwa alipoingia ubia na rafiki 
 -fungua  -- release sth, set free sth, unfasten sth, undo sth, open sth	__ walimfungua mfungwa. fungua mlango. waziri aliifungua hospitali.
 -fungua  -- untie, unlock	__ fungua mlango
 -fungua zipu  -- open zipper
--funguka  -- let loose, break loose
+-funguka  -- let loose, break loose	__ wanaccm wafunguka uzinduzi wa kampeni.
 -funguka  -- spill the story
 -funguka  -- open up
 -funguka fursa  -- create opportunity
@@ -10612,7 +10612,7 @@ nususi  -- expl vindicates truth of affairs; kwelikweli; tamko litumikalo kuonye
 nususi  -- strong, vigorous, intense, fierce; -enye ukali; nguvu, juhudi wa bidii  {adj}
 nusutropiki  -- semi-tropical
 nusuyabisi  -- semi-arid
-nyadhifa  -- positions, officies (plural of wadhifa)	__ 
+nyadhifa  -- positions, officies (plural of wadhifa)	__ nyadhifa alizowahi kushika.
 nyakaa  [u-zi]  -- periods of time	__ [taz. wakaa]
 -nyaka  -- catch, snatch	__ 
 nyakati  -- times (plural of wakati)	__ nyakati za jioni
@@ -14637,6 +14637,7 @@ ubwaubwa  -- rice; wali	__ nina kiporo cha ubwaubwa.
 ubwete  -- laziness, idleness; ugoigoi, ukunguni, uvivu	__ wahariri wa habari wa BBC umewaingia ubwete.
 uchafu  -- dirt, grime, squalor	__ hapa pana uchafu mwingi sana.
 uchaguzi  -- election	__ 
+uchaguzi mkuu  -- general election	__ kampeni za kuelekea uchaguzi mkuu zaanza rasmi leo.
 uchakataji  -- processing  (tech)
 uchakavu  -- depreciation  (biz)
 uchambuzi  -- analysis, critique, review [of publications]; ufafanuzi, uhakiki	__ uchambuzi wa sentensi ulifanywa na mwanasarufi.
