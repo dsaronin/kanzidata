@@ -3096,7 +3096,7 @@ gesi chafuzi  -- CO2? emissions
 gesi  -- gas  (sci)
 gesi tumboni  -- abdominal gas	__ 
 gesti  -- guest ?	__ alikutwa ameuawa gesti; ulipata taarifa?
-geto  -- gate? residence?  (slang)
+geto  -- place, pad, or home [< ghetto]  (slang)	__ demu kaja kuigama mvua geto.
 -geuka  -- be altered, be turned around	__ geuka nyuma yako. geuka upande wa kushoto.
 -geuka fumbo gumu  -- kutopata suluhisho, jibu  (idm)
 -geuza  -- change, transform, modify; turn other way around	__ lazima ugeuze tabia yako. alikuwa amevaa shati lakini alikuwa ameligeuza. binafsi, ukimwi umenipokonya wazazi na kunigeuza yatima.
@@ -9940,7 +9940,7 @@ mwendo nasibu  -- random motion
 mwendo thabiti  -- rigid motion
 mwendo wa jua  -- solar motion
 mwendo wa kudumu  -- perpetual motion
-mwenendo  {mi}  -- behavior, conduct, manner	__ mwenendo wake si mzuri
+mwenendo  {mi}  -- behavior, conduct, manner; namna ya kutenda, kuishi au tabia ya mtu	__ mwenendo wake si mzuri.
 mwenge  {mi}  -- torch	__ mwenge wa uhuru.
 mwenye busara  -- wise person	__ 
 mwenye hisa  -- stockholder  (biz)
@@ -17215,6 +17215,7 @@ pipa  -- plane; ndege (slang)
 mtasha  {wa} [a-wa]  -- mzungu (slang)
 dadangulo  {ma}  -- vagina (slang)	__ waambie huo hilo ni dadangulo.
 midabangulo  {mi}  -- female genitalia (slang); midabanguro, midabhanguro	__ midabangulo ikayatimba.
+midabhangulo  {mi}  -- taz midabangulo: female genitalia  (slang)
 mjuaji {wa}  -- person with know-how, know-it-all	__ mjuaji wa kila kitu.
 -zinga  -- wander, roam, meander, stray; enda huku na huko; zunguka, tembeatembea	__ tangu amesimamishwa kazi, amekuwa akizinga tu mitaani.
 -zinga  -- stroll, saunter, ramble	__ anapenda kuzinga sehemu za pwani nyakati za jioni.
@@ -17864,4 +17865,9 @@ msimamo {mi}  -- stand, position; maoni au uamuzi thabiti kuhusu jambo fulani	__
 -weka msimamo  -- take a stand, take a position; kufanya uamuzi thabiti au kutoa maoni yasiyobadilika	__ serikali iliweka msimamo mkali dhidi ya ufisadi.
 -peperusha bendera  -- hoist a flag, wave a flag; kuinua au kutikisa bendera kwa mikono	__ wanafunzi walikusanyika kupeperusha bendera ya taifa.
 -peperusha bendera  -- represent [a political party], run for office [as a party candidate]; kumwakilisha chama cha siasa katika uchaguzi	__ wagombea walichaguliwa kupeperusha bendera za vyama vyao.
+mwingiliano wa nguvu  -- dynamics [interplay of forces]	__ kila hali ndani ya uhusiano hubeba mwingiliano wake wa nguvu, amri, na utiifu.
+mwingiliano wa mamlaka  -- power dyamics [authoritative]	__ john alifurahia kutazama mwingiliano wa mamlaka uliokuwa ukitokea miongoni mwa wafanyakazi wenzake.
+nguvu tendaji  -- dynamics [single active force]	__  nguvu tendaji ya upepo ni mfumo wenye nguvu unaounda tasnia ya binadamu na maumbile ya kijiolojia.
+-igama  -- take shelter, seek refuge fm [rain] [<-egama]	__ demu kaja kuigama mvua geto.
+-fanya masoko  -- marketing; shughuli ya kibiashara inayohusika na kuwatambua, kuwafikia, na kuwaridhisha wateja, ili kuifanya kampuni iwe na mafanikio na ipate faida. Hii inajumuisha kupanga bidhaa, bei, uhamasishaji, na njia za usambazaji
 
