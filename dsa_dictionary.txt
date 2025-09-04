@@ -3786,14 +3786,17 @@ hisabati  -- mathematics	__
 hisani  -- kindness, courtesy	__ nashukuru kwa wema na hisani yake.
 hisa  -- stocks; alloted portion, dividend, quotient	__ hisa yake katika mierathi ilikuwa nyumba moja tu
 hisa  -- stock share; fungu linalotolewa kama sehemu ya mtaji katika biashara; kiwango; sehemu ya mtaji katika biashara  (biz)
-hisia  -- feeling; taz hisi	__ 
+hisia  -- sensation [body sensation]; uwezo wa viungo vya mwili kutambua vitu vya nje; taz hisi	__ 
+hisia  -- feeling, emotion [response to sth]; hali ya kuathirika kihisia kwa jambo fulani
+hisia  -- intuition perspective; mtazamo wa fikra usio na utafiti wa kina wa akili
+hisia  -- sense of understanding sth; njia ya kuelewa jambo fulani
 hisia potofu  -- feel bad, wrong, corrupted	__ ondoa hisia potofu kichwani mwako
 hisia potovu  -- wrong feeling
 hisia za majikwezo  -- superiority complex
 hisia za udhalili  -- inferiority complex
 -hisi  -- cognize, feel via senses; dhania, fikiri	__ anahisi kwamba hatua uliyoichukua ilikuwa sawa. unadhani ni nani aliyemuua juma? mpaka sasa sina ninayemhisi.
 hisi  -- exclamation mark	__ 
-hisi  -- feeling, sense, sensation	__ binaadamu ana hisi tano.
+hisi  -- sense, sensation	__ binaadamu ana hisi tano.
 -hisi  -- feel, intuit, perceive, sense; kujua moyoni	__ najua jinsi gani unavyohisi
 -hisi kisulisuli  -- feel giddy, dizzy, in a whirl
 hisi  -- love, affection, feelings [for sby]; mapenzi, mahaba	__ hana hisia juu ya mumewe.
@@ -8302,7 +8305,7 @@ mchoyo  -- stingy, miser	__ jirani yangu amezidi kuwa mchoyo.
 mchuano  {mi}  -- contest, match  [sports]; pambano, mtanange	__ mchuano wa kura za maoni. kulikuwepo na michuano mikali ya kandaanda wiki iliyopita.
 mchuano  {mi}  -- friction, abrasion; msuguano
 mchuano  {mi}  -- competition; shindano	__ 
-mchuano wa kura za maoni  -- referendum
+mchuano  {mi}  -- referendum [electoral]	__ mchuano wa kura za maoni. mchuano majimboni watarajiwa.
 mchubuko  {mi}  -- bruise, scrape	__ alipata michubuko baada ya kuanguka kutoka kwenye ngazi.
 mchuchumio  {mi}  -- high heel [shoes]	__ kunipa viatui vyake vya mchuchumio.
 mchukuzi  -- porter	__ 
@@ -13344,9 +13347,8 @@ tabia ya zinaa  -- immoral conduct, adulterous behavior
 tabibu  -- healer, doctor	__ tabibu wangu ana uzoefu mkubwa katika kazi yake.
 tabibu maungo  -- chiropractor	__ 
 -tabiria  -- predict for sby	__ nimefurahi kwa kunitabiria makubwa.
--tabirika  -- predicatable
 -tabirika  -- predictable
--tabiri  -- predict, forecast, foretell	__ 
+-tabiri  -- predict, forecast, foretell; tangaza jambo litakalotukia baadaye kwa kutegemea elimu ya utabiri, hisia au ubashiri
 tabo  -- tab  (tech)
 tabu  -- distress, misery	__ hii ilimpa tabu sana
 ta  -- completely; kabisa
@@ -13699,7 +13701,11 @@ tebwere  -- soft, squishy, pulpy	__ mimi sipendi kula ndizi tebwere.
 -tegemea  -- depends on, rely; weka matumaini kupata mahitaji kutoka kwa mtu au kitu fulani; egema, amidi	__ nchi yetu inategemea utalii. kilimo chetu kinategemea mvua.
 -tegemea  -- expect, hope, anticipate; taraji, amania, tumaini, tarajia, tazamia, tumai	__ ninategemea kusafiri karibu. ameanguka kwenye mtihani bila ya kutegemea. mtegemea cha nduguye hufa maskini.
 -tegemea nundu  -- be dependent upon sby who is wealthier, more capable; tegemea mweza kwa manufaa yako; faidi kutokana na mwenye navyo  (idm)	__ mtegemea nundu haachi kunona.  (meth)
-tegemeo  {ma}  -- hope, expectation; tumaini la kupata kitu au mahitaji kutka kwa mtu, kitu, jambo au kazi; tumaini, tarajio	__ lipo tegemeo kwamba uchaguzi utafanyika karibu nchini.
+-tegemea  -- rely [do sth based on expectation sth will happen]; fanya jambo fulani kwa uhakika kuwa litafanyika
+-tegemea  -- agree with sby, sth; kubaliana na mtu fulani au jambo fulani
+-tegemea  -- rely on sby, sth; utegemee mtu au jambo fulani
+-tegemea  -- be dependent, servant; uwe tegemezi au mtumishi
+tegemeo  {ma}  -- anticipation, expectation [dependency ?]; tumaini la kupata kitu au mahitaji kutoka kwa mtu, kitu, jambo au kazi; tumaini, tarajio	__ lipo tegemeo kwamba uchaguzi utafanyika karibu nchini.
 tegemeo  {ma}  -- trust, dependence	__ tegemeo lake liko kwa Mungu tu.
 ~tegemezi  -- dependent, relying	nchi tegemezi
 -tegeshewa  -- be set up, be a fall guy, be duped	__ haikuwa rahisi kujua alikuwa ametegeshewa.
@@ -14389,7 +14395,9 @@ tuli  -- quiet, still	__
 ~tulivu  -- calm, still, quiet, steady [no turbulent movement]; enye kutulia	__ ndege ilitua kwa utulivu.
 -tuliza  -- calm sby, soothe	__ 
 -tuliza nyege  -- quiet horny stress	__ jitie vidole kwenye mkundu wako utilize nyege.
--tumaini  -- wish, hope for	__ 
+-tumaini  -- think, believe sth will happen; fikiri au amini kuwa jambo litatukia	__ 
+-tumaini  -- use current events as lesson for future; tumia matukio ya sasa kuwa mfunzo kwa ajili ya mustakabali	__ 
+-tumaini  -- depend on believing for sth; tegemea kwa matumaini	__ 
 -tuma  -- send  (tech)
 tumba  -- grain of sth	__ 
 tumbaku  -- tobacco	__ 
@@ -17870,4 +17878,8 @@ mwingiliano wa mamlaka  -- power dyamics [authoritative]	__ john alifurahia kuta
 nguvu tendaji  -- dynamics [single active force]	__  nguvu tendaji ya upepo ni mfumo wenye nguvu unaounda tasnia ya binadamu na maumbile ya kijiolojia.
 -igama  -- take shelter, seek refuge fm [rain] [<-egama]	__ demu kaja kuigama mvua geto.
 -fanya masoko  -- marketing; shughuli ya kibiashara inayohusika na kuwatambua, kuwafikia, na kuwaridhisha wateja, ili kuifanya kampuni iwe na mafanikio na ipate faida. Hii inajumuisha kupanga bidhaa, bei, uhamasishaji, na njia za usambazaji
+-tarajia  -- expect, anticipate; fikiri kuwa jambo fulani litatukia; tumaini 
+hamu na tumaini -- hope
+-tamani na kutumaini -- hope for sth
+
 

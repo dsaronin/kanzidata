@@ -14866,9 +14866,9 @@ hope	{adj} -enye matumaini.
 hope	-a kutia/leta matumaini.
 hope	(as n) (young) hopeful {n} mtoto anayeelekea kufaulu; tumaini. hopefully 
 hope	{adv} kwa mategemeo/ matarajio.
-hope	natarajia; itarajiwe. hope fulness {n}. hopeless 
-hope	{adj} -sio na matumaini; -sioleta matumaini.
-hope	-sioponyeka. hopelessly {adv} . hopelessness {n}.
+hope	natarajia; itarajiwe. hopefulness {n}
+hopeless	{adj} -sio na matumaini; -sioleta matumaini.
+hopeless	-sioponyeka. hopelessly {adv} . hopelessness {n}.
 horizon	{n} upeo wa macho.
 horizon	(fig) upeo wa fikira, elimu, ujuzi nk. horizontal {adj} -a mlalo, (-a kwenda) sambamba na upeo wa macho. horizontal bar {n} mtaimbo wa mlalo. horizontally {adv} .
 hormone	{n} homoni.
