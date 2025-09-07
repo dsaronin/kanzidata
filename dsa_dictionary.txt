@@ -4441,7 +4441,7 @@ jimbo  {ma}  -- governing district: state, province; sehemu ya nchi iliyo kubwa 
 jimbo  {ma}  -- religious district, diocese; dayosisi
 jimbo  {ma}  -- geographic administrative district, county; gatuzi, kaunti
 jimbo  {ma}  -- herbal medicine [bath newborns]; dawa ya mitishamba ya kuwaogeshea watoto wachanga ili wapate afya njema.
--jinadi  -- self-proclaim, show-off
+-jinadi  -- self-proclaim, show-off	__ 
 jinai  {ma}  -- crime	__ amewekwa rumande kwa kosa la jinai.
 jina jingine  -- alias  (tech)
 -jinaki  -- brag, show off; exonerate	__ ni kweli kwamba muungwana hajinaki.
@@ -4611,6 +4611,7 @@ juha na majinuni  -- mjinga sana
 juhudi  -- diligence, effort	__ kazi yoyote inahitaji juhudi tu.
 jukumu  -- responsibility, obligation, liability	__ juma ana jukumu kubwa ili kwamba kuwasaidia wazee wake.
 jukwaa  {ma}  -- scaffold	__ 
+jukwaa  {ma}  -- platform  (tech)	__ kwa hivyo, jukwaa la JamiiForums halitapatikana Tanzania kwa siku 90 zijazo.
 jukwaa  {ma}  -- stage, platform, podium, dais; kilingo, kilili, ulingo	__ kasisi alihutubia kutoka kwenye jukwaa.
 jukwaa  {ma}  -- train platform	__ jukwaa la sgr
 juma alikuwa amechanganyikiwa asijue la kufanya.  -- he didn't know what to do
@@ -4746,7 +4747,8 @@ kadhoofu  -- mdhaifu  (slang)
 kadi dhibiti  -- controller cards  (tech)
 kadili  -- candle	__ 
 -kadimisha  -- send in advance; precede, forward; ni kupeleka mbele au tanguliza.	__ kukadimisha neno
--kadiria  -- pima, kisia; estimate, guess	__ tukadirie maisha katika pamgo yalivyokuwa. walikadiria hasara iliyopatikana
+-kadiria  -- estimate [value]; kata thamani ya jambo kwa kukisia; pima	__ tukadirie maisha katika pamgo yalivyokuwa.
+-kadiria  -- guess; hesabu kwa takriban; kisia	__ walikadiria hasara iliyopatikana
 kadiri  -- capacity, ave, approx, cost	__ amepata kadiri ya asilimia sitini na nane
 kadirifu  -- calculating
 kadirifu  -- careful, considerate	__ yeye ni mtu kadirifu
@@ -11268,7 +11270,7 @@ pato la taifa  -- national income	__
 pato la ziada  -- by-product	__ 
 pato  {ma}  -- income, earnings	__ pato lake ni dogo.
 patupu  -- space empty, no one is there
--patwa kikamilifu na mwezi  -- eclipse	__ mwezi umepatwa
+-patwa kikamilifu na mwezi  -- eclipse	__ mwezi umepatwa. kupatwa kwa mwezi.
 -patwa na soni  -- be ashamed  (idm)
 -paua  -- cause to fade [colors], cause to bleach	__ utalipaua shati lako ukilifua sana.
 -paua  -- fix rafters	__ paua nyumba.
@@ -13791,7 +13793,7 @@ tendegu  {ma}  -- bed leg
 -tendekeza  -- taz endekeza: pamper, coddle, spoil
 tende  {ma}  -- dates (fruit)	__ 
 -tendesa  -- exceed, overstep past limits; pita mipaka	__ mtu yule ametendesa kwa kupenda kucheza kamari. alitendesa kwa uzuri wake.
-tendo  -- act, action, deed; kitendo, amali
+tendo  {ma}  -- act, action, deed; kitendo, amali	__ matendo yake.
 -tendwa  -- perform [play, show, poetry]	__ fasihi simulizi sharti itendewe ndipo ikamilike.
 -tenga  -- allocate  (tech)
 -tenga  -- isolate, exclude, separate, set aside; weka kando	__ jamii yake imemtenga kijana yule. niliyatenga mayai mabovu na yale yaliyo mazima.
@@ -17881,5 +17883,8 @@ nguvu tendaji  -- dynamics [single active force]	__  nguvu tendaji ya upepo ni m
 -tarajia  -- expect, anticipate; fikiri kuwa jambo fulani litatukia; tumaini 
 hamu na tumaini -- hope
 -tamani na kutumaini -- hope for sth
-
+pishi  {ma}  -- food cuisine	__ pishi la fasta.
+hatuna mbadala wa hatua za kuchukua  -- no practical alternative	__ lakini hatuna mbadala wa hatua za kuchukua.
+-sitisha huduma  -- ban, halt service	__ tcra imesitisha huduma zetu nchini tanzania kwa kipindi cha siku 90.
+bilionea  -- billionare
 
