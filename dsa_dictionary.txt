@@ -17886,5 +17886,8 @@ hamu na tumaini -- hope
 pishi  {ma}  -- food cuisine	__ pishi la fasta.
 hatuna mbadala wa hatua za kuchukua  -- no practical alternative	__ lakini hatuna mbadala wa hatua za kuchukua.
 -sitisha huduma  -- ban, halt service	__ tcra imesitisha huduma zetu nchini tanzania kwa kipindi cha siku 90.
-bilionea  -- billionare
+bilionea  -- billionaire
+-stahili  -- qualify sby/sth; fikia vigezo au sifa zinazohitajika	__ Anastahili kuwa daktari.
+-tathmini kufaa  -- qualify prospect [sales]; tathmini mteja mtarajiwa ili kuona kama anafaa kwa huduma au bidhaa unayouza	__ tunahitaji kumtathmini mteja huyu kufaa kwake kabla ya kuendelea.
+mteja mtarajiwa  -- prospect [sales]  (biz)
 
