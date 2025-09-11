@@ -1569,7 +1569,8 @@ chommie  -- friend  (slang)
 -chomoka  -- become common  [bad activity]	__ wizi wa mifukoni umechomoka siku hizi.
 -chomoka  -- come out of its original place	__ mguu wa meza umechomoka.
 -chomoka  -- dash, rush; kimbia	__ alichomoka mbio kuelekea langoni. mwanariadha alichomoka mara tu kengele ilipolia.
--chomoza  -- appear, rise [sun]	__ jua huchomoza asubuhi. jua huchomoza mashariki.
+-chomoza  -- rise [sun]	__ jua huchomoza asubuhi. jua huchomoza mashariki.
+-chomoza  -- appear, emerge	__ uchumi na utawala bora vyachomoza ccm.
 chondechonde  -- neno la kuhimiza mtu afanye au asifanye jambo fulani; tafadhali	__ chondechonde niambieni huyo ni mgeni wa nani?
 chondo  {ki}  -- shopping basket	__ 
 chondo  -- xylophone	__ 
@@ -1938,7 +1939,7 @@ dhambi  -- sin, religious offense; foul, fault (sport)	__ vitabu vitakatifu vina
 -dhamini  -- guarantee, put up bail, mortgage, sponsor	__ niliweka hati ya kumiliki ili niweze kumdhamini mjomba wangu anayetaka mkopo kutoka benki. niliidhamini mali yangu yote kwa mkopi nilouchukua.
 dhamira  -- objective, goal	__ dhamira yake hasa ilikuwa ni kukukashifu.
 dhamira  -- theme, subject, topic, matter	__  dhamira ya tamthilia hii ni uzalendo. 
--dhamiria  -- intend, plan, propose	__ anadhamiria kukusaidia.
+-dhamiria  -- intend, plan, aim for; kuwa na azma, nia au dhamira thabiti ya kutekeleza jambo fulani; kusudia	__ anadhamiria kukusaidia. alidhamiria kuandika kitabu kabla ya mwaka kuisha.
 dhamiri  -- taz. dhamira: objective, goal
 dhana  -- assumption; neno lisilohakikishwa
 dhana  -- concept, idea; wazo	__ dhana ya shule ngumu ina ukweli?
@@ -2423,14 +2424,12 @@ fanusi  -- lantern, lamp; kandili
 -fanya ajizi  -- be lazy  (idm)	__ 
 -fanya akili  -- use one's brains  (idm)
 -fanya alie  -- cause sby to cry  (idm)
-
 -fanya  -- do, make; tenda au kuumba	__ fanya kazi vizuri. 
 -fanya  -- allow to happen [esp. feelings]; ruhusu kutokea	__ fanya huzuni. 
 -fanya  -- be involved, be engaged, be doing; jishughulisha	__ anafanya biashara siku hizi. 
 -fanya  -- compel, force, let, cause; lazimisha, ruhusu, sababisha	__ fanya aende. 
 -fanya  -- suppose, consider, think, imagine; dhania, waza	__ ulinifanya mimi mpumbavu. 
 -fanya  -- cause, make [< causative of -fana] (arch)	__ alifanya kazi hiyo ifanikiwe.
-
 -fanya doria  -- patrol  (idm)	__ 
 -fanya embamba  -- attenuate  (idm)	__ 
 -fanya fahari  -- be proud, conceited  (idm)
@@ -2942,7 +2941,7 @@ furi  -- brimfull, filled up capacity	__ maziwa yalijaa furi kwenye jagi.
 furi furi  -- brimfull	__ dawa zilijaa furifuri ili kumhakikishia kila mgonjwa uzima wake.
 furifuri  -- brimfull	__ dawa zilijaa furifuri ili kumhakikishia kila mgonjwa uzima wake.
 -furika  -- overflow	__ mto ulifurika. mto huu hufurika wakati wa masika.
-fursa  -- chance, oppty	__ kupata fursa.
+fursa  -- chance, opportunity	__ kupata fursa.
 -furuka  -- grow up develop; be cheerful	__ amefuruka haraka ingawa ni mdogo. amefuruka kwa vile wazee wake wamemnunulia baiskeli.
 -furukuta  -- escape forcefully	__ alijaribu kufurukuta aliposhikwa na askari kanzu.
 -furukuta  -- throb, beat, pulse	__ moyo wake ulikuwa ukifurukuta kutokana na wasiwasi mwingi.
@@ -4441,7 +4440,7 @@ jimbo  {ma}  -- governing district: state, province; sehemu ya nchi iliyo kubwa 
 jimbo  {ma}  -- religious district, diocese; dayosisi
 jimbo  {ma}  -- geographic administrative district, county; gatuzi, kaunti
 jimbo  {ma}  -- herbal medicine [bath newborns]; dawa ya mitishamba ya kuwaogeshea watoto wachanga ili wapate afya njema.
--jinadi  -- self-proclaim, show-off	__ 
+-jinadi  -- self-promote, self-proclaim, show-off	__ wengine wajinadi, wengine wakwama.
 jinai  {ma}  -- crime	__ amewekwa rumande kwa kosa la jinai.
 jina jingine  -- alias  (tech)
 -jinaki  -- brag, show off; exonerate	__ ni kweli kwamba muungwana hajinaki.
@@ -4897,8 +4896,9 @@ kanda  {ma}  -- cheat, swindler conman; laghai, ayari
 kanda  {ma}  -- gay, homosexual; hanithi
 kanda  {ma}  -- misguided, perverted person
 kandambili  -- flip-flops (sandals)	__ 
--kandamiza  -- oppress	__ ufukara ulikuwa umeikandamiza aila ya juma.
--kandamiza  -- taz gandamiza: tyrannize, repress, press down
+-kandamiza  -- press down on sth; weka, bonyeza kitu kwa nguvu ili kishinikizwe au kupunguza ukubwa wake	__ alikandamiza nguo chafu kwenye ndoo.
+-kandamiza  -- oppress, tyrannize, repress; dhulumu, kukandamua, au kuzuia haki na uhuru wa watu wengine kwa kutumia nguvu au mamlaka	__ ufukara ulikuwa umeikandamiza aila ya juma.
+-kandamiza  -- taz gandamiza: tyrannize, repress
 kandamizi  -- oppressive, brutal, harsh	__ sheria kandamizi  [oppressive laws]
 kandamuda  -- timezone	__ 
 kandanda  -- futball; mchezo wa mpira	__ napenda kucheza kandanda lakini mimi sasa ni mgonjwa.
@@ -11315,7 +11315,7 @@ pembasi  -- diaper	__ anataka pembasi za mtoto.
 pembe butu  -- obtuse angle	__ 
 pembe  -- corner
 -pembeja  -- deceive with plausible statements [implying deceit]; flatter to get sth	__ alijaribu kunipembeja lakini nikakataa kumwazima gari langu.
-pembejeo  -- input; vitu kwa ajili ya kilimo	__ pembejeo za kilimo
+pembejeo  -- agricultural inputs; vitu kwa ajili ya kilimo [fertilizers, seeds, pesticides]	__ pembejeo za kilimo
 pembejo  -- outer thigh	__ 
 pembe mchepuko  -- angle of refraction  (tech)
 pembetatu  -- triangle	__ 
@@ -12339,7 +12339,7 @@ sarafu  -- coin	__ sarafu hizi hazina thamani.
 sarafu  -- coins	__ mkulima akamlipa Juma sarafu ya shilingi arubaini.
 saraka  -- directory  (tech)
 saraka kaya  -- home directory  (tech)
-sarakasi  -- circus	__ 
+sarakasi  -- circus	__ sarakasi za kampeni na ratiba ya inec.
 sarambi  -- space under staircase [traditional swahili house]  (arch)
 saratani  -- cancer	__ 
 saratani ya damu  -- leukemia	__ 
@@ -17890,4 +17890,12 @@ bilionea  -- billionaire
 -stahili  -- qualify sby/sth; fikia vigezo au sifa zinazohitajika	__ Anastahili kuwa daktari.
 -tathmini kufaa  -- qualify prospect [sales]; tathmini mteja mtarajiwa ili kuona kama anafaa kwa huduma au bidhaa unayouza	__ tunahitaji kumtathmini mteja huyu kufaa kwake kabla ya kuendelea.
 mteja mtarajiwa  -- prospect [sales]  (biz)
+gesi asilia  -- natural gas
+ -jipambania  -- struggling, fighting, contending, fending for one's self	__ vyama visivyo na ruzuku vyajipambania.
+uwanda  {ny} [nyanda]  -- open space
+uwanda  {ny} [nyanda]  -- plain, plateau
+uwanda  {ny} [nyanda]  -- research field
+nyanda  -- plains, plateaus	__ nyanda za juu.
+nyanda za juu  -- highlands 
+
 
