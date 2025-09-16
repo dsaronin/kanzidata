@@ -883,7 +883,7 @@ binamu  -- cousin [male]
 -bingiria bingiribingiri  -- roll over & over	__ 
 -bingiria  -- swirl, eddy; roll over	__ alipopigwa ngumi, alibingiria chini.
 -bingirika bingiribingiri!  -- pinduka  (idm)
-bingwa {ma}  -- specialist, expert	__ mfiraji yupi bingwa?
+bingwa {ma}  -- specialist, expert	__ mchezaji yupi bingwa?
 bintiamu  -- cousin [female]
 binti  -- daughter
 binti mkwe  -- daughter-in-law
@@ -15779,10 +15779,9 @@ uzazi  -- child bearing; birth control; fertility	__ kukosa uzazi ni tatizo lake
 uzazi wa majira  -- birth control	__ 
 uzazi wa mpango  -- family planning	__ 
 uzee  -- elderly, old age	__ 
-uzee  -- old age
 uzembe  -- laziness	__ 
 uzembe  -- ngeligence; hali ya kufanya jambo bila ya makini; ulegevu, uvivu
-uzinduzi  -- inauguration, official opening, launch [book, movie, show]	__ uzinduzi wa kitabu
+uzinduzi  -- inauguration, official opening, launch [book, movie, show]	__ uzinduzi wa kitabu. uzinduzi wa kampeni.
 uzi  {ny}  -- thread, string	__ uzi ambao anaushonea ni mnene
 uzio  {ny}  -- fence, hedge
 uzio wa umeme  -- electric fence  (idm)
@@ -17897,5 +17896,5 @@ uwanda  {ny} [nyanda]  -- plain, plateau
 uwanda  {ny} [nyanda]  -- research field
 nyanda  -- plains, plateaus	__ nyanda za juu.
 nyanda za juu  -- highlands 
-
+suki  -- siasa na uhusiano wa kimataifa (suki)
 
