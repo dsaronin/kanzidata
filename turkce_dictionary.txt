@@ -222,7 +222,7 @@ anneanne  -- grandmother [maternal]
 annebaba  -- grandfather [maternal]
 anneler günü  -- mothers day
 anne  -- mother
-antep fıstığı  -- pistachio  (fd)
+antep fıstığı  -- pistachio  (fd)	__ kavrulmuş antep fıstığı.
 -antlaş  -- make a pact
 antlaşma  -- pact, treaty, agreement
 antrenman  -- workout, training, exercising	__ güzel bir antrenman öncesi herkese merhabalar.
@@ -1417,6 +1417,7 @@ endişeli  -- anxious, worried	__ endişeli olduğunu biliyorum.
 endonezyace  -- indonesia [language]
 endonezya  -- indonesia [country]
 endonezyalı  -- indonesia [people]
+enerji  -- energy
 enerjik  -- energetic
 -engelle  -- block, hinder, inhibit, obstruct
 -engelle  -- block [social media]  (tech)	__ uymuyorsa engelliyorum, sizde öyle yapabilirsiniz.
@@ -1557,7 +1558,7 @@ filozof  -- philosopher	__ ezoterik bir filozof gibi.
 filtre kahve  -- filtered coffee  (fd)
 filtrele  -- filter by  (tech)
 fincan  -- cup
-fındık  {fındıklar}  -- hazelnut  (fd)	__ 
+fındık  {fındıklar}  -- hazelnut  (fd)	__ fındıklı pasta en sevdiğim pasta!
 finlandiyace  -- finland [language]
 finlandiya  -- finland [country]
 finli  -- finland [people]
@@ -1570,8 +1571,7 @@ fırtına  -- storm
 fişi  -- slip, receipt
 fıskıye  -- jet, fountain [in park]; şelale
 fıstık ezmesi  -- peanut butter	__ fıstık ezmesi ve reçel.
-fıstık  -- peanut  (fd)
-fıstık  -- peanuts	__ tuzlu fıstık.
+fıstık  -- nuts	__ tuzlu fıstık  (fd)
 fit tipler  -- fit types	__ büyük yaraklı fit tiplerden hoşlanırım.
 fiyat aralığı  -- price range  (tech)
 fiyat  -- price
@@ -3044,8 +3044,7 @@ mide  -- stomach, tummy
 midye dolma  -- stuffed mussels  (fd)
 mikrodalga fırın  -- microwave
 mikrofon  -- microphone  (tech)
-miktar  -- quantity
-miktar  -- quantity, amount	__ az miktarda
+miktar  -- quantity, amount	__ az miktarda. net miktar.
 millet  -- country, people
 millet  -- nation, people, folk	__ günaydın millet.
 milletvekili  -- member of parliament
@@ -4619,12 +4618,10 @@ yaban mersini  -- blueberries  (fd)
 yaban  -- savage
 ya da değil  -- or not  (conj)
 yada  -- or else	__ yazmasın yada mesajına foto eklesin.
-yağ  -- cooking fat
+yağ  -- cooking fat, vegetable oil
 yağ  -- grease, oil
 yağmurlu  -- rainy
 yağmur  -- rain	__ yağmur yağdığı zaman kitap okumak istiyorum.
-yağ  -- oil
-yağ  -- vegetable oil
 -yağ {yağar}  -- rain, snow, to fall as precipitation	__ türkiye yağmur yağıp duruyor.
 yaka  -- collar, neck, flange	__ v-yakalı
 -yakala  -- seize, catch, get hold of, grab, hook, intercept, nab	__ polis yakalamıştı benim.
@@ -4791,9 +4788,8 @@ yeraltı  -- underground
 yerebatan sarnıcı  -- basilica cistern
 yerel  -- local; lokal	__ yerel saat.
 yerel  -- regional, territorial; bölgesel, yöresel 
-yer fıstığı  -- peanut
+yer fıstığı  -- peanut  (fd)	__ kavrulmuş tuzlu yer fıstığı.
 yer fıstıklı  -- with peanut
-yer fıstık  -- peanuts	__ tuzlu fıstık.
 yer  -- floor, space
 -yeri olmak  -- belong
 -yerleştir  -- place, establish, house, locate, position, situate, set up	__ boş bırakılan yerlere uygun biçimde yerleştirelim.
@@ -5313,7 +5309,6 @@ harıl harıl  -- incessantly, continuously	__ harıl harıl ders çalışmak. (
 hane  -- section, digit [persian suffix] (arch)	__ hastane, pastane, dershane...
 aylarca  -- for months	__ aylarca seni bekledim.
 nitekim  -- thus, hence, indeed, in fact; nasıl ki	__ 
-kuru meyve  -- dried fruit
-ballı ev  -- homemade	__ kuru meyve ve ballı ev yapımı yoğurt
-çırpılmış yumurta  -- scrambled eggs
+kaju fıstığı  -- cashew nuts  (fd)	-- kızartılmış kaju fıstığı.
+karbonhidrat  -- carbohydrate
 

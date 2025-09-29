@@ -2729,7 +2729,7 @@ fufutende  -- tepid, lukewarm, balmy; vuguvugu; asiyekuwa na msimamo wala hiari	
 -fuga majani  -- leaves grow
 -fuga ndevu  -- let beard grow
 -fuga nguvu  -- relax
--fuga nywele  -- let hair grow
+-fuga nywele  -- let hair grow	__ zamani nilikuwa napenda kufuga nywele.
 -fuga  -- raise animals, let sth grow	__ fuga nywele. fuga nguvu (relax). fuga ndevu. fuga majani.
 -fuga rasta  -- grow dreds	__ nitafuga rasta kwa ajiri yako.
 -fuia  -- lower; pungua, malizika au isha kwa nguvu za kitu, kasi au chaji
@@ -8249,8 +8249,8 @@ mchanga  -- young	__ mtoto mchanga (baby)
 mchango  {mi}  -- collection, donation	__ tunataka kufanya mchango kwa ajili ya kuwasaidia watoto yatima.
 mchango  {mi}  -- contribution  (tech)	__ 
 mchanjo  {mi}  -- vaccination, immunization	__ mchanjo ya kinga ya usoni. zoezi la mchanjo dhidi ya ugonjwa wa polio lilienda vizuri.
-mchapakazi  {wa}  -- hard worker	__ 
-mchapasi  {wa}  -- anayefanya kazi kwa bidii	__ alikiri kwamba nilikuwa mchapasi hasa.
+mchapakazi  {wa}  -- hard worker; anayefanya kazi kwa bidii		__ yeye ni mchapakazi sana.
+mchapasi  {wa}  -- hard worker; anayefanya kazi kwa bidii	__ alikiri kwamba nilikuwa mchapasi hasa.
 mchapishaji  {wa}  -- printer publisher	__ mchapishaji wa vitabu
 mchapo  {mi}  -- anecdote, entertaining account of sth
 mchapo  {mi}  -- gossip, news, rumor	__ halafu kuna mchapo niolisahau kukupa.
@@ -13451,7 +13451,7 @@ talasimu  -- charm, talisman hung on wall / door	__
 -talii  -- enda kwenye nchi ya kigeni au eneo usilofahamu kwa mapumziko ili kuona jinsi lilivyo.
 -talii  -- revise, review; soma kwa mazingatio yale uliyokwisha kufundishwa; durusu	__ mwanafunzi aliyatalii masomo yake.
 -taliki  -- divorce {v}
-tamaa  -- desire, lust
+tamaa  -- desire, lust	__ tamaa ya mapenzi.
 -tamalaki  -- control, govern, own ?; kuwa na mamlaka ya kitu fulani; miliki, tawala	__ waliohamia bara kutoka pwani na kutamalaki hususan ktk miji. 
 tamanio {ma}  -- expectation, wish, desire; jambo ambalo mtu anatamani angekuwa nalo	__ tamanio lake la kutaka kujenga nyumba kubwa halikusibu.
 -tamani  -- wish for, covet, yearn; taka	__ ## tamania, tamanika, tamanisha, tamaniwa, tamaniana.
@@ -17897,4 +17897,8 @@ uwanda  {ny} [nyanda]  -- research field
 nyanda  -- plains, plateaus	__ nyanda za juu.
 nyanda za juu  -- highlands 
 suki  -- siasa na uhusiano wa kimataifa (suki)
+nguvu ya ushawishi  -- leverage
+nguvu ya kujitamkia  -- affirmations; maneno sahihi kila siku
+-geuza ndoto kuwa ukweli  -- turn dreams into reality
+ubunifu wa akili  -- imagination; nguvu ya kufikiria na kuona ndoto kabla hazijawa kweli
 
