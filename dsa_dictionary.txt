@@ -6386,8 +6386,7 @@ kizio cha uvutano  -- gravitational unit
 kizio  {ki}  -- half of sth round	__ kizio cha nazi
 kizio  {ki}  -- unit, base  (math)
 kiziwi  {ki}  -- deaf person
-kizuizi  {ki}  -- obstacle, barrier; kitu kinchopinga au kufupisha maendeleo ya kitu kingine
-kizuizi  {ki}  -- obstacle, barrier	__ polisi waliweka vizuizi barabarani ili kuzichunguza gari zilizoibiwa.
+kizuizi  {ki}  -- obstacle, barrier; kitu kinchopinga au kufupisha maendeleo ya kitu kingine. polisi waliweka vizuizi barabarani ili kuzichunguza gari zilizoibiwa.
 kizuka  {ki}  -- period of mourning for widowed wife; mwanamke anayekaa eda kwa kufiwa na mumewa
 kizungumkuti  -- mystery, enigma; kitu au jambo lisiloeleweka	__ kizungumkuti cha silaha za maangamizi bado kinayahangaisha mataifa makubwa.
 kizunguzungu  -- dizziness	__ 
@@ -10836,7 +10835,7 @@ okiek, kiokiek  -- tribe in tanzania
 -okoka  -- be rescued, saved; okoa 
 -okoteza  -- collect things from different sources; babia
 -okoteza  -- do sth like an amateur without professional skills, fumble
-ole!  -- grief  (expl)
+ole!  -- grief  (expl)	__ ole wake police amgusee raia anayedai haki.
 -omba radhi  -- ask for an apology  (idm)	__ naomba radhi kwa hilo; samahani.
 -omba ruhusa  -- ask for permission	__ 
 -omba toba  -- ask divine forgiveness
@@ -12251,8 +12250,10 @@ sakafu  -- story, floor [of building, ordinal]	__ kuanzia sakafu ya kwanza mpaka
 -sakama  -- pester, annoy sby; nag, insist	__ maneno yake yalinisakama moyoni. wechezaji wao walilisakama goli la timu yetu katika dakika za mwisho.
 sakarani  -- unconscious passed out drunk	__ hali yake ilikuwa sakarani.
 -saka riziki  -- hunt, search for food	__ 
-sakata  -- chaos, disorder; controversy	__ sakata ilizidi kuwa kubwa katika kipindi cha pili.
--sakata  -- hit; go at it; do sth wonderfully well; kushindana, shindano	__ alikisakata chakula. alimsakata ngumi. alisakata disko usiku kucha. yeye anajua kulisakata gozi.
+sakata  -- chaos, disorder; msukumano na mvutano kv kwenye ghasia	__ sakata ilizidi kuwa kubwa katika kipindi cha pili.
+sakata  -- controversy; tendo au tukio linalochukuliwa kijamii au kisheria kuwa ni kosa linalotendwa na maofisa kv serkalini au ktk mashirika; kashfa	__ sakata ilizidi kuwa kubwa katika kipindi cha pili.
+-sakata  -- hit, go at it; kushindana, shindano	__ alikisakata chakula. alimsakata ngumi.
+-sakata  -- do sth wonderfully well	__ alisakata disko usiku kucha. yeye anajua kulisakata gozi.
 -sakata rumba  -- cheza ngoma  (idm)	__ 
 -saki  -- be crammed together, be tight, stuck [clothes, bottle stopper]	__ kizibo kilisaki kwenye mdomo wa chupa.
 -sakifu  -- lay cement floor	__ nilisakifu nyumba yangu.
@@ -12956,7 +12957,8 @@ sina pupa  -- no rush (idm)
 sindano  -- hypodermic needle	__ 
 sindano ya kushonea  -- sewing needle
 -sindika  -- close, shut [door, window] w/o fastening; shindika	__ aliusindika mlango wangu.
--sindika  -- extract liquid; mill	__ mbata husindikwa na kutoa mafuta ya nazi.
+-sindika  -- extract liquid	__ mbata husindikwa na kutoa mafuta ya nazi.
+-sindika  -- mill, process [produce]	__ kiwanda cha kusindika mazao.
 -sindikiza  -- accompany sby, go together with	__ pia namsindikiza rafiki
 si ndivyo?  -- isn't it?
 singa  -- long straight hair	__ 
@@ -16820,7 +16822,7 @@ familia  -- us two; sisi wawili  (slang)	__ basi dua nyingi sana familia.
 basi dua nyingi sana familia  -- nakutakia kila la kheri ndugu yangu.
 mwangwi {mi}  -- echo; sauti inayorejea kwa mara ya pili baada ya kutolewa kv mtu anapopiga kelele ndani ya pango au msituni	__ mwangwi wa ukarimu.
 mstaafu {wa}  -- retired person	__ waziri mkuu mstaafu wa tanzania, edward lowassa amefariki dunia leo.
--dili  -- deal with, handle	__ tcra kudili na matapeli mitandaoni.
+-dili  -- deal with, handle	__ tcra kudili na matapeli mitandaoni. watadili nao.
 viparo  -- small business, micro-enterprise	__  ili kuwaibua wanawake wa chini waweze kukuza viparo vyao na kuendesha Biashara zao Kwa nyanja mbalimbali ikiwemo mitandao.
 fursa za masomo  -- scholarships	__ chuo kikuu cha dar es salaam kwa kushirikiana na kampuni ya bright famous na british counsel limeanda jukwaa la fursa za masomo ya nje tanzania scholarship fair.
 -tia unyagoni  -- teach female tribal marital customs at puberty initiation  (idm)
