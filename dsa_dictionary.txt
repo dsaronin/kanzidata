@@ -941,7 +941,7 @@ bofyabofya  -- double-click  (tech)
 -bogoa  -- taz pogoa: prune tree
 bohari  -- dockside whse	__ 
 boma  {ma}  -- stocade, fort, citadel; colonial HQ
-bomba  -- hosepipe, waterpump	__ bombA la kuvutia maji
+bomba  -- hosepipe, waterpump	__ bomba la kuvutia maji
 bomba la kupulizia  -- sprayer
 bomba la kutoa maji  -- drain
 bomba la nyuki  -- swarm of bees
@@ -16001,6 +16001,7 @@ vuta nikuvute  -- struggle, tussle
 -vuta pumzi  -- breathe {v}	__ 
 -vuta toba  -- ask forgiveness
 -vutia  -- be attractive, interesting, impressive; pendeza	__ msichana yule anavutia. anahitajika kijana mpishi anayejua kuchoma chapati nzuri za kuvutia.
+-nivutia  -- x attracts me	__ unanivutia. nimevutiwa nawe. je umevutiwa nami?
 vuu  -- suddenly, abruptly, hurriedly; ghafla, fajaa	__ mambo yali yalitokea vuu.
 -vuvia  -- fan/blow sth	__ mpishi aliuvuvia moto ili uwake vizuri
 -vuvumka  -- be swollen, enlarge, magnified
@@ -17903,4 +17904,5 @@ nguvu ya ushawishi  -- leverage
 nguvu ya kujitamkia  -- affirmations; maneno sahihi kila siku
 -geuza ndoto kuwa ukweli  -- turn dreams into reality
 ubunifu wa akili  -- imagination; nguvu ya kufikiria na kuona ndoto kabla hazijawa kweli
-
+-inuka  -- get up, stand up; kuwa wima; simama, ima, simika	__ nitainuka na nguvu mpya.
+-inuka  -- be erect; disa, dinda
