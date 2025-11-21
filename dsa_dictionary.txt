@@ -8014,7 +8014,7 @@ matope  -- mud	__ nguo yenye matope itafuliwa na kupigwa pasi.
 matubwitubwi  -- mumps	__ 
 matukio  {ma}  -- events  (tech)
 matulubu  -- taz matilaba: objective, purpose
-matumaini  -- hope	__ nina matumaini nitakijua kiswahili vizuri.
+matumaini  -- hope	__ nina matumaini nitakijua kiswahili vizuri. matumaini yanapatikana kwa jinsi nilivyoona leo.
 matumbi, kimatumbi  -- tribe in tanzania
 matumbo ya kuhara  -- diarrhea  (idm)
 matumbo ya maua  -- flower buds
