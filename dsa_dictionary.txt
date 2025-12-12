@@ -2811,6 +2811,7 @@ funda la maji  -- mouthful of water	__
 funda  {ma}  -- mouthful [of sth]; gulp	__ piga mafunda ya maji.
 -funda  -- pound, crush, pulverize; twanga vitu vikavu mpmaka viwe laini kama unga; ponda, twanga, dunda	__ alifunda tangawizi kwenye kinu. mhogo ulifundwa. funda makopa.
 -funda  -- teach child traditional ways at puberty, teach tribal matters; fundisha, hasa mafundisho ya nyumbani; tia unyagoni	__ alimfunda bintiye kufuata mwenendo mzuri.
+-funda  -- trained in ways of lovemaking	__ nimefundwa unyagoni mpaka nifundika.
 -funda  -- educate, indoctrinate, train, impart knowledge/skills	__ TRA yawafunda wanahabari wa mtandaoni.
 fundibomba  -- plumber	__ mwambie fundibomba aje aitengeneze bilula yale.
 -fundika  -- form bud of flower
@@ -7816,7 +7817,7 @@ maokozi  {ma}  -- tendo la kutoa ktk hatari
 maombolezi  {ma}  -- lamentations, mourning	__ nyimbo za maombolezi
 maombolezo  {ma}  -- lamentations, mourning	__ nyimbo za maombolezi
 maonevu  [u-ma]  -- bullying, oppression	__ 
-maongezi  {ma}  -- talk, conversation	__ maongezi yake yanachangamsha.
+maongezi  {ma}  -- talk, dialog, chat; mambo yanayozungumza na watu, agh ili kupitisha wakati; mazungumzo, gumzo	__ maongezi yake yanachangamsha. ukitaka kusitisha maongezi nae muombee vyeti vya kifo cha mama yake.
 maoni yangu nikawa siyatoi kwa yeyote wakati wowote  -- i didn't give my opinions for anybody at anytime  (phrs)
 maono  -- vision	__ pasipo elimu na maono dunia itaendelea kuwa pango.
 maono  -- visioin	__ maono ni ramani ya kile mtu anawaza.
@@ -14937,7 +14938,8 @@ ukahaba  -- prostitution; mwenendo wa mwanamume au mwanamke wa kushiriki uashera
 -uka  -- hate [sth w/o reason], abhor, loathe, dislike; zia, chukia	__ juma anamwuka mwalimu wake wa kemia bure.
 ukaidi  -- stubbornness	__ ukaidi wake umemletea maafa.
 ukakafu  -- acid taste left after eat unripe fruit	__ ndizi hizi zina ukakafu kwa vile hazijaiva.
-ukakamavu  -- determination, firmness, endurance, tenacity; solidity	__ bidi, ukakamavu na kujitoa mhanga ndiko kutakupa ufanisi. wafanyakazi walishinda kwenye mgomo wao kutokana na ukakamavu wao.
+ukakamavu  -- determination, endurance, tenacity	__ bidi, ukakamavu na kujitoa mhanga ndiko kutakupa ufanisi. wafanyakazi walishinda kwenye mgomo wao kutokana na ukakamavu wao.
+ukakamavu  -- firm, solid	__ nakupa dick nyeusi nzuri yenye ukakamavu.
 ukakasi  -- acid taste left after eat unripe fruit; ukakafu, ukamvu	__ unakutana na ukakasi lakini hivi vingine vyote wa kile ulichokisema.
 ukakiki  -- critique, review	__ uhakiki wa fasihi.
 ukale  -- ancientness, antiquity, oldness; uhenga	__ ukale wake umemfanya aheshimike kijijini.
@@ -15682,6 +15684,7 @@ utulizo  -- comfort, solace, tranquility	__ mgonjwa wangu alipata utulizo baada 
 utumbo {|}  -- intestines	__ 
 utumiaji  -- usage	__ utumiaji wa pesa vibaya unatia mawazo.
 utundu  -- naughtiness, impishness, prankishness; utukutu, usumbi	__ sawa ila punguza utundu. ndio wewe tu utundu wako tukiwa chumbani wawili.
+mautundu  -- naughty things, play	__ nahisi niko nazo hisia lkn zaidi utanifundisha mautundu.
 utungo  -- string {n}  (tech)
 utunzi  -- authorship	__ katika utunzi wa mashairi kuna kanuni kuu nne za kimsingi.
 utupu  -- nudity, nakedness; private parts	__ sehemu za utupu
@@ -16000,7 +16003,7 @@ vuta nikuvute  -- struggle, tussle
 -vuta  -- pull, attract	__ 
 -vuta pumzi  -- breathe {v}	__ 
 -vuta toba  -- ask forgiveness
--vutia  -- be attractive, interesting, impressive; pendeza	__ msichana yule anavutia. anahitajika kijana mpishi anayejua kuchoma chapati nzuri za kuvutia.
+-vutia  -- be attractive, interesting, impressive; pendeza	__ msichana yule anavutia. anahitajika kijana mpishi anayejua kuchoma chapati nzuri za kuvutia. matako yako malaini yanavutia kutomba.
 -nivutia  -- x attracts me	__ unanivutia. nimevutiwa nawe. je umevutiwa nami?
 vuu  -- suddenly, abruptly, hurriedly; ghafla, fajaa	__ mambo yali yalitokea vuu.
 -vuvia  -- fan/blow sth	__ mpishi aliuvuvia moto ili uwake vizuri
@@ -16644,6 +16647,7 @@ rula  -- ruler	__ nimenyooka kama rula
 -nyoosha mambo  -- smooth things out; fanya mambo kuwa faafu; tengeneza mambo kuwa kaama yalivyotarajiwa (idm)	__ yule mwali wa kiswahili ni mnyoosha mambo kweli, ona alivyosuluhisha tatizo lile.
 mnyoosha mambo {wa}  -- problem solver
 -nyoosha miguu  -- walk for pleasure or relaxation, stretch legs; tembea ili kujipumzisha; tembea pasipo na mahali maalum pa kwenda (idm)	__ nikitoka kazini jioni humwendea rafiki yangu juma ili tunyooshe miguu pamoja.
+-nyoosha  -- erection ?	__ niko na stamina ya kutosha nanyoosha haswa.
 mnyoosha miguu {wa}  -- walker, sby who likes to walk	__ mimi ni mnyoosha miguu, kwa hivyo nitaenda kuzunguka mji kwa muda.
 nyota njema  -- good luck; bahati nzuri  (idm)	__ leo nilikumbwa na nyota njema; nilipewa kazi ya shilingi elfu mbili kwa siku, kazi ambayo sikuitaraji kamwe.
 brosha  -- brochure [formal, official]
@@ -17758,7 +17762,7 @@ patapotea  -- gamble, pure luck	__ shughuli hii ni patapotea kwa vile haijaleta 
 -pata  -- do sth; wahi; tokea kufanya jambo	__ alipata kuchelewa kazini.
 -pata  -- be sharp; kuwa kali; koa	__ kisu kimepata.
 -vumbua  -- discover, invent, explore; anzisha kitu kwa mara ya kwanza kabla ya mtu mwingine yeyote; buni	__ madaktari wanajaribu sana kuvumbua tiba ya ukimwi.
--vumbua  -- discover, devise, create sth new; ona kilichokuwa kimejificha; gundua	__ alijaribu kuvumbua mbinu mpya za kumshinda adui.
+-vumbua  -- discover, devise, create sth new; ona kilichokuwa kimejificha; gundua	__ alijaribu kuvumbua mbinu mpya za kumshinda adui. endelea sasa nimekuvumbua.
 -chimbua  -- find out [source of sth]; tafuta asili ya kitu au jambo	__ walichimbua chanzo cha mto.
 -chimbua  -- dig up, excavate; toa kitu kutoka ardhini; fukua, zua, zikua	__ alichimbua visukuku vya zamani.
 -gundua  -- discover [sth hidden], invent; ona kitu kilichokuwa kimejificha au kimefichwa; vumbua, fichua, fuma	__ niligundua kwamba taarifa yake si kweli.
@@ -17906,3 +17910,12 @@ nguvu ya kujitamkia  -- affirmations; maneno sahihi kila siku
 ubunifu wa akili  -- imagination; nguvu ya kufikiria na kuona ndoto kabla hazijawa kweli
 -inuka  -- get up, stand up; kuwa wima; simama, ima, simika	__ nitainuka na nguvu mpya.
 -inuka  -- be erect; disa, dinda
+-vunja kiuno  -- break hips [fuck?]  (slang)	__ mapenzi yangu utayaweza niko vizuri nitakuvunja kiuno.
+mhadhisi  {wa}  -- lecturer
+uzamifu  -- phd, doctorate
+uzamili  -- masters
+stashahada  -- diploma
+astashahada  -- certificate
+mafunzo kazi  -- internship
+haitoshelezi  -- not enough	__ bando limeisha haitoshelezi.
+
