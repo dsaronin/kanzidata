@@ -343,11 +343,12 @@ anatoa huduma kwa njia ya simu popote ulipo  -- he provides his service by phone
 -andaa  -- prepare, ready, cater [food]	__ mama atatuandalia sisi chakula.
 -andaa  -- prepare, organize [sby, sth]	__ mbinu za kumuandaa kijana kuwa kiongozi.
 -andama  -- begin, start; anza	__ kufunga kumeandama.
--andama  -- chase, pursue, run after, follow up; peleleza	__ askari wananiandama.
--andama  -- follow up, be next [in order]; fuata, inza, fuasa, fuatia, ambatana unyounyo	__ wezi wanamwa.
--andamana  -- accompany [on foot]	__ ikiwa mwezi utaandama kesho, basi waislamu watafunga siku ya pili yake.
--andamana  -- demonstrate, march, go in procession	__ wafanyakazi waliandamana mpaka kwa waziri.
--andamana  -- tembea kwa kufuatana agh kwa watu wengi kuonyesha kuridhika au kutoridhika na jambo	__ watu wengi waliandamana kuunga mkono uamuzi wa serikali.
+-andama	 -- begin, start, appear [moon/month]; anza, onekana kwa mwezi	__ ikiwa mwezi utaandama kesho, basi waislamu watafunga siku ya pili yake.
+-andama  -- hound, harass, stalk, target, be on sby case; sakama, fuatilia vibaya	__ askari wananiandama. kwa nini juma anamwandama hadija?
+-andama  -- follow in order [birth order, succession]; fuata, fuatia	__ juma alimwandama ali kuzaliwa.
+-andamana	-- demonstrate against sth/sby; fanya maandamano ya kupinga	__ wafanyakazi waliandamana mpaka kwa waziri.
+-andamana	-- march / go in procession [group of people]; tembea kwa kufuatana agh kwa watu wengi kuonyesha kuridhika au kutoridhika na jambo	__ watu wengi waliandamana kuunga mkono uamuzi wa serikali.
+-andamana	-- accompany / go together [entourage] (formal); fuatana pamoja, ongozana katika safari au shughuli	__ waziri aliandamana na ujumbe wa watu kumi.
 ~andamizi  -- senior [sth]; -a ngazi ya juu	__ mhadhiri mwandamizi [senior lecturer].
 ~andamizi  -- tending to follow the next in order; -enye kufuata	__ 
 -andamwa [na fahali]  -- being chased [by a bull]
@@ -2944,7 +2945,8 @@ furaha na fahari yangu  -- pride and joy
 furi  -- brimfull, filled up capacity	__ maziwa yalijaa furi kwenye jagi.
 furi furi  -- brimfull	__ dawa zilijaa furifuri ili kumhakikishia kila mgonjwa uzima wake.
 furifuri  -- brimfull	__ dawa zilijaa furifuri ili kumhakikishia kila mgonjwa uzima wake.
--furika  -- overflow	__ mto ulifurika. mto huu hufurika wakati wa masika.
+-furika  -- flood, overflow	__ mto ulifurika. mto huu hufurika wakati wa masika.
+-furika  -- overflow into, inundate, swarm to [locative]; -jaa na kumwagikia [mahali]	__ maji yamefurika barabara.
 fursa  -- chance, opportunity	__ kupata fursa.
 -furuka  -- grow up develop; be cheerful	__ amefuruka haraka ingawa ni mdogo. amefuruka kwa vile wazee wake wamemnunulia baiskeli.
 -furukuta  -- escape forcefully	__ alijaribu kufurukuta aliposhikwa na askari kanzu.
@@ -5716,7 +5718,8 @@ kikundi  {ki}  -- phrase, grouping  (gram)  -- kikundi vumishi
 kikundi vumishi  -- adjectival group
 kikuyu, kikikuyu  -- tribe in tanzania
 kikwapa  {ki}  -- armpit odor
-kikwazo  {ki}  -- obstacle, hinderance; sanction; taz kizuizi	__ walimwekea vikwazo ili asipige kura. vikwazo bya kiuchumi viliwekewa nchi ya jirani. polisi waliweka vikwazo barabarani ili kuzicheki gari zilizoingia nchini kiholela.
+kikwazo  {ki}  -- obstacle, hinderance; taz kizuizi	__ walimwekea vikwazo ili asipige kura. polisi waliweka vikwazo barabarani ili kuzicheki gari zilizoingia nchini kiholela.
+kikwazo  {ki}  -- sanction; taz kizuizi	__ vikwazo vya kiuchumi viliwekewa nchi ya jirani.
 kikwi  -- numerous, many	__ niliwaona watu kikwi kwenye mazishi.
 kikwi  -- one thousand, 1000; elfu  (arch)
 kilabu  {ki}  -- club
@@ -5839,10 +5842,12 @@ kinamasi {ki}  -- sludge, slime; kitu au mafuta yanayonata	__ meza ile ilikuwa n
 kinamo  -- flexibility, pliability, plasticity; -a kunyumbuka au kuvutika bila ya kakatika
 kinamo  -- flexible, pliable; -a kunyumbuka au kuvutika bila ya kakatika	__ mti wa kinamo.
 kinanda  -- piano, harmonium, stereo	__ sebuleni kuna vinanda vyenye sauti.
-kinara  {ki} [a-wa]  -- chairperson, leader; kiongozi, mwenyekiti
-kinara  {ki}  -- candlestick; kifaa cha kusimamishia mshumaa
+kinara  {ki} [a-wa]  -- figurehead, chairperson, leader; kiongozi mkuu, kiranja, mwenyekiti [positive]
+kinara  {ki} [a-wa]  -- kingpin, ringleader, mastermind, boss [negative]	__ kinara wa genge la dawa za kulevya.
+kinara  {ki} [a-wa]  -- front-runner, top scorer, top performer [competition]	__ kinara wa mabao. kinara wa uchaguzi.
 kinara  {ki}  -- performance platform [stage, stand]; kibanda kidogo kilichoinuka na hutumiwa kwa shghuli za kusomea maulidi au kuhutubia mikutnao ya hadhara
-kinara  {ki}  -- shirt embroidery; mshono wa urembo ktk vazi kv shigo ya kazu
+kinara  {ki}  -- kanzu structural collar embroidery to stiffen collar; mshono wa urembo ktk vazi kv shingo ya kanzu
+kinara  {ki}  -- candlestick [< mnara]; kifaa cha kusimamishia mshumaa
 kina  -- rhyming syllable	__ silabi ya mwisho katika kila sehemu ya mshororo
 kinaya  {ki}  -- ironically  (conj)	__ ...lakini kinaya ni kwamba alikuwa amekasirika sana.
 kinaya  {ki}  -- pride, arrogance, insolence; kiburi	__ unafanya hivyo kwa kinaya tu.
@@ -10840,7 +10845,7 @@ okiek, kiokiek  -- tribe in tanzania
 -okoteza  -- collect things from different sources; babia
 -okoteza  -- do sth like an amateur without professional skills, fumble
 ole!  -- grief  (expl)	__ ole wake police amgusee raia anayedai haki.
--omba radhi  -- ask for an apology  (idm)	__ naomba radhi kwa hilo; samahani.
+-omba radhi  -- apologize [for sth]  (idm)	__ naomba radhi kwa hilo; samahani. ndugu mteja tunaomba radhi kukosekana kwa huduma ya umeme leo.
 -omba ruhusa  -- ask for permission	__ 
 -omba toba  -- ask divine forgiveness
 -omboleza  -- mourn, grieve	__ aliomboleza kifo cha rafiki yake.
@@ -11911,7 +11916,9 @@ rabi  -- God
 rabsha  -- disorder, melee	__ wachezaji walileta rabsha kubwa uwanjani.
 rabsha  -- melee, chaos, brawl	__ wachezaji walileta rabsha kubwa uwangani.
 rada  -- God's punishing power
-radhi  -- satisfaction; apology; blessing	__ sisi tuko radhi kufa juu ya mali yetu na haki zetu. amekosa radhi kwa wazee wake.
+radhi  -- satisfaction	__ sisi tuko radhi kufa juu ya mali yetu na haki zetu. 
+radhi  -- apology; msamaha, buriani	__ nakuomba radhi. niwie radhi.
+radhi  -- blessing; baraka	__ anasumbuka na ulimwengu kwa sababu amekosa radhi kwa wazee wake. radhi ni bora kuliko mali.
 radiator  -- rejeta
 -radidi  -- repeat, reiterate	__ anapenda kuliradidi jambo lile kwa lile.
 radi  -- lightning bolt	__ 
@@ -12963,7 +12970,8 @@ sindano ya kushonea  -- sewing needle
 -sindika  -- close, shut [door, window] w/o fastening; shindika	__ aliusindika mlango wangu.
 -sindika  -- extract liquid	__ mbata husindikwa na kutoa mafuta ya nazi.
 -sindika  -- mill, process [produce]	__ kiwanda cha kusindika mazao.
--sindikiza  -- accompany sby, go together with	__ pia namsindikiza rafiki
+-sindikiza	-- escort sby, see sby off [send off sby]; -safiri na mtu kipande cha njia ili kumuaga	__ nilimsindikiza mgeni mpaka stendi ya basi.
+-sindikiza	-- wash down [food], push down; sukuma chakula kwa kinywaji	__ alikula mkate na kusindikiza na chai.
 si ndivyo?  -- isn't it?
 singa  -- long straight hair	__ 
 -singa  -- massage	__ kumsingia mfalme kwa sandali
@@ -14610,7 +14618,10 @@ uasilia  -- naturalism [action / thought based on natural desires/instincts]
 uasilia  -- naturalness
 uasi  [u-ma]  -- rebellion, mutiny	__ wanajeshi walifanya uasi.
 -ua viini vya maradhi vijidudu  -- disinfect; safisha, takasa
-ubabe  -- heroism, boldness, macho, toughness, muscle	__ watu wale wanapenda kuonyeshana ubabe.
+ubabe {u} -- strong-arm tactics, muscle-flexing, hegemony, bullying, machismo; mabavu, utemi, uonevu	__ marekani inaendeleza ubabe kwa kutuma meli za vita.
+ubabe {u} -- toughness, boldness, heroism [colloquial]; ujasiri, ushujaa	__ watu wale wanapenda kuonyeshana ubabe.
+ubano {u} -- restriction, austerity, squeezing, clamping; hali ya kubana, dhiki, ukata	__ tangazo la ubano wa matumizi ya serikali limetolewa leo.
+ubabe na vitisho -- strong-arm tactics and threats, intimidation and bullying; matumizi ya nguvu na kutishia	__ katika kuendeleza ubabe na vitisho kwa venezuela, marekani imetuma wanajeshi elfu kumi na tano.
 ubadhirifu  -- embezzlement  (biz)
 ubaguzi  -- racism	__ 
 ubahili  -- miserliness, meanness, stinginess; hali ya mtu kubania pesa au mali hata kwa haja zake mwenyewe	__ juma alivuliwa kofia kwa ubahili wake. ubahili ni sifa mbaya
@@ -14837,7 +14848,7 @@ ngoe  -- hooked sticks [pl ugoe]
 ugoe  -- hook foot to trip sby	__ piga ugoe
 ugoko  -- shin
 ugomba  -- youth friendship
-ugomvi  -- quarrel, dispute	__ 
+ugomvi  -- quarrel, dispute	__ juma anadai ugomvi wake na adija ni wa sababu tatu.
 ugoni  -- act of surprising one committing adultery
 ugoni  -- fine for committing adultery
 ugonjwa {ma}  -- illness
@@ -17921,4 +17932,8 @@ stashahada  -- diploma
 astashahada  -- certificate
 mafunzo kazi  -- internship
 haitoshelezi  -- not enough	__ bando limeisha haitoshelezi.
+-weka vikwazo  -- impose sanctions	__
+uharamia  -- piracy
+uharamia wa kimataifa  -- international pirate
+karibiani  -- caribbean	__ bahari ya karibiani.
 
