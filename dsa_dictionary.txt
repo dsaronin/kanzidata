@@ -2654,9 +2654,12 @@ fito  -- fagio	__
 fizikia  -- physics  (sci)
 flashi  -- flush
 flexible  -- kinamo, -nama
--foka  -- rant, fulminate, thunder	__ alinifokea hadharani.
--foka  -- soar, swell up/over; spurt out, gush	__ maziwa kwenye birika yalikuwa yanafoka yalipochemka. maji yalikuwa yanafoka kwenye bomba lililopasuka.
--fokea  -- rage at sby	__ alinifokea burebure. askari aliwafokea huku akirudi nyuma na hapohapo.
+fokasi  -- focus
+-foka  -- rant, fulminate, yell; toa maneno harakaharaka na kwa hasira; sema kwa ukali; ghadhibika, hamaki	__ alinifokea hadharani.
+-foka  -- soar, swell up/over; kutoa povu kwa maziwa wakati yanapochemka na kutaka kumwagika	__ maziwa kwenye birika yalikuwa yanafoka yalipochemka.
+-foka  -- spurt out, gush out [water]; toka maji kwa nvuvu kv ktk chemchemi au tundu ktk mashua; bubujika, buguika	__ maji yalikuwa yanafoka kwenye bomba lililopasuka.
+-fokea  -- yell at sby angerly	__ alinifokea burebure. askari aliwafokea huku akirudi nyuma na hapohapo.
+foko  -- filled to the brim, top; tele, fukuchi	_- nilijaza maji foko kwenye ndoo.
 folda  -- folder  (tech)
 folda  -- folder  (tech)
 foleni  -- queue {n}  (tech)
