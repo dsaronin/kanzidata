@@ -746,8 +746,8 @@ barakala  {ma}  -- sycophant, flatterer; mtu anayesifu watu wenye mamlaka kupita
 barakoa  -- face mask [health]	__  je barakoa zinapatikana wapi?
 barakoa  -- muslim woman's head / face veil	__ 
 bara  {ma}  -- continent; land in general; interior, mainland	__ bara la afrika. tanzania bara. bara hindi.
-baramaki  {wa}  -- quack, charlatan, person pretending to know sth but doesn't	__ hii ni njama yako wewe mwanamke baramaki!
-baramaki  {wa}  -- rogue, trickster, impostor; mjanja	__ 
+baramaki  {wa}  -- quack, charlatan  (obscure)	__ hii ni njama yako wewe mwanamke baramaki!
+baramaki  {wa}  -- rogue, trickster, impostor; mjanja  (obscure)	__ 
 baraste  -- speedway
 baraza  -- council	__ 
 Baraza Kuu la Umoja wa Mataifa  -- UN General Assembly
@@ -3258,7 +3258,7 @@ guberi  {adv}  -- lecherous, adulterous, lustful; fisadi	__ yeye ni guberi kweli
 guberi  {ma} [a-wa]  -- colonizer, imperialist; beberu, mkoloni
 guberi  {ma} [a-wa]  -- lecher, adulterer, womanizer, whoremonger; gawadi, kuwadi, fisadi
 guberi  {ma} [a-wa]  -- prostitute, whore, slut; malaya, mkware
-guberi  {ma} [a-wa]  -- swindler, conman, crook, trickster; tapeli
+guberi  {ma} [a-wa]  -- swindler, conman, crook, trickster; tapeli  (arch)
 gubigubi  -- entire body	__ 
 -gubika  -- cover up completely	__ mkutano uligubikwa na migogoro ya nchi za wanachama.
 gubiko la wingu la ulevi  -- mraibu hodari wa kunywa pombe
@@ -3692,6 +3692,7 @@ hayazoleki  -- cant be gathered up	__ maji yaliyomwagika hayazoleki.
 hazama  -- nose ring	__ 
 hazidishi hapunguzi  -- hayana athari yoyote
 hazina  -- treasure, wealth [of ruler  (hist)]	__ mweka hazina [treasurer]
+hazina  -- reserves [resources]	__ nchi yenye hazina kubwa zaidi ya mafuta duniani.
 hazitamaniki hazitazamiki  -- not desired, not seen  (phrs)
 hebu nipashe  -- well, tell me  (idm)	__ 
 hebu  -- well, please, come on  (slang)	__ hebu twambie mambo yaendaje lakini.
@@ -5381,6 +5382,7 @@ kichaga  {ki}  -- rack of sth	__ kichaga cha maharage
 kichaka cha miti  -- thicket of trees	__ 
 kichaka cha ~  -- thicket of shrubs	__ wakulima wasiojua wamekata kichaka cha miti.
 kichaka  {ki}  -- underbrush; kwenye miti mifupifupi na nyasi; msitu	__ tabia hii mbaya ya kwenda chooni vichakani.
+kichaka  {ki}  -- pretext, smokescreen, diversion	__ juma mshtumu ally kwa kutumia vita dhidi ya dawa za kulevya kama kichaka cha kumng'oa yeye madarakani. 
 kichakata matini  -- word processor  (tech)
 kicha  {ki}  -- bunch of sth; bundle of sth	__ 
 kichala cha matunda [mtini]  -- cluster of fruits	__ 
@@ -8202,6 +8204,7 @@ mbugwe, kimbugwe  -- tribe in tanzania
 mbuji  {wa}  -- expert	__ yeye ni mbuji wa kuimba.
 mbulu, kimbulu (in arusha)  -- tribe in tanzania
 mbumbumbu  {wa}  -- fool [person]; mjinga, zuzu
+mbumbumbu  {wa}  -- illiterate, thick-headed, dunce, blockhead	__ ah, wewe ni mbumbumbu nini?
 mbunga, kimbunga  -- tribe in tanzania
 mbunge  {wa}  -- legislator, member of parliament	__ 
 mbung'o  -- tsetse fly	__ 
@@ -8573,7 +8576,7 @@ mhodhi  {wa}  -- monopolist, hoarder; mtu anayelundika mali au bidhaa; mkiritimb
 mhojiwa  {wa}  -- interviewee	__ 
 mhubiri  {wa}  -- preacher, evangelical	__ 
 mhudumu  {wa}  -- waiter, janitor, attendant	__ mhudumu wa mkahawa alijibizana na mtega wake.
-mhuni  {wa}  -- vandal, thug, outcast	__ asiwe mtu muhuni, hatari kukupoteza.
+mhuni  {wa}  -- vandal, thug, outcast, rogue  (slang)	__ asiwe mtu muhuni, hatari kukupoteza.
 mhunzi wa chuma  {wa}  -- blacksmith
 mhunzi wa mawe  {wa}  -- stone cutter
 mhunzi  {wa}  -- metalworker	__ mhunzi wa chuma
@@ -8683,11 +8686,9 @@ mjamzito  {wa}  -- pregnant woman	__
 mjane  {wa}  -- single p, widower, divorcee	__ 
 mjango  -- safari isiyo na manufaa  (idm)
 mjanja  {wa}  -- sly, conman, trickster, shyster; mtu mwenye hila; mdanganyifu, ayari, laghai, guberi, mzushi, ibilisi, mswahili, baramaki
-mjanja  {wa}  -- clever, smart, brave; mtu mwenye akili; hodari
-mjasiliamali  {wa}  -- entrepreneur	__ 
+mjanja  {wa}  -- clever, street smart [proud]; mtu mwenye akili; hodari
 mjasiriamali  {wa}  -- entrepreneur	__ 
-mja  {wa}  -- human being	__ ada ya mja hunena, muungwana ni kitendo
-mja  {wa}  -- human, creature; kiumbe wa Mungu	__ 
+mja  {wa}  -- human being, creature; kiumbe wa Mungu	__  ada ya mja hunena, muungwana ni kitendo
 mjazo  -- unstructured prose	__ lugha ya mjazo (isiyo ya kishairi)
 mjeuri  {wa}  -- rude, insolent p	__ waarabi ni wajeuri sana
 mjihudu  {wa}  -- narcisist	__ 
@@ -8912,7 +8913,7 @@ mkwasi  -- rich person, tycoon	__ wakwasi wachache kudhibiti sana utajiri wa dun
 mkwe  -- son-in-law	__ 
 mkwezi  -- coconut picker	__ 
 mlaanifu  {wa}  -- tamko la kumtaja mtu aliyekosa radhi. mtu mwenye laana. mtu mwenye vitendo visivyofaa.
-mlaghai  {wa}  -- swindler, cheater, crook	__ mlaghai yule haaminiki hata kidogo.
+mlaghai  {wa}  -- swindler, cheater, crook [formal, news]	__ mlaghai yule haaminiki hata kidogo.
 mlahaka  {mi}  -- mwingiliano wa watu
 mlahaka  {mi}  -- taz mapokezi, reception; namna ya kukaribisha au kulaki mgeni	__ rais anapotembelea nchi nyingine hupata mlahaka mzuri.
 mlaji  {wa}  -- consumer, good eater	__ walaji rushwa walipigwa kalamu.
@@ -10568,7 +10569,7 @@ nta  -- wax	__ nilikuwa nimeyatia masikio nta.
 ntimanyongo, kikorosho  -- not kind; roho mbaya  (slang)
 nudhuma  -- taz nudhumu: tungo ya kishairi
 nudhumu  -- tungo ya kishairi
--nufaika  -- profit, gain, benefit	__ wananchi wamenufaika kutokana na kuanzishwa kwa miradi mbalimbali.
+-nufaika  -- profit, gain, benefit [exploitative, cynical]	__ wananchi wamenufaika kutokana na kuanzishwa kwa miradi mbalimbali.
 -nufaisha  -- benefit, aid, profit sby	__ sera zake za kiuchumi haziwezi kuinufaisha nchi yao.
 nui  -- a major branch within a literary type encompassing other genres
 -nuia  -- resolve, decide, intend	__ amenuia kupanda mahindi msimu ujao.
@@ -12836,7 +12837,7 @@ shungwaya  -- uswahili homeland  (myth)
 -shusha  -- putting sby down	__ Hebu tuache kumshusha na kumsemea mabaya siku zote.
 -shusha thamani  -- degrade, debase
 -shushia  -- fuck, copulate, have sex with sby	__ 
-shutuma  -- accusation, blame, criticism; maneno anayoambiwa kwa nia ya kumdhalalisha	__ kila lalama za wakazi zikawa zikilakiwa na shutuma kwamba waliwaonea gere kwa ufanisi wao maishani.
+shutuma  -- accusation, blame, allegation; maneno anayoambiwa kwa nia ya kumdhalalisha	__ kila lalama za wakazi zikawa zikilakiwa na shutuma kwamba waliwaonea gere kwa ufanisi wao maishani.
 -shutumu  -- blame, scold, rebuke; laumu kv mtu kwa sababu ya ubaya aliotenda	__ mzazi alimshutumu bintiye bila ya sababu.
 shuweta  -- sweater
 shuyuhi  -- honorific senator  [title]	__ 
@@ -13594,7 +13595,7 @@ tao  {ma}  -- curve, arc, bend	__ njia imefanya matao.
 -tapatapa  -- fret, be worried, uneasy	__ mimi natapatapa tu hapa kitandani.
 -tapatapa  -- repeatedly tap, beat sth
 -tapeli  -- deceive, swindle, con sby	__ alishindwa kunitapeli.
-tapeli  {ma}  -- swindle, con	__ tunawataka wajiadhari na matepeli wanaowataka kulipa fedha kwa ahadi ya kuwasaidia kupata uhamisho.
+tapeli  {ma}  -- swindle, con [strong]  (colloq)	__ tunawataka wajiadhari na matepeli wanaowataka kulipa fedha kwa ahadi ya kuwasaidia kupata uhamisho.
 -tapeliwa  -- be tricked, fooled  (slang)	__ nilikutapeliwa na yule mtu.
 -tapika  -- vomit {v}	__ 
 -tapisha  -- cause to vomit
@@ -13665,7 +13666,7 @@ taswira ya mashaka  -- image of distress	__
 tathlitha  -- shairi lenye mishororo mitatu katika kila ubeti.
 tathmina  -- shairi lenye mshororo mmoja katika kila ubeti
 -tathmini  -- evaluate, value; respect, venerate; pima ubora au thamani	__ wakaguzi walilithamini shamba langu. simthamini mtu yule kwa sababu ya unafiki wake.
-tathmini  -- evaluation	__ juma nidye aliyeweza kutoa tathmini ya utendaji wake
+tathmini  -- evaluation, assessment; utafutaji au utoaji wa thamani ya kitu 	__ juma nidye aliyeweza kutoa tathmini ya utendaji wake
 tathnia  -- shairi lenye mishororo miwili katika kila ubeti.
 -tatiza  -- make difficult	__ sitaki kutatiza likizo yako.
 tatizo la ongezeko la joto duniani  -- global warming	__ moshi wa viwanda umedaiwa kuchangia pakubwa tatizo la ongezeko la joto duniani.
@@ -17936,4 +17937,7 @@ haitoshelezi  -- not enough	__ bando limeisha haitoshelezi.
 uharamia  -- piracy
 uharamia wa kimataifa  -- international pirate
 karibiani  -- caribbean	__ bahari ya karibiani.
+janjajanja  -- two-bit hustler, trickster [derogatory]
+kilaza  -- dense person, stupid  (slang)	__ soma meseji vizuri, usilete ukilaza hapa.
+hujui kusoma?  -- don't you know how to read?	__ nimeandika waziwazi. Hujui kusoma?
 
