@@ -2312,7 +2312,7 @@ enewei  -- anyway  (slang)
 -engua  -- skim off sth from surface of liquid [film, scum, coagulent]; ondoa povu juu ya maji au utando juu ya maziwa
 ~enye  -- at  (tech)
 -enye unyevunyevu  -- humid	__ angahewa yenye unyevunyevu
-enyi !  -- hey you	__ enyi jamani, mbona mnafanya hivi? upole imepotea wapi?
+enyi  -- hey you!	__ enyi jamani, mbona mnafanya hivi? upole imepotea wapi?
 -enzi  -- admire, praise, honor	__ lazima nchi yetu iwaenzi mashujaa wake
 enzi  -- era, period	__ 
 enzi na dahari  -- tangu zamani
@@ -13595,7 +13595,7 @@ tao  {ma}  -- curve, arc, bend	__ njia imefanya matao.
 -tapatapa  -- fret, be worried, uneasy	__ mimi natapatapa tu hapa kitandani.
 -tapatapa  -- repeatedly tap, beat sth
 -tapeli  -- deceive, swindle, con sby	__ alishindwa kunitapeli.
-tapeli  {ma}  -- swindle, con [strong]  (colloq)	__ tunawataka wajiadhari na matepeli wanaowataka kulipa fedha kwa ahadi ya kuwasaidia kupata uhamisho.
+tapeli  {ma}  -- scammer, swindler, conman [strong]  (colloq)	__ tunawataka wajiadhari na matepeli wanaowataka kulipa fedha kwa ahadi ya kuwasaidia kupata uhamisho.
 -tapeliwa  -- be tricked, fooled  (slang)	__ nilikutapeliwa na yule mtu.
 -tapika  -- vomit {v}	__ 
 -tapisha  -- cause to vomit
@@ -15952,7 +15952,7 @@ viungo chapuchapu  -- quick web links
 vivyo hivyo  -- therefore, for these reasons; bila ya kuwa vingine	__ 
 viwango vya kodi ya zuio  -- withholding tax rates  (biz)
 viwavyo vyovyote  -- by any means
--vizia  -- lurk, wait ambush; stalk	__ alimvizia paa mpaka akamkamata.
+-vizia  -- lying in wait for, ambush, stalk	__ alimvizia paa mpaka akamkamata.
 -vizia  -- tag along with; hang out with	__ mimi nakwenda kuvizia tu.
 vizuwizi  {ki}  -- shutdown	__ afrika kusini yajiandaa kwa siku 21 za vizuwizi.
 vocha kwanguliwa vibaya  -- voucher poorly scraped off
@@ -17940,4 +17940,10 @@ karibiani  -- caribbean	__ bahari ya karibiani.
 janjajanja  -- two-bit hustler, trickster [derogatory]
 kilaza  -- dense person, stupid  (slang)	__ soma meseji vizuri, usilete ukilaza hapa.
 hujui kusoma?  -- don't you know how to read?	__ nimeandika waziwazi. Hujui kusoma?
+-chunga sana  -- watch out!
+-nyatia  -- stalk, sneak up on; kunyata kumfuata mtu au mnyama kwa siri ili kumkamata	__ hamjui nani anayewanyatia kinyemela.
+-kaa chonjo  -- be on guard, stay alert, watch out; kuwa tayari kwa lolote litakalotokea, hasa la hatari	__ enyi matapeli mnaojiona wajanja... kaeni chonjo!
+-nenepa kwa jasho la wengine  -- getting fat on sweat of others
+-jisafisha kabisa  -- detoxification	__ mwili unahitaji angalau siku 30 ili kujisafisha kabisa na kuondoa sumu za aina yoyote ya kilevyo mwilini, kama vile bangi, mirungi, kafeini, sigara, au pombe.
+
 
