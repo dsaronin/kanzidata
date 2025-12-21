@@ -17958,4 +17958,7 @@ miadi ya mapenzi  -- romantic date; makubaliano ya kukutana kwa ajili ya kustawi
 -huisha  -- animate, enliven; tia uhai au uzima; fufua
 -huisha  -- revive, animate; fufua jambo kv mradi au shughuli iliyokuwa imesimama
 -ng’amua mambo  -- figure things out
-
+mtala {mi} [a-wa]  -- one of the wives in a polygamous marriage; mke mmojawapo miongoni mwa wake wa mtu mmoja
+mitala [a-wa]  -- wanawake wawilli au zaidi walioolewa na mume mmoja	__ juma ana mitala siku hizi.
+mitala [a-wa]  -- polygamy; ndoa ya wake wengi
+ndoa ya mitala  -- polygamous marriage
