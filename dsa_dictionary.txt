@@ -187,7 +187,7 @@ akisami  -- fractions	__
 -akisi  -- mirror {v}  (tech)
 akisi  -- reflection	__ akisi ya ajabu
 -akisi  -- reflect, echo, reverberate; rudisha nyuma mionzi au mwanga	__ kiyoo kiliuakisi uso wake. maji ya bwawa yaliakisi nyumba na miti iliyoizunguka.
--akisi  -- exemplify, manifest, exhibit, reflect sth; ashiria jambo fulani	__ tabia yake inaakisi waziwazi kiburi chake. waasisi wetu waliakisi muungano kwa kauli na matendo yao.
+-akisi  -- exemplify, manifest, exhibit, reflect sth; ashiria jambo fulani	__ tabia yake inaakisi waziwazi kiburi chake. waasisi wetu waliakisi muungano kwa kauli na matendo yao. matokeo hayaakisi maamuzi ya wananchi.
 akiwa  -- alipokuwa  (idm)
 akraba  [a-wa]  -- relatives; watu wanaohusiana kwa karibu ukoo
 akrabu  -- alama ya nge katika mfumo wa nyota
@@ -17964,6 +17964,7 @@ mitala [a-wa]  -- polygamy; ndoa ya wake wengi
 ndoa ya mitala  -- polygamous marriage
 nusu mlingoti  -- half mast	__ peperusha bendera ya taifa na nusu mlingoti.
 wasio na hatia  -- innocent [people]	__ wasio na hatia waliopoteza maisha.
-
+maangamizi  -- destruction; hali au tendo la uangamizaji; hali ya kuwepo au keleta uharibifu; nakama, gharika	__ silaha za maangamizi.
+silaha za maangamizi  -- weapons of mass destruction [wmd]
 
 
