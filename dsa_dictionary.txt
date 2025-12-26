@@ -7854,7 +7854,9 @@ mapigano ya karibu  -- in-fighting
 mapigo ya moyo  -- heartbeat, pulse 
 mapigo ya moyo kumzidi  -- heartbeat pulse increased
 mapindi  {ma}  -- spirally twisting, coiled up	__ nyoka alipiga mapindi.
-mapinduzi  -- revolution	__ 
+mapinduzi  -- revolution	__ baraza la mapinduzi
+baraza la mapinduzi  -- revolutionary council
+mapinduzi ya kijeshi  -- military coup d'etat
 mapinduzi ya kijani  -- green revolution
 mapinduzi ya viwanda  -- industrial revolution
 mapingano  -- fight, battle, conflict
@@ -15651,8 +15653,9 @@ utepetevu  -- laziness
 utesi  -- squabble	__ 
 utetezi  -- defense arguments  (law)
 utetezi  -- defense, method of defending	__ utetezi wa mshtakiwa ulifanyika vizuri.
-uteuzi  -- nomination, election, appointment	__ uteuzi wa waziri.
-uteuzi  -- selection, choice  (tech)
+uteuzi {|} -- nomination, election, appointment	__ uteuzi wa waziri.
+uteuzi  {|} -- selection, choice  (tech)
+teuzi  -- appointments [plural < uteuzi]
 ute wa yai  -- eggwhite
 uthabiti  -- stability, firmness	__ hulifanya gari kukosa uthabiti.
 uthabiti  -- stability, firmness, validity; truth, reality, genuineness	__ uthabiti wa msimamo wake hauelezeki. uthabiti wa kauli yake una mashaka.
@@ -15731,7 +15734,8 @@ uvimbe  -- inflammation, infection, tumor	__ uvimbechunga
 uvimbe  -- swelling, erection, strength, virility  (slang)	__ ng'ombe huyo anajulikana kwa uvimbe wake mkubwa.
 uviringo  -- sphericity, roundness; uduwara	__ uviringo wa dunia zamani ulikuwa haujulikani.
 uvivu  -- laziness, idleness; ugoigoi, uzembe	__ uvivu si sifa nzuri kwa mwanadamu.
-uvuguvugu  -- lukewarm, mildness; excitement, thrill	__ niliyanywa maziwa wakati bado yana uvuguvugu.
+uvuguvugu  -- lukewarm, mildness; hali ya kati ya ubaridi na joto; fufutende	__ niliyanywa maziwa wakati bado yana uvuguvugu.
+uvuguvugu  -- excitement, thrill; msisimko
 uvukizaji  -- evaporation	__ kama uvukizaji ni kubwa kuliko usimbishaji kwa muda wa miezi 10.
 uvumao  -- wind blow	__ upepo wa mabadiliko uvumao sasa hauvami kwa meme.
 uvumba na ubani  -- by great effort  (idm)
@@ -17966,5 +17970,22 @@ nusu mlingoti  -- half mast	__ peperusha bendera ya taifa na nusu mlingoti.
 wasio na hatia  -- innocent [people]	__ wasio na hatia waliopoteza maisha.
 maangamizi  -- destruction; hali au tendo la uangamizaji; hali ya kuwepo au keleta uharibifu; nakama, gharika	__ silaha za maangamizi.
 silaha za maangamizi  -- weapons of mass destruction [wmd]
-
+mrusho  {mi}  -- toss, cast, throw [object]; kitendo cha kufanya kitu kiruke hewani kwa kasi, nguvu, au kuelekea juu
+mrusho  {mi}  -- toss, throw [chance, glance]	__ mtupo mmoja kwa buki moja.
+mrusho wa roketi  -- rocket launch	__ wanasayansi walifanikiwa katika mrusho wa kwanza wa satelaiti kwenda angani.
+mrusho wa mpira  -- pitch [baseball, cricket]	__ mrusho wake wa mpira ulikuwa na kasi ya kilomita 120 kwa saa.
+mrusho wa maisha  -- chance, opportunity	__ nipe mrusho mmoja nijaribu biashara hii.
+mrusho wa matangazo  -- broadcast	__ tunangojea mrusho wa habari za saa mbili.
+-fanya mrusho  -- have a try at sth	__ ameamua kufanya mrusho kwenye ukulima wa mpunga mwaka huu.
+mrusho wa kwanza  -- first try, attempt	__ huu ni mrusho wangu wa kwanza shambani, natumai nitafanikiwa.
+mtupo  {mi}  -- launch, projection, flight; harakati rahisi ya kuondoa kitu mkononi
+mtupo wa mpira  -- toss a ball
+mtupo wa nyavu  -- toss out a fishing net
+mtupo wa macho  -- throw a glance; kiwadaisifu	__ alimwangalia binti huyo kwa mtupo mmoja wa jicho uliopunja maneno mengi.
+mtupio  {mi}  --  casually throwing a garment; namna ya uvaaji wa mtandio aiu kanga kwa kkujitupia mabegani tu bila ya kufuata utaratibu wa kujitanda	__ vazi la mtupio
+mtupio  {mi}  -- arrangement leaving a space between
+mminyo  {mi}  -- suppression
+-minywa  -- suppressed, squeezed	__ kuminywa kwa demokrasia.
+-jimilikisha  -- appropriate for oneself	__ kujimilikisha mali.
+-achia ngazi  -- step down	__ ikiwa ni pamoja na kuwashinikiza kuachia ngazi.
 
