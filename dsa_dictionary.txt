@@ -387,7 +387,6 @@ ange  -- alertly, vigilantly, ready	__ jeshi lilikaa ange.
 -angema  -- despair, be depressed; sirima; kataa tamaa	__ aliangema alipokosa kazi.
 -angika  -- hang up, suspend sth	__ kwanza tuangike pazia kwenye dirisha
 -angua  -- hatch out, prune, chop off sth	__ kuku ameangua mayai. aliangua kucha zake.
--angua kicheko  -- burst out laughing
 -angua kicheko  -- burst out laughing	__ 
 -angua kilio  -- break out crying wailing	__ 
 -angua nazi  -- pick coconuts, bring down	__ mtu anayeangua nazi huitwa mkwezi.
@@ -3466,7 +3465,7 @@ hali mango  -- solid state
 hali mango  -- solid state  (sci)
 hali na mali  -- by all means; kwa njia zozote zile, msaada wa kila aina (idm)	__ rafiki wa dhati ndiye hasa akufaaye kwa hali na mali.
 halisi  -- actual, net	__ 
--halisi  -- be appropriate, suitable, fitting; faa	__ haihalisi kwa yeye kufanya kitendo kovu kama kile. haikuhalisi kumwacha baba peke yake na kwenda kujifurahisha nafsi yangu Jijini.
+-halisi  -- be appropriate, suitable, fitting; faa	__ hali halisi kwa yeye kufanya kitendo kovu kama kile. haikuhalisi kumwacha baba peke yake na kwenda kujifurahisha nafsi yangu Jijini.
 -halisi  -- be worth, value, cost; stahili, stahiki	__ kabati hili halihalisi shilingi elfu arobaini.
 hali  -- status  (tech)
 hali tete  -- sensitive situation
@@ -17988,4 +17987,12 @@ mminyo  {mi}  -- suppression
 -minywa  -- suppressed, squeezed	__ kuminywa kwa demokrasia.
 -jimilikisha  -- appropriate for oneself	__ kujimilikisha mali.
 -achia ngazi  -- step down	__ ikiwa ni pamoja na kuwashinikiza kuachia ngazi.
+kati kwa kati  -- so so	__ maisha si mazuri sio mabaya sana; kati kwa kati.
+-enguliwa  -- be disqualified; ondolewa jina au kutolewa ktk kinyang'anyiro	__ kupinga kuenguliwa na INEC katika kinyang'anyiro cha kugombea urais.
+entomolojia  -- entomology [insect study]  (sci); taaluma inayohusu wadudu; elmuwadudu
+tume ya taifa ya uchaguzi  -- inec
+uvunjaji wa amani  -- breach of peace	__ 
+-pinga hoja  -- rebuttal
+uhuru wa nchi  -- sovereignty
+lawama kwa muathirika  -- victim blaming
 
