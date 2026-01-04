@@ -2142,7 +2142,6 @@ duka  {ma}  -- store
 -dukua  -- taz dungua, shoot down sth
 dukuduku  {ma}  -- anxiety, unease, worry; hali ya kuwa na machungu moyoni	__ ana dukuduku sana juu ya matokeo ya mtihani wake.
 duku  -- night-time meal of ramadan	__ 
--dumaa  -- be stunted, dwarfed, thwarted	__ rafiki yake amedumaa labda kwa sababu ya utapiamlo.
 -dumisha  -- maintain, sustain, keep	__ lazima tudumishe umoja wetu. magazeti hayakuchelewa kuisifu shule h iyo kwa sababu ya kudumisha usafi.
 -dumu  -- endure, persist; endelea kuishi	__ dumu daima ishi milele.
 -dumu  -- endure, persist; endelea na jambo kwa muda mrefu; fuluiza, baki, endelea	__ dumu kazini. dumu isha. tudumu katika upendo wetu na mapenzi yetu
@@ -4800,7 +4799,7 @@ kaka  -- brother
 kakakuona  -- pangolin
 -kakamaa  -- be hard, stony, solid [of bread, meat, food]	__ nyama kakamavu hii haikatiki. 
 -kakamaa  -- be stiff, be rigid [of body, etc]	__ mwili wake ulipokakamaa daktari alipata shida kumpiga mgonwa shindano.
--kakamaa  -- stiff erection  (slang)	__ mboo ikakamaa ili kumwega shahawa nyingi.
+-kakamaa  -- stiff erection  (slang)	__ mboo ikakamaa ili kumwaga shahawa nyingi.
 -kakamaa  -- strain muscles; be hard and dry	__ midomo ilimkakamaa na aliuma meno kwa hamaki iliyopindukia
 ~kakamavu  -- determined, steadfast, tenacious; enye kukaza	__ kamanda wa jeshi aliwataka askari wake kuwa wakakamavu. 
 ~kakamavu  -- solid, hard; enye kukauka na kuwa ngumu
@@ -12176,7 +12175,7 @@ rupia  -- rupee
 -rusa  -- seduce, lure; tempt sby have sex; tongoza	__ alimrusa msichana mrembo.
 -rusha chambo  -- throw around bait	__ alirusha chambo na wakati wowote anaweza kumnasa pweza.
 -rusha  -- launch, throw	__ safisha nafaka kwa kuurusharusha uteo.
--rusha lawama  -- blame, accuse
+-rusha lawama  -- blame, accuse	__ tusirushe lawama kwa mataifa mengine, kwa matatizo tulioyasababisha sisi wenyewe.
 -rusha muziki  -- play music	__ 
 -rusha  -- transmit  (tech)
 -rushia majitaka nguoni  -- splashed dirty water on clothes  (phrs)	__ kunirushia majitaka nguoni.
@@ -18006,5 +18005,18 @@ upendeleo katika ajira/teuzi  -- nepotism
 kituo cha kuabudu  -- place of worship	__ uhuru wa vituo vya kuabudu.
 -toa ushahidi wa mtiririko wa fedha  -- follow the money
 -kutofungamana na upande wowote  -- non-alignment policy
-
+ukinzani  -- contradiction; hali ya ukaidi; upinzani, ubishi	__ ukinzani wa serikali.
+msamaha {mi}  -- pardon, amnesty; tendo la kuwia mtu radhi kwa makosa aliyofanyiwa
+msamaha {mi}  -- forgiveness; buriani, radhi
+-dudia  -- inflate [with air]	__ alidudia kibofu.
+-dumiliza  -- make blood brothers by mutual incision; fanya udugu au urafiki kwa kufusishana damu au kuonja damu baada ya kufikata mahali; chanjiana uchale	__ walidumiliza ili kukuza uhusiano wao.
+dumbwi  -- gully in beach; mfumbi, jimbu
+-dumaa  -- be stunted, dwarfed, thwarted; kuwa na kimo kidogo kwa binadamu, mimea au wanyama kutokana na kasoro za lishe au maradhi; finyaa, via	__ rafiki yake amedumaa labda kwa sababu ya utapiamlo.
+-dumaa  -- weak in head, dull, unintelligent; kuwa na akili pungufu	__ mtu yule amedumaa. uchumi wa nchi jirani umedumaa.
+-dumaza  -- stunt growth sth, inhibit, stifle, impede; fanya mtu au kitu kisite kuendelea au kukua	__ walijaribu bila ya mafanikio kuyadumaza maendeleo ya wanavijiji.
+-duma  -- capture [wartime]; kamata, hasa wakati wa vita; teka
+ufadhili wa nje  -- external funding
+-tafuta mchawi  -- scapegoating
+hatuwezi kupuuza  -- we cannot ignore	__ "hatuwezi kupuuza [msaada/ukweli a] mpaka tukaanza kuhoji [utambulisho/ukweli b] kuhusu [suala c]." hatuwezi kupuuza uwekezaji wa mbia huyu mpaka tukaanza kuhoji yeye ni nani kuhusu mzozo mdogo wa mkataba. hatuwezi kupuuza historia ya ukombozi wetu mpaka tukaanza kuhoji washirika wetu ni akina nani kuhusu maslahi ya sasa ya kibiashara. kwa namna yote hatuwezi kupuuza mchango wa mataifa haya mpaka tukaanza kuhoji kwamba hatujui wao ni akina nani kuhusu ulinzi wa rasilimali za nchi.
+ridhaa ya Bunge  -- consent of parliament
 
