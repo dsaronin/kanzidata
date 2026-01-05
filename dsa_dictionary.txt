@@ -1917,6 +1917,7 @@ dhahabu  -- gold
 dhahama  -- taz zahama: hustle, commotion
 dhahania  -- abstraction, supposition	__ nomino dhahania
 dhahiri  -- plainly, clearly, evidently	__ ni dhahiri kuwa kila binaadamu atakufa siku moja. ni dhahiri kwamba vyenu ni vizuri sana.
+dhahiri  -- apparently	__ aisee!! utekaji wa dhahiri.
 dhahiri shahiri  -- very clearly, very vividly	__ taarifa ile inaonyesha dhahiri shahiri kwamba si ya kweli.
 dhaifu  -- weak, feeble, bad, mean	__ hakuna kabila bora au dhaifu.
 dhaiso, kidhaiso  -- tribe in tanzania
@@ -13534,14 +13535,15 @@ tandatu  -- six, 6 (arch)
 -tandika  -- spread out, reveal	__ tandika mkeka kitandani. tandika kitanda. tandika meza.
 -tandua  -- clear  (tech)
 -tandua  -- unspread sth	__ alizitandua shiti kutoka kwenye kitanda.
--tangaa  -- be revealed, widespread	__ habari zenyewe nimetangaa.
+-tangaa  -- be generally known, revealed	__ habari zenyewe nimetangaa.
+-tangaa  -- be widespread [> tangaza, zagaa]
 -tangamana  -- compatible  (tech)
 -tangamana  -- mixed up, be together, united; cooperate, collaborate	__ hapendi kutangamana kwa sababu hataki kushirikiana na wengine. matunda yote aliyoyachuma yametangamana katika pakacha hili. nchi za afrika ya mashariki zinatangamana katika sekta ya uchumi.
 -tangamana na watu wasiowajua  -- mixed up with strangers
 tangamano  {ma}  -- harmony, cooperation; mixed up state	__ waziri aliwahimiza wanavijiji kuishi kwa moyo wa tanamano.
 tanga {ma}  -- sail	__ mashua ya matanga, mashua yenye tanga imeondoka
 -tangatanga  -- loiter (< -tanga)
--tanga  -- wander
+-tanga  -- wander, loiter, roam; zurura	__ anapotoka kazini, hutanga ktk mitaa yetu.
 -tangaza tenda  -- tender for bids
 -tangazia  -- announce, make known	__ 
 tangi  {ma}  -- tank, cistern	__ tangi la maji. tangi la petroli.
@@ -18019,4 +18021,10 @@ ufadhili wa nje  -- external funding
 -tafuta mchawi  -- scapegoating
 hatuwezi kupuuza  -- we cannot ignore	__ "hatuwezi kupuuza [msaada/ukweli a] mpaka tukaanza kuhoji [utambulisho/ukweli b] kuhusu [suala c]." hatuwezi kupuuza uwekezaji wa mbia huyu mpaka tukaanza kuhoji yeye ni nani kuhusu mzozo mdogo wa mkataba. hatuwezi kupuuza historia ya ukombozi wetu mpaka tukaanza kuhoji washirika wetu ni akina nani kuhusu maslahi ya sasa ya kibiashara. kwa namna yote hatuwezi kupuuza mchango wa mataifa haya mpaka tukaanza kuhoji kwamba hatujui wao ni akina nani kuhusu ulinzi wa rasilimali za nchi.
 ridhaa ya Bunge  -- consent of parliament
+makuzi  -- upbringing; namna mtu anavyolelewa; malezi	__ tangia makuzi yako ilishawahi kutoka hivi rais wa nchi fulani kwenda kumteka nyara raisi wa nchi ingine?
+makuzi  -- development, expansion, growth, enhancement; namna ya kukuza au kuendeleaza kitu	__ makuzi ya mradi huu yanategemea sana ushirikiano wa wananchi wote.
+tangia  -- since [fm specific time]; tangu, tokea	__ tangia makuzi yako ilishawahi kutoka hivi rais wa nchi fulani kwenda kumteka nyara raisi wa nchi ingine?
+tangu  -- since, ever since	__ tangu amefika hapa, amekuwa akitukera tu. tangu lini alipokuja hapa?
+tangu  -- since, from; toka, kuanzia	__ amekusubiri tangu asubuhi.
+-bahatika  -- be lucky, fortunate	__ sikubahatika kumfuatiliaga.
 
