@@ -329,6 +329,7 @@ atma  -- banishment, ejectment, elimination, ouster
 atma  -- throw, chuck, cast
 -at  -- post [social media]  (tech)	__ attığınız +18 fotolariniz midemi bulandırıyor.
 -at  -- send, throw, shoot off, cast, put off	__ sende atar misin?
+-at  -- throw + x [impulsive throw aux]	__ çalım atmak.
 avrupa  -- europe
 avrupa yakası  -- european side of istanbul 
 avukat  -- lawyer, advc
@@ -881,6 +882,7 @@ cayır  -- meadow, grass, pasture, prairie, grassland
 çay kaşığı  -- teaspoon
 çay  -- tea
 -çek {çeker}  -- to take a photo, fotoğraf
+-çek  -- pull/force + x [tech/force aux]
 çek cumhuriyetice  -- czech [language]
 çek cumhuriyeti  -- czech [country]
 çek  -- czech [people]
@@ -1412,7 +1414,7 @@ emlakçı  -- estate agent
 -em  -- suck, absorb	__ göğüslerini emerim meme uçlarını ısırırım hafif hafif.
 en çok satan  -- best seller, top seller
 endişe  -- anxiety, worry	__ endişeli olduğunu biliyorum.
--endişe etmek  -- to worry
+-endişe etmek  -- to worry abt sth
 endişeli  -- anxious, worried	__ endişeli olduğunu biliyorum.
 endonezyace  -- indonesia [language]
 endonezya  -- indonesia [country]
@@ -1477,7 +1479,7 @@ eşya  -- goods, belongings, articles, stuff, wares, furniture	__ yarın da eşy
 etap  -- lap, leg, stage, phase	__ ilk etabı açıldı.
 -et  -- check	__ kontrol ediyorum.
 -et  -- do, make, get, take, practice
--et {eder}  -- to do, to make [auxiliary verb]
+-et {eder}  -- do/make + x [activated aux] [turns loanword nouns into action verbs; state/occurrence; activates the concept]
 etek  -- skirt
 etiket  -- tag  (tech)
 etki  -- effect	__ bu yeni ilacın etkileri nelerdir?
@@ -3001,7 +3003,7 @@ mektep {mektebi}  -- school
 mektup {mektubu}  -- letter
 meme uçlar  -- nipples	__ meme uçlarımı emer misin?
 memnu  -- adultery, ilicit, taboo
--memnun etmek  -- comfort, gladden, gratify, please, saatisy
+-memnun etmek  -- comfort, gladden, gratify, please, satisfy
 memnun  -- glad, happy, pleased, satisfied	__ memnun mu?
 memnun oldum  -- nice to meet you
 memur  -- civil svt, ofc
@@ -3768,7 +3770,6 @@ seks  -- sex	__ seks videolarım mevcut. seninle bol bol seksi yapmak isterim.
 selam  -- greeting
 selam  -- hi, hello
 selamlık  -- men's section of old turkish house
-sel  -- flood
 sel  -- flood
 semaver  -- traditional teapot
 şemsiye  -- umbrella
@@ -4672,9 +4673,8 @@ yapı  -- structure, construction	__
 yapma be  -- shucks, no shit  (expl)  (slang)	__ 
 yapma ya!  -- 《you don’t say [sarcastic]》《why did that happen?》
 yaprak  -- leaf
-yaprak  -- leaf
 -yap  -- to eat breakfast
--yap {yapar}  -- to make, do
+-yap {yapar}  -- make/do + x [make/do (labor) aux] [creating, constructing, or performing a specific task; process resulting product/completed activity]
 yarağinide  -- çük, yarak
 yara  -- hurt, wound, injury, sore, canker, bruise
 yarak  -- dick  (slang)	__ büyük yarak. yarağımi yalamak işteyen var mı?
@@ -4844,7 +4844,7 @@ yoksa  -- or, otherwise, except, else
 yol ayrımı  -- road fork, y-road
 yolculuğa çıkmak  -- go on a journey
 yolculuk  -- journey, trip	__ arabayla yolculuk 2 ya da 3 saat sürecek.
--yolculuk yapmak  -- journey swh [nearby, domestic]	__ 
+-yolculuk yapmak  -- journey smh [nearby, domestic]	__ 
 yolcu  -- traveler
 -yol  -- fleece, pluck, pull, tear, pick	__ bana bir seksi video yolsan.
 yol işareti  -- road sign
@@ -4951,7 +4951,6 @@ zorunda  -- must, have to [do sth]	__ dans etmek zorunda değilim. götürmek zo
 zürafa  -- giraffe
 10 katlı  -- 10 floors
 5 yıl boyunca  -- for 5 years
-zzzzzzzzzzzzzzz ============================================ zzzzzzzzzzzz
 hasar  -- damage, harm, hurt, loss
 yağış  -- precipitation, rains/snows	__ yoğun kar yağışı vardı.
 karış  -- meddle, butt into sth	__ 
@@ -5311,4 +5310,11 @@ aylarca  -- for months	__ aylarca seni bekledim.
 nitekim  -- thus, hence, indeed, in fact; nasıl ki	__ 
 kaju fıstığı  -- cashew nuts  (fd)	-- kızartılmış kaju fıstığı.
 karbonhidrat  -- carbohydrate
+-bas  -- press + x [pressured aux]
+-yemek yapmak  -- make food / cook
+-hata yapmak  -- make a mistake
+-ödev yapmak  -- do homework
+-kahve yapmak  -- make coffee
+-iş yapmak  -- do work, do business
+-egzersiz yapmak  -- exercise
 
