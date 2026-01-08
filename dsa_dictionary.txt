@@ -8307,7 +8307,7 @@ mchomo  {mi}  -- dash, spurt; mwendo wa kasi wa kitu kuelekea mahali fulani
 mchomo  {mi}  -- sharp pain; maumivu ya kuchomachoma mwilini
 mchongezi  {wa}  -- slanderer, calumniator, sby who spreads false malicious statements to ruin reputation; mfitini	__ mchongezi alidai kwamba ati sisi tulitaka kuleta ghasia shuleni.
 mchongoano  {mi}  -- playful banter, teasing  (slang)
-mchongo  -- deal, plan, arrangement
+mchongo  -- deal, plan, arrangement  (slang)	__ hakuna mtu ana deni la kunipa vibe; kujielewa ni mchongo wangu mwenyewe.
 mchongoko  {mi}  -- pointed nose train
 mchongoma  -- indian plum	__ kupanda mchongoma, kushuka ndiyo ngoma.
 mchongoma  {mi}  -- indian plum tree
@@ -17468,7 +17468,7 @@ bei kitonga  -- bargain price, cheap price	__ pendezesha kichwa chako kwa bei ki
 pisi  -- pieces [of sth: luggage]	__ pisi tatu.
 -spoile  -- spoil sth [as in spoiler]
 isizidi saa x  -- no later than time x	__ inatakiwa tukutane mwenge, isizidi saa tisa na nusu.
-ukeketaji  -- female circumcision
+ukeketaji  -- female circumcision	__ juhudi za kuangamiza ukeketaji kenya.
 uchanganuzi ya kina  -- in-depth analysis
 mvua mbatana  -- heavy continuous rain
 mbatana  -- sth continuous, joined, on-going	__ mvua mbatana, mawazo mbatana
@@ -18027,4 +18027,17 @@ tangia  -- since [fm specific time]; tangu, tokea	__ tangia makuzi yako ilishawa
 tangu  -- since, ever since	__ tangu amefika hapa, amekuwa akitukera tu. tangu lini alipokuja hapa?
 tangu  -- since, from; toka, kuanzia	__ amekusubiri tangu asubuhi.
 -bahatika  -- be lucky, fortunate	__ sikubahatika kumfuatiliaga.
+nipo kasikilizia  -- i am listening
+maambukizi  -- transmission [disease]
+popo mla matunda wa misri [a-wa]  -- egyptian fruit bat
+chikungunya  -- viral disease spread by mosquitoes	__ kung'atwa na mbu aliyeambukizwa.
+mafua ya ndege  -- bird flu	__ maambukizi: ndege wa kufugwa walio na maambukizi na ndege wa porini.
+mafua ya nguruwe  -- swine flu	__ 
+vibe  -- positive feeling or state of mind  (slang)	__ hakuna mtu ana deni la kunipa vibe.
+ishu  -- business, problem, responsibility; mambo  (slang)
+-jiona  -- cognitive self-perception
+mrundikano  {mi}  -- pile-up; mkusanyiko wa watu au vitu vingi pamoja ktk nafasi ndogo
+mrundiko  {mi}  -- backlog	__ tatizo la mrundiko wa kesi.
+kadari  -- divine decree, destiny, fate	__ nimekubali kadari yangu.
+nakubali matokeo  -- it is what it is; nakubali mambo yalivyo
 
