@@ -18040,4 +18040,9 @@ mrundikano  {mi}  -- pile-up; mkusanyiko wa watu au vitu vingi pamoja ktk nafasi
 mrundiko  {mi}  -- backlog	__ tatizo la mrundiko wa kesi.
 kadari  -- divine decree, destiny, fate	__ nimekubali kadari yangu.
 nakubali matokeo  -- it is what it is; nakubali mambo yalivyo
+-nang'anika  -- shimmer, dazzle; ng'aa kama kitu kilichopakwa mafuta; mwekamweka kwa usafi; ng'ara, nyeka, nynyirika
+masijala  -- registry [court, government archives]
+masijala  -- official filing office or records department  (gov)
+-kalia kimya  -- sit in silence on a case  (law)
+vielelezo  --  exhibits or evidence  (law]
 
