@@ -5017,7 +5017,7 @@ kashata  -- candy fm coconut	__
 kasheshe  -- excitement, lively atmosphere [marketplace]  (slang)
 kasheshe  -- hardship, difficulty [long-term adversity, financial]; kosovo, zohali, sheshe; vurumai, vurugu; balaa, (slang)	__ familia ilikumbwa na kasheshe baada ya mzee wa nyumba kufariki. 
 kasheshe  -- trouble, commotion  (slang)
-kashfa  -- scandal; ufunuo au udhihirisho wa siri ya jambo la aibu	__ 
+kashfa  -- scandal, disgrace, affront; ufunuo au udhihirisho wa siri ya jambo la aibu	__ rais awajibike kwa kashfa ya mauaji ya watu wasiokuwa na hatia.
 -kashifu  -- slander, libel sby; desecrate?	__ maiti waliachwa wamekashifika tuputupu juu ya ardhi.
 kasia  -- oar	__ 
 kasida  -- poem praising sby	__ 
@@ -17664,7 +17664,8 @@ vituo atamizi  -- incubation centers; majengo au maeneo maalum ambapo biashara c
 -atamia  -- sit on eggs, incubate; kufunika mayai kwa joto ili yaanguliwe	__ kuku anatamia mayai yake.
 panda shuka  -- ups and downs, fluctuations; mabadiliko ya hali, mafanikio na matatizo kwa nyakati tofauti  (idm)	__ Maisha yana panda shuka zake.
 panda shuka  -- thing, issue; taabikia jambo ama kitu (idm)	__ baada ya panda shuka yangu ya muda wa miaka minane unusu, nimepata shahada yangu ya uzamifu.
-mbunifu {wa}  -- innovator, creator, designer, inventor; mtu mwenye uwezo wa kubuni mambo mapya	__ yeye ni mbunifu mzuri wa mifumo. maonyesho ya mavazi ni tamasha la kuvaa linaloandaliwa na wabunifu wa mavazi.
+mbunifu {wa}  -- innovator, creator, inventor; mtu mwenye uwezo wa kubuni mambo mapya	__ yeye ni mbunifu mzuri wa mifumo. maonyesho ya mavazi ni tamasha la kuvaa linaloandaliwa na wabunifu wa mavazi.
+mbunifu {wa}  -- designer	__ mbunifu wa mitindo ya kisasa tanzania.
 mtengeneza programu {wa}  -- programmer; mtu anayeandika au kuunda programu za kompyuta	__ kampuni hiyo inahitaji watengeneza programu za kompyuta.
 paradigma ya programu  -- programming paradigm; jumla ya mawazo na dhana zinazoainisha mtindo wa kutengeneza programu za kompyuta	__ paradigma ya programu haiainishwi na lugha ya programu tu.
 lugha ya programu  -- programming language; mfumo wa kuandika maagizo kwa kompyuta	__ paradigma ya programu haiainishwi na lugha ya programu tu.
@@ -18045,4 +18046,7 @@ masijala  -- registry [court, government archives]
 masijala  -- official filing office or records department  (gov)
 -kalia kimya  -- sit in silence on a case  (law)
 vielelezo  --  exhibits or evidence  (law]
+watu wasiokuwa na hatia  -- innocent people
+mauaji ya halaiki  -- mass killings, genocide
+-vua uanachama  -- revoke, strip party membership
 
