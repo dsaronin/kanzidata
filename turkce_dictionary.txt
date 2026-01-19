@@ -127,7 +127,8 @@ aktarma  -- transfer [transit]
 aktif  -- gay top  (slang)
 aktivite  -- activity	__ tatil aktiviteleri
 aktör  -- actor
-ak  -- white
+ak  -- white, pure, honest, unstained [turkic] [<> kara]	__ akdeniz.
+ak saçlı  -- white-haired/venerable
 alakalı  -- relevant; uygun, konu ile ilgili	__ eski türkçe ke edatıyla alakalı olması muhtemel ise.
 -al {alır}  -- to buy, possess
 -al {alır}  -- to get, take, pick up
@@ -509,7 +510,7 @@ bayağı  -- quite, rather	__ bayağıdır yazamıyorum işlerim çok kusura bak
 bayağı  -- quite, rather; oldukça, pek, çok	__ İşler yani bayağı var.
 bayan  -- Mrs., Miss
 baya  -- taz bayağı: quite, rather	__ işlerim çok baya.
-bayat  -- stale
+bayat  -- stale [<> taze]	__ bayat ekmek.
 -bayıl  -- be fond of adore, be enamored of [dativ]	__ oral sevisme öpüşmeye bayılırım. türk çayı içmeye bayılırım.
 -bayıl  -- blackout, faint, swoon, pass out	__ 
 baykuş  -- owl
@@ -579,7 +580,7 @@ beri  -- since [ablat]
 beş  -- five, 5
 -beslen  -- take nourishment, feed, live on	__ iyi beslenmek.
 beyaz peynir  -- feta cheese  (fd)	__ yağsız beyaz peynir var mı?
-beyaz  -- white
+beyaz  -- white [<> siyah]
 beyefendi  -- sir, gentleman
 beyin {beynim}  -- brain	__ bence için dolu olan beyin daha tahrik edici.
 bey  -- mr
@@ -1567,7 +1568,7 @@ finli  -- finland [people]
 fırın  -- bakery
 fırıncı  -- baker
 fırın eldiveni  -- oven glove
-fırın  -- oven
+fırın  -- oven	__ fırından yeni çıkmış.
 -fırlat  -- throw, cast, fling, pelt, hurl	__ yılan kuyudan çıkarken yerden aldığı taşı yılana fırlatmış.
 fırtına  -- storm
 fişi  -- slip, receipt
@@ -2442,7 +2443,7 @@ kapı kom  -- next-door neighbor
 kaplan  -- tiger
 kaplumbağa  -- turtle
 kaptan  -- captain
-kara  -- black
+kara  -- dark, black [turkic] [<> ak]	__ karadeniz.
 karaciğer  -- liver
 karadeniz  -- the black sea	__ karadeniz bölgesi.
 karakterli  -- character
@@ -3924,7 +3925,7 @@ sis  -- fog
 şişman  -- fat  [<> zayıf]	__ 
 sistem  -- system	__ bu sistem her şeyi değiştirecek.
 sivrisinek  -- mosquito
-siyah  -- black
+siyah  -- black [<> beyaz]
 siyasetçi  -- politician
 siyasi  -- political	__ siyasiler insan hayatina karışıyorlar.
 siz  -- you [polite singular, normal plural]
@@ -4203,7 +4204,7 @@ tayland  -- thailand [country]
 tayvance  -- taiwan [language]
 tayvanlı  -- taiwan [people]
 tayvan  -- taiwan [country]
-taze  -- fresh	__ taze sıkılmış nar suyu. taze mevsim meyveleri.
+taze  -- fresh [<> bayat]	__ taze sıkılmış nar suyu. taze mevsim meyveleri.
 taziye  -- condolence, sympathy; başsağlığı, başağlığı	__ pazar günü istiklal caddesi'nde meydana gelen bombalı saldırı için taziyeler.
 tbr  -- tebrikler  (abbrev): congratulations.
 tebrik ederim  -- congratulations  (expr)

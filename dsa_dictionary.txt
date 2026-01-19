@@ -1442,7 +1442,7 @@ chenga  -- grains of sth	__ chenga za saruji
 chengo  -- fish fingerlings	__ 
 -chenji  -- change money, exchange money	__ alitaka kuchenji pesa zake kwangu.
 chenji  -- change {n} [of money]
-chenji  -- change; pesa zinazobaki baada ya kununua kitu  (biz)
+chenji  -- change; pesa zinazobaki baada ya kununua kitu  (biz)	__ abiria wananiachia chenji.
 chenza {ma}  -- tangerine	__ haya si machungwa bali ni machenza.
 chenza  {ma}  -- tangerine with thick rind
 cheo {ki}  -- rank; measure, size	__ ushujaa wake ulimfanya apandishwe cheo kazini baada ya kuwataja wafanyikazi wazembe.
@@ -5987,7 +5987,7 @@ kipimapresha  {ki}  -- blood pressure monitor
 kipimaupepo  {ki}  -- onamometer, wind meter 
 kipimo rafi  -- fixed measure; kipimo ambacho hakipunguzwi  (biz)
 kipindi kinachofuata hiki ni gani?  -- what's the next thing?
-kipindi  -- period of time	__ labda katika vipindi vinavyokuja.
+kipindi  -- period of time	__ labda katika vipindi vinavyokuja. kipindi ninaanza nilianza kawaida.
 kipindi  -- session  (tech)
 kipindupindu  -- cholera	__ 
 kipingo  -- beaded bracelet	__ 
@@ -9221,7 +9221,7 @@ msema  {wa}  -- speaker, narrator	__ msema wa mkutano.
 msemo  {mi}  -- saying, idiom	__ mimi huwa napenda msemo unaosema ujanja wa nyani huishia jangwani
 msenge  {wa}  -- male homosexual; hanithi
 mseto  -- bean porridge
-mseto  -- mchanganyiko  (slang)
+mseto  -- diversity, mixture; mchanganyiko  (slang)
 mseto  {mi}  -- coalition; pluralism	__ mseto wa vitu
 mseto wa hisia  -- bunch of feelings
 mseto wa vitu  -- groups of things	__ 
@@ -10113,7 +10113,7 @@ nadharia ya wimbi  -- wave theory	__
 nadhari  -- common sense, sound judgement; akili nzuri	__ mtu asiye na nadhari ni kama ng'ombe. niliukazia nadhari mfumo wangu mzima wa umeng'enyaji.
 -nadhifisha  -- clean, tidy	__ kila mtu lazima ajinadhifishe.
 -nadhifu  -- clean, make sth tidy	__ alikinadhifu chumba chake vizuri. nguo zake ni nadhifu.
-nadhifu  -- neat, tidy
+nadhifu  -- neat, tidy	__ niko nadhifu.
 nadhiri  -- vow [used in idioms]	__ weka nadhiri
 -nadi  -- announce publicly, proclaim; toa tangazo kwa sauti kubwa	__ nadi swala [call to prayer]
 -nadi  -- auction, sell goods in auction; tamka bei ya kitu ktk mnada ; zabuni
@@ -11956,7 +11956,7 @@ rajua  -- hope, expect; matarajio ya kupata kitu fulani; tumaini	__ adija alikuw
 rakaa  -- tendo la kusimama, kurukuu na kusujudu ktk sala ya dini ya uislamu	__ timiza rakaa
 rakamu  -- number, numeral; nambari, mwongo	__ 
 ralani  -- bandarini
--ramba kisogo  -- kumchimba mtu; ng'ong'a; kumchimba mtu anapokuwa hayupo mwenyewe  (idm)	__ bwana wee, mbona unaniramba kisogo kila tunapoachana hali sisi tu marafiki?
+-ramba kisogo  -- mock behind someone's back, backbite, ridicule secretly; kumchimba mtu; ng'ong'a; kumchimba mtu anapokuwa hayupo mwenyewe  (idm)	__ bwana wee, mbona unaniramba kisogo kila tunapoachana hali sisi tu marafiki? usijifanye rafiki wakati unaniramba kisogo.
 -ramba  -- lick  {v}	__ aliviramba vidole vyake baada ya kula chakula kitamu.
 -ramba sahani  -- kula kila kitu, kula makombo  (idm)	__ arambaye sahani ni yule tu aliyekaa muda mrefu bila kula chochote cha maan.
 -rambaza  -- navigate, surf  (tech)
@@ -18049,4 +18049,17 @@ vielelezo  --  exhibits or evidence  (law]
 watu wasiokuwa na hatia  -- innocent people
 mauaji ya halaiki  -- mass killings, genocide
 -vua uanachama  -- revoke, strip party membership
+mkao wa kudaiwa  -- vip service, position of being demanding	__ naomba mkae mkao wa kudaiwa.
+bigii  -- big g [chewing gum]
+msafi {wa}  -- neat clean person
+-pata riziki  -- earn a living
+-jiongeza  -- take initiative to improve self	__ sasa hivi pia nimejiongeza.
+olanda  -- old school style of dress  (slang)
+-ulamba  -- dress exceptionally well, look sharp, "slay" [fashion]  (slang)
+-lamba pamba  --  dress exceptionally well, look sharp, "slay" [fashion]  (slang)
+bablishi  -- bubble gum
+shiriki  -- suspenders
+masepe  -- suspenders
+mihogo  -- dick  (vulg) (slang)
+-lamba  -- dodge, evade someone in a game, swerve away  (slang)	__ alimlamba kipa na kufunga goli.
 
