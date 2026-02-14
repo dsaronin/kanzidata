@@ -3869,7 +3869,7 @@ sikişir  -- fucks
 -sıkıştır  -- compress  (tech)	__ dosyaları tek zip dosyasına sıkıştırırım.
 sıkı  -- strict, tight, hard, stringent, rigorous, firm	__ daha sıkı çalışmamız gerekiyor.
 şıklık  -- elegance, style, chic, finery; zarafet, tarz, akıllılık
-sıklık  -- frequency, desnity; frekans, sık sık olma; yoğunluk
+sıklık  -- frequency, density; frekans, sık sık olma; yoğunluk
 sıkma portakal  -- squeezed orange juice (fd)
 sık sık  -- frequently, often
 silah  -- gun
