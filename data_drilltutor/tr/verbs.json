@@ -1,0 +1,4494 @@
+{
+  "abstract": {
+    "fc_data": [
+      [
+        "-adında",
+        "was called  (arch)"
+      ],
+      [
+        "-ait olmak",
+        "belong to, regard, relate"
+      ],
+      [
+        "-anlamına gelmek",
+        "imply, infer sth, signify, connote, denote"
+      ],
+      [
+        "-başta gelmek",
+        "come first"
+      ],
+      [
+        "-belir",
+        "arise, appear, evince"
+      ],
+      [
+        "-belirt",
+        "denote, designate, evince, imply, manifest"
+      ],
+      [
+        "-belirt",
+        "indicate, point out, show"
+      ],
+      [
+        "-belirt",
+        "name, signify, state, define, enumerate"
+      ],
+      [
+        "-belli olacak",
+        "become clear"
+      ],
+      [
+        "-birinci gelmek",
+        "come first"
+      ],
+      [
+        "-bulun",
+        "to be found at, be, have, exist, stand, be situated, reside"
+      ],
+      [
+        "-denir",
+        "are called"
+      ],
+      [
+        "-denk gel",
+        "balance, come across, come up to, suitable, work out at"
+      ],
+      [
+        "-doğ",
+        "born, birth"
+      ],
+      [
+        "-et {eder}",
+        "do/make + x [activated aux]"
+      ],
+      [
+        "-evril",
+        "evolve"
+      ],
+      [
+        "-eyle",
+        "make  [aux] (arch)?"
+      ],
+      [
+        "-gel",
+        "arise, be born"
+      ],
+      [
+        "-gel",
+        "derive"
+      ],
+      [
+        "-gerçekleş",
+        "happen, occur"
+      ],
+      [
+        "-gerçekleş",
+        "materialize, substantiate, actualize, come true, to take place"
+      ],
+      [
+        "-gerçekle",
+        "substantiate, verify"
+      ],
+      [
+        "-gerçek olmak",
+        "become real, reality"
+      ],
+      [
+        "-hale gelmek",
+        "become, get [change in state]"
+      ],
+      [
+        "-ibaret olmak",
+        "consist of"
+      ],
+      [
+        "-isabet etmek",
+        "hit, strike"
+      ],
+      [
+        "-işe yaramak",
+        "be useful, some in handy, serve purpose"
+      ],
+      [
+        "-kıl",
+        "to make, do [aux] (arch)"
+      ],
+      [
+        "-neden olmak",
+        "caused, led to, became"
+      ],
+      [
+        "-neden ol",
+        "produce, create, bring, beget, engender, provoke"
+      ],
+      [
+        "-neden ol",
+        "to cause sth"
+      ],
+      [
+        "-ol",
+        "be, become, happen"
+      ],
+      [
+        "-ol",
+        "become, happen, have"
+      ],
+      [
+        "-oldu",
+        "became, happened"
+      ],
+      [
+        "-ol",
+        "to become, happen"
+      ],
+      [
+        "-olun",
+        "to be"
+      ],
+      [
+        "-oluştur",
+        "compose, create, forge, form, generate"
+      ],
+      [
+        "-ortaya çıkmak",
+        "to appear"
+      ],
+      [
+        "-sağladığı",
+        "providing to"
+      ],
+      [
+        "-sonuçlan",
+        "turn out, work out, come out, culminate, end up"
+      ],
+      [
+        "-temsil etmek",
+        "represents"
+      ],
+      [
+        "-yol açmak",
+        "bring about, call forth, leads to, entails"
+      ],
+      [
+        "-benz",
+        "resemble"
+      ],
+      [
+        "-çabala",
+        "try"
+      ],
+      [
+        "-cesaret etmek",
+        "dare, venture"
+      ],
+      [
+        "-değiştirebilir",
+        "can change"
+      ],
+      [
+        "-durdurabilmek",
+        "to be able to stop"
+      ],
+      [
+        "-erişe",
+        "reach, get to"
+      ],
+      [
+        "-erişilebilir",
+        "accessible"
+      ],
+      [
+        "-erişilebilir",
+        "achievable, reachable"
+      ],
+      [
+        "-gel",
+        "suit"
+      ],
+      [
+        "-gerek",
+        "needed, necessary"
+      ],
+      [
+        "-hata yapmak",
+        "make a mistake"
+      ],
+      [
+        "-hayatını kaybet",
+        "lose life, die, pass away"
+      ],
+      [
+        "-ilerle",
+        "advance, progress, develop, improve, headway"
+      ],
+      [
+        "-ilerle",
+        "progress, advance, proceed, go ahead with"
+      ],
+      [
+        "-kaçır",
+        "miss [time]"
+      ],
+      [
+        "-karış",
+        "be mixed up, jumbled"
+      ],
+      [
+        "-karşıla",
+        "answer, satisfy, supply, make amends, compensate"
+      ],
+      [
+        "-karşıla",
+        "fulfil, recoup"
+      ],
+      [
+        "-kavuştur",
+        "regain, get again"
+      ],
+      [
+        "-kolaylaştır",
+        "make easy"
+      ],
+      [
+        "-kolaylaştır",
+        "simplify, make easier, streamline"
+      ],
+      [
+        "-koru",
+        "conserve, preserve, save, shelter"
+      ],
+      [
+        "-sağlamayacak",
+        "will not provide"
+      ],
+      [
+        "-ulaş",
+        "reach, achieve"
+      ],
+      [
+        "-uy",
+        "match, fit, agree, coincide"
+      ],
+      [
+        "-yaşa",
+        "experience, subsist, taste"
+      ]
+    ]
+  },
+  "actions": {
+    "fc_data": [
+      [
+        "-bağlan",
+        "connect, join"
+      ],
+      [
+        "-başla",
+        "to start at [dativ]"
+      ],
+      [
+        "-bit",
+        "to end, finish"
+      ],
+      [
+        "-bitir",
+        "finish off, make sth end"
+      ],
+      [
+        "-bul",
+        "to find"
+      ],
+      [
+        "-çek",
+        "to take a photo, fotoğraf"
+      ],
+      [
+        "-çek",
+        "pull, attract"
+      ],
+      [
+        "-çek",
+        "take after, carry, hold, catch"
+      ],
+      [
+        "-çıkarırı",
+        "take off, remove sth"
+      ],
+      [
+        "-durdur",
+        "stop sth"
+      ],
+      [
+        "-dur",
+        "stand, stop, idle"
+      ],
+      [
+        "-et",
+        "do, make, get, take, practice"
+      ],
+      [
+        "-gel",
+        "bring"
+      ],
+      [
+        "-gel",
+        "come"
+      ],
+      [
+        "-gel",
+        "to come"
+      ],
+      [
+        "-gel",
+        "strike, fall on"
+      ],
+      [
+        "-geri bırak",
+        "set back, leave behind"
+      ],
+      [
+        "-ilgilen",
+        "dabble in / with"
+      ],
+      [
+        "-isabet etmek",
+        "hit, strike"
+      ],
+      [
+        "-it",
+        "to push"
+      ],
+      [
+        "-oynat",
+        "fool, make play, wriggle"
+      ],
+      [
+        "-sok",
+        "insert, thrust, drive, enter, inject"
+      ],
+      [
+        "-veril",
+        "to be given"
+      ],
+      [
+        "-ver",
+        "to give to [dativ accus]"
+      ],
+      [
+        "-vur",
+        "piga, hit, beat, clap, knock"
+      ],
+      [
+        "-vur",
+        "shoot, smash, bust"
+      ],
+      [
+        "-yakala",
+        "seize, catch, get hold of, grab, hook, intercept, nab"
+      ],
+      [
+        "-yakış",
+        "befit, fit, suit, looks good on"
+      ],
+      [
+        "-yanına almak",
+        "take along sth"
+      ],
+      [
+        "-yeniden başlamak",
+        "resume, restart"
+      ]
+    ]
+  },
+  "auditory": {
+    "fc_data": [
+      [
+        "-alkışla",
+        "applaud, acclaim, clap, cheer"
+      ],
+      [
+        "-bağır",
+        "shout, scream, bellow, roar, bark at, holler"
+      ],
+      [
+        "-çal",
+        "knock, blow"
+      ],
+      [
+        "-çal",
+        "play {instrument]"
+      ],
+      [
+        "-çal",
+        "play [music]"
+      ],
+      [
+        "-çal",
+        "ring [bell]"
+      ],
+      [
+        "-çığlık atmak",
+        "cry out, scream"
+      ],
+      [
+        "-cızırda",
+        "make sizzling sound"
+      ],
+      [
+        "-dinle",
+        "listen"
+      ],
+      [
+        "-duy",
+        "hear, feel"
+      ],
+      [
+        "-havla",
+        "to woof like dog [< hav]"
+      ],
+      [
+        "-işit",
+        "hear"
+      ],
+      [
+        "-miyavla",
+        "to meow like cat [< miyav]"
+      ],
+      [
+        "-müzik çalmak",
+        "play music, rock music, perform music"
+      ],
+      [
+        "-müzik dinlemek",
+        "listen to music"
+      ],
+      [
+        "-öksür",
+        "cough, bark"
+      ],
+      [
+        "-seslen",
+        "shout out, call out, address, yell"
+      ],
+      [
+        "-sustur",
+        "to cause to be silent"
+      ],
+      [
+        "-zikrini söylemek",
+        "chant"
+      ]
+    ]
+  },
+  "authority": {
+    "fc_data": [
+      [
+        "-baş etmek",
+        "deal, manage, cope with sth"
+      ],
+      [
+        "-buyur",
+        "decree, order, rule, command  (archaic)"
+      ],
+      [
+        "-dava açmak",
+        "to sue sby  (lgl)"
+      ],
+      [
+        "-görevlendir",
+        "assign, nominate, deploy, commission, entrust with"
+      ],
+      [
+        "-hak etmek",
+        "deserve"
+      ],
+      [
+        "-hapset",
+        "confine, imprison, incarcerate, jail, detain, lockup, restrain"
+      ],
+      [
+        "-ihmal etmek",
+        "neglect, forget, ignore, disregard"
+      ],
+      [
+        "-iptal etmek",
+        "cancel sth"
+      ],
+      [
+        "-iptal etmek",
+        "cancel  (tech)"
+      ],
+      [
+        "-işgal etmek",
+        "occupy"
+      ],
+      [
+        "-izin ver",
+        "let, allow"
+      ],
+      [
+        "-kaldır",
+        "abolish, abrogate, annul, dismantle, remove, rescind, cancel, do away with,"
+      ],
+      [
+        "-kuralları uygula",
+        "follow the rules"
+      ],
+      [
+        "-onayla",
+        "approve, confirm, ratify, acknowledge, validate"
+      ],
+      [
+        "-oy vermek",
+        "vote"
+      ],
+      [
+        "-şart koş",
+        "stipulate, set conditions, qualify"
+      ],
+      [
+        "-tutukla",
+        "arrest, jail, apprehend, imprison"
+      ],
+      [
+        "-tutuklan",
+        "be arrested"
+      ],
+      [
+        "-uygula",
+        "apply, carry out, administer, deploy"
+      ],
+      [
+        "-uygula",
+        "dispense, exert, impart, perform, realize"
+      ],
+      [
+        "-uyul",
+        "to be obeyed, to be followed [rules, etc]"
+      ],
+      [
+        "-yönet",
+        "to manage"
+      ],
+      [
+        "-benimsen",
+        "be adopted [concept, rule, person]"
+      ],
+      [
+        "-dinle",
+        "heed, regard, follow"
+      ],
+      [
+        "-etkile",
+        "affect, influence, sway"
+      ],
+      [
+        "-etkile",
+        "impress, influence, penetrate, pierce"
+      ],
+      [
+        "-kontrol etmek",
+        "check sth, control sth, test, audit"
+      ],
+      [
+        "-korun",
+        "protect, guard, defend self"
+      ],
+      [
+        "-koru",
+        "protect, defend, guard"
+      ],
+      [
+        "-kov",
+        "dismiss, banish, drive out, eject, disloge, exile, fire, get rid of"
+      ],
+      [
+        "-kurtar",
+        "salvage, bail out"
+      ],
+      [
+        "-kurtar",
+        "save, rescue"
+      ],
+      [
+        "-kurtar",
+        "set free, redeem"
+      ],
+      [
+        "-kurtul",
+        "get away, escape, evade, be freed, elude"
+      ],
+      [
+        "-sakla",
+        "conceal, hide, suppress, disguise, hold back"
+      ],
+      [
+        "-seç",
+        "choose, select, pick out"
+      ],
+      [
+        "-seç",
+        "elect, decide upon, adopt"
+      ],
+      [
+        "-segilemek",
+        "select"
+      ],
+      [
+        "-sığın",
+        "defect, refuge, sanctuary"
+      ],
+      [
+        "-sığın",
+        "take refuge in, take shelter in, harbor, nestle"
+      ],
+      [
+        "-teyit etmek",
+        "confirm"
+      ],
+      [
+        "-uy",
+        "obey, follow, comply"
+      ],
+      [
+        "-zorunda kalmak",
+        "have to, be obliged to do, must, commit"
+      ],
+      [
+        "-zorunda ol",
+        "have to, must"
+      ]
+    ]
+  },
+  "basic": {
+    "fc_data": [
+      [
+        "-ara",
+        "to search for sth, look for"
+      ],
+      [
+        "-aratır",
+        "make the call"
+      ]
+    ]
+  },
+  "body": {
+    "fc_data": [
+      [
+        "-arın",
+        "defecate"
+      ],
+      [
+        "-banyo yapmak",
+        "bathe, wash body"
+      ],
+      [
+        "-beslen",
+        "take nourishment, feed, live on"
+      ],
+      [
+        "-canı çıkmak",
+        "be exhausted"
+      ],
+      [
+        "-doy",
+        "be filled"
+      ],
+      [
+        "-doyur",
+        "to fill up sth"
+      ],
+      [
+        "-duş al",
+        "take a shower"
+      ],
+      [
+        "-giy",
+        "to wear, dress [clothing]"
+      ],
+      [
+        "-giyin",
+        "to dress [reflexive]"
+      ],
+      [
+        "-iç",
+        "to drink"
+      ],
+      [
+        "-içir",
+        "to cause to drink"
+      ],
+      [
+        "-idrar yapmak",
+        "urinate"
+      ],
+      [
+        "-işe",
+        "piss"
+      ],
+      [
+        "-kalk",
+        "wake, get up, depart"
+      ],
+      [
+        "-nefes alıp vermek",
+        "breathe"
+      ],
+      [
+        "-nefes almak",
+        "inhale breath"
+      ],
+      [
+        "-nefes çekmek",
+        "inhale breath"
+      ],
+      [
+        "-nefes vermek",
+        "exhale breath"
+      ],
+      [
+        "-pisle",
+        "defecate, piss"
+      ],
+      [
+        "-serinlen",
+        "to be made cool"
+      ],
+      [
+        "-serinle",
+        "to become cool [< serin]"
+      ],
+      [
+        "-sıç",
+        "to shit"
+      ],
+      [
+        "-soy",
+        "peel, strip, undress, disrobe"
+      ],
+      [
+        "-soyun",
+        "be undressed"
+      ],
+      [
+        "-tak",
+        "wear accessory"
+      ],
+      [
+        "-terle",
+        "sweat, perspire"
+      ],
+      [
+        "-traş etmek",
+        "shave"
+      ],
+      [
+        "-uyu",
+        "sleep"
+      ],
+      [
+        "-uyan",
+        "wake up, awaken"
+      ],
+      [
+        "-uzan",
+        "lie down, rest, lounge, recline"
+      ],
+      [
+        "-yat",
+        "go to bed"
+      ],
+      [
+        "-ye",
+        "eat"
+      ],
+      [
+        "-ye",
+        "to eat"
+      ],
+      [
+        "-yıka",
+        "to wash sby sth, launder, scrub, clean"
+      ],
+      [
+        "-yıkan",
+        "to be washed"
+      ],
+      [
+        "-yut",
+        "swallow, absorb, choke, consume, devour, drink, ingest"
+      ],
+      [
+        "-ayağa kalkmak",
+        "stand up, rise, get up"
+      ],
+      [
+        "-başa sallamak",
+        "nod head"
+      ],
+      [
+        "-çek",
+        "inhale, sip"
+      ],
+      [
+        "-dinlen",
+        "rest, relax"
+      ],
+      [
+        "-dolan",
+        "stroll, wander about, hang around, ramble"
+      ],
+      [
+        "-eğil",
+        "bow, bend, droop, hang, sag, stoop"
+      ],
+      [
+        "-içil",
+        "to be drunk [passive of 'to drink\"]"
+      ],
+      [
+        "-içiril içirilir}",
+        "to be caused to drink"
+      ],
+      [
+        "-ihtiyarla",
+        "to grow old"
+      ],
+      [
+        "-ısırı",
+        "bite"
+      ],
+      [
+        "-kafa sallamak",
+        "nod head"
+      ],
+      [
+        "-kalk",
+        "wake, get up, depart"
+      ],
+      [
+        "-kirlet",
+        "pollute, defecate"
+      ],
+      [
+        "-otur",
+        "dwell, live, sit"
+      ],
+      [
+        "-otur",
+        "to sit, dwell"
+      ],
+      [
+        "-oturt",
+        "to cause to sit or dwell"
+      ],
+      [
+        "-oturtul",
+        "to be caused to sit or dwell"
+      ],
+      [
+        "-sarhoş etmek",
+        "make drunk"
+      ],
+      [
+        "-sıç",
+        "to shit"
+      ],
+      [
+        "-sok",
+        "sting, bite"
+      ],
+      [
+        "-terle",
+        "sweat, perspire"
+      ],
+      [
+        "-tokatla",
+        "slap, smack"
+      ],
+      [
+        "-uyan",
+        "wake up, awaken"
+      ],
+      [
+        "-uyu",
+        "sleep"
+      ],
+      [
+        "-uzan",
+        "lie down, rest, lounge, recline"
+      ],
+      [
+        "-yaşa",
+        "dwell, inhabit"
+      ],
+      [
+        "-yaşa",
+        "live, breathe, exist"
+      ],
+      [
+        "-yat",
+        "lie, incline, rest"
+      ],
+      [
+        "-yat",
+        "lay down"
+      ],
+      [
+        "-yor",
+        "tire, fatigue, wear out"
+      ],
+      [
+        "-yorul",
+        "be tired, exhausted, fatigued"
+      ]
+    ]
+  },
+  "business": {
+    "fc_data": [
+      [
+        "-ayarla",
+        "adjust, calibrate, tune in, gauge, set"
+      ],
+      [
+        "-ayır",
+        "allocate, set aside"
+      ],
+      [
+        "-ayırt",
+        "reserve, book sth"
+      ],
+      [
+        "-başvuru",
+        "apply"
+      ],
+      [
+        "-başvuru yap",
+        "apply [for sth]"
+      ],
+      [
+        "-başvuru yaptım",
+        "i applied for sth"
+      ],
+      [
+        "-belirle",
+        "determine, assess, identify"
+      ],
+      [
+        "-bildir",
+        "to inform, announce, cause to know, let sby know"
+      ],
+      [
+        "-bildiril",
+        "to be announced"
+      ],
+      [
+        "-dosyala",
+        "to file [inferred]"
+      ],
+      [
+        "-doldur",
+        "fill in, stuff, complete [form]"
+      ],
+      [
+        "-düzenle",
+        "arrange, coordinate, organize"
+      ],
+      [
+        "-düzenle",
+        "arrange, organize, methodize, line up"
+      ],
+      [
+        "-düzenle",
+        "designate, distribute, frame, impose, set out"
+      ],
+      [
+        "-düzenle",
+        "regulate, coordinate, engineer, promote"
+      ],
+      [
+        "-düzenle",
+        "regulate"
+      ],
+      [
+        "-gözden geçirmek",
+        "review, look over, check over"
+      ],
+      [
+        "-hallet",
+        "adjust, arrange, dispose of, overcome"
+      ],
+      [
+        "-hallet",
+        "answer, clear up, figure out, resolve, settle"
+      ],
+      [
+        "-hallet",
+        "sort out, work out"
+      ],
+      [
+        "-imza atmak",
+        "sign, append signature to"
+      ],
+      [
+        "-imza etmek",
+        "sign sth"
+      ],
+      [
+        "-işaretle",
+        "mark sth"
+      ],
+      [
+        "-kaydet",
+        "record sth"
+      ],
+      [
+        "-kayıt olmak",
+        "register"
+      ],
+      [
+        "-listele",
+        "list sth"
+      ],
+      [
+        "-muhafaza etmek",
+        "store, keep sth"
+      ],
+      [
+        "-onayla",
+        "approve, confirm, ratify, acknowledge, validate"
+      ],
+      [
+        "-randevu al",
+        "to book sth [inferred]"
+      ],
+      [
+        "-rezervasyon yapmak",
+        "book [a reservation]"
+      ],
+      [
+        "-sipariş vermek",
+        "order sth"
+      ],
+      [
+        "-tamamla",
+        "complete, finish off"
+      ],
+      [
+        "-yazıl",
+        "enroll, enter, register, sign up"
+      ],
+      [
+        "-yönet",
+        "to manage"
+      ],
+      [
+        "-al",
+        "to buy, possess"
+      ],
+      [
+        "-arz etmek",
+        "submit, supply"
+      ],
+      [
+        "-bırak",
+        "blank out"
+      ],
+      [
+        "-buluşturul",
+        "to be caused to meet or get together"
+      ],
+      [
+        "-dağıt",
+        "distribute, dispense, deploy, hand out"
+      ],
+      [
+        "-depola",
+        "store"
+      ],
+      [
+        "-devam etmek",
+        "continue, go on, keep on, proceed, progress, pursue"
+      ],
+      [
+        "-durakla",
+        "pause, halt, hesitate"
+      ],
+      [
+        "-geç kalmak",
+        "be late [for sth]"
+      ],
+      [
+        "-gel bakmak",
+        "let's see"
+      ],
+      [
+        "-gel",
+        "come out with results"
+      ],
+      [
+        "-gel",
+        "expire, reach a certain time"
+      ],
+      [
+        "-gel",
+        "gain, be achieved"
+      ],
+      [
+        "-gel",
+        "hit"
+      ],
+      [
+        "-geliş",
+        "develop, improve, evolve, progress, prosper"
+      ],
+      [
+        "-geliştir",
+        "develop, improve"
+      ],
+      [
+        "-geliştiril",
+        "to be developed"
+      ],
+      [
+        "-gel",
+        "return to topic"
+      ],
+      [
+        "-gel",
+        "watch, follow"
+      ],
+      [
+        "-gerçekle",
+        "substantiate, verify"
+      ],
+      [
+        "-gönder",
+        "send, dispatch, consign, freight, remit, route, send off, ship"
+      ],
+      [
+        "-gönderil",
+        "to be sent"
+      ],
+      [
+        "-göreve gelmek",
+        "come to office"
+      ],
+      [
+        "-görevi devralmak",
+        "take over duty"
+      ],
+      [
+        "-görevinden ayrılmak",
+        "leave office"
+      ],
+      [
+        "-görevini yapmak",
+        "do one's duty"
+      ],
+      [
+        "-göze almak",
+        "chance, risk sth, venture"
+      ],
+      [
+        "-hazırlanabilir",
+        "able to get sth ready"
+      ],
+      [
+        "-hazırlan",
+        "prepare sth, get sth ready"
+      ],
+      [
+        "-hizmet etmek",
+        "to serve"
+      ],
+      [
+        "-izle",
+        "watch, track, follow, trace, monitor"
+      ],
+      [
+        "-ıskala",
+        "miss [fire, the mark]"
+      ],
+      [
+        "-ısmarla",
+        "place an order, send away for"
+      ],
+      [
+        "-katıl",
+        "record [video, audio]?"
+      ],
+      [
+        "-kavuş",
+        "retrieve, rejoin, resume"
+      ],
+      [
+        "-kaybet",
+        "lose, forfeit sth"
+      ],
+      [
+        "-kaybet",
+        "lose sth"
+      ],
+      [
+        "-kaybetmek",
+        "lose"
+      ],
+      [
+        "-kazandır",
+        "bring in, redound, achieves"
+      ],
+      [
+        "-kazan",
+        "win"
+      ],
+      [
+        "-kopyala",
+        "copy, facsimile sth"
+      ],
+      [
+        "-meşgul olmak",
+        "is busy"
+      ],
+      [
+        "-niyetlen",
+        "determine, plan, intend"
+      ],
+      [
+        "-öden",
+        "pay, be paid"
+      ],
+      [
+        "-öde",
+        "pay"
+      ],
+      [
+        "-paylaş",
+        "divide, split, partake, participate"
+      ],
+      [
+        "-paylaş",
+        "share, divvy"
+      ],
+      [
+        "-resmi durmak",
+        "look formal, official"
+      ],
+      [
+        "-risk almak",
+        "take risk"
+      ],
+      [
+        "-sağla",
+        "provide, ensure, supply, cater, furnish"
+      ],
+      [
+        "-sahip olmak",
+        "to own, to have"
+      ],
+      [
+        "-sakla",
+        "preserve, protect, store, stow"
+      ],
+      [
+        "-sil",
+        "cancel, delete, wipe out"
+      ],
+      [
+        "-sil",
+        "erase, wipe, rub off"
+      ],
+      [
+        "-temizle",
+        "clear"
+      ],
+      [
+        "-tercih etmek",
+        "like better, opt for"
+      ],
+      [
+        "-tercih etmek",
+        "prefer, choose"
+      ],
+      [
+        "-uğraş",
+        "work hard, endeavor, make effort"
+      ],
+      [
+        "-ulaş",
+        "receive, got, attain, gain"
+      ],
+      [
+        "-yol açmak",
+        "bring about, call forth, leads to, entails"
+      ],
+      [
+        "-zor olmak",
+        "be inconvenient"
+      ]
+    ]
+  },
+  "collaboration": {
+    "fc_data": [
+      [
+        "-affet",
+        "forgive, excuse, pardon, condone"
+      ],
+      [
+        "-affetmek",
+        "excuse"
+      ],
+      [
+        "-antlaş",
+        "make a pact"
+      ],
+      [
+        "-arkadaş yap",
+        "make friends"
+      ],
+      [
+        "-bak",
+        "look after, care for"
+      ],
+      [
+        "-buluş",
+        "to meet together, to convey"
+      ],
+      [
+        "-buluş",
+        "meet, get together, date"
+      ],
+      [
+        "-buluşturul",
+        "to be caused to meet or get together"
+      ],
+      [
+        "-destekle",
+        "subsidize, assist, sponsor, endorse, sustain"
+      ],
+      [
+        "-destekle",
+        "support, back, buttress, underlay, advocate, champion"
+      ],
+      [
+        "-destekle",
+        "support"
+      ],
+      [
+        "-destek olmak",
+        "back up"
+      ],
+      [
+        "-dostu olmak",
+        "be friends with sby"
+      ],
+      [
+        "-eşlik etmek",
+        "attend, accompany sby"
+      ],
+      [
+        "-haberleş",
+        "communicate"
+      ],
+      [
+        "-hizmet etmek",
+        "to serve"
+      ],
+      [
+        "-ilgilen  [instr: ile]",
+        "care, take care of, look after"
+      ],
+      [
+        "-katıl",
+        "agree [w/ sby]"
+      ],
+      [
+        "-katıl",
+        "mingle, accompany"
+      ],
+      [
+        "-katıl",
+        "participate, join"
+      ],
+      [
+        "-maddi destekte bulunmak",
+        "give, provide financial support, aid"
+      ],
+      [
+        "-mektuplaş",
+        "correspond together"
+      ],
+      [
+        "-paylaş",
+        "divide, split, partake, participate"
+      ],
+      [
+        "-paylaşmak",
+        "share, post [social media], split, divide, divvy up, participate of, share out"
+      ],
+      [
+        "-paylaş",
+        "share, divvy"
+      ],
+      [
+        "-paylaş",
+        "share  (tech)"
+      ],
+      [
+        "-sun",
+        "submit sth, present, offer"
+      ],
+      [
+        "-tanış",
+        "meet one another, make acquainted with"
+      ],
+      [
+        "-tanıştırıl",
+        "to be introduced to sby"
+      ],
+      [
+        "-tanıştır",
+        "to introduce sby to sby"
+      ],
+      [
+        "-yardım etmek",
+        "help sby"
+      ],
+      [
+        "-zahmet etmek",
+        "bother sby"
+      ],
+      [
+        "-ziyaret etmek",
+        "visit"
+      ],
+      [
+        "-alış",
+        "to become accustomed to sth [dative]"
+      ],
+      [
+        "-birleştiril",
+        "to be united"
+      ],
+      [
+        "-birleş",
+        "to become united"
+      ],
+      [
+        "-çağır",
+        "call sby, invite sby, summon sby"
+      ],
+      [
+        "-davran",
+        "behave, act, comport"
+      ],
+      [
+        "-destekle",
+        "support"
+      ],
+      [
+        "-ele pecirmek",
+        "hand in hand"
+      ],
+      [
+        "-gel",
+        "be/reach/measure/rival"
+      ],
+      [
+        "-gel",
+        "join"
+      ],
+      [
+        "-geri bildirim almak",
+        "get feedback"
+      ],
+      [
+        "-geri bildirimde bulunmak",
+        "provide, report feedback"
+      ],
+      [
+        "-geri bildirim yapmak",
+        "give feedback"
+      ],
+      [
+        "-getir",
+        "bring [sth to sby], carry, bear, fetch, convey, work up"
+      ],
+      [
+        "-getiril",
+        "to be brought"
+      ],
+      [
+        "-göz önünde bulundurmak",
+        "consider"
+      ],
+      [
+        "-göz önünde tutmak",
+        "regard, consider"
+      ],
+      [
+        "-güzel olsun",
+        "congratulations [for sth]"
+      ],
+      [
+        "-hak etmek",
+        "deserve"
+      ],
+      [
+        "-ilgi çek",
+        "draw attention"
+      ],
+      [
+        "-ilgilen [instr: ile]",
+        "be interested in, pay attention to, concerned about"
+      ],
+      [
+        "-inandır",
+        "make sby believe, persuade"
+      ],
+      [
+        "-iyi olsun",
+        "congratulations [for sth]"
+      ],
+      [
+        "-ısmarla",
+        "buy sth for sby else"
+      ],
+      [
+        "-ısmarla",
+        "treat sby [dative]"
+      ],
+      [
+        "-kaba olmak",
+        "be rude"
+      ],
+      [
+        "-kabul etmek",
+        "accept, receive, agree, acknowledge"
+      ],
+      [
+        "-kabul etmek",
+        "allow, approve, assent, consent"
+      ],
+      [
+        "-kabul etmek",
+        "concede, embrace, accede, admit"
+      ],
+      [
+        "-karşıla",
+        "meet, welcome, greet"
+      ],
+      [
+        "-karşılaş",
+        "meet one another"
+      ],
+      [
+        "-katıl",
+        "agree [w/ sby]"
+      ],
+      [
+        "-kes",
+        "interrupt, break, discontinue, cease"
+      ],
+      [
+        "-kulağa enteresan gelmek",
+        "sounds interesting"
+      ],
+      [
+        "-kutla",
+        "celebrate, observe, commemorate, congratulate"
+      ],
+      [
+        "-özür dilemek",
+        "apologize, ask pardon, make amends, make an excuse [ablative]"
+      ],
+      [
+        "-sahiplemek",
+        "two people compatible with each other (slang)"
+      ],
+      [
+        "-saygı duymak",
+        "respect [sby, sth]"
+      ],
+      [
+        "-tavsi etmek",
+        "recommend, advise"
+      ],
+      [
+        "-teşekkür etmek",
+        "to thank sby"
+      ],
+      [
+        "-üstlen",
+        "assume, bear, take on, undertake, accept burden"
+      ],
+      [
+        "-uydur",
+        "adjust, assimilate, conform, regulate, adapt"
+      ],
+      [
+        "-uzak dur",
+        "stay away"
+      ],
+      [
+        "-yararlı olmak",
+        "be helpful"
+      ],
+      [
+        "-yardım etmek",
+        "help sby"
+      ],
+      [
+        "-yemek dağıtmak",
+        "hand out food, distribute food"
+      ]
+    ]
+  },
+  "communication": {
+    "fc_data": [
+      [
+        "-açıkla",
+        "explain, state, clarify"
+      ],
+      [
+        "-açıklaması gerekmek",
+        "needs to explain"
+      ],
+      [
+        "-açıklama yapmak",
+        "make statement, give explanation"
+      ],
+      [
+        "-açıklayabilir",
+        "can explain"
+      ],
+      [
+        "-altını çizmek",
+        "underline sth"
+      ],
+      [
+        "-anlat",
+        "to explain, recount, make understand"
+      ],
+      [
+        "-anlatıl",
+        "to be explained"
+      ],
+      [
+        "-anlat",
+        "tell, explain"
+      ],
+      [
+        "-ara",
+        "phone call"
+      ],
+      [
+        "-argo konuşmak",
+        "speak slang"
+      ],
+      [
+        "-bahset",
+        "to discuss, talk about [ablat], to mention"
+      ],
+      [
+        "-bildir",
+        "to inform, announce, cause to know, let sby know"
+      ],
+      [
+        "-bildiril",
+        "to be announced"
+      ],
+      [
+        "-cevap al",
+        "get reply"
+      ],
+      [
+        "-cevap vermek",
+        "answer [v]"
+      ],
+      [
+        "-çevir",
+        "translate into, translate, interpret"
+      ],
+      [
+        "-de",
+        "to say, speak [direct quote]"
+      ],
+      [
+        "-de",
+        "report [speech], meaning [of sth]"
+      ],
+      [
+        "-ders vermek",
+        "lecture (v)"
+      ],
+      [
+        "-görüş",
+        "confer, discuss, interview, meet, see, talk"
+      ],
+      [
+        "-görüş",
+        "to converse, discuss"
+      ],
+      [
+        "-görüştür",
+        "to cause to converse"
+      ],
+      [
+        "-görüştürül",
+        "to be made to converse with each other"
+      ],
+      [
+        "-görüşül",
+        "to be discussed"
+      ],
+      [
+        "-haberleş",
+        "communicate"
+      ],
+      [
+        "-haber ver",
+        "inform sby, give news abt, let sby know"
+      ],
+      [
+        "-hatırlat",
+        "to cause to remember"
+      ],
+      [
+        "-iletişime geç",
+        "pass communication"
+      ],
+      [
+        "-iletişim kur",
+        "communicate"
+      ],
+      [
+        "-ismarla",
+        "to commend to, order"
+      ],
+      [
+        "-konuş",
+        "[act of] speak, talk"
+      ],
+      [
+        "-konuş",
+        "to talk, converse"
+      ],
+      [
+        "-mektuplaş",
+        "correspond together"
+      ],
+      [
+        "-okun",
+        "to be read"
+      ],
+      [
+        "-oku",
+        "to read, to study"
+      ],
+      [
+        "-öner",
+        "propose, suggest, recommend"
+      ],
+      [
+        "-sohbet etmek",
+        "chat (v)"
+      ],
+      [
+        "-sor",
+        "to ask"
+      ],
+      [
+        "-söylen",
+        "to be said"
+      ],
+      [
+        "-söyle",
+        "to speak, say, tell [not used with direct quotations: see demek]"
+      ],
+      [
+        "-söyle",
+        "tell sby sth, x said"
+      ],
+      [
+        "-söz vermek",
+        "promise, guarantee, commit, pledge, vow"
+      ],
+      [
+        "-tarif etmek",
+        "to describe, define"
+      ],
+      [
+        "-tekrarla",
+        "repeat"
+      ],
+      [
+        "-telaffuz etmek",
+        "pronounce, articulate"
+      ],
+      [
+        "-telefon etmek",
+        "telephone sby"
+      ],
+      [
+        "-telefon etmek",
+        "to phone"
+      ],
+      [
+        "-vedalaş",
+        "say goodbye"
+      ],
+      [
+        "-yalan söyle",
+        "tell lies"
+      ],
+      [
+        "-yazı yazmak",
+        "write sth"
+      ],
+      [
+        "-yazmak",
+        "text  (tech)"
+      ],
+      [
+        "-yaz",
+        "to write"
+      ]
+    ]
+  },
+  "communications": {
+    "fc_data": [
+      [
+        "-ifşala",
+        "to reveal (slang)"
+      ]
+    ]
+  },
+  "conflict_legal": {
+    "fc_data": [
+      [
+        "-aksat",
+        "hamper, hinder, disturb, disrupt"
+      ],
+      [
+        "-aksat",
+        "paralyze, make limp"
+      ],
+      [
+        "-atlat",
+        "bypass, circumvent, doge, parry"
+      ],
+      [
+        "-atlat",
+        "get over, take, overcome, escape, outwit, shake off"
+      ],
+      [
+        "-azarla",
+        "scold, berate, reprimand, admonish"
+      ],
+      [
+        "-bahane etmek",
+        "pretend, guile"
+      ],
+      [
+        "-challenge yapmak",
+        "to call out sby  (slang)"
+      ],
+      [
+        "-çimdikle",
+        "pinch, nip, pinch off, tweak"
+      ],
+      [
+        "-dava açmak",
+        "to sue sby  (lgl)"
+      ],
+      [
+        "-dışlak",
+        "exclude, deport"
+      ],
+      [
+        "-dolandırıl",
+        "be conned, scammed"
+      ],
+      [
+        "-engelle",
+        "block, hinder, inhibit, obstruct"
+      ],
+      [
+        "-engelle",
+        "block [social media]  (tech)"
+      ],
+      [
+        "-engelle",
+        "dam up, hamper, foil, hobble, clog"
+      ],
+      [
+        "-hakaret etmek",
+        "insult"
+      ],
+      [
+        "-hapset",
+        "confine, imprison, incarcerate, jail, detain, lockup, restrain"
+      ],
+      [
+        "-ihmal etmek",
+        "neglect, forget, ignore, disregard"
+      ],
+      [
+        "-karış",
+        "interfere, meddle, intervene"
+      ],
+      [
+        "-kazıklan",
+        "pay through the nose"
+      ],
+      [
+        "-kekle",
+        "to deceive  (slang)"
+      ],
+      [
+        "-kışkırt",
+        "agitate, antagonize, excite, instigate, spur, foment, rouse, incite"
+      ],
+      [
+        "-kızdır",
+        "irritate"
+      ],
+      [
+        "-kızdır",
+        "make sby angry"
+      ],
+      [
+        "-küfür etmek",
+        "curse, cuss"
+      ],
+      [
+        "-paylamak",
+        "reprimand, scold, castigate, rag, rebuke"
+      ],
+      [
+        "-reddet",
+        "to reject"
+      ],
+      [
+        "-şaplak at",
+        "slap, smack, spank"
+      ],
+      [
+        "-şikayet etmek",
+        "to complain"
+      ],
+      [
+        "-sik",
+        "fuck  (slang)?"
+      ],
+      [
+        "-soy",
+        "plunder, rob, burgle"
+      ],
+      [
+        "-trip atmak",
+        "to have attitude  (slang)"
+      ],
+      [
+        "-trolle",
+        "to troll ?, to create trouble  (slang)"
+      ],
+      [
+        "-tutukla",
+        "arrest, jail, apprehend, imprison"
+      ],
+      [
+        "-tutuklan",
+        "be arrested"
+      ],
+      [
+        "-yalan söyle",
+        "tell lies"
+      ],
+      [
+        "-zarar vermek",
+        "to harm"
+      ],
+      [
+        "-zarar vermek",
+        "to injure, damage"
+      ],
+      [
+        "-bırak",
+        "cede, concede, discontinue, quit, stop, stopped"
+      ],
+      [
+        "-bomba patlamak",
+        "bomb explode"
+      ],
+      [
+        "-çal",
+        "steal, thieve, hijack"
+      ],
+      [
+        "-dağıt",
+        "distract, ruffle, rumple, disrupt"
+      ],
+      [
+        "-dayanabilir",
+        "can endure, resist"
+      ],
+      [
+        "-dayan",
+        "endure, survive, hold on, bear, tolerate"
+      ],
+      [
+        "-dayan",
+        "resist, persist"
+      ],
+      [
+        "-gerek",
+        "presuppose, should, require, behoove"
+      ],
+      [
+        "-geri al",
+        "retract, take back, recall, recapture, resume, retake"
+      ],
+      [
+        "-gizle",
+        "hide, conceal, cover up, disguise, cloak"
+      ],
+      [
+        "-ortaya çıkmak",
+        "to appear"
+      ],
+      [
+        "-sakın",
+        "avoid, abstain, eschew, shun"
+      ],
+      [
+        "-sakın",
+        "be cautious, wary, flinch, hang back"
+      ],
+      [
+        "-uğraş",
+        "strive, struggle, grapple"
+      ],
+      [
+        "-vazgeç",
+        "surrender, relinquish, recant, quit, forego, forsake"
+      ]
+    ]
+  },
+  "emotional": {
+    "fc_data": [
+      [
+        "-acı vermek",
+        "afflict, causes pain"
+      ],
+      [
+        "-ağla",
+        "to weep, cry"
+      ],
+      [
+        "-ağlayabilir",
+        "can cry"
+      ],
+      [
+        "-bayıl",
+        "be fond of adore, be enamored of [dativ]"
+      ],
+      [
+        "-bık",
+        "to get tired of [ablat], enough [of sth]"
+      ],
+      [
+        "-can … istemek",
+        "feel like doing sth"
+      ],
+      [
+        "-canı istiyor",
+        "feel like, mood for?, play by ear"
+      ],
+      [
+        "-canı sıkılmak",
+        "be bored"
+      ],
+      [
+        "-canı sıkılmış",
+        "become bored"
+      ],
+      [
+        "-canı yanmak",
+        "be hurt, get hurt, in pain"
+      ],
+      [
+        "-çekin",
+        "boggle, dread, fear, flee from, flinch"
+      ],
+      [
+        "-değer vermek",
+        "to value"
+      ],
+      [
+        "-değer vermek",
+        "to value sth, to appreciate sth"
+      ],
+      [
+        "-dile",
+        "wish, will, desire"
+      ],
+      [
+        "-eğlen",
+        "have fun, be amused"
+      ],
+      [
+        "-endişe etmek",
+        "to worry abt sth"
+      ],
+      [
+        "-gül",
+        "to laugh"
+      ],
+      [
+        "-güven",
+        "trust, confide in, rely, depend, faith, assurance"
+      ],
+      [
+        "-hoşlan",
+        "like, enjoy, attracted to, fancy for"
+      ],
+      [
+        "-hoş",
+        "like, enjoy sth"
+      ],
+      [
+        "-hoşuma gitmek",
+        "like, get a kick out of"
+      ],
+      [
+        "-hoşuna",
+        "git it pleases him. he enjoys it."
+      ],
+      [
+        "-hoşu x gitti",
+        "to x’s liking, nice, enjoy"
+      ],
+      [
+        "-keyif al",
+        "to get pleasure, delight from sth  [ablat]"
+      ],
+      [
+        "-keyif vermek",
+        "intoxicate, please, give pleasure to"
+      ],
+      [
+        "-kız",
+        "to become angry"
+      ],
+      [
+        "-kızdır",
+        "make sby angry"
+      ],
+      [
+        "-kork",
+        "fear"
+      ],
+      [
+        "-kork",
+        "to be afraid of [ablat]"
+      ],
+      [
+        "-kuyruk acısı olmak",
+        "feel sore about something, bear grudge against, desire for revenge"
+      ],
+      [
+        "-memnun etmek",
+        "comfort, gladden, gratify, please, satisfy"
+      ],
+      [
+        "-merak etmek",
+        "be curious, wonder [about sth]"
+      ],
+      [
+        "-nefret etmek",
+        "disgust [hate, resent, repulse]"
+      ],
+      [
+        "-özen",
+        "hope"
+      ],
+      [
+        "-özle",
+        "miss sby sth, long for, yearn"
+      ],
+      [
+        "-rahat etmek",
+        "be comfortable"
+      ],
+      [
+        "-sabret",
+        "be patient, endure, forbear, bear with"
+      ],
+      [
+        "-sev",
+        "to like, to love sth  [accus]"
+      ],
+      [
+        "-sevin",
+        "rejoice, be happy, be glad"
+      ],
+      [
+        "-sevin",
+        "to be or become happy"
+      ],
+      [
+        "-sıkıl",
+        "be bored"
+      ],
+      [
+        "-somurt",
+        "sulk, frown, turn sour"
+      ],
+      [
+        "-şaş",
+        "be surprised"
+      ],
+      [
+        "-şaşır",
+        "surprise sby"
+      ],
+      [
+        "-şaşkın olmak",
+        "astonished"
+      ],
+      [
+        "-tadını çıkar",
+        "enjoy"
+      ],
+      [
+        "-takdir etmek",
+        "admire sby"
+      ],
+      [
+        "-um",
+        "hope, expect, look for"
+      ],
+      [
+        "-umursa",
+        "care about"
+      ],
+      [
+        "-ürk",
+        "lose nerve, balk at, dread"
+      ],
+      [
+        "-ürk",
+        "startle, get a fright, take fright, boggle"
+      ],
+      [
+        "-utan",
+        "be shy, ashamed, blush"
+      ],
+      [
+        "-üzül",
+        "sorrow, trouble, sadden, feel bad about, regret"
+      ],
+      [
+        "-yakar",
+        "entreat, invoke"
+      ],
+      [
+        "-zevk al",
+        "enjoy, appreciate, indulge sth"
+      ],
+      [
+        "-zevk ver",
+        "give sby pleasure, delight"
+      ],
+      [
+        "-çekin",
+        "abstain, avoid, eschew, hesitate, hold back, hold off, keep clear of, shun"
+      ],
+      [
+        "-gel",
+        "endure"
+      ],
+      [
+        "-hayırlı olsun",
+        "congratulations [for sth]"
+      ],
+      [
+        "-hoşuna",
+        "git it pleases him. he enjoys it."
+      ],
+      [
+        "-köpekle",
+        "to cringe [< köpek]"
+      ],
+      [
+        "-rahatsız etme",
+        "do not disturb"
+      ],
+      [
+        "-rahatsız etmek",
+        "disturb sby"
+      ],
+      [
+        "-sessiz olmak",
+        "be silent, quiet"
+      ],
+      [
+        "-yıl",
+        "to flinch"
+      ],
+      [
+        "-zorlan",
+        "struggling [in difficulty]"
+      ]
+    ]
+  },
+  "health": {
+    "fc_data": [
+      [
+        "-acı vermek",
+        "afflict, causes pain"
+      ],
+      [
+        "-ağrı",
+        "hurts, paining"
+      ],
+      [
+        "-ameliyat etmek",
+        "operate [surgery]"
+      ],
+      [
+        "-ayağa kalkmak",
+        "get better, recover"
+      ],
+      [
+        "-bayıl",
+        "blackout, faint, swoon, pass out"
+      ],
+      [
+        "-bızırı kesmek",
+        "circumcise\""
+      ],
+      [
+        "-canı yanmak",
+        "be hurt, get hurt, in pain"
+      ],
+      [
+        "-canlandir",
+        "to bring to life, resuscitate, revive [caus]"
+      ],
+      [
+        "-hasta hissetmek",
+        "feel sick"
+      ],
+      [
+        "-hastalan",
+        "be sick"
+      ],
+      [
+        "-ilaç yazmak",
+        "prescribe  (med)"
+      ],
+      [
+        "-iltihaplan",
+        "fester, rankle"
+      ],
+      [
+        "-iltihaplan",
+        "inflame  (med)"
+      ],
+      [
+        "-iyileş",
+        "convalesce, get better, get well"
+      ],
+      [
+        "-iyileş",
+        "to grow better, improve"
+      ],
+      [
+        "-kana",
+        "bleed"
+      ],
+      [
+        "-kilo almak",
+        "gain weight"
+      ],
+      [
+        "-kus",
+        "vomit, spew"
+      ],
+      [
+        "-öksür",
+        "cough, bark"
+      ],
+      [
+        "-sünnet etmek",
+        "circumcise\""
+      ],
+      [
+        "-tedavi etmek",
+        "cure, treat, remedy"
+      ],
+      [
+        "-üşüt",
+        "catch a cold"
+      ],
+      [
+        "-yaralan",
+        "injure, wound, bruise"
+      ],
+      [
+        "-yaşar",
+        "fill with tears [eyes]"
+      ],
+      [
+        "-yaşar",
+        "to become moist, water, become wet"
+      ],
+      [
+        "-zehirlen",
+        "be poisoned"
+      ]
+    ]
+  },
+  "intimacy": {
+    "fc_data": [
+      [
+        "-arkadaş yap",
+        "make friends"
+      ],
+      [
+        "-bayıl",
+        "be fond of adore, be enamored of [dativ]"
+      ],
+      [
+        "-beğen",
+        "like, approve, enjoy sth"
+      ],
+      [
+        "-benimse",
+        "to regard as one's own  [< benim-se]"
+      ],
+      [
+        "-buluş",
+        "meet, get together, date"
+      ],
+      [
+        "-çarpıl",
+        "have a crush on sby"
+      ],
+      [
+        "-çimdikle",
+        "pinch, nip, pinch off, tweak"
+      ],
+      [
+        "-dostu olmak",
+        "be friends with sby"
+      ],
+      [
+        "-evlen",
+        "marry, mate, wed"
+      ],
+      [
+        "-hoşlan",
+        "like, enjoy, attracted to, fancy for"
+      ],
+      [
+        "-hoş",
+        "like, enjoy sth"
+      ],
+      [
+        "-hoşuma gitmek",
+        "like, get a kick out of"
+      ],
+      [
+        "-ısın",
+        "hit it off with sby, reconcile oneself to"
+      ],
+      [
+        "-okşa",
+        "caress, pat, stroke"
+      ],
+      [
+        "-öp",
+        "kiss, caress"
+      ],
+      [
+        "-öpüş",
+        "kiss"
+      ],
+      [
+        "-sarıl",
+        "hug, cuddle, cling, snuggle"
+      ],
+      [
+        "-sev",
+        "to like, to love sth  [accus]"
+      ],
+      [
+        "-takıl",
+        "hang out, hook up"
+      ],
+      [
+        "-tanış",
+        "meet one another, make acquainted with"
+      ],
+      [
+        "-bosan",
+        "divorce"
+      ],
+      [
+        "-yeri olmak",
+        "belong"
+      ]
+    ]
+  },
+  "knowledge": {
+    "fc_data": [
+      [
+        "-anla",
+        "to understand"
+      ],
+      [
+        "-anlaşıl",
+        "to be understood, agreed"
+      ],
+      [
+        "-anla",
+        "understand, know how to do sth"
+      ],
+      [
+        "-araştırma yapmak",
+        "research sth"
+      ],
+      [
+        "-başar",
+        "success, accomplish, achieve, do, get done, execute"
+      ],
+      [
+        "-becer",
+        "do well, swing, get things done, accomplish"
+      ],
+      [
+        "-belirle",
+        "determine, assess, identify"
+      ],
+      [
+        "-bil",
+        "to know [general]"
+      ],
+      [
+        "-bilgilen",
+        "made to know: learn"
+      ],
+      [
+        "-bilin",
+        "to be known"
+      ],
+      [
+        "-çöz",
+        "solve"
+      ],
+      [
+        "-dene",
+        "test, trial, taste, experiment, try sth, sample"
+      ],
+      [
+        "-eğitim görmek",
+        "receive an education"
+      ],
+      [
+        "-ezberle",
+        "memorize sth"
+      ],
+      [
+        "-fark etmek",
+        "realize, perceive, recognize, detect, discern, notice"
+      ],
+      [
+        "-farkında olmak",
+        "be aware of sth"
+      ],
+      [
+        "-incele",
+        "analyze, investigate, probe"
+      ],
+      [
+        "-incele",
+        "examine, study, audit, check over, look into, observe, survey"
+      ],
+      [
+        "-keşfet",
+        "detect, discover, explore, scout"
+      ],
+      [
+        "-mezun olmak",
+        "graduate"
+      ],
+      [
+        "-öğren",
+        "to learn"
+      ],
+      [
+        "-öğret",
+        "to teach"
+      ],
+      [
+        "-oku",
+        "study"
+      ],
+      [
+        "-sorgula",
+        "cross-question, examine, interrogate, query"
+      ],
+      [
+        "-tanı",
+        "get-to-know, recognize, identify, familiarize"
+      ],
+      [
+        "-tanı",
+        "know [people]"
+      ],
+      [
+        "-tanıt",
+        "introduce, acquaint, familiarize"
+      ],
+      [
+        "-hallet",
+        "unriddle, unthrone, untie, figure out, sort out, untangle, untwist, work out"
+      ],
+      [
+        "-hallol",
+        "solved, settled, laid to rest"
+      ],
+      [
+        "-kabullen",
+        "acknowledge, admit, accept, concede, give in"
+      ]
+    ]
+  },
+  "labor_craft": {
+    "fc_data": [
+      [
+        "-bağlan",
+        "adhere, attach. fasten, hitch"
+      ],
+      [
+        "-biçimlendir",
+        "form, model, shape, carve out, fashion sth"
+      ],
+      [
+        "-boya",
+        "to paint"
+      ],
+      [
+        "-çak",
+        "strike, hammer, flash"
+      ],
+      [
+        "-çalış",
+        "to work, work hard"
+      ],
+      [
+        "-çalış",
+        "work"
+      ],
+      [
+        "-çiz",
+        "draw, mark, rule, line"
+      ],
+      [
+        "-dil",
+        "chop, slice, shred"
+      ],
+      [
+        "-dök",
+        "pour, empty"
+      ],
+      [
+        "-ez",
+        "crush, grind, mash, paste"
+      ],
+      [
+        "-inşa etmek",
+        "construct, build"
+      ],
+      [
+        "-iş gör",
+        "to do work, have a job"
+      ],
+      [
+        "-iş yapmak",
+        "do work, do business"
+      ],
+      [
+        "-kar",
+        "mix, steep"
+      ],
+      [
+        "-kaz",
+        "dig"
+      ],
+      [
+        "-kes",
+        "cut, chop, carve"
+      ],
+      [
+        "-kur",
+        "build up, line up, put together"
+      ],
+      [
+        "-kur",
+        "establish, making, construct, erect"
+      ],
+      [
+        "-kur",
+        "plant sth"
+      ],
+      [
+        "-kur",
+        "set out, set [table], establish sth, found"
+      ],
+      [
+        "-kürek çekmek",
+        "row [pull on oar]"
+      ],
+      [
+        "-onarıl",
+        "be repaired"
+      ],
+      [
+        "-pişir",
+        "boil, cook sth"
+      ],
+      [
+        "-pişir",
+        "to cook sth"
+      ],
+      [
+        "-pişirt",
+        "to have sth cooked"
+      ],
+      [
+        "-piş",
+        "to cook [intransitive the meat cooks]"
+      ],
+      [
+        "-sar",
+        "wrap"
+      ],
+      [
+        "-sula",
+        "to irrigate [< su]"
+      ],
+      [
+        "-tamamla",
+        "complete, finish off"
+      ],
+      [
+        "-tamamlanmak",
+        "be complete"
+      ],
+      [
+        "-tara",
+        "comb, groom, sweep"
+      ],
+      [
+        "-tasarla",
+        "design, devise"
+      ],
+      [
+        "-taşı",
+        "carry, bear, convey [sth]"
+      ],
+      [
+        "-yoğur",
+        "knead"
+      ],
+      [
+        "-yol",
+        "fleece, pluck, pull, tear, pick"
+      ],
+      [
+        "-yükle",
+        "burden, fasten, lay"
+      ],
+      [
+        "-yüz",
+        "skin sth, peel skin off of animal"
+      ],
+      [
+        "-yap",
+        "do, make"
+      ],
+      [
+        "-yapıştır",
+        "paste"
+      ],
+      [
+        "-yar",
+        "cleave, maul, rend, rip, slash, split"
+      ],
+      [
+        "-yar",
+        "plow"
+      ],
+      [
+        "-düzel",
+        "mend, repair, fix, improve"
+      ],
+      [
+        "-hallet",
+        "sew, wind"
+      ],
+      [
+        "-şantiye olmak",
+        "become a construction site"
+      ],
+      [
+        "-yapabilir",
+        "can do, make"
+      ],
+      [
+        "-yapıl",
+        "to be made"
+      ]
+    ]
+  },
+  "lifestyle": {
+    "fc_data": [
+      [
+        "-afiyet olmak",
+        "bon appetite, enjoy your meal"
+      ],
+      [
+        "-alışveriş yap",
+        "go do shopping"
+      ],
+      [
+        "-bahse gir",
+        "bet, wager"
+      ],
+      [
+        "-banyo yapmak",
+        "bathe, wash body"
+      ],
+      [
+        "-dans etmek",
+        "dance"
+      ],
+      [
+        "-demle",
+        "brew [tea]"
+      ],
+      [
+        "-demlen",
+        "brew [tea]"
+      ],
+      [
+        "-ders çalışmak",
+        "study"
+      ],
+      [
+        "-dolaş",
+        "jaunt, stroll, walk, hike, wander, roam"
+      ],
+      [
+        "-duş al",
+        "take a shower"
+      ],
+      [
+        "-egzersiz yapmak",
+        "exercise"
+      ],
+      [
+        "-gol atmak",
+        "score a goal"
+      ],
+      [
+        "-kahve yapmak",
+        "make coffee"
+      ],
+      [
+        "-kamp yap",
+        "camping"
+      ],
+      [
+        "-kirala",
+        "hire, rent, charter, lease"
+      ],
+      [
+        "-kirara",
+        "ver to rent to sby"
+      ],
+      [
+        "-meditasyon yap",
+        "meditate"
+      ],
+      [
+        "-müzik dinlemek",
+        "listen to music"
+      ],
+      [
+        "-ödev yapmak",
+        "do homework"
+      ],
+      [
+        "-oyna",
+        "dance, hop, perform"
+      ],
+      [
+        "-oyna",
+        "to play"
+      ],
+      [
+        "-oyna",
+        "play, act"
+      ],
+      [
+        "-oyna",
+        "play, act, dance, hop, move, juggle, perform, play around"
+      ],
+      [
+        "-oyun oynamak",
+        "play a game"
+      ],
+      [
+        "-oyun oynamak",
+        "play games"
+      ],
+      [
+        "-pazarlık yap",
+        "haggle, bargain (v)"
+      ],
+      [
+        "-podcast'ler çekmek",
+        "produce podcasts"
+      ],
+      [
+        "-pratik yapmak",
+        "practice sth"
+      ],
+      [
+        "-resim yapmak",
+        "paint sth"
+      ],
+      [
+        "-satın al",
+        "buy, purchase"
+      ],
+      [
+        "-sat",
+        "to sell, market, vend"
+      ],
+      [
+        "-sepete eklemek",
+        "add to cart"
+      ],
+      [
+        "-şov yapmak",
+        "show off"
+      ],
+      [
+        "-tara",
+        "comb, groom, sweep"
+      ],
+      [
+        "-ticareti yapmak",
+        "trade sth"
+      ],
+      [
+        "-yala",
+        "lick"
+      ],
+      [
+        "-yap",
+        "to eat breakfast"
+      ],
+      [
+        "-yemek pişirmek",
+        "cook"
+      ],
+      [
+        "-yemek yapmak",
+        "make food / cook"
+      ],
+      [
+        "-yemek ye",
+        "to eat a meal"
+      ],
+      [
+        "-yürü",
+        "walk, hike, step"
+      ],
+      [
+        "-yüz",
+        "to swim, bathe,"
+      ],
+      [
+        "-dolan",
+        "stroll, wander about, hang around, ramble"
+      ],
+      [
+        "-gel",
+        "staying, visiting"
+      ],
+      [
+        "-gel",
+        "survive, live, pass sth on"
+      ],
+      [
+        "-kal",
+        "remain at [loc]"
+      ],
+      [
+        "-kal",
+        "to stay at"
+      ],
+      [
+        "-kaybol",
+        "become lost"
+      ],
+      [
+        "-korun",
+        "shelter, avoid"
+      ],
+      [
+        "-rol yapmak",
+        "to act, perform a role"
+      ],
+      [
+        "-yerleştir",
+        "place, establish, house, locate, position, situate, set up"
+      ],
+      [
+        "-yetiştiril",
+        "be raised, upbringing"
+      ]
+    ]
+  },
+  "mentoring": {
+    "fc_data": [
+      [
+        "-açıkla",
+        "explain, state, clarify"
+      ],
+      [
+        "-açıklaması gerekmek",
+        "needs to explain"
+      ],
+      [
+        "-açıklama yapmak",
+        "make statement, give explanation"
+      ],
+      [
+        "-açıklayabilir",
+        "can explain"
+      ],
+      [
+        "-anlat",
+        "to explain, recount, make understand"
+      ],
+      [
+        "-anlatıl",
+        "to be explained"
+      ],
+      [
+        "-anlat",
+        "tell, explain"
+      ],
+      [
+        "-ders vermek",
+        "lecture (v)"
+      ],
+      [
+        "-göster",
+        "demonstrate, exhibit, teach"
+      ],
+      [
+        "-göster",
+        "to display, show sth"
+      ],
+      [
+        "-göster",
+        "represent, indicate, display"
+      ],
+      [
+        "-göster",
+        "show"
+      ],
+      [
+        "-hatırlat",
+        "to cause to remember"
+      ],
+      [
+        "-öğret",
+        "to teach"
+      ],
+      [
+        "-pratik yapmak",
+        "practice sth"
+      ],
+      [
+        "-tarif etmek",
+        "to describe, define"
+      ],
+      [
+        "-uyar",
+        "admonish, induce"
+      ],
+      [
+        "-uyar",
+        "awake, awaken, exhort, forewarn"
+      ],
+      [
+        "-uyar",
+        "caution, warn, alert, charge, lecture"
+      ],
+      [
+        "-uyarla",
+        "adapt"
+      ]
+    ]
+  },
+  "movement": {
+    "fc_data": [
+      [
+        "-al",
+        "to get, take, pick up"
+      ]
+    ]
+  },
+  "quantization": {
+    "fc_data": [
+      [
+        "-abart",
+        "exaggerate, magnify, dramatize, embroider"
+      ],
+      [
+        "-art",
+        "increase"
+      ],
+      [
+        "-azal",
+        "decrease"
+      ],
+      [
+        "-azal",
+        "to diminish, to become few [< az]"
+      ],
+      [
+        "-azalt",
+        "to reduce"
+      ],
+      [
+        "-azımsa",
+        "to consider inadequate"
+      ],
+      [
+        "-basitleştir",
+        "vulgarize, reduce, simplify"
+      ],
+      [
+        "-büyü",
+        "to grow larger"
+      ],
+      [
+        "-büyüt",
+        "enlarge, amplify, magnify, augment"
+      ],
+      [
+        "-büyütür",
+        "make bigger"
+      ],
+      [
+        "-çoğal",
+        "to increase, to become many [< çok]"
+      ],
+      [
+        "-çoğumsa",
+        "to consider excessive"
+      ],
+      [
+        "-dengele",
+        "balance sth"
+      ],
+      [
+        "-düşür",
+        "depress, lower, reduce, scale down"
+      ],
+      [
+        "-ekle",
+        "add, join, attach, insert, affix, append"
+      ],
+      [
+        "-genişletil",
+        "to be widened"
+      ],
+      [
+        "-küçül",
+        "to grow smaller"
+      ],
+      [
+        "-ölçüsünü almak",
+        "measure"
+      ],
+      [
+        "-ölçü yapmak",
+        "take measurement"
+      ],
+      [
+        "-şişir",
+        "cause to swell, swell sth"
+      ],
+      [
+        "-şiş",
+        "swell"
+      ],
+      [
+        "-tart",
+        "weigh, balance, gauge, measure"
+      ],
+      [
+        "-topla",
+        "total up, accumulate, sum up"
+      ],
+      [
+        "-tüken",
+        "be exhausted, fail"
+      ],
+      [
+        "-tüken",
+        "run out of sth, die off, wear away, wear out"
+      ],
+      [
+        "-tüket",
+        "consume, eat up, swallow up, use up"
+      ],
+      [
+        "-tüket",
+        "drain, exhaust, sap, deplete, erode, expend, extinguish, wear out"
+      ],
+      [
+        "-yoğunlaştır",
+        "concentrate, condense, intensify, compactify"
+      ],
+      [
+        "-yüksel",
+        "to grow higher"
+      ],
+      [
+        "-ayır",
+        "separate [dividing a set]"
+      ],
+      [
+        "-çevir",
+        "encircle, surround"
+      ]
+    ]
+  },
+  "religious": {
+    "fc_data": [
+      [
+        "-diril,\"revive, awaken, resurrect\"",
+        null
+      ],
+      [
+        "-dirilt,\"resurrect, resuscitate [caus]\"",
+        null
+      ],
+      [
+        "-inan,to believe [dat]",
+        null
+      ],
+      [
+        "-meditasyon yap,meditate",
+        null
+      ],
+      [
+        "-namaz,kıl to perform the formal moslem prayer ritual",
+        null
+      ],
+      [
+        "-nasip etmek,\"destiny, grant, ordain\"",
+        null
+      ],
+      [
+        "-yakar,\"entreat, invoke\"",
+        null
+      ],
+      [
+        "-yemin etmek,\"swear an oath, swear, vow\"",
+        null
+      ],
+      [
+        "-zikrini söylemek,chant",
+        null
+      ],
+      [
+        "-temizlen",
+        "to be made clean"
+      ]
+    ]
+  },
+  "relocation": {
+    "fc_data": [
+      [
+        "-ayrıl",
+        "to depart, go away from"
+      ],
+      [
+        "-ayrıl",
+        "leave, split up"
+      ],
+      [
+        "-bırak",
+        "abandon, desert, let go, walk out"
+      ],
+      [
+        "-bırak",
+        "vacate, relinquish, leave off"
+      ],
+      [
+        "-çık",
+        "exiting, leaving, get out"
+      ],
+      [
+        "-çık",
+        "to go out of [ablat]"
+      ],
+      [
+        "-dışlak",
+        "exclude, deport"
+      ],
+      [
+        "-göç",
+        "emigrate, immigrate, trek"
+      ],
+      [
+        "-götür",
+        "take off/away, carry away, take sby to swh"
+      ],
+      [
+        "-taşın",
+        "move [house], move in, move out, relocate"
+      ],
+      [
+        "-taşın",
+        "move, relocate, move into"
+      ],
+      [
+        "-terk etmek",
+        "leave"
+      ],
+      [
+        "-vazgeç",
+        "abandon, give up, disclaim, discontinue, renounce, back down from"
+      ],
+      [
+        "-barın",
+        "shelter sth, harbor sth"
+      ],
+      [
+        "-çek",
+        "tow"
+      ],
+      [
+        "-gel",
+        "leave, go out"
+      ],
+      [
+        "-gel",
+        "reach, arrive"
+      ],
+      [
+        "-geri gel",
+        "return, come back"
+      ],
+      [
+        "-geri git",
+        "go back, regress"
+      ],
+      [
+        "-gidebilir",
+        "can go"
+      ],
+      [
+        "-gidil",
+        "to go [impersonal]"
+      ],
+      [
+        "-gir",
+        "to enter, get/go into [dativ]"
+      ],
+      [
+        "-giril",
+        "to be entered"
+      ],
+      [
+        "-ikamet etmek",
+        "reside in [a place]"
+      ],
+      [
+        "-kaçış",
+        "to flee"
+      ],
+      [
+        "-kaç",
+        "to flee, run away, escape"
+      ],
+      [
+        "-yaklaş",
+        "approach, come near, converge"
+      ],
+      [
+        "-ziyaret etmek",
+        "visit"
+      ]
+    ]
+  },
+  "sensory": {
+    "fc_data": [
+      [
+        "-algıla",
+        "comprehend, perceive, sense"
+      ],
+      [
+        "-bak",
+        "to look, check on, look at [dativ], look after [dativ]"
+      ],
+      [
+        "-bak",
+        "look, stare"
+      ],
+      [
+        "-dokun",
+        "touch sth"
+      ],
+      [
+        "-duy",
+        "hear, feel"
+      ],
+      [
+        "-fark etmek",
+        "realize, perceive, recognize, detect, discern, notice"
+      ],
+      [
+        "-gibi bakmak",
+        "look like"
+      ],
+      [
+        "-görebilir",
+        "can see"
+      ],
+      [
+        "-gör",
+        "to see"
+      ],
+      [
+        "-görül",
+        "occur"
+      ],
+      [
+        "-görün",
+        "appear, seems"
+      ],
+      [
+        "-görün",
+        "to be visible, to seem"
+      ],
+      [
+        "-hisset",
+        "feel"
+      ],
+      [
+        "-hisset",
+        "sense, perceive"
+      ],
+      [
+        "-işit",
+        "hear"
+      ],
+      [
+        "-koka",
+        "stink"
+      ],
+      [
+        "-kokla",
+        "smell, sniff [sth: active]"
+      ],
+      [
+        "-kok",
+        "smell [emits odor]"
+      ],
+      [
+        "-okşa",
+        "caress, pat, stroke"
+      ],
+      [
+        "-tat",
+        "taste sth"
+      ],
+      [
+        "-izle",
+        "watch, track, follow, trace, monitor"
+      ]
+    ]
+  },
+  "sexual": {
+    "fc_data": [
+      [
+        "-ağzına ver",
+        "give head, oral, put it mouth"
+      ],
+      [
+        "-boşal",
+        "ejaculate, cum"
+      ],
+      [
+        "-doğur",
+        "give birth to sby"
+      ],
+      [
+        "-evlen",
+        "marry, mate, wed"
+      ],
+      [
+        "-kirlet",
+        "rape"
+      ],
+      [
+        "-kuzula",
+        "to give birth to lambs [< kuzu]"
+      ],
+      [
+        "-sakso çek",
+        "give blowjob"
+      ],
+      [
+        "-seviş",
+        "make love, have sex"
+      ],
+      [
+        "-sik",
+        "fuck  (slang)?"
+      ],
+      [
+        "-tahrik etmek",
+        "excite, turn on, seduce, arouse, stimulate"
+      ],
+      [
+        "-uyar",
+        "stimulate, excite, sex up"
+      ],
+      [
+        "-yat",
+        "sleep with, sex with sby"
+      ]
+    ]
+  },
+  "state_transformation": {
+    "fc_data": [
+      [
+        "-aç",
+        "to open sth"
+      ],
+      [
+        "-aç",
+        "unwrap, open"
+      ],
+      [
+        "-açıl",
+        "to be opened"
+      ],
+      [
+        "-ağar",
+        "to become white [< az]"
+      ],
+      [
+        "-ateş yakar",
+        "make a fire, burn"
+      ],
+      [
+        "-bas",
+        "press + x [pressured aux]"
+      ],
+      [
+        "-boz",
+        "spoil, contaminate, botch, mess up, foul, deface, taint"
+      ],
+      [
+        "-bozul",
+        "break down, bust, collapse, perish, get out of order"
+      ],
+      [
+        "-bozul",
+        "decay, rot, sour, spoil"
+      ],
+      [
+        "-bulan",
+        "blur, dim"
+      ],
+      [
+        "-bulandir",
+        "upset, naseate"
+      ],
+      [
+        "-bulaş",
+        "smear, smudge, rub on, mess with"
+      ],
+      [
+        "-bulaş",
+        "spread, be contaminated by, transmitted by"
+      ],
+      [
+        "-canlandir",
+        "to bring to life, resuscitate, revive [caus]"
+      ],
+      [
+        "-canlan",
+        "to come to life [< can]"
+      ],
+      [
+        "-çarpış",
+        "to collide"
+      ],
+      [
+        "-çarpıştır",
+        "to cause to collide"
+      ],
+      [
+        "-çarpıştırıl",
+        "to be caused to collide"
+      ],
+      [
+        "-çevir",
+        "change to, turn into, switch to"
+      ],
+      [
+        "-çiçek açmak",
+        "bloom"
+      ],
+      [
+        "-çöz",
+        "solve"
+      ],
+      [
+        "-dağıt",
+        "dissolve, dissipate, scatter, deploy"
+      ],
+      [
+        "-değiş",
+        "change, alter"
+      ],
+      [
+        "-değiştir",
+        "change sth"
+      ],
+      [
+        "-dönüş",
+        "change, turn into, expand"
+      ],
+      [
+        "-ertele",
+        "postpone, delay, defer, suspend"
+      ],
+      [
+        "-eski",
+        "to wear out"
+      ],
+      [
+        "-ez",
+        "crush, grind, mash, paste"
+      ],
+      [
+        "-hallet",
+        "decompose, dissolve, melt"
+      ],
+      [
+        "-ısın",
+        "heat, warm, become warmer, get hot, grow warm"
+      ],
+      [
+        "-kapa",
+        "close, shut, cover"
+      ],
+      [
+        "-kapat",
+        "close down, shut down"
+      ],
+      [
+        "-kapat",
+        "switch off, turn off"
+      ],
+      [
+        "-karar",
+        "dim, dark, grow dark, clouded"
+      ],
+      [
+        "-kıl",
+        "to make, do [aux] (arch)"
+      ],
+      [
+        "-kırıl",
+        "to be broken"
+      ],
+      [
+        "-kır",
+        "to break sth"
+      ],
+      [
+        "-kızar",
+        "to become red. to be roasted [> kızıl]"
+      ],
+      [
+        "-kuru",
+        "get dry"
+      ],
+      [
+        "-kurut",
+        "make sth dry"
+      ],
+      [
+        "-patla",
+        "explode, detonate, erupt, blow up, burst"
+      ],
+      [
+        "-patlatıl",
+        "blow up sth"
+      ],
+      [
+        "-pişir",
+        "boil, cook sth"
+      ],
+      [
+        "-pişir",
+        "to cook sth"
+      ],
+      [
+        "-pişirt",
+        "to have sth cooked"
+      ],
+      [
+        "-piş",
+        "to cook [intransitive]"
+      ],
+      [
+        "-serinlen",
+        "to be made cool"
+      ],
+      [
+        "-serinle",
+        "to become cool [< serin]"
+      ],
+      [
+        "-soğu",
+        "cool"
+      ],
+      [
+        "-söndür",
+        "extinguish fire"
+      ],
+      [
+        "-yak",
+        "burn, fire, ignite, scorch"
+      ],
+      [
+        "-yak",
+        "turn on, light up"
+      ],
+      [
+        "-yan",
+        "broil, burn, inflame, kindle, scorch, toast"
+      ],
+      [
+        "-dolan",
+        "tangle, coil, twine"
+      ],
+      [
+        "-dola",
+        "rotate, reel up, twist, wind"
+      ],
+      [
+        "-em",
+        "suck, absorb"
+      ],
+      [
+        "-erişe",
+        "achieve, attain, mature"
+      ],
+      [
+        "-eşle",
+        "match, mate, pair together"
+      ],
+      [
+        "-gel",
+        "fall on, roll up"
+      ],
+      [
+        "-geliş",
+        "flourish, grow, thrive, blossom"
+      ],
+      [
+        "-geliş",
+        "to flourish, to develop"
+      ],
+      [
+        "-göç",
+        "collapse [under weight of], dent, fall in"
+      ],
+      [
+        "-göğer",
+        "to become blue green [< gök]"
+      ],
+      [
+        "-göver",
+        "to become blue green [< gök]"
+      ],
+      [
+        "-güçlendir",
+        "to strengthen"
+      ],
+      [
+        "-guçlen",
+        "become strong [< güç]"
+      ],
+      [
+        "-güçlen",
+        "strengthen, empower, forceful"
+      ],
+      [
+        "-gücüne kavuşmak",
+        "to regain one's strength"
+      ],
+      [
+        "-hale getirmek",
+        "render, make sth [into sth]"
+      ],
+      [
+        "-kazımak",
+        "scrape, deface"
+      ],
+      [
+        "-kesil",
+        "is cut"
+      ],
+      [
+        "-kilidini açmak",
+        "unbolt, unlock"
+      ],
+      [
+        "-kilitle",
+        "to lock sth"
+      ],
+      [
+        "-kirlen",
+        "be dirty, soiled, polluted, stained"
+      ],
+      [
+        "-kirlen",
+        "to be made dirty"
+      ],
+      [
+        "-kirlet",
+        "dirty, mess, stain, pollute, contaminate, defilre"
+      ],
+      [
+        "-kirle",
+        "to make dirty [< kir]"
+      ],
+      [
+        "-koy",
+        "to put, place at, lay on sth"
+      ],
+      [
+        "-kullan",
+        "apply,drive"
+      ],
+      [
+        "-kullanıl",
+        "to be used"
+      ],
+      [
+        "-kullan",
+        "use"
+      ],
+      [
+        "-ört",
+        "to be able to cover"
+      ],
+      [
+        "-söktür",
+        "loosen"
+      ],
+      [
+        "-temizle",
+        "to make clean [< temiz]"
+      ],
+      [
+        "-tersine çevirmek",
+        "invert, reverse sth"
+      ],
+      [
+        "-topla",
+        "bundle, combine, concentrate"
+      ],
+      [
+        "-topla",
+        "collect, gather, assemble"
+      ],
+      [
+        "-yağ",
+        "rain, snow, to fall as precipitation"
+      ]
+    ]
+  },
+  "technology": {
+    "fc_data": [
+      [
+        "-hazırlan",
+        "staging sth, prepare sth, get sth ready"
+      ],
+      [
+        "-kopyala",
+        "copy, facsimile sth"
+      ],
+      [
+        "-abone olun",
+        "subscribe to"
+      ],
+      [
+        "-aktif etmek",
+        "turn on sth, activate sth"
+      ],
+      [
+        "-at",
+        "post [social media]"
+      ],
+      [
+        "-ayarla",
+        "adjust, calibrate, tune in, gauge, set"
+      ],
+      [
+        "-çek",
+        "pull/force + x [tech/force aux]"
+      ],
+      [
+        "-engelle",
+        "block [social media]"
+      ],
+      [
+        "-giriş yapmak",
+        "login"
+      ],
+      [
+        "-göç",
+        "subside"
+      ],
+      [
+        "-güncelleştir",
+        "update"
+      ],
+      [
+        "-güncelle",
+        "update"
+      ],
+      [
+        "-hayata geçirilmek",
+        "bse implemented, go live"
+      ],
+      [
+        "-indir",
+        "download"
+      ],
+      [
+        "-indir",
+        "download [<> yüklemek]"
+      ],
+      [
+        "-iptal etmek",
+        "cancel"
+      ],
+      [
+        "-kaydet",
+        "record sth"
+      ],
+      [
+        "-kayıt olmak",
+        "register"
+      ],
+      [
+        "-koru",
+        "keep"
+      ],
+      [
+        "-like atmak",
+        "social media to like  (slang)"
+      ],
+      [
+        "-paylaş",
+        "share"
+      ],
+      [
+        "-paylaşmak",
+        "share, post [social media], split, divide, divvy up, participate of, share out"
+      ],
+      [
+        "-sepete eklemek",
+        "add to cart"
+      ],
+      [
+        "-şifrele",
+        "encode sth, codify"
+      ],
+      [
+        "-sıkıştır",
+        "compress"
+      ],
+      [
+        "-takip etmek",
+        "follow [social media]"
+      ],
+      [
+        "-tıkla",
+        "click sth"
+      ],
+      [
+        "-yazmak",
+        "text"
+      ],
+      [
+        "-yeniden başlatmak",
+        "restart"
+      ],
+      [
+        "-yükle",
+        "load [software, computer]"
+      ],
+      [
+        "-yükle",
+        "upload [<> indirmek]"
+      ]
+    ]
+  },
+  "thinking": {
+    "fc_data": [
+      [
+        "-akla gelmek",
+        "flash, occur"
+      ],
+      [
+        "-aklına gelmek",
+        "remember sth"
+      ],
+      [
+        "-aklına getirmek",
+        "think of sth"
+      ],
+      [
+        "-anla",
+        "to understand"
+      ],
+      [
+        "-baş etmek",
+        "deal, manage, cope with sth"
+      ],
+      [
+        "-bekle",
+        "to await, wait for sth"
+      ],
+      [
+        "-belirle",
+        "determine, assess, identify"
+      ],
+      [
+        "-benimse",
+        "to regard as one's own"
+      ],
+      [
+        "-çöz",
+        "solve"
+      ],
+      [
+        "-dene",
+        "test, trial, taste, experiment, try sth, sample"
+      ],
+      [
+        "-dikkat etmek",
+        "to be careful [dativ], to pay attention"
+      ],
+      [
+        "-dikkat yoğunlaştır",
+        "focus attention on sth"
+      ],
+      [
+        "-dile",
+        "wish, will, desire"
+      ],
+      [
+        "-düşün",
+        "think, calculate, consider, ponder, imagine"
+      ],
+      [
+        "-emin olmak",
+        "make sure"
+      ],
+      [
+        "-ezberle",
+        "memorize sth"
+      ],
+      [
+        "-fark etmek",
+        "realize, perceive, recognize, detect, discern, notice"
+      ],
+      [
+        "-farkında olmak",
+        "be aware of sth"
+      ],
+      [
+        "-farz etmek",
+        "assume"
+      ],
+      [
+        "-farz etmek",
+        "pretend"
+      ],
+      [
+        "-hatırla",
+        "to recall, remember"
+      ],
+      [
+        "-hayal etmek",
+        "dream, imagine"
+      ],
+      [
+        "-ihmal etmek",
+        "neglect, forget, ignore, disregard"
+      ],
+      [
+        "-inan",
+        "to believe [dat]"
+      ],
+      [
+        "-karar ver",
+        "to decide [dativ]"
+      ],
+      [
+        "-karar ver",
+        "to decide sth"
+      ],
+      [
+        "-karıştır",
+        "confuse, mix up"
+      ],
+      [
+        "-konsantre olmak",
+        "to concentrate on sth"
+      ],
+      [
+        "-merak etmek",
+        "be curious, wonder [about sth]"
+      ],
+      [
+        "-mühimse",
+        "to regard as important"
+      ],
+      [
+        "-niyetlen",
+        "determine, plan, intend"
+      ],
+      [
+        "-önemse",
+        "care about, attach importance to"
+      ],
+      [
+        "-önemse",
+        "mind, pay attention to, take heed of"
+      ],
+      [
+        "-san",
+        "conjecture, assume, imagine, suppose"
+      ],
+      [
+        "-san",
+        "guess"
+      ],
+      [
+        "-tahmin etmek",
+        "guess sth"
+      ],
+      [
+        "-tart",
+        "consider"
+      ],
+      [
+        "-tartış",
+        "consider, discuss, deliberate, weigh an issue [together]"
+      ],
+      [
+        "-um",
+        "hope, expect, look for"
+      ],
+      [
+        "-unut",
+        "lose sight of, unlearn"
+      ],
+      [
+        "-unut",
+        "omit, leave out, neglect"
+      ],
+      [
+        "-unut",
+        "to forget"
+      ],
+      [
+        "-vaz geç",
+        "to change one's mind about [ablat]"
+      ]
+    ]
+  },
+  "trajectory": {
+    "fc_data": [
+      [
+        "-ak",
+        "to run out, flow"
+      ],
+      [
+        "-ak",
+        "discharge, leak, drain"
+      ],
+      [
+        "-aş",
+        "exceed, surpass, transcend, be beyond"
+      ],
+      [
+        "-asılı kalmak",
+        "be hanging, suspended"
+      ],
+      [
+        "-atlat",
+        "bypass, circumvent, doge, parry"
+      ],
+      [
+        "-at",
+        "send, throw, shoot off, cast, put off"
+      ],
+      [
+        "-at",
+        "throw + x [impulsive throw aux]"
+      ],
+      [
+        "-batır",
+        "sink sth [ship]"
+      ],
+      [
+        "-bat",
+        "sink"
+      ],
+      [
+        "-çarp",
+        "to hit, strike against [dativ]"
+      ],
+      [
+        "-çarpış",
+        "to collide"
+      ],
+      [
+        "-çevir",
+        "turn, spin, upturn, exchange, roll, twirl"
+      ],
+      [
+        "-çik",
+        "exiting, leaving, get out"
+      ],
+      [
+        "-çıkar",
+        "take out, off, remove, eject"
+      ],
+      [
+        "-dolaş",
+        "circulate, flow, go around"
+      ],
+      [
+        "-dön",
+        "to turn"
+      ],
+      [
+        "-dön",
+        "spin"
+      ],
+      [
+        "-dön",
+        "turn, return"
+      ],
+      [
+        "-düş",
+        "fall, decline, descend, drop, fall down/into, drop down"
+      ],
+      [
+        "-düş",
+        "tumble, crumble, collapse"
+      ],
+      [
+        "-düşür",
+        "cause to fall, drop sth"
+      ],
+      [
+        "-fırlat",
+        "throw, cast, fling, pelt, hurl"
+      ],
+      [
+        "-gel",
+        "flow"
+      ],
+      [
+        "-havalan",
+        "take off, become airborne"
+      ],
+      [
+        "-in",
+        "climb down, step down, come down, go down, lower"
+      ],
+      [
+        "-in",
+        "to descend from, dismount, get out of [ablat, dativ]"
+      ],
+      [
+        "-kay",
+        "slip, slide, shift, slither, glide"
+      ],
+      [
+        "-kon",
+        "perch on, alight, touch down on, land on [< koymak]"
+      ],
+      [
+        "-koş",
+        "to run"
+      ],
+      [
+        "-salla",
+        "shake, wave, flap, jiggle, agitate"
+      ],
+      [
+        "-sark",
+        "hang down [intrans]"
+      ],
+      [
+        "-sarkıt",
+        "hang sth up, hang sth"
+      ],
+      [
+        "-taşır",
+        "cause to overflow, overflow sth"
+      ],
+      [
+        "-taş",
+        "overflow, pour forth, pour out"
+      ],
+      [
+        "-uç",
+        "fly [intrans]"
+      ],
+      [
+        "-uçur",
+        "evaporate"
+      ],
+      [
+        "-uçur",
+        "make fly, let fly, fly sth"
+      ],
+      [
+        "-yüksel",
+        "ascend, go, lift, mount, rise, soar, arise, climb, escalate"
+      ]
+    ]
+  },
+  "transit": {
+    "fc_data": [
+      [
+        "-bin",
+        "to get in/on/board transport conveyance [dativ]"
+      ],
+      [
+        "-bindir",
+        "mount sby [on horse]"
+      ],
+      [
+        "-demir atmak",
+        "anchor sth"
+      ],
+      [
+        "-dolaş",
+        "jaunt, stroll, walk, hike, wander, roam"
+      ],
+      [
+        "-geç",
+        "to cross over [ablat, dativ, accus]"
+      ],
+      [
+        "-geçil",
+        "to be crossed over"
+      ],
+      [
+        "-geçir",
+        "pass, make pass, carry, transfer, see off"
+      ],
+      [
+        "-geçiş yapmak",
+        "switch between sth"
+      ],
+      [
+        "-geç",
+        "pass sth"
+      ],
+      [
+        "-gel",
+        "be picked up and transported smwh"
+      ],
+      [
+        "-gezdir",
+        "lead sby around swh"
+      ],
+      [
+        "-gez",
+        "visit, wander, sightsee"
+      ],
+      [
+        "-git",
+        "to go, leave"
+      ],
+      [
+        "-in",
+        "getoff, disembarkl, dismount"
+      ],
+      [
+        "-in",
+        "to descend from, dismount, get out of [ablat, dativ]"
+      ],
+      [
+        "-seyahat etmek",
+        "travel (v)  [far, international]"
+      ],
+      [
+        "-sür",
+        "drive [vehicle]"
+      ],
+      [
+        "-taşı",
+        "carry, bear, convey [sth]"
+      ],
+      [
+        "-var",
+        "arrive, reach, attain, get to swh"
+      ],
+      [
+        "-yolculuk yapmak",
+        "journey smh [nearby, domestic]"
+      ],
+      [
+        "-yürü",
+        "walk, hike, step"
+      ]
+    ]
+  }
+}
