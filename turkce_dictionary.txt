@@ -274,7 +274,7 @@ arjantince  -- argentina [language]
 arjantinli  -- argentina [people]
 arka  -- back
 arkadaşça  -- friendly
-arkadaş  -- friend
+arkadaş  -- friend [arka+daş]
 arkadaşlık  -- friendship	__ arkadaşlık ve dahası.
 -arkadaş yap  -- make friends	__ tam benimle nasıl arkadaş yapmak istiyor musun? 
 arka  -- rear, behind, spt
@@ -1420,7 +1420,7 @@ endişeli  -- anxious, worried	__ endişeli olduğunu biliyorum.
 endonezyace  -- indonesia [language]
 endonezya  -- indonesia [country]
 endonezyalı  -- indonesia [people]
-enerji  -- energy
+enerji  -- energy	__ patlayıcı enerji.
 enerjik  -- energetic
 -engelle  -- block, hinder, inhibit, obstruct
 -engelle  -- block [social media]  (tech)	__ uymuyorsa engelliyorum, sizde öyle yapabilirsiniz.
@@ -2455,7 +2455,7 @@ karar  -- decision, judgment, decree, verdict	__
 -kar {karır}  -- mix, steep
 -karar ver  -- to decide [dativ]	__ bu karar vermek için çok düşündüm.
 -karar ver  -- to decide sth	__ bu ülkede yaşamaya karar verdim. sen karar verince babama haber ver.
-kardeş  -- sibling, brother
+kardeş  -- sibling, brother  [karın+daş]
 kargo bedava  -- free shipping
 karı koca  -- husband and wife	__ seninle karı koca gibi yaşamak istiyorum.
 karın  -- abdomen, belly	__ karın kaslı.
@@ -3332,8 +3332,8 @@ on  -- ten, 10
 önümüzdeki  -- next, following	__ önümüzdeki hafta.
 onur ayı  -- pride month	__ onur ayı kutlu olsun. tüm eşcinsel ve farklı bedenlerde farklı ruhlara sahip rengarenk insanların arkadaşlarım ve kardeşlerimin onur ayı kutlu olsun.
 onur  -- honor, pride
--öp  -- kiss, caress
--öpüş  -- kiss
+-öp  -- kiss, caress	__ öpmek isteyen yer var. <>  öptürmek isteyen yer var.
+-öpüş  -- kiss mutual [reciprocal]	__ öpüşme sevmişim.
 oracıkta  -- on the spot, right then and there	__ oğlan zehirlenerek oracıkta ölmüş.
 oralarda  -- in those places	__ sizin oralarda dağ var mı?
 oran  -- rate, ratio, proportion, percentage	__ temas oranını.
@@ -3619,6 +3619,7 @@ sadece/bu yüzden  -- just/so  (conj)
 sadece  -- only, just
 -sağlamayacak  -- will not provide
 sağlamtipler  -- solid types
+sağlam  -- sturdy, solid, sound, strong, firm, rugged, tough	__ sağlam masaj.
 sağlanan  -- provided  (conj)
 -sağla {sağlar}  -- provide, ensure, supply, cater, furnish	__ maddi destek sağliyabilicekleri yazarsa sevinirim tanışalım.
 -sağladığı  -- providing to	__ birinin sağladığı bir şeye ihtiyacı olmak. bir şeyin sağladığı bir malzemeye ihtiyacı olmak.
@@ -3648,7 +3649,7 @@ sakın  -- in any case, at any cost, but	__ foto atmiyacaksan sakın yazma.
 -sakla  -- preserve, protect, store, stow 
 saklı  -- hidden, secret, covert
 sakso  -- blowjob  (slang)
--sakso çek  -- give blowjob	__ ben sakso çekeyim.
+-sakso çek  -- give blowjob	__ ben sakso çekeyim. sakso çekmek isteyen yer var.
 saksocu  -- cocksucker  (slang)
 sakso  -- saxophone
 salaş  -- loose	__ salaş pantolon.
@@ -3765,7 +3766,7 @@ sekiz  -- eight, 8
 şekli  -- shape, way
 sekreteri  -- secretary
 seksen  -- eighty, 80
-seks  -- sex	__ seks videolarım mevcut. seninle bol bol seksi yapmak isterim.
+seks  -- sex	__ seks videolarım mevcut. seninle bol bol seksi yapmak isterim. nelerden hoşlanır sekste?
 şelale  -- fountain [in park]; fıskıye
 şelale  -- waterfall
 selam  -- greeting
@@ -4376,7 +4377,7 @@ tutarak  -- by holding	__ dakika tutarak beş defa okuyalım.
 tutar  -- amount	__ gönderilebilir minimum tutadır.
 tut  -- choke back, retrain, gethold of
 tutku  -- desire, ambition
-tutku  -- passion, penchant
+tutku  -- passion, penchant	__ kasmadan, yormadan, tutku ile.
 tutku  -- rage, addiction
 -tut {tutar}  -- to grasp, hold, catch, keep	__ sert sikini tutmak istiyorum.
 -tutukla  -- arrest, jail, apprehend, imprison	__ iki kişi tutuklanacak.
@@ -4550,27 +4551,27 @@ varsa  -- if have ...
 varsa  -- if there is...
 varsayalım  -- supposing  (conj)
 -var {varır}  -- arrive, reach, attain, get to swh	__ bizim eve varırsa haber ver.
-vatandaş  -- citizen
+vatandaş  -- citizen [vatan+daş]
 vatansever  -- patriot, patriotic
 vay!  -- wow!  (expl)
 -vazgeç  -- abandon, give up, disclaim, discontinue, renounce, back down from
 -vazgeç  -- surrender, relinquish, recant, quit, forego, forsake
 -vaz geç  -- to change one's mind about [ablat]
 vazo  -- vase
-v+diğimce  -- as … x … as 
-v+diğimden  -- from that [ablative]
-v+diğimde  -- when, whenever [locative]
-v+diğime  -- to, for that [dative]
-v+diğim göre  -- since
-v+diğim sirada  -- while
-v+diğim sörece  -- as long as
-v+diğim zaman  -- when, by the time
-v+dik halde  -- although, since, even if
-v+dik kadar  -- as far as, from what
-v+dik kadariyla  -- as far as possible, from what	__ türkiye'de olabildiği kadarıyla diyelim.
-v+dik takdirde  -- in case/event of
+v~diğimce  -- as … x … as 
+v~diğimden  -- from that [ablative]
+v~diğimde  -- when, whenever [locative]
+v~diğime  -- to, for that [dative]
+v~diğim göre  -- since
+v~diğim sirada  -- while
+v~diğim sörece  -- as long as
+v~diğim zaman  -- when, by the time
+v~dik halde  -- although, since, even if
+v~dik kadar  -- as far as, from what
+v~dik kadariyla  -- as far as possible, from what	__ türkiye'de olabildiği kadarıyla diyelim.
+v~dik takdirde  -- in case/event of
 ve  -- and	__ 
-v+ecek gibi  -- as … x … as
+v~ecek gibi  -- as … x … as
 veda  -- farewell, parting greeting
 -vedalaş  -- say goodbye	__ kuş ve geyik kıza sarılarak vedalaşmışlar.
 vektörü  -- vector
@@ -4594,7 +4595,7 @@ vişne  -- sour cherry  (fd)
 vitamin ilacı  -- vitamin pill
 vize  -- visa
 vizon  -- mink
-v+masa da  -- although, even if	__ istediğim gibi sonuçlanmasa da tecrübe oldu benim için.
+v~masa da  -- although, even if	__ istediğim gibi sonuçlanmasa da tecrübe oldu benim için.
 volkanik püskürme  -- volcanic eruptions
 volkanik püskürme  -- volcanic eruptions
 votka  -- vodka
@@ -5060,6 +5061,7 @@ pikap  -- pickup truck
 plak  -- record [audio], platter, album; albüm
 alerji  -- allergy
 polen  -- pollen; çiçek tozu	__ ağaç polenleri
+meslek  -- occupation, profession, vocation, lifework, career
 meslektaş  -- colleague, co-worker	__ tom yeni meslektaşımız.
 sarhoş  -- drunk, intoxicated	_- çok sarhoşsun.
 -sarhoş etmek  -- make drunk
@@ -5318,4 +5320,31 @@ karbonhidrat  -- carbohydrate
 -kahve yapmak  -- make coffee
 -iş yapmak  -- do work, do business
 -egzersiz yapmak  -- exercise
+-kas  -- clench, contort
+-kas  -- strain, contract, tauten, stretched tight
+firma  -- firm, company, enterprise	__ lojistik firmasında çalışıyorum.
+ilgi  -- interest, attention, concern, care, relevance	__ kaslılara ve 25 yaş altına ilgim yok.
+anal  -- anal
+-anal okşa  -- anal play	__ 
+masaj  -- massage
+-masaj yapmak  -- give, do massage
+-mümkün kılmak  -- make possible [create space for]	__ en yoğun halini mümkün kılmak.
+-haz almak  -- relish, take pleasure in [experience]	__ bundan haz almak.
+eril güç  -- masculine strength [virile sense]	__ aktif taraf, eril gücü ve bilinci hisseder.
+eril  -- masculine gender
+dişil  -- feminine gender
+eril cins  -- concept of masculine gender classification
+eril sözcük  -- identify a specific masculine noun in a gendered language
+dişil cins  -- concept of feminie gender classification
+dişil sözcük  -- identify a specific feminine noun in a gendered language
+er  -- male, man, brave, soldier,  [root]	__ erkek
+dişi  -- female [root]  __ 
+milliyet  -- nationality
+boşanmışım  -- i am divorced
+~daş  -- fellow [suffix]	__ yoldaş.
+yoldaş  -- fellow traveler  [yol+daş]
+meslektaş  -- colleague  [meslek+daş]
+çağdaş  -- contemporary  [çağ+daş]
+karın  -- womb
+
 
