@@ -656,7 +656,7 @@ bırım  -- unit
 -birinci gelmek  -- come first
 birinci  -- once, first, primary, premier, winner	__ eurovision birincisini beğendin mi?
 birisi  -- someone	__ ben öyle birisini arıyorum.
-biri  -- someone, person	__ birisi
+biri  -- someone, person	__ birisi. birini arıyorum.
 biriyim  -- i am	__ minyon, masculen, güleç, biraz da gıcık biriyim.
 biriyle tanışması  -- meeting somebody
 bir kaç  -- some, few [countable]
@@ -850,8 +850,9 @@ camisi  -- mosque
 -canı çıkmak  -- be exhausted
 -canı istiyor  -- feel like, mood for?, play by ear
 canım acıyor  -- it hurts, I am in pain.
-canım  -- my dear	__ 
--canı sıkılmak  -- be bored
+canım  -- my dear
+canım sıkıldı  -- nothing to do, any ideas? (slang) 
+-canı sıkılmak  -- be bored	__ canım sıkıldı sokağa indim kimse yok.
 -canı sıkılmış  -- become bored
 -can … istemek  -- feel like doing sth	__ canım çilek yemek istiyor. 
 cani  -- villain, murderer, felon
@@ -939,7 +940,7 @@ cezayirli  -- algeria [people]
 çiçek  -- flower
 ciciş  -- nice and sweet  [person]  (slang)
 ciddi düşün  -- serious-minded?	__ 30 yaş üzeri ciddi düşünen kişiler.
-ciddi  -- serious	__ ciddi arkadaşlar
+ciddi  -- serious (slang)	__ ciddi arkadaşlar
 çiftçi  -- farmer
 çift  -- pair, couple of sth	__ sadece evli çiftler.
 çığ  -- avalanche
@@ -1496,6 +1497,7 @@ ev  -- house
 evlat  -- son
 -evlen  -- marry, mate, wed	__ evlenmeyeceğim. amerika'da bir erkek erkeğe evlenebilir mi?
 evlilik  -- marriage, matrimony
+evli çiftler  -- married couples 
 evli  -- married	__ sana evlendi mi?
 evrak  -- document
 evren  -- universe
@@ -1738,7 +1740,7 @@ giysiler  -- things, wardrobe, clothes	__ benim yatağım ve giysilerim mavi.
 gizemli  -- mysterious
 gizem  -- mystery
 -gizle  -- hide, conceal, cover up, disguise, cloak	__ fotoğraf atamayacak kadar gizlersen yazma.
-gizli  -- confidential, discreet, secretive, covert
+gizli  -- confidential, discreet, secretive, covert (slang)
 gizli menü  -- secret menu
 gizli  -- private, secret, confidential, hidden
 göbek adı  -- middle name; orta ad
@@ -2195,6 +2197,7 @@ indirlenler  -- downloads  (tech)
 inek  -- cow
 -in  -- getoff, disembarkl, dismount
 -in  -- climb down, step down, come down, go down, lower
+-in  -- go down to spl [private to public space] (slang)	__ çarşıya indim. sokağa indim. sokağa in, konuşalım.
 ingilizce  -- the english language
 ingilizce  -- usa [language]
 i̇ngiliz  -- england [people]
@@ -2931,6 +2934,7 @@ maddi destek  -- material support
 maddi destek sağlayan kimse  -- sponsor
 -maddi destekte bulunmak  -- give, provide financial support, aid	__ 
 maddi  -- material, tangible, worldy, concrete, earthy
+maddi  -- financial (slang)
 Mademki  -- in as much as  (conj)
 maden suyu  -- mineral water
 mağaza işareti  -- store sign
@@ -3283,7 +3287,7 @@ oldukça  -- quite, rather, fairly
 -öldür  -- to kill sby
 -öldürt  -- to have sby killed
 olgunlar  -- adults, mature people	__ olgunlara ilgim yok.
-olgun  -- mature, ripe, grown, mellow, seasoned	__ tercihim olgunlar.
+olgun  -- mature, ripe, grown, mellow, seasoned (slang)	__ tercihim olgunlar.
 olmasına rağmen  -- although  (conj)
 olmasının sebebi  -- the reason why [sth]	__ ucuz olmasının sebebi erken rezervasyon yapmış olman.
 olmazsa olmaz  -- necessarily
@@ -3434,7 +3438,7 @@ parça  -- part, piece, component, gragment, segment, bit	__ hangi parçası fav
 parfüm  -- perfume
 park  -- park
 parlak  -- bright, shiny
-parlak  -- flamboyant, flashy  (slang)	__ 24 yaşında parlak pasif.
+parlak  -- flamboyant, hairless  (slang)	__ 24 yaşında parlak pasif.
 parlaklık  -- brightness
 parmak arası terlik  -- flip flops
 parmak  -- finger, toe
@@ -3810,6 +3814,7 @@ ses  -- tone, sonic, phonic, audio
 seven  -- loving, fond, affectionate  {adj}	__ sadece bedenleri, şekilleri, görüntüleri, maddiyatı sevenlerle ne yazık.
 sevgi  -- compassion, sympathy, piety
 sevgil  -- lover, boyfriend, girlfriend
+sevgili çiftler  -- dating couples 
 sevgi  -- love, affection, fondness	__ aşk, sex, sevgi arayan varmi? herkese sevgi gerekiyor.
 -sevin  -- rejoice, be happy, be glad	__ 
 -sevin {sevinir}  -- to be or become happy
@@ -3865,6 +3870,7 @@ sikici  -- fucker  (slang)
 sıkılmış  -- crushed, squeezed	__ taze sıkılmış nar suyu.
 sıkıntı  -- boredom
 sıkıntı  -- bother, annoyance
+sıkıntısız  -- no hassle, no bother (slang)
 sıkıntı  -- trouble, distress, difficulty, adversity	__ sıkıntı yok.
 sikişir  -- fucks
 -sıkıştır  -- compress  (tech)	__ dosyaları tek zip dosyasına sıkıştırırım.
@@ -5346,5 +5352,5 @@ yoldaş  -- fellow traveler  [yol+daş]
 meslektaş  -- colleague  [meslek+daş]
 çağdaş  -- contemporary  [çağ+daş]
 karın  -- womb
-
+güncel  -- current, up-to-date, timely	__ güncel foto var mı?
 
