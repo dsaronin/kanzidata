@@ -1052,7 +1052,7 @@ daha önce hiç gittin mi?  -- have you ever been smwh?
 dahası  -- more, over and above	__ arkadaşlık ve dahası.
 daha sonra  -- later
 daha sonra  -- later on
-daha  -- yet, more, than x
+daha  -- yet, more, than x [prefix - comparative]	__ daha küçük.
 dahili hafıza  -- internal memory  (tech)
 dahil  -- including, included	__ kahve/çay dahil. yemekler dahil değildir.
 daima  -- always
@@ -1314,7 +1314,7 @@ düşen  -- falling, downward
 -düş  -- fall, decline, descend, drop, fall down/into, drop down	__ telefonu kaldırırken, telefon düştü. fotoğrafsız yazanlar taslak kutusuna düşer.
 düşkün  -- fond, addicted, doting, partial to	__ çiçeklere çok düşkündür.
 düşman  -- enemy
-duş  -- shower bath	__ gel duşta serinlersin.
+duş  -- shower, bath	__ gel duşta serinlersin.
 -düş  -- tumble, crumble, collapse	__ yine gözlerinden düşüyor yağmur.
 düşüncelerini özgürce açıklama hakkı  -- the right to freely express thoughts
 düsünceli  -- thoughtful
@@ -1430,7 +1430,7 @@ engel  -- obstacle, barrier	__ fotosuz yazma engellerim.
 eninde sonunda  -- eventually
 en iyisi  -- the best
 en kısa zamanda  -- as soon as  (conj)
-en  -- most, best
+en  -- most, best [prefix - superlative]	__ en küçük.
 entelektüel  -- intellectual	__ alışılmış değil, entelektüeldir.
 enteresan  -- interesting sth	__ enteresan bir soru.
 en  -- the most
@@ -3121,7 +3121,8 @@ muz  -- banana, plantain	__ muz tüketirsen ne olur?
 müze  -- museum
 müzik  -- music
 müzisyen  -- musician
-n'aber  -- taz ne haber: what news
+n'aber  -- taz ne haber: what's up?  (slang)
+naber  -- taz ne haber: what's up?  (slang)
 nadiren  -- rarely, seldom
 nadir  -- rare, unusual, scarce	__ 
 nakit  -- cash, money; para	__ nakitte indirim var mı?
@@ -3154,7 +3155,7 @@ nefes darlığı  -- shortness of breath
 -nefes vermek  -- exhale breath
 -nefret etmek  -- disgust [hate, resent, repulse]
 ne güzel  -- nice
-ne haber  -- what news?
+ne haber  -- what's up?; taz naber
 nehir ağzı  -- estuary
 nehir  -- river
 ne  -- how very!  (expl)
@@ -3173,7 +3174,7 @@ nereden  -- where from?, origin
 neredesin  -- where are you?	__  
 nerede  -- where at?	__  otobüs durağı nerede? 
 neredeyse  -- almost, nearly	__ neredeyse her gün yaparım.
-nerelisin  -- where you from?	__ 
+nerelisin?  -- where you from?	__ 
 nereni  -- where?
 nere  -- where? what place?
 nereye  -- where to?	__ yolculuk nereye? 
@@ -3641,7 +3642,7 @@ sahil  -- beach, seashore, coast
 sahip  -- owner, possessor, master	__ halının sahibi. halı sahibi.
 sahip {sahibi}  -- owner, master
 sahneye  -- the stage
-şair  -- poet
+şair  -- poet	__ sen şairsin.
 sakal  -- beard	__ kıllı sakallı. sakalım çıkmıyor.
 sakalsiz  -- beardless	__ sakalsizlar tercihim.
 -sakın   -- avoid, abstain, eschew, shun
@@ -3795,7 +3796,7 @@ sepete  -- basket, cart  (tech)	__ sepete ekle
 -sepete eklemek  -- add to cart
 serbest  -- independent
 şerefe  -- cheers
-serin -- cool
+serin -- cool [<>ılık] 
 -serinlen  -- to be made cool	__ gel duşta serinlersin.
 -serinle  -- to become cool [< serin]
 serpme kahvaltı  -- breakfast spread (fd)
@@ -5353,4 +5354,21 @@ meslektaş  -- colleague  [meslek+daş]
 çağdaş  -- contemporary  [çağ+daş]
 karın  -- womb
 güncel  -- current, up-to-date, timely	__ güncel foto var mı?
+disiyon  -- diction	__ diksiyon çalışma rehberi.
+ufuk  -- horizon
+jeton  -- token
+iplik  -- thread
+iyidir  -- fine  (slang)	__ naber? iyidir.
+iyilik  -- fine  (slang)	__ naber? iyilik. ililik sağlık.
+ne var ne yok?  -- what's up (slang)
+nasıl gidiyor?  -- how's it going  (slang)
+eh işte  -- not bad  (slang)	__ nasıl gidiyor? eh işte.
+ismin ne?  -- what is your name?  (slang)
+isim  -- name
+ılık  -- warm [<> serin]
+ilik  -- marrow
+ulu  -- almighty
+urgan  -- rope
+ürkek  -- timid
+şoför  -- chauffeur
 

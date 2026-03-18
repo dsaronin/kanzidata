@@ -2771,6 +2771,7 @@ fukuto {ma}  -- slight swelling/inflammation [uncommon]
 -fukuzwa  -- be chased away	__ alifukuzwa na mbwa mkali.
 fulana mchinjo  -- butcher's [sleeveless] shirt, tanktop
 fulana  -- undershirt, t-shirt
+frana  -- undershirt, t-shirt  (slang)	__ hakika natamani hata ungekua na frana yangu inayonukia jasho la uwanaume ukabaki nayo ww mke.
 fulani  -- something, so-and-so
 full chaja  -- full charge simu  (slang)
 -fululiza  -- continue, persist, keep on; endea moja kwa moja; endelea bila ya kusimama	__ alifululiza kwenda kazini wiki yote ingawa alikuwa mgonjwa.
@@ -6260,6 +6261,7 @@ kitukuu  -- great-grandchild
 kitumba cha noti  -- small bundle of notes, bills	__ 
 kitumbo  -- kulala na tumbo
 kitumbua  -- rice fritter	__ 
+kitumbua  -- ass [sexual]  (slang)  -- njoo unipe kitumbua chako kitamu kizuri.
 kitundu  -- orifice, pinhole	__ 
 kitungule  -- rabbit baby	__ 
 kitunguusaumu  -- garlic	__ 
@@ -14124,6 +14126,7 @@ tindi  -- wheel spoke; ujukuti, spoku
 -tinga  -- puzzle, baffle, bewilder; zonga tatanisha	__ taarifa yake imenitinga. nimetingwa na mawazo tele.
 -tinga  -- arrive, get to; fika, wasili  (slang)	__ meli ya mizigo ilitinga baharini. mnyama akatinga makundi kibabe.
 -tinga  -- droop down, sag; nesanesa  (slang)	__ fimbo nindefu sana mpk inatingatinga. gari ilimesheni mzigo mkubwa mpk linatingatinga.
+-tinga  -- busy, occupied, swamped, tied up  (slang)	__ imeenda vizuri na nilitingwa leo kinoma.
 -nesa  -- bend downwards, droop, sag, slump; taz: nepa	__ bakora yangu inanesa sana.
 -nesa  -- beat [with stick], flog; piga	__ alininesa makofi.
 -nepa  -- bend downwards, droop, sag, slump; pinda na kunyoka bila ya kuvunjika kv hinzirani; taz: nesa
@@ -17139,6 +17142,7 @@ msimu wa mazawadi  -- season of gifts
 mazawadi {ma}  -- plethora of various gifts, prizes [promotion]	__ mazawadi na mapochopocho kwa mtoto mzuri.
 mizawadi {mi}  -- stream of same type of gift, prizes [periodic award]
 droo  -- drawing [lottery, raffle, prize]
+droo  -- draw [sports]	__ droo bila kufungana.
 radha  -- enjoyment, pleasure	__ kondomu haina radha.
 tengo {ma}  -- ; ubao unaofungwa pambizoni mwa ngalawa ili kuifanya na mizani sawa; mrengu
 mrengu {mi}  -- outrigger canoe
@@ -18062,4 +18066,8 @@ shiriki  -- suspenders
 masepe  -- suspenders
 mihogo  -- dick  (vulg) (slang)
 -lamba  -- dodge, evade someone in a game, swerve away  (slang)	__ alimlamba kipa na kufunga goli.
+-weka ubavu  -- lay down smw [pitying]	__ usiku waleo hapo ndio nitakapo weka ubavu wangu.
+pengu  -- my dick, my penis  (slang)
+mwegu {mi}  -- foam, froth, bubbles; povu nene linalojitokeza juu ya kioevu	__ bia hii ina mwegu mwingi
+mwegu {mi}  -- pungency, scent [strong], essence; harufu kali au ya kipekee inayotokana na kitu	__ mkojo wake ulikuwa na mwegu wa kitanzania
 
