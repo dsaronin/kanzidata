@@ -12827,6 +12827,7 @@ shungwaya  -- uswahili homeland  (myth)
 -shupaa  -- be hard, tough, firm [well set, cured, dried]; kuwa gumu; kuwa kavu sana
 -shupaa  -- be obstinate, defiant, unyielding; kuwa -kaidi
 ~shupavu  -- hard, stiff, solid; obstinate, stubborn, obdurate	__ usukani huu wa baiskeli ni shupavu. mwanasiasa yule ni mshupavu.
+~shupavu  -- brave, resolute, firm; -enye msimamo imara na asiyeyumbishwa na matatizo au hofu	__ alionyesha moyo mshupavu wakati wa msukosuko ule.
 -shupaza  -- harden, toughen, firm up, set well, cure
 -shurutika  -- be forced, coerced
 -shurutisha  -- force, coerce
@@ -18070,4 +18071,12 @@ mihogo  -- dick  (vulg) (slang)
 pengu  -- my dick, my penis  (slang)
 mwegu {mi}  -- foam, froth, bubbles; povu nene linalojitokeza juu ya kioevu	__ bia hii ina mwegu mwingi
 mwegu {mi}  -- pungency, scent [strong], essence; harufu kali au ya kipekee inayotokana na kitu	__ mkojo wake ulikuwa na mwegu wa kitanzania
+softlife  -- ease, comfort [lifestyle], luxury; maisha ya raha na anasa bila kutaabika wala kuhangaika	__ tunapenda kupewa softlife na mke.
+care  -- affection, attention, nurturing; huduma ya kihisia inayomfanya mtu ajihisi kuthaminiwa	__ mwanaume anahitaji care nzuri ili awe shupavu.
+mwanaume shupavu  -- confident, resolute, brave [man]; mwanamume imara mwenye ujasiri na msimamo imara	__ anajihisi kuwa mwanaume shupavu na mwenye matunzo.
+itahisi nijihisi  -- it will feel like I feel myself as [colloquial]
+mwanaume mwenye matunzo  -- man who is a provider, who takes care of others
+matunzo  -- care, nurturing, maintenance; huduma ya kumpatia mtu au kitu mahitaji yake ya lazima	__ mtoto anahitaji matunzo mazuri ili akue vyema.
+matunzo  -- upkeep, maintenance, care; hali ya kupewa huduma nzuri inayomfanya mtu au kitu kistawi na kupendeza	__ anajihisi kuwa mwanaume shupavu na mwenye matunzo.
+
 

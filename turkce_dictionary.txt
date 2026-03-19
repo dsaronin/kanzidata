@@ -5371,4 +5371,8 @@ ulu  -- almighty
 urgan  -- rope
 ürkek  -- timid
 şoför  -- chauffeur
+perde  -- curtain, screen	__ 
+siyah cam  -- tinted window
+-gözük  -- seem
+-gözük  -- appear, be seen, visible	__ araç siyah cam ve perdeli içi gözükmez.
 
