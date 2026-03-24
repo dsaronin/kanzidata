@@ -13014,8 +13014,8 @@ siso  -- bundle of metals [tied with sisal rope]
 -sita  -- stop, cease, quit, discontinue [use of sita always calls for a reason/explanation; temporary work stoppage or sth not working]	__ mvua ilikuwa ikinyesha lakini sasa imesita. 
 sitanii  -- i'm not kidding  (phrs)
 sitara  -- modesty, concealment	__ alikwenda mahala pa sitara kujisaidia.
--sitawi  -- prosper, thrive, flourish	__ mpaka usitawi kikailifu. Miti inasitawi.
-sitiari  -- metaphor
+-sitawi  -- prosper, thrive, flourish	__ mpaka usitawi kikailifu. miti inasitawi.
+sitiari  -- metaphor	__ hii ni sitiari nzuri sana.
 sitini  -- 60 sixty
 -sitiri  -- conceal, cover-up, hide; protect; ficha jambo / kitu cha aibu ili kisionekea	__ husitiri mabaya yao kwa nguvu zao. sababu kuu ni kujisitiri wasionekane uchi.
 siti  -- seat [on bus, train, ndege]
@@ -18078,5 +18078,6 @@ itahisi nijihisi  -- it will feel like I feel myself as [colloquial]
 mwanaume mwenye matunzo  -- man who is a provider, who takes care of others
 matunzo  -- care, nurturing, maintenance; huduma ya kumpatia mtu au kitu mahitaji yake ya lazima	__ mtoto anahitaji matunzo mazuri ili akue vyema.
 matunzo  -- upkeep, maintenance, care; hali ya kupewa huduma nzuri inayomfanya mtu au kitu kistawi na kupendeza	__ anajihisi kuwa mwanaume shupavu na mwenye matunzo.
+mswada {mi}  -- draft, manuscript
 
 

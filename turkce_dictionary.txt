@@ -316,6 +316,7 @@ asya yakası  -- asian side
 ata  -- ancestor
 atasözü  -- proverb
 ateşi  -- temperature, fever, fire	__ annemin ateşi var ve kusuyor.
+ateş  -- fire	__ ateş yakmak yasaktır.
 ateşkes  -- truce, armistice, ceasefire	__ mondroş ateşkes antlaşmaşı.
 -ateş yakar  -- make a fire, burn	__ ateş yakarsan dikkatli olmalısın.
 at  -- horse
@@ -428,7 +429,7 @@ bakıcı  -- caretaker	__ at bakıcı.
 bakım  -- maintenance
 bakım  -- nurse
 bakımsız  -- careless  
-bakım  -- well-groomed, taking care of self
+bakım  -- well-groomed, taking care of self	__ bakımlı biriyim.
 bakış  -- aspect, glance, look
 bakış  -- look, view, regard	__ onun bu konuya bakışını sevmedim.
 bakiye  -- balance, remainder
@@ -674,7 +675,7 @@ bir şey değil  -- it’s nothing, anything
 birşey değil  -- it's nothing, not anything
 bir şey  -- something
 bir süre sonra  -- after a while	__ bir süre sonra ormanın içine düşmüş.
-bir sürü  -- a lot
+bir sürü  -- a lot	__ sinzinle bir sürü türkçe fiil öğreneceğiz.
 bir takım  -- some, several, certain [given]	__ toplum yaşamında yasaların herkese sağladığı birtakım haklar vardır.
 birtakım  -- some, several, certain [given]	__ toplum yaşamında yasaların herkese sağladığı birtakım haklar vardır.
 bir yerde  -- somewhere, someplace
@@ -953,7 +954,9 @@ cihaz  -- device  (tech)
 çıkarım  -- inference
 -çıkarırı  -- take off, remove sth	__ gömleğini çıkarırım. 
 -çıkar  -- take out, off, remove, eject
--çık {cikar}  -- to go out of [ablat]; to go up; to come up to [dativ]; to set forth [dativ]
+-çık {cikar}  -- go out of [ablat]
+-çık {cikar}  -- go up, come up to [dativ]	__ yukarı çıkıyorum.
+-çık {cikar}  -- set forth [dativ]
 -çik  -- exiting, leaving, get out	__ bazı işleri yapmak için dışarı çıkmalıyım.
 çıkış  -- exit, exiting, manner of going out
 çikolata  -- chocolate  (fd)	__ istanbul’da sıcak çikolata içtim.
@@ -1359,6 +1362,7 @@ eğer öyleyse  -- if then  (conj)
 eğer/o zaman  -- if/then  (conj)
 eğik çizgi  -- forward slash mark  [punc]
 -eğil  -- bow, bend, droop, hang, sag, stoop	__ eğilirsen basamak olursun.
+-eğil  -- bow, bend down	__ eğiliyorum.
 eğitimci {eğitimciler}  -- educator, trainer; antrenor, eğitici
 eğitimciler birliği  -- educators association
 -eğitim görmek  -- receive an education
@@ -1740,9 +1744,9 @@ giysiler  -- things, wardrobe, clothes	__ benim yatağım ve giysilerim mavi.
 gizemli  -- mysterious
 gizem  -- mystery
 -gizle  -- hide, conceal, cover up, disguise, cloak	__ fotoğraf atamayacak kadar gizlersen yazma.
-gizli  -- confidential, discreet, secretive, covert (slang)
+gizli  -- confidential, discreet, secretive, covert (slang)	__ gizlilik içinde tanışalım.
 gizli menü  -- secret menu
-gizli  -- private, secret, confidential, hidden
+gizli  -- private, secret, confidential, hidden	__ herşey gizlilik içinde.
 göbek adı  -- middle name; orta ad
 -göğer  -- to become blue green [< gök]
 göğsünü emmek  -- suck breast
@@ -2196,7 +2200,7 @@ indirim  -- discount, reduction, cut, deduction; iskonto, kesinti	__ nakitte ind
 indirlenler  -- downloads  (tech)
 inek  -- cow
 -in  -- getoff, disembarkl, dismount
--in  -- climb down, step down, come down, go down, lower
+-in  -- climb down, step down, come down, go down, lower	__ aşağı iniyorum.
 -in  -- go down to spl [private to public space] (slang)	__ çarşıya indim. sokağa indim. sokağa in, konuşalım.
 ingilizce  -- the english language
 ingilizce  -- usa [language]
@@ -2252,6 +2256,7 @@ isim  -- denomination
 isim {ismim}  -- name, first name, title, designation	__ ismin nedir?
 işim  -- my job
 -ısın  -- heat, warm, become warmer, get hot, grow warm
+-ısı  -- warm	__ ellerimi ısıtıyorum.
 -ısın  -- hit it off with sby, reconcile oneself to 
 işin  -- your job
 -ısırı  -- bite	__ göğüslerini emerim meme uçlarını ısırırım hafif hafif.
@@ -2402,7 +2407,8 @@ kalıp  -- pattern, template, mould, model, stencil
 -kal {kalır}  -- to stay at	__ 
 kalkış  -- departure, take-off
 kalkış  -- takeoff	__ kalkış ve iniş sürelerinde. 
--kalk  -- wake, get up, depart	__ hala yataktayım ve daha şimdi kalktım.
+-kalk  -- wake, depart	__ hala yataktayım ve daha şimdi kalktım.
+-kalk  -- get up, stand up	__ ayağa kalktım.
 kalma  -- stay, staying, remaining; ziyaret, ikamet, durma, oturma	__ benim bir beklentim kalmadı artık sadece onun dönmesini bekleyeceğim.
 kalp  -- heart, cardiac	__ kalbim kırıldı.
 kalp krizi  -- heart attack
@@ -2629,7 +2635,7 @@ kiraz  -- cherry  (fd)
 kir  -- dirt
 -kırıl {kırılır}  -- to be broken; to break, be broke	__ bardak kırıldı mı?
 kırk  -- forty, 40
--kır {kırar}  -- to break sth
+-kır {kırar}  -- break sth	__ bu dalı kıracağım.
 -kirlen  -- be dirty, soiled, polluted, stained
 -kirlen  -- to be made dirty
 -kirlet  -- dirty, mess, stain, pollute, contaminate, defilre
@@ -2689,6 +2695,7 @@ köfte  -- grilled meatballs  (fd)
 köken  -- origin
 kök  -- root	__ köken
 -kok  -- smell  [emits odor]	__ çorapların kötü kokuyor.
+kokmuyor  -- has no smell
 -kokla {koklar}  -- smell, sniff [sth: active]	__ tamam, çoraplarını kokluyorum.
 kokteyl  -- cocktail
 koku  -- smell, scent, odor, fragrance
@@ -3021,7 +3028,7 @@ meraklıler  -- aficionados, freaks	__ büyük yarak meraklıları uzak dursun.
 merak  -- worry, anxiety, disquiet
 merdivenlerden çıkmak  -- go up stairs
 merdivenlerden inmek  -- go down stairs
-merdiven  -- stairs
+merdiven  -- stairs  __ merdivenden çıkıtım.
 merhaba  -- hello [informal greeting]
 merkezi  -- central, center, mall
 mesafe  -- distance	__ mesafeye bakarak yazın.
@@ -3367,6 +3374,7 @@ otobüs  -- bus
 otomatik  -- automatic [<> manuel]  (tech)
 otomobil  -- automobile
 -otur  -- dwell, live, sit
+-otur  -- sit down	__ 
 oturma iznin  -- residence permit	__ oturma iznin var mı?
 oturma odası  -- living room
 oturma  -- residence, occupy, stay
@@ -3734,7 +3742,7 @@ savaş  -- war, warfare, battle	__ avrupa savaştaydı. birinci dünya savaşı 
 sayfa  -- page, sheet	__ kaçıncı sayfayı okuyorsun?
 saygıdeğerlik  -- respectfulness
 -saygı duymak  -- respect [sby, sth]	__ babama saygı duyuyor.
-saygılı  -- respectful
+saygılı  -- respectful	__ saygılı biriyim.  
 saygı  -- respect, regard, esteem	__ kimse beni sevmek zorunda değil sadece saygı.
 sayı  -- number
 sayko  -- psycho  (slang)
@@ -3826,6 +3834,7 @@ seviye {seviyeler}  -- level, grade, standard, plane	__ tüm seviyelere uygun. e
 seviyeli  -- level
 seviyesiz  -- without standard, level [= lowly?]
 -sev {sever}  -- to like, to love sth  [accus]	__ türk çayı içmeyi severim. en çok ne seversin ilişkide.
+-sev  -- pet [animal]	__ kediyi seviyorum.
 -seyahat etmek -- travel (v)  [far, international]	__ türkiye'de seyahat ediyordum.
 seyahat  -- travel, trip
 seyahat  -- trip, journey
@@ -4196,6 +4205,7 @@ tatil  -- holiday, vacation	__ kısa bir tatildir.
 tatlı  -- dessert  (fd)
 tatlılar  -- desserts (fd)
 tatlı  -- sweet {adj} [<> acı]	__ tatlisin. seni görünce de baktim çok tatli adamsın ben de yazdım.
+tatlı  -- cute	__ çok tatlı bir kedi var.
 tat  -- taste, flavor
 -tat  -- taste sth
 tat ve koku kaybı  -- loss of taste, smell
@@ -4217,7 +4227,7 @@ taziye  -- condolence, sympathy; başsağlığı, başağlığı	__ pazar günü
 tbr  -- tebrikler  (abbrev): congratulations.
 tebrik ederim  -- congratulations  (expr)
 tebrikler  -- congratulations
-tecrübe  -- experience [knowledge, experimentation]; deneyim, olay, yaşam	__ istediğim gibi sonuçlanmasa da tecrübe oldu benim için.
+tecrübe  -- experience [knowledge, experimentation]; deneyim, olay, yaşam	__ istediğim gibi sonuçlanmasa da tecrübe oldu benim için. tecrübem çok var.
 -tedavi etmek  -- cure, treat, remedy
 tedavi  -- treatment, cure, remedy, therapy	__ tedavi için almanya'ya gidelim.
 tehlike  -- danger
@@ -4681,7 +4691,7 @@ yapısıyla  -- structurally	__ hem ruhuyla hem de yapısıyla çok güzel bir s
 yapı  -- structure, construction	__ 
 yapma be  -- shucks, no shit  (expl)  (slang)	__ 
 yapma ya!  -- 《you don’t say [sarcastic]》《why did that happen?》
-yaprak  -- leaf
+yaprak  -- leaf	__ yaprağın üstüne bastım.
 -yap  -- to eat breakfast
 -yap {yapar}  -- make/do + x [make/do (labor) aux] [creating, constructing, or performing a specific task; process resulting product/completed activity]
 yarağinide  -- çük, yarak
@@ -4799,7 +4809,7 @@ yerel  -- local; lokal	__ yerel saat.
 yerel  -- regional, territorial; bölgesel, yöresel 
 yer fıstığı  -- peanut  (fd)	__ kavrulmuş tuzlu yer fıstığı.
 yer fıstıklı  -- with peanut
-yer  -- floor, space
+yer  -- floor, space, ground	__ yerden taş aldım.
 -yeri olmak  -- belong
 -yerleştir  -- place, establish, house, locate, position, situate, set up	__ boş bırakılan yerlere uygun biçimde yerleştirelim.
 yerli ziyaretçi  -- domestic visitor
@@ -4992,6 +5002,7 @@ bir an önce  -- right away
 biran önce  -- right away	__ biran önce iyileş.
 -iyileş  -- convalesce, get better, get well	__ biran önce iyileş.
 -üşüt  -- catch a cold; chill	__ sanırım üşüttüm.
+-üşü  -- feel cold	__ üşüdüm.
 çoğunlukla  -- mainly	__ hayır, çoğunlukla öksürük.
 sıkıcı  -- boring, tedious, dull, stuffy	__ 
 sıkıcı  -- annoying, oppressive, unpleasant, irksome	__ oldukça can sıkıcı.
@@ -5031,6 +5042,7 @@ reçete  -- prescription; ilaç yazma  (med)	__ reçete numaranız bu kağıtta 
 reçete  -- formula; formül, mama
 geri bildirim  -- feedback	__ bana geri bildirimde bulun lütfen.
 -geri bildirim almak  -- get feedback
+-geri dönmek  -- go back smw
 -geri bildirim yapmak  -- give feedback
 -geri bildirimde bulunmak  -- provide, report feedback	__ bana geri bildirimde bulun lütfen.
 sözleşme  -- convention, charter, articles, agreement, contract
@@ -5321,6 +5333,7 @@ nitekim  -- thus, hence, indeed, in fact; nasıl ki	__
 kaju fıstığı  -- cashew nuts  (fd)	-- kızartılmış kaju fıstığı.
 karbonhidrat  -- carbohydrate
 -bas  -- press + x [pressured aux]
+-bas  -- step on sth	__ yaprağın üstüne bastım.
 -yemek yapmak  -- make food / cook
 -hata yapmak  -- make a mistake
 -ödev yapmak  -- do homework
@@ -5375,4 +5388,14 @@ perde  -- curtain, screen	__
 siyah cam  -- tinted window
 -gözük  -- seem
 -gözük  -- appear, be seen, visible	__ araç siyah cam ve perdeli içi gözükmez.
+performans  -- performance	__ performansım çok iyi.
+-zıpla  -- jump	__ buradan zıplayacağım.
+çöpü  -- trash bin	__ çöpü çöpe atacağım.
+-tıkla  -- rap on sth	__ tahtaya tıklıyorum.
+labirent  -- maze	__ bu bir labirent.
+bitki  -- plant
+direk  -- pole	__ direğe yaslanıyorum.
+-yaslan  -- lean [on, against sth]	__ direğe yaslanıyorum.
+salıncak  -- swing [child's]	__ salıncağı itiyorum.
+-tırman  -- climb [up on sth]	__ 
 
