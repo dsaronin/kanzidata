@@ -157,7 +157,7 @@ alışveriş çantası  -- tote bag
 alışveriş merkezi  -- shopping mall
 alışveriş  -- shopping
 -alışveriş yap  -- go do shopping	__ jen markette alışveriş yapıyor.
-alkol  -- alcohol
+alkol {ler}  -- alcohol
 Allah  -- God
 almance  -- germany [language]
 alman  -- germany [people]
@@ -1860,6 +1860,7 @@ gün geçmiş  -- sunrise
 günlerden bir gün  -- one day
 günlük ayakkabı  -- daily shoes
 günlük  -- daily sth
+günlük  -- informal  [<> resmi]
 günübirlik  -- one-day, day-long	__ günübirlik kaçamak arıyorum.
 günü  -- jealous
 günü  -- on x days: [accusative]
@@ -1963,7 +1964,7 @@ havlu  -- towel
 havuç  -- carrot	__ havuç suyu insanı gözüne çok iyi geliyor.
 havuz  -- pool
 hay aksı  -- oops	__ hay aksı, bu kötü olmuş.
-hayal  -- dream imagination, fantasy, illusion, vision
+hayal {ler}  -- dream imagination, fantasy, illusion, vision	__ hayaller
 -hayal etmek  -- dream, imagine	__ eskiden hayal bile edemediklerimiz.
 hayal meyal  -- vaguely, fuzzy, indistinct
 -hayata geçirilmek  -- bse implemented, go live	__ arıcılıkta akılcı, bilimsel ve ilgili olanların desteklendiği bir model hayata geçiriliyor.
@@ -2410,7 +2411,7 @@ kalkış  -- takeoff	__ kalkış ve iniş sürelerinde.
 -kalk  -- wake, depart	__ hala yataktayım ve daha şimdi kalktım.
 -kalk  -- get up, stand up	__ ayağa kalktım.
 kalma  -- stay, staying, remaining; ziyaret, ikamet, durma, oturma	__ benim bir beklentim kalmadı artık sadece onun dönmesini bekleyeceğim.
-kalp  -- heart, cardiac	__ kalbim kırıldı.
+kalp {ler}  -- heart, cardiac	__ kalbim kırıldı.
 kalp krizi  -- heart attack
 kamera  -- camera
 kamış  -- cane, reed, straw
@@ -3035,7 +3036,7 @@ mesafe  -- distance	__ mesafeye bakarak yazın.
 mesafe takinti  -- distance tracking  (tech)
 mesaj  -- message  (tech)	__ bana mesajı at.
 mesela  -- for example; örneğin	__ mesela, bu kitabı okuyabilirsiniz.
-meşgul  -- busy, occupied [<> müsait]
+meşgul {ler}  -- busy, occupied [<> müsait]
 -meşgul olmak  -- is busy	__ meşgul olduğunu ...
 meşhur  -- famous
 mesleği  -- job, profession	__ benim mesleğim yok.
@@ -3591,6 +3592,7 @@ rica  -- request
 -risk almak  -- take risk	__ risk almaktan korkma.
 riskli  -- risky
 rolü  -- role
+rol {ler}  -- role
 -rol yapmak  -- to act, perform a role	__ Rol yapıyorsun.
 roman  -- novel
 romanyace  -- romania [language]
@@ -3612,7 +3614,7 @@ saat & aksesuar  -- watches & accessories
 saat  -- hour, o’clock
 saati  -- clock
 saat kaçta?  -- at what time, o’clock?
-saat {saati}  -- hour, time, watch, clock
+saat {ler}  -- hour, time, watch, clock
 sabah  -- morning
 sabiha gökçen havalimanına  -- sabiha airport
 sabırlı ol  -- be patient!
@@ -3836,8 +3838,7 @@ seviyesiz  -- without standard, level [= lowly?]
 -sev {sever}  -- to like, to love sth  [accus]	__ türk çayı içmeyi severim. en çok ne seversin ilişkide.
 -sev  -- pet [animal]	__ kediyi seviyorum.
 -seyahat etmek -- travel (v)  [far, international]	__ türkiye'de seyahat ediyordum.
-seyahat  -- travel, trip
-seyahat  -- trip, journey
+seyahat {ler}  -- travel, trip, journey, vacation	__ seyahatler
 şey  -- thing
 şey  -- uh-uh- ahem... [speech hesitation]
 sezgi  -- intuition
@@ -3962,7 +3963,7 @@ sohbet  -- chat, conversation	__ güzel bir sohbeti hiçbir şeye değişmem, he
 -sohbet etmek  -- chat (v)	__ şimdi gitmeliyim, sonra sohbet edelim.
 sohbet muhabbet  -- chat conversation
 sokak hayvanları  -- street animales, strays
-sokak {sokağı}  -- street
+sokak {sokağı}  -- street	__ adam sokakta.
 -sok {sokar} -- insert, thrust, drive, enter, inject	__ sokmadan yarami sürtecegim deliginin arasina. iki elimle ayirarak deliğine dilimi sokarim. parmağımı deliğine sokuyorum.
 -sok {sokar} -- sting, bite
 sol  -- left [side of sth]
@@ -5398,4 +5399,27 @@ direk  -- pole	__ direğe yaslanıyorum.
 -yaslan  -- lean [on, against sth]	__ direğe yaslanıyorum.
 salıncak  -- swing [child's]	__ salıncağı itiyorum.
 -tırman  -- climb [up on sth]	__ 
+hoş buldum  -- well found [response to welcome]
+görüşmek üzere  -- see you
+fonksiyon -- function	__ diyalogları fonksiyonları ile eşleştiriniz.
+-sürükle  -- drag, haul, lug	__ doğru cümleleri konuşmanın akışına göre uygun kutulara sürükleyiniz.
+-sürükle  -- lead
+sembol {ler}  -- symbol	__ semboller
+misal {ler}  -- pattern, model, template, illustration, instance
+ideal {ler}  -- ideal
+petrol {ler}  -- petrol
+battaniye {ler}  -- blanket
+şömine  -- fireplace
+komodin  -- nightstand, bedstand
+talep  -- request, claim	__ kimseden özel bir talebim yok.
+-talep etmek  -- claim sth, request sth, demand sth, ask for sth
+cetvel  -- ruler, measure
+başkent  -- capital city
+nerde  -- where? [nerede]
+otopark  -- parking lot
+kimde  -- who has x? [on, with, at whom]	__ çocuklar kimde?
+yemekhane  -- dining hall, cafeteria, refectory, canteen
+poşet  -- chopping bag, nylon bag
+kuaför  -- hairdresser, hairstylist, salon
+kalemlik  -- pencil case
 
