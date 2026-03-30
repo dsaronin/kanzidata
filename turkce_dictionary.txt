@@ -2710,7 +2710,7 @@ köle ruhlu -- servile	__ köle ruhlu pasifler bir adım önde yervar. köle ruh
 köle  -- slave, serf, chattel	__ 
 kolesterol  -- cholesterol	__ kolesterol seviyesini dengeler.
 kol saati  -- watch, wrist watch
-koltuk  -- armchair, seat	__ koltuk ayarları.
+koltuk  -- armchair, sofa	__ koltuk ayarları.
 koltuk değneği  -- crutches; destek	__ koltuk değneği istemiyorum.
 komitesi  -- committee
 kompakt  -- compact  (tech)
@@ -3403,7 +3403,7 @@ oyun kumandası  -- gamepad  (tech)
 o yüzden  -- therefore, so	__ bir misafirimiz gelecekmiş o yüzden kapatmak zorunda kaldım.
 -oy vermek  -- vote	__ her seçimde oy vermem lazim.
 oy  -- vote	__ oyumu
-o zaman  -- then, so, at that time	__ o zaman dans etmemiz lazım.
+o zaman  -- then, so, in that case, at that time	__ o zaman dans etmemiz lazım.
 özel ekip  -- dedicated team
 özel istek  -- special request
 özellik  -- feature, property, characteristic, attribute	__ bu özelliğin çok güzel.
@@ -5422,4 +5422,15 @@ yemekhane  -- dining hall, cafeteria, refectory, canteen
 poşet  -- chopping bag, nylon bag
 kuaför  -- hairdresser, hairstylist, salon
 kalemlik  -- pencil case
+ne var?  -- what's in x?
+kule  -- tower	__ galata kulesi.
+kim var?  -- who is in x?
+tablo  -- painting, picture
+tahta  -- blackboard
+kıyafet  -- apparel, clothing, outfit, costume
+özet  -- summary, abstract, rundown
+pideci  -- pita maker
+kıyma  -- ground meet, hamburger  (fd)	__ peki, sizde kıymalı pide var mı?
+kuşbaşı  -- hash, casserole meat  (fd)
+motorsiklet  -- motocycle
 
