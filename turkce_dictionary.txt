@@ -3925,7 +3925,9 @@ siper  -- shield, screen
 siper  -- trench, foxhole, shelter, bulwark
 şıra  -- feremented grape juice  (fd)
 sırala  -- sort by  (tech)
-sira  -- line, rank, file
+sıra  -- line, rank, file	__ üçüncü sırada kim var?
+sıra  -- ordinal	__ sıra sayıları
+sıra sayıları  -- ordinal numbers
 sırasin[da]  -- during, while
 sırf  -- pure, mere, sheer, very
 şirin  -- cute, lovely, sweet, pleasant	__ haliç manzaralı şirin bir stüdyo daire.
@@ -4724,7 +4726,7 @@ yarışma  -- competition, contest, event, match	__ yarışma bitmedi daha.
 yarrak  -- cock, dick  (slang)	__ büyük yarak. yarrağımi yalamak işteyen var mı?
 -yaşa  -- dwell, inhabit	__ peki benimle beraber yaşamak ister misin peki? İstanbul’da mı yaşıyorsun?
 -yaşa  -- experience, subsist, taste	__ on yıl kuraklık yaşadık.
-yaş  -- age [humans]
+yaş  -- age [humans]	__ kaç yaşındasın?
 yaşa  -- hurray! yay! viva! cheers!  (expl)
 yasak  -- forbidden, prohibited	__ vatandaşların burada beklemeleri yasaktır.
 yasa  -- law  (lgl)	__  yasaya göre ev artık bizim. 
@@ -5433,4 +5435,17 @@ pideci  -- pita maker
 kıyma  -- ground meet, hamburger  (fd)	__ peki, sizde kıymalı pide var mı?
 kuşbaşı  -- hash, casserole meat  (fd)
 motorsiklet  -- motocycle
+telefon numaran  -- telephone number	__ telefon numaran kaç?
+seda  -- voice, sound
+hemşire  -- nurse
+teneffüs  -- recess, break, rest [period]	__ şimdi teneffüs.
+kantin  -- canteen, lunchroom, cafeteria
+komik  -- funny [state]
+tanım  -- description	__ tanımı okuyunuz.
+esmer  -- brunette
+yataka odası  -- bedroom
+ev hanımı  -- housewife
+esnaf  -- artisan, tradesman, shopkeeper
+uçak hostesi  -- flight hostess, attendant
+futbolcu  -- soccer player, futbol player
 
