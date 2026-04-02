@@ -718,7 +718,7 @@ boru  -- pipe
 -boşal  -- ejaculate, cum	__ sert sever geç boşalırım. kalin ve geç boşalan severim. sen erken mi boşalıyorsun?
 -bosan  -- divorce	__ ben vatandas olunca bosaniriz.
 boş  -- empty, blank, hollow	__ boş profiller. bak burası boş.
-boşluk  -- gap, space, void, cavity, blank
+boşluk  -- gap, space, void, cavity, blank	__ boşlukları doldurun.
 boşuna  -- in vain, useless
 boxer  -- boxers	__ boxerınıda indirdim.
 boya  -- paint
@@ -1903,7 +1903,7 @@ hala  -- aunt   [paternal]
 hala  -- still, yet [pref][pos verb]	__ ben hala parmağımı deliğine sokup büyütürken.
 halbuki  -- whereas; oysaki  (conj)	__ halbuki suçlu o değildi.
 halhal  -- anklet
-hal {hali}  -- state, situation, condition
+hal {ler}  -- state, situation, condition
 hal  -- circumstance, feature, form, status
 hal  -- mood, demeanor	__ ruh halime göre
 hali  -- case, version [of sth]	__ diyaloğumuzun düzenlenmiş hali.
@@ -5508,5 +5508,23 @@ bol şans  -- good luck
 özür dilerim  -- i'm sorry
 şerefe!  -- cheers  (expl)
 hapşu!  -- sneeze (expl)
-
+mülakat  -- interview [oral]	__ mülakata biraz sonra başlayacağız.
+soyad  -- last name, surname	__ ad ve soyad.
+iş görüşmesi  -- job interview
+ipucu  -- tip, hint, clue, lead
+kusura bakma  -- sorry
+tamamdır  -- okay (slang)
+tiyatro  -- theatre, play
+kim o?  -- who is it? [at door]
+burası neresi?  -- where is this? [place]
+sehpa  -- coffee table, stand
+yastık  -- pillow
+bulaşık makinesi  -- dishwasher
+lavabo  -- sink
+gardırop  -- wardrobe
+yorgan  -- quilt
+duş kabini  -- shower cabin
+küvet  -- bathtub
+klozet  -- toilet
+kitaplık  -- bookcase
 
