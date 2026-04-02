@@ -217,7 +217,7 @@ anlaştık  -- agreement, agreed	__ tamamdır anlaştık.
 -anla  -- understand, know how to do sth	__ masaj yapsan anlar misin. hala pek türkçe anlamıyorum.
 anlayışlı  -- perceptive
 anlayış  -- penetration; manner of understanding	__ anlayış, tanımayı takip eder.
-anlık  -- instant
+anlık  -- instant, live; o anda çekilen veya paylaşılan (slang)	__ anlık yüz fotoğrafı atar mısın.
 an  -- moment, instant, wink, second	__ kısa bir an için. ne yapıyon; şu an nerdesin. şu an hala işte misin?
 anneanne  -- grandmother [maternal]
 annebaba  -- grandfather [maternal]
@@ -307,6 +307,7 @@ aşkım  -- my love
 aşk  -- love, eros	__ aşk için zamanım yok.
 aşkm  -- aşkım  (abbrev): my love
 asla  -- never
+assla  -- taz: never [emphatic]
 aslan  -- lion
 aslen  -- originally, essentially, fundamentally	__ aslen anakar'luyum.
 aslında  -- actually, in fact
@@ -1248,6 +1249,7 @@ dolayı  -- because of [ablat]
 -doldur  -- fill in, stuff, complete [form]	__ öğretmen formunu doldurduğun için teşekkür ederim.
 -dol  -- fill up, swell, stuff?	__ dolma kalem  [fountain pen]
 dolgun  -- fat, chubby, plump, buxom	__ temiz erkeksi genç dolgun.
+dolgun  -- thick-set, well-built	__ temiz erkeksi genç dolgun
 dolma kalem  -- fountain pen
 dolma popo  -- stuffed butt; göt
 dolma  -- stuffing, filling
@@ -2044,7 +2046,7 @@ hiçbir yerde  -- nowhere
 hiç böyle  -- not such as this	__ hiç böyle video izliyordum.
 hiç kimse yok  -- nobody
 hic  -- none, nothing, never, ever [with positive verb] 
-hijyen  -- hygiene
+hijyen  -- hygiene	__ hijyen şart.
 hikaye harita  -- story map 
 hikaye  -- story
 hım!  -- ahem!, humph  (expl)
@@ -4452,7 +4454,7 @@ umman  -- oman [country]
 -um  {umar}  -- hope, expect, look for	__ anneler çocukları için hep iyi şeyler umar. umarım sende iyisindir ve seyahatin güzel geçiyordur.
 umursa  -- care about
 -umursa  -- care about	__ seni umursamıyorum.
-ünite  -- section, unit
+ünite  -- section, unit	__ ünite 1'in hedefleri.
 üniversite  -- university, college
 ünlem işareti  -- exclamation point  [punc]
 ünlü harfler  -- vowels
@@ -5448,4 +5450,63 @@ ev hanımı  -- housewife
 esnaf  -- artisan, tradesman, shopkeeper
 uçak hostesi  -- flight hostess, attendant
 futbolcu  -- soccer player, futbol player
+-körel  -- blunt, dull, rust, atrophy	__ yarakamda körelir.
+-bilen  -- be sharpened, honed, whetted, prepare for	__ götde bilenir.
+erkeksi  -- masculine-like
+tercihen  -- preferably, rather, by choice	__ 
+-belli etmemek  -- not make sth obvious, discreet	__ belli etmeyen.
+belli etmeyen  -- sby discreet, straight-acting [public]
+iri  -- large, bulky; büyük, cüsseli veya hacimli olan	__ iri büyük popolu dolgun birini arıyorum.
+popo  -- butt, bottom; vücudun oturmaya yarayan kaba eti, kalça  (slang)	__ iri büyük popolu dolgun biri.
+kalın bacaklı  -- thick-legged; bacakları geniş ve kuvvetli olan	__ dolgun kalın bacaklı maç bir erkek.
+maç  -- macho, masculine; sert, erkeksi ve maço olan kişi  (slang)	__ kalın bacaklı maç birini arıyorum.
+gizlice  -- secretly, clandestinely; kimseye belli etmeden, gizli bir şekilde	__ gizlice trabestielere pasif olanları arıyorum.
+trabestie  -- transvestite, trans; travesti veya transseksüel olan kişi  (slang)	__ gizlice trabestielere pasif olanları arıyorum.
+tanga  -- thong; dar bir iç çamaşırı türü	__ tangalı olanlar bu ilana bakmasın.
+manga  -- rhyming slang; tangalı kelimesiyle kafiye için kullanılan uydurma söz (slang)	__ tangalı mangalı tipler gelmesin.
+çakma  -- fake, knock-off; orijinal olmayan, taklit olan şey (slang)	__ bu telefonun çakma olduğunu hemen anladım.
+çakma karılar  -- fake women, trans women; trans kadınlar için kullanılan aşağılayıcı bir terim (slang)	__ çakma karılar uymuyor.
+paralı asker  -- mercenary; para karşılığı savaşan asker	__ cephede birçok paralı asker görev yapıyor.
+paralı asker  -- gigolos, sex workers; para karşılığı cinsel hizmet veren erkek (slang)	__ paralı askerler bana yazmasın.
+-temiz olmak  -- be clean; kirli olmamak, hijyenik durumda bulunmak	__ buraya gelmeden önce temiz ol.
+yazılan  -- what is written, the written thing; metin olarak belirtilmiş olan şey	__ ilanda yazılanı dikkatle oku.
+-yazılanı yapmak  -- do what is written, follow instructions; talimatlara uymak	__ lütfen önce yazılanı yap.
+bekçi  -- watchman, night guard; bir yeri beklemekle görevli kimse	__ bekçi veya polis olanları bekliyorum.
+zabıta  -- municipal police, warden; belediyeye bağlı düzeni sağlayan görevli	__ zabıta kıyafetiyle buraya gel.
+güvenlik görevlisi  -- security guard; bir yeri korumakla görevli kişi	__ güvenlik görevlisi olarak çalışıyorum.
+security  -- security, guard; güvenlik görevlisi için kullanılan ingilizce terim	__ security üniforması giyenler yazsın.
+polis  -- police, cop; asayişi sağlayan devlet görevlisi	__ polis olan erkekler öncelikli.
+jandarma  -- gendarmerie, military police; kırsal alanda güvenliği sağlayan askeri güç	__ jandarma üniformasıyla fotoğraf at.
+police jandarma  -- police gendarmerie; kolluk kuvvetlerini ifade eden karma terim	__ polis jandarma üniformalı olanlar gelsin.
+-kendini tanıtmak  -- introduce oneself; birine kendi hakkında bilgi vermek	__ mesaj atmadan önce kendini tanıt.
+doğulu  -- easterner; türkiye'nin doğu bölgelerinden gelen kişi	__ arkadaşım aslen doğulu biridir.
+doğulu  -- masculine eastern archetype; sert, esmer ve geleneksel erkeksi özelliklere sahip kişi (slang)	__ aktif doğulu olanlar mesaj atsın.
+ağır abi  -- respected figure; ciddi, ağırbaşlı ve saygı duyulan erkek (slang)	__ o tam bir ağır abi gibi davranıyor.
+ağır abi  -- macho, tough persona; az konuşan, sert ve baskın erkek karakteri (slang)	__ ağır abi takılan aktif birini arıyorum.
+maço serseri  -- macho rogue, bad boy type; maço ve kural tanımaz tip (slang)	__ maço serseri tipler ilgimi çekiyor.
+serseri  -- rogue, bad boy, vagabond; başıboş gezen veya kural tanımayan kimse (slang)	__ serseri bir hayat tarzı var.
+hadi sinemaya  -- let's go to the movies; sinemaya gitmek için yapılan bir çağrı	__ çok güzel bir film gelmiş, hadi sinemaya.
+hadi yemeğe  -- let's go for food, let's go to dinner; yemek yemeye gitmek için kullanılan bir davet	__ çok acıktım, hadi yemeğe.
+hadi kahve içmeye  -- let's go for coffee; kahve içmek için yapılan bir davet	__ işimiz bitti, hadi kahve içmeye.
+-dolup taşmak  -- overflow, brim over; çok dolup dışarı taşmak veya çok kalabalık olmak	__ stadyum maç günü dolup taşıyor.
+-yarım kalmak  -- remain unfinished, be incomplete; tamamlanmadan eksik kalmak	__ bir yanım hep yarım kalacak.
+ağır başlı  -- serious-minded, dignified, sedate; ciddi, olgun ve nerede nasıl davranacağını bilen	__ o çok ağır başlı biridir, gereksiz konuşmaz.
+edep  -- decency, good manners, etiquette; terbiye ve toplumsal kurallara uygunluk	__ edeple gelen, lütufla gider.
+lütuf  -- grace, favor, kindness; birine gösterilen iyilik, inayet veya bağış	__ edeple gelen, lütufla gider.
+-lütfet  -- deign, grant, bestow; bir şeyi yapma inceliğini veya lütfunu göstermek	__ lütfen bu ricamızı yerine getirmeyi lütfet.
+latif  -- pleasant, gentle, subtle; yumuşak, hoş ve nazik olan	__ bahar akşamının latif havası içimizi ferahlattı.
+letafet  -- elegance, grace, delicacy; incelik, güzellik ve hoşluk	__ sarayın mimarisindeki o letafet görenleri büyülüyor.
+tatmin edilmemiş  -- unsatisfied, unfulfilled; tatmin olmamış, doyurulmamış	__ hangi yanın tatmin edilmemiş?
+doymamış  -- unsatiated, unquenched; doygunluğa ulaşmamış, aç	__ senin hangi yanın doymamış?
+tatminsiz  -- dissatisfied, insatiable; memnuniyetsiz, hoşnutsuz	__ tatminsiz insanlar asla mutlu olamazlar.
+tanışma  -- introduction
+valla ne olsun  -- well 
+iyi eğlenceler  -- have fun
+iyi yolculuklar  -- have a good trip
+iyi şanslar  -- good luck
+bol şans  -- good luck
+özür dilerim  -- i'm sorry
+şerefe!  -- cheers  (expl)
+hapşu!  -- sneeze (expl)
+
 
