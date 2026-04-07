@@ -132,6 +132,7 @@ ak saçlı  -- white-haired/venerable
 alakalı  -- relevant; uygun, konu ile ilgili	__ eski türkçe ke edatıyla alakalı olması muhtemel ise.
 -al {alır}  -- to buy, possess
 -al {alır}  -- to get, take, pick up
+-al  -- take it in [dative]	__ ağzıma almak istiom.
 alçak  -- low
 aletin pop  -- ejaculate, cum
 alet  -- organ, dick  (slang)	__ slim aktifim, aletim 21cm
@@ -191,7 +192,6 @@ anadolu yakası  -- anatolian side of istanbul
 ana fiil  -- main verb
 anahtar  -- key
 anahtarlık  -- key ring, keychain
-ananas  -- pineapple  (fd)
 ananas  -- pineapple (fd)
 anasayfa  -- home page  (tech)
 ancak  -- however, but, yet, nevertheless	__ ancak yükü ağırdı.
@@ -414,7 +414,8 @@ bağ  -- link, noose, tie, yoke, bond, ligament, bandage, fetter, bridle, hitch,
 bağlı  -- part of sth, dependent, connected, attached, affiliated	__ california amerika'ya bağlı değil mi?
 -bahane etmek  -- pretend, guile	__ antlaşmanın 7. ve 24. maddelerini bahane eden.
 bahane  -- pretense, guise, evasion
-bahçe  -- garden, yard
+bahçe  -- garden
+bahçe  -- schoolyard, yard
 bahçeli  -- having a garden
 bahreyn  -- bahrain [country]
 bahreynce  -- bahrain [language]
@@ -1762,7 +1763,7 @@ gol  -- goal, base, point  (sports)
 göl  -- lake
 gömlek  -- dress shirt
 gömlek  -- shirt
--gönder {gönderir}  -- send, dispatch, consign, freight, remit, route, send off, ship __ gönderdim istek. whatsapp'ını gönder. link gönderecek misin?
+-gönder {gönderir}  -- send, dispatch, consign, freight, remit, route, send off, ship	__ gönderdim istek. whatsapp'ını gönder. link gönderecek misin?
 -gönderil {gönderilir}  -- to be sent	__ bu ürün amazon tarafından gönderilecektir.
 gördüm ki  -- i saw that…	__ gördüm ki kaplumbağayı iyi korumuş.
 göre  -- according to,, per, considering, depending on, opinion [dativ]	__ yeni kurallara göre dersler daha geç bitecek.
@@ -1992,7 +1993,7 @@ hazırlık  -- preparedness
 hazır  -- ready, prepared	__ emirlerim için hazır mısın?
 haz  -- pleasure, delight, gratification; raha	__ yatağımda isen, seksi sevişmeyi hazın en dibini partnerime veririm sertimdir.
 hece  -- syllable
-hediye  -- gift
+hediye  -- gift	__ şarap hediyesi kabul edilir.
 hediye kutusu  -- gift package, box
 hele  -- especially, in particular	__ hele içinde bilim sanat varsa.
 hemen  -- directly
@@ -2328,7 +2329,7 @@ iyilik  -- goodness, the good
 -iyi olsun  -- congratulations [for sth]; güzel olsun, iyi olsun	__ yeni işin hayırlı olsun.
 izahlı  -- explanatory, detailed  (tech)
 izinli  -- day off, off duty, on leave, vacation	__ bende çarşamba ya perşembe izinliyim. sen ne zaman izinlisin?
-izin  -- permit, pass, consent, authorization, permission {genitive -> iznin} __ oturma iznin var mı?
+izin  -- permit, pass, consent, authorization, permission {genitive -> iznin}	__ oturma iznin var mı?
 -izin ver  -- let, allow	__ sen onun arkadaşlarıyla gitmesine izin verecek misin? 
 -izle {isler}  -- watch, track, follow, trace, monitor	__ hiç böyle video izliyordum. nerden izleyebiliriz?
 iznin  -- taz: izin: permit, pass {genitive form}
@@ -2486,7 +2487,6 @@ karmaşık  -- complex, complicated	__ İngilizce "ekran" kelimesi de karmaşık
 karnı aç  -- hungry
 karnıyarık  -- lamb-stuffed eggplant  (fd)
 kar  -- profit
-karpuz  -- watermelon
 karpuz  -- watermelon  (fd)
 karşı  -- against, opposite side	__ ya sizin taraflara gidebilirsem karşı çok iyi olur.
 karşı  -- con-, anti-
@@ -2512,7 +2512,7 @@ kaşarlı tost  -- cheddar toast (fd)
 kase  -- bowl
 kaşık  -- spoon
 kasım  -- november [ayı]
-kasiyer  -- casier
+kasiyer  -- cashier
 kaş  {kaşlar}  -- eyebrow
 kask  -- helmet	__ çarpma anını kask kamerası kaydetti.
 kaslı  -- muscle
@@ -2935,7 +2935,7 @@ macaristan  -- hungary [country]
 macera  -- adventure, affair, flirtation, romance
 maço  -- macho	__ sert maço seven yazsin.
 maço  -- macho	__ sert maçoyum.
-maçta  -- match
+maç  -- match  [sports]
 madalyon  -- locket, medallion
 maddeler  -- articles [of agreement, pact]	__ antlaşmanın 7. ve 24. maddelerini.
 madde  -- material, matter, substance, stuff	__ maddi ve manevi yanımda olcak.
@@ -3031,7 +3031,7 @@ meraklıler  -- aficionados, freaks	__ büyük yarak meraklıları uzak dursun.
 merak  -- worry, anxiety, disquiet
 merdivenlerden çıkmak  -- go up stairs
 merdivenlerden inmek  -- go down stairs
-merdiven  -- stairs  __ merdivenden çıkıtım.
+merdiven  -- stairs 	__ merdivenden çıkıtım.
 merhaba  -- hello [informal greeting]
 merkezi  -- central, center, mall
 mesafe  -- distance	__ mesafeye bakarak yazın.
@@ -3311,9 +3311,9 @@ olsun/veya  -- whether/or  (conj)
 ölüm  -- death, doom, demise, passing	__ ölüm herşeyi yok edecek.
 -olun {olunur}  -- to be
 olur mu?  -- okay?
-olur  -- okay
+olur  -- okay, sure  (expl)
 oluşmaktadır  -- consists of
--oluştur {oluşturur}  -- compose, create, forge, form, generate	  __ grup oluştururken dikkat et.
+-oluştur {oluşturur}  -- compose, create, forge, form, generate	 	__ grup oluştururken dikkat et.
 omurga  -- spine
 omuz çantası  -- shoulder bag
 omuz {omzum} -- shoulder	__ omzunuza kadar açar mısınız sırtınızı?
@@ -3486,7 +3486,7 @@ pazartesi {günü}  -- monday
 peçete  -- napkin
 pekala  -- all right	__ pekala, olan oldu bir kere.
 peki  -- well, good, okay, alright; tamam; o zaman
-pek  -- so, much, quite	__ şehir dışı pek ilgim yok.
+pek  -- so, much, quite	__ şehir dışı pek ilgim yok. yani, pek yok.
 pek  -- very, very much
 pembe  -- pink, rose
 pencere kenarı  -- window-side [seating]
@@ -3654,6 +3654,7 @@ sahil  -- beach, seashore, coast
 sahip  -- owner, possessor, master	__ halının sahibi. halı sahibi.
 sahip {sahibi}  -- owner, master
 sahneye  -- the stage
+sahne  -- scene [in play]
 şair  -- poet	__ sen şairsin.
 sakal  -- beard	__ kıllı sakallı. sakalım çıkmıyor.
 sakalsiz  -- beardless	__ sakalsizlar tercihim.
@@ -3714,7 +3715,6 @@ sap  -- stem, handle, stalk, shaft
 şarap  -- wine
 saray  -- palace
 -sarıl  -- hug, cuddle, cling, snuggle	__ sarılıp uyuyalım.
-sarımsak  -- garlic
 sarımsak  -- garlic  (fd)
 sarışın  -- blond
 sarı  -- yellow
@@ -4118,7 +4118,7 @@ tabak ile akşanm yemeği masanın üstünde  -- tabakla akşanm yemeği masanı
 tabak ile  -- tabakla
 tabak  -- plate
 tabii  -- naturally
-tabii  -- of course, sure, certainly
+tabii  -- of course, sure, certainly	__ tabii ki, çok park var.
 tablet bilgisayar  -- tablet pc  (tech)
 taç  -- crown
 -tadını çıkar  -- enjoy	__ hafta sonunun tadını çıkaralım.
@@ -4339,6 +4339,7 @@ tokuz  -- full	__ biz bekarız ama tokuz.
 tombiş  -- chubby	__ tombiş sever.
 ton başına  -- per ton
 top  -- ball, sphere
+top  -- cannon [< Top-endâz = ball thrower]
 -topla  -- bundle, combine, concentrate
 -topla  -- collect, gather, assemble	__ cesaretini toplayıp kızın yanına gitmiş.
 toplam  -- [in] total
@@ -4507,7 +4508,7 @@ uygulama  -- application  [computer app]  (tech)	__ cep telefonunuz için bir uy
 uygulama  -- method	__ uygulama yöntemi
 uygulama  -- practice, application, exercise, praxis
 uygulanabilir  -- feasible
-uygun  -- adequate, appropriate, best fit, convenient, favorable, suitable __ uygun mudur?
+uygun  -- adequate, appropriate, best fit, convenient, favorable, suitable	__ uygun mudur?
 uygun  -- available, free; müsait
 uygunluk  -- availability
 uygun mudur  -- is it ok, suitable?
@@ -5062,7 +5063,7 @@ v-ip durmak  -- keep doing sth all the time  (idm)	__ öksürüp duruyor.
 -karar {kararır} -- dim, dark, grow dark, clouded	__ her şey karardı.
 olumlu  -- affirmative, positive, assertive
 olumsuz  -- negative
-belirli  -- definite, concrete, ddeterminate, specific, precise
+belirli  -- definite, concrete, determinate, specific, precise
 geniş  -- general
 züppe  -- snob, dude, dandy, conceited
 -çal  -- steal; aşırmak, hırsızlık yapmak
@@ -5236,6 +5237,9 @@ haberleşiriz  -- i'll let you know  (expr)
 fark etmez  -- i don't care  (expr)
 yine bekleriz  -- come again soon  (expr)
 -doy  {doyar}  -- be filled
+-doy  -- be satiated, be full; yemek yiyerek açlığı gidermek	__ güzel bir yemek yedik ve doyduk.
+-doy  -- be satisfied, be content; bir şeye kanmak veya yeterli bulmak	__ artık bu hayata doydum, huzur istiyorum.
+-doy  -- have enough of, be fed up with; bir şeyden bıkmak veya usanmak	__ senin yalanlarına artık karnım doydu.
 -doyur  -- to fill up sth
 -şaş  -- be surprised
 -şaşır  -- surprise sby
@@ -5332,7 +5336,7 @@ tutarlı  -- consistent, coherent, noncontradictory	__ tutarlı konuşuyor.
 salak  -- dumb, fool  (slang)	__ 
 salakça  -- foolishly	__ salakça işler yapma!
 harıl harıl  -- incessantly, continuously	__ harıl harıl ders çalışmak. (idm)
-hane  -- section, digit [persian suffix] (arch)	__ hastane, pastane, dershane...
+hane  -- house, dwelling, room, factory, foundry, warehouse [persian suffix] (arch)	__ hastane, pastane, dershane...
 aylarca  -- for months	__ aylarca seni bekledim.
 nitekim  -- thus, hence, indeed, in fact; nasıl ki	__ 
 kaju fıstığı  -- cashew nuts  (fd)	-- kızartılmış kaju fıstığı.
@@ -5363,7 +5367,7 @@ eril sözcük  -- identify a specific masculine noun in a gendered language
 dişil cins  -- concept of feminie gender classification
 dişil sözcük  -- identify a specific feminine noun in a gendered language
 er  -- male, man, brave, soldier,  [root]	__ erkek
-dişi  -- female [root]  __ 
+dişi  -- female [root] 	__ 
 milliyet  -- nationality
 boşanmışım  -- i am divorced
 ~daş  -- fellow [suffix]	__ yoldaş.
@@ -5423,7 +5427,7 @@ nerde  -- where? [nerede]
 otopark  -- parking lot
 kimde  -- who has x? [on, with, at whom]	__ çocuklar kimde?
 yemekhane  -- dining hall, cafeteria, refectory, canteen
-poşet  -- chopping bag, nylon bag
+poşet  -- shopping bag, nylon bag
 kuaför  -- hairdresser, hairstylist, salon
 kalemlik  -- pencil case
 ne var?  -- what's in x?
@@ -5527,4 +5531,64 @@ duş kabini  -- shower cabin
 küvet  -- bathtub
 klozet  -- toilet
 kitaplık  -- bookcase
+itaatkar  -- submissive	__ itaatkar köleler yazsın.
+yavru  -- infant, cub, pup, baby, juvenile
+mis  -- fragrance, musk	__ hava mis gibi.
+çıtır  -- chick, gal, jail bait  (slang)	__  neyse ki hâla çıtırım.
+çıtır  -- crispy, crackling, crunchy
+prenses  -- princess, femboy  (slang)
+taşıt  -- vehicle, transport, conveyance
+bu arada  -- by the way
+ikram  -- treat, offering	__ can, jülide'ye ne ikram ediyor?
+-ikram etmek  -- offer sby sth	__ can, jülide'ye ne ikram ediyor?
+akışına  -- go with the flow  (slang)
+keyif  -- enjoyment	__ keyif eğlence sohbet arkadaşlık randevu akışına
+randevu  -- dating
+eskort  -- escort
+karşılık  -- response, return, equivalent; bir şeyin yerini tutan veya bir şeye cevap olan	__ bu iyiliğin bir karşılığı olmalı.
+para karşılığı  -- for money, in exchange for money; maddi bir kazanç uğruna yapılan iş	__ bu işi sadece para karşılığı yapıyor.
+-bedenini kiralamak  -- rent out one's body; geçimini sağlamak amacıyla cinsel hizmet vermek	__ o, bedenini kiralamayı seçti.
+-kendini satmak  -- sell oneself; onurunu veya bedenini maddi bir çıkar için feda etmek	__ para için kendini satmak acınası bir durum.
+amk  -- fuck, damn; şaşkınlık veya öfke belirten bir küfür kısaltması (slang)	__ yine geç kaldık amk.
+amına koyayım  -- fuck it; çok kaba bir küfür ve hakaret ifadesi (slang)	__ ben böyle şansın amına koyayım.
+argo  -- slang, jargon; ortak dilden ayrı, sadece belli bir topluluğa özgü dil	__ yazar eserinde sokak argosunu çok iyi kullanmış.
+konu anlatımı  -- topic explanation, topic summary
+kategori  -- category
+fıstıkçı şahap  -- consonents requiring suffixes with ta/da
+alışveriş merkezi  -- shopping mall
+emniyet  -- police station
+havaalanı  -- airport
+sıra  -- school desk
+sıra  -- grid
+zımba  -- stapler
+kalemtıraş  -- pencil sharpener
+bant  -- scotch tape
+puan  -- score	__ 1 puan üzerinden 1 puan aldınız.
+öyle mi?  -- really?
+avm  -- mall [< alışveriş merkezi]
+turistik yer  -- tourist place
+kampüs  -- campus
+reyon  -- aisle
+alışveriş arabası  -- shopping cart
+alışveriş sepeti  -- shopping basket
+mandalina  -- mandarin orange  (fd)
+karnabahar  -- cauliflower  (fd)
+marul  -- lettuce  (fd)
+tuvalet kağıdı  -- toilet paper
+şampuan  -- shampoo
+deterjan  -- detergent
+diş fırçası  -- toothbrush 
+diş macunu  -- toothpaste
+islak mendil  -- wet wipe
+kredi kartı  -- credit card
+lahana  -- cabbage, kale  (fd)
+fasülye  -- green beans, string beans  (fd)
+dondurulmuş gıdalar  -- frozen foods
+kalıp  -- block [of sth]	__ kalıp peynir.
+paket  -- package
+poğaça  -- pastry with filling  (fd)
+sen bilirsin  -- as you wish
+bedava veriyorlar  -- they give it for free
+yeter mi?  -- is it enough?
+ne olur ne olmaz  -- just in case
 
