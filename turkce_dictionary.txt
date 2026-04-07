@@ -2755,7 +2755,7 @@ kore  -- korea [country]
 koreli  -- korea [people]
 körfez  -- gulf
 körfez  -- seagull
-korkak  -- coward  [<> cesur]	__ 
+korkak  -- coward, timid, fearful [<> cesur]	__ 
 -kork  -- fear	__ korktun mu?
 -kork {korkar}  -- to be afraid of [ablat]
 korkmuş  -- scared/frightened
@@ -5591,4 +5591,35 @@ sen bilirsin  -- as you wish
 bedava veriyorlar  -- they give it for free
 yeter mi?  -- is it enough?
 ne olur ne olmaz  -- just in case
+can  -- soul, life, spirit; yaşamı sağlayan güç veya sevilen kimse	__ canım çok sıkılıyor.
+sıkıntı  -- boredom, distress, trouble; işsizlikten veya dertten doğan ruhsal yorgunluk	__ içimde büyük bir sıkıntı var.
+can sıkıntısı  -- tightening of soul [boredom]	__ can sikintim hic yok.
+umutlu  -- hopeful  [<> ]
+umutsuz  -- hopeless  [<> ]
+iyimser  -- optimist [<>  ]
+kötümser  -- pessimist
+kilolu  -- fat
+düzenli  -- tidy, organized [<> dağınık]
+dağınık  -- untidy [<> ]
+kibar  -- polite
+yaratıcı  -- creative
+eğlenceli  -- fun, entertaining
+sıcakkanlı  -- friendly
+bencil  -- selfish
+neşeli  -- cheerful
+geveze  -- chatterbox
+konuşkan  -- talkative
+yardımsever  -- helpful
+romantik  -- romantic
+karizmatik  -- charismatic
+titiz  -- neat
+kumral  -- brown-skinned, light brown hair
+sarışın  -- blonde, light-skinned
+esmer  -- dark-skinned, dark hair
+düz saçlı  -- straight-haired
+kıvırcık saçlı  -- curly-haired, nappy
+dalgalı saçlı  -- wavy-haired
+çözümü  -- solution	__ çözümü göster.
+düz  -- flat, straight, plain, smooth	__ düz saçlı
+dağınık  -- messy, untidy, disorderly [<> düzenli]
 
