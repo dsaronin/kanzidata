@@ -5635,4 +5635,5 @@ sürekli  -- always
 rahat  -- comfortable
 koltuk  -- seat
 manzara  -- landscape
+sayfada  -- page	__ altıncı sayfada ne var?
 
