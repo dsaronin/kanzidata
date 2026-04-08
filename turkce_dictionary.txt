@@ -5622,4 +5622,17 @@ dalgalı saçlı  -- wavy-haired
 çözümü  -- solution	__ çözümü göster.
 düz  -- flat, straight, plain, smooth	__ düz saçlı
 dağınık  -- messy, untidy, disorderly [<> düzenli]
+yazlık  -- summer house
+sessiz  -- quiet
+özellik  -- characteristic
+titiz  -- rigorous
+ortak  -- common
+ortak  -- joint, mutual
+kalabalık  -- crowded
+öyleyse  -- so, then, if so, well	__ peki, başlayalım öyleyse.
+-bahset  -- mention, touch on, speak of, refer	__ bana biraz kendinizden bahsedin.
+sürekli  -- always
+rahat  -- comfortable
+koltuk  -- seat
+manzara  -- landscape
 
