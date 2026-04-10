@@ -3512,5 +3512,1881 @@
         "tbd"
       ]
     ]
+  },
+  "a2_activities": {
+    "fc_data": [
+      [
+        "alışveriş arabası",
+        "shopping cart"
+      ],
+      [
+        "alışveriş sepeti",
+        "shopping basket"
+      ],
+      [
+        "ders",
+        "lesson"
+      ],
+      [
+        "eğitim",
+        "education"
+      ],
+      [
+        "iş görüşmesi",
+        "job interview"
+      ],
+      [
+        "kurs",
+        "course"
+      ],
+      [
+        "mülakat",
+        "interview [oral]"
+      ],
+      [
+        "teneffüs",
+        "recess"
+      ],
+      [
+        "market ürünleri",
+        "supermarket products"
+      ],
+      [
+        "poşet",
+        "shopping bag, nylon bag"
+      ],
+      [
+        "reyon",
+        "aisle"
+      ],
+      [
+        "salıncak",
+        "swing"
+      ],
+      [
+        "berber",
+        "barber"
+      ],
+      [
+        "bilet",
+        "ticket"
+      ],
+      [
+        "harita",
+        "map"
+      ],
+      [
+        "hemşire",
+        "nurse"
+      ],
+      [
+        "kuaför",
+        "hairdresser, hairstylist, salon"
+      ],
+      [
+        "öğrenci",
+        "student"
+      ],
+      [
+        "öğretmen",
+        "teacher"
+      ],
+      [
+        "kıyafet",
+        "apparel, clothing"
+      ],
+      [
+        "kırtasiye",
+        "stationery"
+      ]
+    ]
+  },
+  "a2_adjectives": {
+    "fc_data": [
+      [
+        "vefa",
+        "loyalty"
+      ],
+      [
+        "özellik",
+        "characteristic"
+      ],
+      [
+        "ackısız",
+        "painless"
+      ],
+      [
+        "akıllı",
+        "smart"
+      ],
+      [
+        "bekar",
+        "single"
+      ],
+      [
+        "bencil",
+        "selfish"
+      ],
+      [
+        "beyaz tenli",
+        "fair-skinned"
+      ],
+      [
+        "büyük",
+        "big"
+      ],
+      [
+        "cesur",
+        "brave"
+      ],
+      [
+        "dalgalı saçlı",
+        "wavy-haired"
+      ],
+      [
+        "dağınık",
+        "messy, untidy, disorderly"
+      ],
+      [
+        "dürüst",
+        "honest"
+      ],
+      [
+        "düz",
+        "flat, straight, plain, smooth"
+      ],
+      [
+        "düz saçlı",
+        "straight-haired"
+      ],
+      [
+        "düzenli",
+        "tidy"
+      ],
+      [
+        "enerjik",
+        "energetic"
+      ],
+      [
+        "eski",
+        "old"
+      ],
+      [
+        "esmer",
+        "brunette"
+      ],
+      [
+        "evli",
+        "married"
+      ],
+      [
+        "eğlenceli",
+        "fun"
+      ],
+      [
+        "fakir",
+        "poor"
+      ],
+      [
+        "farklı",
+        "different"
+      ],
+      [
+        "genç",
+        "young"
+      ],
+      [
+        "geveze",
+        "talkative"
+      ],
+      [
+        "güzel",
+        "beautiful"
+      ],
+      [
+        "güçlü",
+        "strong"
+      ],
+      [
+        "hasta",
+        "sick"
+      ],
+      [
+        "hızlı",
+        "fast"
+      ],
+      [
+        "indirimli",
+        "discounted"
+      ],
+      [
+        "iyi",
+        "good"
+      ],
+      [
+        "iyimser",
+        "optimistic"
+      ],
+      [
+        "kalabalık",
+        "crowded"
+      ],
+      [
+        "karışık",
+        "mixed"
+      ],
+      [
+        "kibar",
+        "polite"
+      ],
+      [
+        "kilolu",
+        "overweight"
+      ],
+      [
+        "kirli",
+        "dirty"
+      ],
+      [
+        "komik",
+        "funny"
+      ],
+      [
+        "konuşkan",
+        "talkative"
+      ],
+      [
+        "kumral",
+        "brown-haired"
+      ],
+      [
+        "kötümser",
+        "pessimistic"
+      ],
+      [
+        "küçük",
+        "small"
+      ],
+      [
+        "kısa",
+        "short"
+      ],
+      [
+        "kısa saçlı",
+        "short-haired"
+      ],
+      [
+        "kıvırcık saçlı",
+        "curly-haired, nappy"
+      ],
+      [
+        "mutlu",
+        "happy"
+      ],
+      [
+        "mutsuz",
+        "unhappy"
+      ],
+      [
+        "neşeli",
+        "cheerful"
+      ],
+      [
+        "pahalı",
+        "expensive"
+      ],
+      [
+        "rahat",
+        "comfortable"
+      ],
+      [
+        "sakin",
+        "calm"
+      ],
+      [
+        "sarışın",
+        "blonde"
+      ],
+      [
+        "sessiz",
+        "quiet"
+      ],
+      [
+        "sinirli",
+        "angry"
+      ],
+      [
+        "soğuk",
+        "cold"
+      ],
+      [
+        "süper",
+        "super"
+      ],
+      [
+        "sıcak",
+        "hot"
+      ],
+      [
+        "sıcakkanlı",
+        "friendly"
+      ],
+      [
+        "taze",
+        "fresh"
+      ],
+      [
+        "tembel",
+        "lazy"
+      ],
+      [
+        "temiz",
+        "clean"
+      ],
+      [
+        "titiz",
+        "rigorous"
+      ],
+      [
+        "turistik",
+        "touristic"
+      ],
+      [
+        "turistik yer",
+        "tourist place"
+      ],
+      [
+        "uygun",
+        "suitable"
+      ],
+      [
+        "uzak",
+        "far"
+      ],
+      [
+        "uzun",
+        "long"
+      ],
+      [
+        "uzun boylu",
+        "tall"
+      ],
+      [
+        "yavaş",
+        "slow"
+      ],
+      [
+        "yaşlı",
+        "old"
+      ],
+      [
+        "yeni",
+        "new"
+      ],
+      [
+        "yorgun",
+        "tired"
+      ],
+      [
+        "yoğun",
+        "busy"
+      ],
+      [
+        "zayıf",
+        "thin"
+      ],
+      [
+        "zeki",
+        "smart"
+      ],
+      [
+        "zengin",
+        "rich"
+      ],
+      [
+        "çirkin",
+        "ugly"
+      ],
+      [
+        "üzgün",
+        "sad"
+      ],
+      [
+        "şirin",
+        "cute"
+      ],
+      [
+        "şişman",
+        "fat"
+      ],
+      [
+        "çalışkan",
+        "hardworking"
+      ],
+      [
+        "yaratıcı",
+        "creative"
+      ],
+      [
+        "yardımsever",
+        "helpful"
+      ],
+      [
+        "yalnız",
+        "alone"
+      ],
+      [
+        "tarihi",
+        "historical"
+      ]
+    ]
+  },
+  "a2_adverbs": {
+    "fc_data": [
+      [
+        "akşamları",
+        "in the evenings"
+      ],
+      [
+        "asla",
+        "never"
+      ],
+      [
+        "bazen",
+        "sometimes"
+      ],
+      [
+        "bugün",
+        "today"
+      ],
+      [
+        "genelde",
+        "generally"
+      ],
+      [
+        "genellikle",
+        "usually"
+      ],
+      [
+        "hafta sonları",
+        "on weekends"
+      ],
+      [
+        "her akşam",
+        "every evening"
+      ],
+      [
+        "her ay",
+        "every month"
+      ],
+      [
+        "her cumartesi",
+        "every saturday"
+      ],
+      [
+        "her gün",
+        "every day"
+      ],
+      [
+        "her hafta",
+        "every week"
+      ],
+      [
+        "her sabah",
+        "every morning"
+      ],
+      [
+        "her yıl",
+        "every year"
+      ],
+      [
+        "her zaman",
+        "always"
+      ],
+      [
+        "hiç",
+        "none"
+      ],
+      [
+        "hiçbir zaman",
+        "never"
+      ],
+      [
+        "nadiren",
+        "rarely"
+      ],
+      [
+        "normalde",
+        "normally"
+      ],
+      [
+        "pazar günleri",
+        "on sundays"
+      ],
+      [
+        "şimdi",
+        "now"
+      ],
+      [
+        "şimdilik",
+        "for now"
+      ],
+      [
+        "şu anda",
+        "right now"
+      ],
+      [
+        "yarın",
+        "tomorrow"
+      ],
+      [
+        "öğleden sonra",
+        "afternoon"
+      ],
+      [
+        "sık sık",
+        "frequently"
+      ],
+      [
+        "sürekli",
+        "always"
+      ],
+      [
+        "zaman",
+        "time"
+      ]
+    ]
+  },
+  "a2_conjunctions": {
+    "fc_data": [
+      [
+        "ama",
+        "but"
+      ],
+      [
+        "ancak",
+        "however"
+      ],
+      [
+        "ayrıca",
+        "additionally"
+      ],
+      [
+        "veya",
+        "or"
+      ],
+      [
+        "ya da",
+        "or"
+      ],
+      [
+        "yani",
+        "meaning"
+      ],
+      [
+        "çünkü",
+        "because"
+      ],
+      [
+        "öyleyse",
+        "so, then, if so, well"
+      ]
+    ]
+  },
+  "a2_food": {
+    "fc_data": [
+      [
+        "ananas",
+        "pineapple"
+      ],
+      [
+        "armut",
+        "pear"
+      ],
+      [
+        "ayran",
+        "yogurt drink"
+      ],
+      [
+        "baharat",
+        "spice"
+      ],
+      [
+        "bal",
+        "honey"
+      ],
+      [
+        "balık",
+        "fish"
+      ],
+      [
+        "bezelye",
+        "peas"
+      ],
+      [
+        "biber",
+        "pepper"
+      ],
+      [
+        "cacık",
+        "tzatziki"
+      ],
+      [
+        "ceviz",
+        "walnut"
+      ],
+      [
+        "dilim",
+        "slice"
+      ],
+      [
+        "domates",
+        "tomato"
+      ],
+      [
+        "dondurulmuş",
+        "frozen"
+      ],
+      [
+        "ekmek",
+        "bread"
+      ],
+      [
+        "elma",
+        "apple"
+      ],
+      [
+        "erik",
+        "plum"
+      ],
+      [
+        "et",
+        "meat"
+      ],
+      [
+        "fasülye",
+        "beans"
+      ],
+      [
+        "fındık",
+        "hazelnut"
+      ],
+      [
+        "greyfurt",
+        "grapefruit"
+      ],
+      [
+        "gıda",
+        "food"
+      ],
+      [
+        "havuç",
+        "carrot"
+      ],
+      [
+        "ihlamur",
+        "linden"
+      ],
+      [
+        "incir",
+        "fig"
+      ],
+      [
+        "ispanak",
+        "spinach"
+      ],
+      [
+        "içecek",
+        "beverage"
+      ],
+      [
+        "kabak",
+        "zucchini"
+      ],
+      [
+        "kahvaltı",
+        "breakfast"
+      ],
+      [
+        "kahve",
+        "coffee"
+      ],
+      [
+        "karnabahar",
+        "cauliflower"
+      ],
+      [
+        "karpuz",
+        "watermelon"
+      ],
+      [
+        "kavun",
+        "melon"
+      ],
+      [
+        "kebap",
+        "kebab"
+      ],
+      [
+        "kek",
+        "cake"
+      ],
+      [
+        "kekik",
+        "thyme"
+      ],
+      [
+        "kereviz",
+        "celery"
+      ],
+      [
+        "kiraz",
+        "cherry"
+      ],
+      [
+        "kola",
+        "cola"
+      ],
+      [
+        "kuşbaşı",
+        "hash, casserole meat"
+      ],
+      [
+        "köfte",
+        "meatball"
+      ],
+      [
+        "kıyma",
+        "ground meat, hamburger"
+      ],
+      [
+        "lahana",
+        "cabbage"
+      ],
+      [
+        "lahmacun",
+        "turkish pizza"
+      ],
+      [
+        "levrek",
+        "sea bass"
+      ],
+      [
+        "limon",
+        "lemon"
+      ],
+      [
+        "limonata",
+        "lemonade"
+      ],
+      [
+        "lüfer",
+        "bluefish"
+      ],
+      [
+        "makarna",
+        "pasta"
+      ],
+      [
+        "mandalina",
+        "tangerine"
+      ],
+      [
+        "mango",
+        "mango"
+      ],
+      [
+        "mantar",
+        "mushroom"
+      ],
+      [
+        "mantı",
+        "potato dumplings"
+      ],
+      [
+        "marul",
+        "lettuce"
+      ],
+      [
+        "maydanoz",
+        "parsley"
+      ],
+      [
+        "mercimek",
+        "lentil"
+      ],
+      [
+        "meyve suyu",
+        "fruit juice"
+      ],
+      [
+        "muz",
+        "banana"
+      ],
+      [
+        "mısır",
+        "corn"
+      ],
+      [
+        "nane",
+        "mint"
+      ],
+      [
+        "nar",
+        "pomegranate"
+      ],
+      [
+        "palamut",
+        "bonito"
+      ],
+      [
+        "pasta",
+        "cake"
+      ],
+      [
+        "patates",
+        "potato"
+      ],
+      [
+        "patlıcan",
+        "eggplant"
+      ],
+      [
+        "peynir",
+        "cheese"
+      ],
+      [
+        "pilav",
+        "rice"
+      ],
+      [
+        "pizza",
+        "pizza"
+      ],
+      [
+        "portakal",
+        "orange"
+      ],
+      [
+        "portakal suyu",
+        "orange juice"
+      ],
+      [
+        "poğaça",
+        "pastry"
+      ],
+      [
+        "reçel",
+        "jam"
+      ],
+      [
+        "salata",
+        "salad"
+      ],
+      [
+        "salatalık",
+        "cucumber"
+      ],
+      [
+        "salça",
+        "tomato paste"
+      ],
+      [
+        "sardalya",
+        "sardine"
+      ],
+      [
+        "sarımsak",
+        "garlic"
+      ],
+      [
+        "sirke",
+        "vinegar"
+      ],
+      [
+        "soğan",
+        "onion"
+      ],
+      [
+        "su",
+        "water"
+      ],
+      [
+        "süt",
+        "milk"
+      ],
+      [
+        "sütlaç",
+        "rice pudding"
+      ],
+      [
+        "tarçın",
+        "cinnamon"
+      ],
+      [
+        "tavuk",
+        "chicken"
+      ],
+      [
+        "tereyağ",
+        "butter"
+      ],
+      [
+        "turp",
+        "radish"
+      ],
+      [
+        "vişne",
+        "sour cherry"
+      ],
+      [
+        "yeşil biber",
+        "green pepper"
+      ],
+      [
+        "yiyecek",
+        "food"
+      ],
+      [
+        "yoğurt",
+        "yogurt"
+      ],
+      [
+        "yumurta",
+        "egg"
+      ],
+      [
+        "zeytin",
+        "olive"
+      ],
+      [
+        "zeytinyağı",
+        "olive oil"
+      ],
+      [
+        "çay",
+        "tea"
+      ],
+      [
+        "çilek",
+        "strawberry"
+      ],
+      [
+        "çipura",
+        "sea bream"
+      ],
+      [
+        "çorba",
+        "soup"
+      ],
+      [
+        "öğle yemeği",
+        "lunch"
+      ],
+      [
+        "üzüm",
+        "grape"
+      ],
+      [
+        "şeftali",
+        "peach"
+      ],
+      [
+        "gıda listesi",
+        "food list"
+      ],
+      [
+        "pideci",
+        "pita maker"
+      ],
+      [
+        "manav",
+        "greengrocer"
+      ],
+      [
+        "karbonhidrat",
+        "carbohydrate"
+      ]
+    ]
+  },
+  "a2_grammar": {
+    "fc_data": [
+      [
+        "sıfatlar",
+        "adjectives"
+      ],
+      [
+        "mantıksal bağlayıcılar",
+        "logical connectors"
+      ],
+      [
+        "asıl sayılar",
+        "cardinal numbers"
+      ],
+      [
+        "sıra sayıları",
+        "ordinal numbers"
+      ],
+      [
+        "bağlaçlar",
+        "conjunctions"
+      ],
+      [
+        "sıklık zarfları",
+        "adverbs of frequency"
+      ],
+      [
+        "günlük ifadeler",
+        "daily expressions"
+      ],
+      [
+        "kişisel özellikler",
+        "personal characteristics"
+      ],
+      [
+        "alıştırmaları",
+        "exercises"
+      ],
+      [
+        "bulunma durum ekini",
+        "locative case suffix"
+      ],
+      [
+        "isim cümleleri",
+        "nominal sentences"
+      ],
+      [
+        "çoğul eki",
+        "plural suffix"
+      ],
+      [
+        "soru parçacığını",
+        "interrogative particle"
+      ],
+      [
+        "konu anlatımı",
+        "grammar explanation"
+      ],
+      [
+        "selamlaşma",
+        "greetings"
+      ],
+      [
+        "kendini tanıtma",
+        "self-introduction"
+      ],
+      [
+        "işaret zamirleri",
+        "demonstrative pronouns"
+      ],
+      [
+        "çoğul ekleri",
+        "plural suffixes"
+      ],
+      [
+        "çoğul işaret zamirleri",
+        "plural demonstrative pronouns"
+      ],
+      [
+        "kelime listesi",
+        "vocabulary list"
+      ]
+    ]
+  },
+  "a2_household": {
+    "fc_data": [
+      [
+        "ayna",
+        "mirror"
+      ],
+      [
+        "bardak",
+        "glass"
+      ],
+      [
+        "battaniye",
+        "blanket"
+      ],
+      [
+        "bıçak",
+        "knife"
+      ],
+      [
+        "bulaşık makinesi",
+        "dishwasher"
+      ],
+      [
+        "buzdolabı",
+        "refrigerator"
+      ],
+      [
+        "cetvel",
+        "ruler, measure"
+      ],
+      [
+        "defter",
+        "notebook"
+      ],
+      [
+        "deterjan",
+        "detergent"
+      ],
+      [
+        "diş fırçası",
+        "toothbrush"
+      ],
+      [
+        "diş macunu",
+        "toothpaste"
+      ],
+      [
+        "dolap",
+        "closet"
+      ],
+      [
+        "duş kabini",
+        "shower cabin"
+      ],
+      [
+        "fincan",
+        "cup"
+      ],
+      [
+        "fırın",
+        "oven"
+      ],
+      [
+        "gardırop",
+        "wardrobe"
+      ],
+      [
+        "halı",
+        "carpet"
+      ],
+      [
+        "havlu",
+        "towel"
+      ],
+      [
+        "islak mendil",
+        "wet wipe"
+      ],
+      [
+        "kalem",
+        "pen"
+      ],
+      [
+        "kalemlik",
+        "pencil case"
+      ],
+      [
+        "kalemtıraş",
+        "pencil sharpener"
+      ],
+      [
+        "kapı",
+        "door"
+      ],
+      [
+        "kase",
+        "bowl"
+      ],
+      [
+        "kaşık",
+        "spoon"
+      ],
+      [
+        "kitap",
+        "book"
+      ],
+      [
+        "kitaplık",
+        "bookshelf"
+      ],
+      [
+        "kağıt",
+        "paper"
+      ],
+      [
+        "klozet",
+        "toilet bowl"
+      ],
+      [
+        "koltuk",
+        "seat"
+      ],
+      [
+        "komodin",
+        "nightstand"
+      ],
+      [
+        "küvet",
+        "bathtub"
+      ],
+      [
+        "lavabo",
+        "sink"
+      ],
+      [
+        "makas",
+        "scissors"
+      ],
+      [
+        "masa",
+        "table"
+      ],
+      [
+        "pencere",
+        "window"
+      ],
+      [
+        "perde",
+        "curtain"
+      ],
+      [
+        "sabun",
+        "soap"
+      ],
+      [
+        "sandalye",
+        "chair"
+      ],
+      [
+        "sehpa",
+        "coffee table"
+      ],
+      [
+        "silgi",
+        "eraser"
+      ],
+      [
+        "sıra",
+        "desk, school desk"
+      ],
+      [
+        "tablo",
+        "painting, picture"
+      ],
+      [
+        "tahta",
+        "blackboard"
+      ],
+      [
+        "televizyon",
+        "television"
+      ],
+      [
+        "tuvalet kağıdı",
+        "toilet paper"
+      ],
+      [
+        "yastık",
+        "pillow"
+      ],
+      [
+        "yatak",
+        "bed"
+      ],
+      [
+        "yorgan",
+        "quilt"
+      ],
+      [
+        "çatal",
+        "fork"
+      ],
+      [
+        "şampuan",
+        "shampoo"
+      ],
+      [
+        "şömine",
+        "fireplace"
+      ],
+      [
+        "bant",
+        "scotch tape"
+      ],
+      [
+        "bilgisayar",
+        "computer"
+      ],
+      [
+        "zımba",
+        "stapler"
+      ],
+      [
+        "yazı tahtası",
+        "blackboard"
+      ]
+    ]
+  },
+  "a2_interrogatives": {
+    "fc_data": [
+      [
+        "kim var?",
+        "who is in x?"
+      ],
+      [
+        "kimde?",
+        "who has x?"
+      ],
+      [
+        "ne var?",
+        "what's in x?"
+      ],
+      [
+        "nerde?",
+        "where? [nerede]"
+      ]
+    ]
+  },
+  "a2_other": {
+    "fc_data": [
+      [
+        "adet",
+        "piece"
+      ],
+      [
+        "betimlemeler",
+        "descriptions"
+      ],
+      [
+        "defa",
+        "occurrence, times"
+      ],
+      [
+        "fazla",
+        "extra"
+      ],
+      [
+        "fonksiyon",
+        "function"
+      ],
+      [
+        "hanım",
+        "lady"
+      ],
+      [
+        "iyilik",
+        "goodness"
+      ],
+      [
+        "kredi kartı",
+        "credit card"
+      ],
+      [
+        "lütfen",
+        "please"
+      ],
+      [
+        "miktarlar",
+        "amounts"
+      ],
+      [
+        "motorsiklet",
+        "motocycle"
+      ],
+      [
+        "ortak",
+        "common"
+      ],
+      [
+        "puan",
+        "score"
+      ],
+      [
+        "sayfada",
+        "page"
+      ],
+      [
+        "sayilar",
+        "numbers"
+      ],
+      [
+        "sağlık",
+        "health"
+      ],
+      [
+        "seda",
+        "voice, sound"
+      ],
+      [
+        "sıfır",
+        "zero"
+      ],
+      [
+        "sıra",
+        "grid"
+      ],
+      [
+        "soyad",
+        "last name, surname"
+      ],
+      [
+        "telefon numaran",
+        "telephone number"
+      ],
+      [
+        "özet",
+        "summary, abstract, rundown"
+      ],
+      [
+        "çözümü",
+        "solution"
+      ]
+    ]
+  },
+  "a2_phrases": {
+    "fc_data": [
+      [
+        "afiyet olsun",
+        "bon appetit"
+      ],
+      [
+        "bedava veriyorlar",
+        "they give it for free"
+      ],
+      [
+        "biraz sonra",
+        "a little later"
+      ],
+      [
+        "bol şans",
+        "good luck"
+      ],
+      [
+        "bu yüzden",
+        "therefore"
+      ],
+      [
+        "doğum günün kutlu olsun",
+        "happy birthday"
+      ],
+      [
+        "geçmiş olsun",
+        "get well soon"
+      ],
+      [
+        "görüşmek üzere",
+        "see you"
+      ],
+      [
+        "hoş bulduk",
+        "glad to be here"
+      ],
+      [
+        "hoş buldum",
+        "well found [response to welcome]"
+      ],
+      [
+        "hoş geldin",
+        "welcome"
+      ],
+      [
+        "hoş geldiniz",
+        "welcome"
+      ],
+      [
+        "hoşça kal",
+        "goodbye"
+      ],
+      [
+        "hoşça kalın",
+        "goodbye"
+      ],
+      [
+        "kendine iyi bak",
+        "take care of yourself"
+      ],
+      [
+        "memnun oldum",
+        "nice to meet you"
+      ],
+      [
+        "rica ederim",
+        "you're welcome"
+      ],
+      [
+        "sen bilirsin",
+        "as you wish"
+      ],
+      [
+        "teşekkür ederim",
+        "thank you"
+      ],
+      [
+        "çok yaşa",
+        "bless you"
+      ],
+      [
+        "yeter mi?",
+        "is it enough?"
+      ],
+      [
+        "ne olur ne olmaz",
+        "just in case"
+      ],
+      [
+        "kusura bakmayın",
+        "excuse me"
+      ],
+      [
+        "kolay gelsin",
+        "may it be easy"
+      ],
+      [
+        "affedersiniz",
+        "excuse me"
+      ],
+      [
+        "buyurun",
+        "here you go"
+      ],
+      [
+        "görüşürüz",
+        "see you"
+      ],
+      [
+        "güle güle",
+        "goodbye"
+      ],
+      [
+        "günaydın",
+        "good morning"
+      ],
+      [
+        "hadi",
+        "come on"
+      ],
+      [
+        "hep beraber",
+        "all together"
+      ],
+      [
+        "iyi akşamlar",
+        "good evening"
+      ],
+      [
+        "iyi eğlenceler",
+        "have fun"
+      ],
+      [
+        "iyi geceler",
+        "good night"
+      ],
+      [
+        "iyi günler",
+        "good day"
+      ],
+      [
+        "iyi ki doğdun",
+        "happy birthday"
+      ],
+      [
+        "iyi yolculuklar",
+        "have a good trip"
+      ],
+      [
+        "iyi şanslar",
+        "good luck"
+      ],
+      [
+        "sağ ol",
+        "thank you"
+      ],
+      [
+        "sağ olun",
+        "thank you"
+      ],
+      [
+        "özür dilerim",
+        "i'm sorry"
+      ],
+      [
+        "şerefe!",
+        "cheers"
+      ],
+      [
+        "tebrikler",
+        "congratulations"
+      ],
+      [
+        "tamam",
+        "okay"
+      ],
+      [
+        "teşekkürler",
+        "thanks"
+      ],
+      [
+        "tünaydın",
+        "good afternoon"
+      ],
+      [
+        "hapşu!",
+        "sneeze (expl)"
+      ],
+      [
+        "selamlaşma",
+        "greeting"
+      ],
+      [
+        "bey",
+        "mister"
+      ],
+      [
+        "efendim",
+        "sir/madam"
+      ]
+    ]
+  },
+  "a2_place": {
+    "fc_data": [
+      [
+        "emniyet",
+        "police station"
+      ],
+      [
+        "coğrafya",
+        "geography"
+      ],
+      [
+        "alışveriş merkezi",
+        "shopping mall"
+      ],
+      [
+        "asya",
+        "asia"
+      ],
+      [
+        "avm",
+        "shopping mall"
+      ],
+      [
+        "avrupa",
+        "europe"
+      ],
+      [
+        "bahçe",
+        "garden"
+      ],
+      [
+        "balkon",
+        "balcony"
+      ],
+      [
+        "bank",
+        "bench"
+      ],
+      [
+        "banka",
+        "bank"
+      ],
+      [
+        "banyo",
+        "bathroom"
+      ],
+      [
+        "başkent",
+        "capital city"
+      ],
+      [
+        "belçika",
+        "belgium"
+      ],
+      [
+        "bina",
+        "building"
+      ],
+      [
+        "cami",
+        "mosque"
+      ],
+      [
+        "dağ",
+        "mountain"
+      ],
+      [
+        "eczane",
+        "pharmacy"
+      ],
+      [
+        "fas",
+        "morocco"
+      ],
+      [
+        "havaalanı",
+        "airport"
+      ],
+      [
+        "hastane",
+        "hospital"
+      ],
+      [
+        "isveç",
+        "sweden"
+      ],
+      [
+        "kampüs",
+        "campus"
+      ],
+      [
+        "kantin",
+        "canteen"
+      ],
+      [
+        "kapalı çarşı",
+        "grand bazaar"
+      ],
+      [
+        "karakol",
+        "police station"
+      ],
+      [
+        "kilise",
+        "church"
+      ],
+      [
+        "kütüphane",
+        "library"
+      ],
+      [
+        "lokanta",
+        "restaurant"
+      ],
+      [
+        "mağaza",
+        "store"
+      ],
+      [
+        "market",
+        "supermarket"
+      ],
+      [
+        "mutfak",
+        "kitchen"
+      ],
+      [
+        "müze",
+        "museum"
+      ],
+      [
+        "oda",
+        "room"
+      ],
+      [
+        "okul",
+        "school"
+      ],
+      [
+        "orman",
+        "forest"
+      ],
+      [
+        "orta okul",
+        "middle school"
+      ],
+      [
+        "otopark",
+        "parking lot"
+      ],
+      [
+        "oturma odası",
+        "living room"
+      ],
+      [
+        "park",
+        "park"
+      ],
+      [
+        "pastane",
+        "patisserie"
+      ],
+      [
+        "postane",
+        "post office"
+      ],
+      [
+        "restoran",
+        "restaurant"
+      ],
+      [
+        "sahil",
+        "coast"
+      ],
+      [
+        "semt",
+        "neighborhood"
+      ],
+      [
+        "sinema",
+        "cinema"
+      ],
+      [
+        "sokak",
+        "street"
+      ],
+      [
+        "spor salonu",
+        "gym"
+      ],
+      [
+        "suriye",
+        "syria"
+      ],
+      [
+        "sınıf",
+        "class"
+      ],
+      [
+        "sınır",
+        "border"
+      ],
+      [
+        "tiyatro",
+        "theater"
+      ],
+      [
+        "tuvalet",
+        "toilet"
+      ],
+      [
+        "üniversite",
+        "university"
+      ],
+      [
+        "yatak odası",
+        "bedroom"
+      ],
+      [
+        "yazlık",
+        "summer house"
+      ],
+      [
+        "yemekhane",
+        "dining hall"
+      ],
+      [
+        "yer",
+        "place"
+      ],
+      [
+        "şehir",
+        "city"
+      ],
+      [
+        "kule",
+        "tower"
+      ],
+      [
+        "köprü",
+        "bridge"
+      ],
+      [
+        "manzara",
+        "landscape"
+      ]
+    ]
   }
 }

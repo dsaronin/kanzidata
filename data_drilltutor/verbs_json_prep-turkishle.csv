@@ -1,0 +1,459 @@
+TOPIC,Türkçe,English
+a2_activities,alışveriş arabası,shopping cart
+a2_activities,alışveriş sepeti,shopping basket
+a2_activities,ders,lesson
+a2_activities,eğitim,education
+a2_activities,iş görüşmesi,job interview
+a2_activities,kurs,course
+a2_activities,mülakat,interview [oral]
+a2_activities,teneffüs,recess
+a2_activities,market ürünleri,supermarket products
+a2_activities,poşet,"shopping bag, nylon bag"
+a2_activities,reyon,aisle
+a2_activities,salıncak,swing
+a2_activities,berber,barber
+a2_activities,bilet,ticket
+a2_activities,harita,map
+a2_activities,hemşire,nurse
+a2_activities,kuaför,"hairdresser, hairstylist, salon"
+a2_activities,öğrenci,student
+a2_activities,öğretmen,teacher
+a2_activities,kıyafet,"apparel, clothing"
+a2_activities,kırtasiye,stationery
+a2_adjectives,vefa,loyalty
+a2_adjectives,özellik,characteristic
+a2_adjectives,ackısız,painless
+a2_adjectives,akıllı,smart
+a2_adjectives,bekar,single
+a2_adjectives,bencil,selfish
+a2_adjectives,beyaz tenli,fair-skinned
+a2_adjectives,büyük,big
+a2_adjectives,cesur,brave
+a2_adjectives,dalgalı saçlı,wavy-haired
+a2_adjectives,dağınık,"messy, untidy, disorderly"
+a2_adjectives,dürüst,honest
+a2_adjectives,düz,"flat, straight, plain, smooth"
+a2_adjectives,düz saçlı,straight-haired
+a2_adjectives,düzenli,tidy
+a2_adjectives,enerjik,energetic
+a2_adjectives,eski,old
+a2_adjectives,esmer,brunette
+a2_adjectives,evli,married
+a2_adjectives,eğlenceli,fun
+a2_adjectives,fakir,poor
+a2_adjectives,farklı,different
+a2_adjectives,genç,young
+a2_adjectives,geveze,talkative
+a2_adjectives,güzel,beautiful
+a2_adjectives,güçlü,strong
+a2_adjectives,hasta,sick
+a2_adjectives,hızlı,fast
+a2_adjectives,indirimli,discounted
+a2_adjectives,iyi,good
+a2_adjectives,iyimser,optimistic
+a2_adjectives,kalabalık,crowded
+a2_adjectives,karışık,mixed
+a2_adjectives,kibar,polite
+a2_adjectives,kilolu,overweight
+a2_adjectives,kirli,dirty
+a2_adjectives,komik,funny
+a2_adjectives,konuşkan,talkative
+a2_adjectives,kumral,brown-haired
+a2_adjectives,kötümser,pessimistic
+a2_adjectives,küçük,small
+a2_adjectives,kısa,short
+a2_adjectives,kısa saçlı,short-haired
+a2_adjectives,kıvırcık saçlı,"curly-haired, nappy"
+a2_adjectives,mutlu,happy
+a2_adjectives,mutsuz,unhappy
+a2_adjectives,neşeli,cheerful
+a2_adjectives,pahalı,expensive
+a2_adjectives,rahat,comfortable
+a2_adjectives,sakin,calm
+a2_adjectives,sarışın,blonde
+a2_adjectives,sessiz,quiet
+a2_adjectives,sinirli,angry
+a2_adjectives,soğuk,cold
+a2_adjectives,süper,super
+a2_adjectives,sıcak,hot
+a2_adjectives,sıcakkanlı,friendly
+a2_adjectives,taze,fresh
+a2_adjectives,tembel,lazy
+a2_adjectives,temiz,clean
+a2_adjectives,titiz,rigorous
+a2_adjectives,turistik,touristic
+a2_adjectives,turistik yer,tourist place
+a2_adjectives,uygun,suitable
+a2_adjectives,uzak,far
+a2_adjectives,uzun,long
+a2_adjectives,uzun boylu,tall
+a2_adjectives,yavaş,slow
+a2_adjectives,yaşlı,old
+a2_adjectives,yeni,new
+a2_adjectives,yorgun,tired
+a2_adjectives,yoğun,busy
+a2_adjectives,zayıf,thin
+a2_adjectives,zeki,smart
+a2_adjectives,zengin,rich
+a2_adjectives,çirkin,ugly
+a2_adjectives,üzgün,sad
+a2_adjectives,şirin,cute
+a2_adjectives,şişman,fat
+a2_adjectives,çalışkan,hardworking
+a2_adjectives,yaratıcı,creative
+a2_adjectives,yardımsever,helpful
+a2_adjectives,yalnız,alone
+a2_adjectives,tarihi,historical
+a2_adverbs,akşamları,in the evenings
+a2_adverbs,asla,never
+a2_adverbs,bazen,sometimes
+a2_adverbs,bugün,today
+a2_adverbs,genelde,generally
+a2_adverbs,genellikle,usually
+a2_adverbs,hafta sonları,on weekends
+a2_adverbs,her akşam,every evening
+a2_adverbs,her ay,every month
+a2_adverbs,her cumartesi,every saturday
+a2_adverbs,her gün,every day
+a2_adverbs,her hafta,every week
+a2_adverbs,her sabah,every morning
+a2_adverbs,her yıl,every year
+a2_adverbs,her zaman,always
+a2_adverbs,hiç,none
+a2_adverbs,hiçbir zaman,never
+a2_adverbs,nadiren,rarely
+a2_adverbs,normalde,normally
+a2_adverbs,pazar günleri,on sundays
+a2_adverbs,şimdi,now
+a2_adverbs,şimdilik,for now
+a2_adverbs,şu anda,right now
+a2_adverbs,yarın,tomorrow
+a2_adverbs,öğleden sonra,afternoon
+a2_adverbs,sık sık,frequently
+a2_adverbs,sürekli,always
+a2_adverbs,zaman,time
+a2_conjunctions,ama,but
+a2_conjunctions,ancak,however
+a2_conjunctions,ayrıca,additionally
+a2_conjunctions,veya,or
+a2_conjunctions,ya da,or
+a2_conjunctions,yani,meaning
+a2_conjunctions,çünkü,because
+a2_conjunctions,öyleyse,"so, then, if so, well"
+a2_food,ananas,pineapple
+a2_food,armut,pear
+a2_food,ayran,yogurt drink
+a2_food,baharat,spice
+a2_food,bal,honey
+a2_food,balık,fish
+a2_food,bezelye,peas
+a2_food,biber,pepper
+a2_food,cacık,tzatziki
+a2_food,ceviz,walnut
+a2_food,dilim,slice
+a2_food,domates,tomato
+a2_food,dondurulmuş,frozen
+a2_food,ekmek,bread
+a2_food,elma,apple
+a2_food,erik,plum
+a2_food,et,meat
+a2_food,fasülye,beans
+a2_food,fındık,hazelnut
+a2_food,greyfurt,grapefruit
+a2_food,gıda,food
+a2_food,havuç,carrot
+a2_food,ihlamur,linden
+a2_food,incir,fig
+a2_food,ispanak,spinach
+a2_food,içecek,beverage
+a2_food,kabak,zucchini
+a2_food,kahvaltı,breakfast
+a2_food,kahve,coffee
+a2_food,karnabahar,cauliflower
+a2_food,karpuz,watermelon
+a2_food,kavun,melon
+a2_food,kebap,kebab
+a2_food,kek,cake
+a2_food,kekik,thyme
+a2_food,kereviz,celery
+a2_food,kiraz,cherry
+a2_food,kola,cola
+a2_food,kuşbaşı,"hash, casserole meat"
+a2_food,köfte,meatball
+a2_food,kıyma,"ground meat, hamburger"
+a2_food,lahana,cabbage
+a2_food,lahmacun,turkish pizza
+a2_food,levrek,sea bass
+a2_food,limon,lemon
+a2_food,limonata,lemonade
+a2_food,lüfer,bluefish
+a2_food,makarna,pasta
+a2_food,mandalina,tangerine
+a2_food,mango,mango
+a2_food,mantar,mushroom
+a2_food,mantı,potato dumplings
+a2_food,marul,lettuce
+a2_food,maydanoz,parsley
+a2_food,mercimek,lentil
+a2_food,meyve suyu,fruit juice
+a2_food,muz,banana
+a2_food,mısır,corn
+a2_food,nane,mint
+a2_food,nar,pomegranate
+a2_food,palamut,bonito
+a2_food,pasta,cake
+a2_food,patates,potato
+a2_food,patlıcan,eggplant
+a2_food,peynir,cheese
+a2_food,pilav,rice
+a2_food,pizza,pizza
+a2_food,portakal,orange
+a2_food,portakal suyu,orange juice
+a2_food,poğaça,pastry
+a2_food,reçel,jam
+a2_food,salata,salad
+a2_food,salatalık,cucumber
+a2_food,salça,tomato paste
+a2_food,sardalya,sardine
+a2_food,sarımsak,garlic
+a2_food,sirke,vinegar
+a2_food,soğan,onion
+a2_food,su,water
+a2_food,süt,milk
+a2_food,sütlaç,rice pudding
+a2_food,tarçın,cinnamon
+a2_food,tavuk,chicken
+a2_food,tereyağ,butter
+a2_food,turp,radish
+a2_food,vişne,sour cherry
+a2_food,yeşil biber,green pepper
+a2_food,yiyecek,food
+a2_food,yoğurt,yogurt
+a2_food,yumurta,egg
+a2_food,zeytin,olive
+a2_food,zeytinyağı,olive oil
+a2_food,çay,tea
+a2_food,çilek,strawberry
+a2_food,çipura,sea bream
+a2_food,çorba,soup
+a2_food,öğle yemeği,lunch
+a2_food,üzüm,grape
+a2_food,şeftali,peach
+a2_food,gıda listesi,food list
+a2_food,pideci,pita maker
+a2_food,manav,greengrocer
+a2_food,karbonhidrat,carbohydrate
+a2_grammar,sıfatlar,adjectives
+a2_grammar,mantıksal bağlayıcılar,logical connectors
+a2_grammar,asıl sayılar,cardinal numbers
+a2_grammar,sıra sayıları,ordinal numbers
+a2_grammar,bağlaçlar,conjunctions
+a2_grammar,sıklık zarfları,adverbs of frequency
+a2_grammar,günlük ifadeler,daily expressions
+a2_grammar,kişisel özellikler,personal characteristics
+a2_grammar,alıştırmaları,exercises
+a2_grammar,bulunma durum ekini,locative case suffix
+a2_grammar,isim cümleleri,nominal sentences
+a2_grammar,çoğul eki,plural suffix
+a2_grammar,soru parçacığını,interrogative particle
+a2_grammar,konu anlatımı,grammar explanation
+a2_grammar,selamlaşma,greetings
+a2_grammar,kendini tanıtma,self-introduction
+a2_grammar,işaret zamirleri,demonstrative pronouns
+a2_grammar,çoğul ekleri,plural suffixes
+a2_grammar,çoğul işaret zamirleri,plural demonstrative pronouns
+a2_grammar,kelime listesi,vocabulary list
+a2_household,ayna,mirror
+a2_household,bardak,glass
+a2_household,battaniye,blanket
+a2_household,bıçak,knife
+a2_household,bulaşık makinesi,dishwasher
+a2_household,buzdolabı,refrigerator
+a2_household,cetvel,"ruler, measure"
+a2_household,defter,notebook
+a2_household,deterjan,detergent
+a2_household,diş fırçası,toothbrush
+a2_household,diş macunu,toothpaste
+a2_household,dolap,closet
+a2_household,duş kabini,shower cabin
+a2_household,fincan,cup
+a2_household,fırın,oven
+a2_household,gardırop,wardrobe
+a2_household,halı,carpet
+a2_household,havlu,towel
+a2_household,islak mendil,wet wipe
+a2_household,kalem,pen
+a2_household,kalemlik,pencil case
+a2_household,kalemtıraş,pencil sharpener
+a2_household,kapı,door
+a2_household,kase,bowl
+a2_household,kaşık,spoon
+a2_household,kitap,book
+a2_household,kitaplık,bookshelf
+a2_household,kağıt,paper
+a2_household,klozet,toilet bowl
+a2_household,koltuk,seat
+a2_household,komodin,nightstand
+a2_household,küvet,bathtub
+a2_household,lavabo,sink
+a2_household,makas,scissors
+a2_household,masa,table
+a2_household,pencere,window
+a2_household,perde,curtain
+a2_household,sabun,soap
+a2_household,sandalye,chair
+a2_household,sehpa,coffee table
+a2_household,silgi,eraser
+a2_household,sıra,"desk, school desk"
+a2_household,tablo,"painting, picture"
+a2_household,tahta,blackboard
+a2_household,televizyon,television
+a2_household,tuvalet kağıdı,toilet paper
+a2_household,yastık,pillow
+a2_household,yatak,bed
+a2_household,yorgan,quilt
+a2_household,çatal,fork
+a2_household,şampuan,shampoo
+a2_household,şömine,fireplace
+a2_household,bant,scotch tape
+a2_household,bilgisayar,computer
+a2_household,zımba,stapler
+a2_household,yazı tahtası,blackboard
+a2_interrogatives,kim var?,who is in x?
+a2_interrogatives,kimde?,who has x?
+a2_interrogatives,ne var?,what's in x?
+a2_interrogatives,nerde?,where? [nerede]
+a2_other,adet,piece
+a2_other,betimlemeler,descriptions
+a2_other,defa,"occurrence, times"
+a2_other,fazla,extra
+a2_other,fonksiyon,function
+a2_other,hanım,lady
+a2_other,iyilik,goodness
+a2_other,kredi kartı,credit card
+a2_other,lütfen,please
+a2_other,miktarlar,amounts
+a2_other,motorsiklet,motocycle
+a2_other,ortak,common
+a2_other,puan,score
+a2_other,sayfada,page
+a2_other,sayilar,numbers
+a2_other,sağlık,health
+a2_other,seda,"voice, sound"
+a2_other,sıfır,zero
+a2_other,sıra,grid
+a2_other,soyad,"last name, surname"
+a2_other,telefon numaran,telephone number
+a2_other,özet,"summary, abstract, rundown"
+a2_other,çözümü,solution
+a2_phrases,afiyet olsun,bon appetit
+a2_phrases,bedava veriyorlar,they give it for free
+a2_phrases,biraz sonra,a little later
+a2_phrases,bol şans,good luck
+a2_phrases,bu yüzden,therefore
+a2_phrases,doğum günün kutlu olsun,happy birthday
+a2_phrases,geçmiş olsun,get well soon
+a2_phrases,görüşmek üzere,see you
+a2_phrases,hoş bulduk,glad to be here
+a2_phrases,hoş buldum,well found [response to welcome]
+a2_phrases,hoş geldin,welcome
+a2_phrases,hoş geldiniz,welcome
+a2_phrases,hoşça kal,goodbye
+a2_phrases,hoşça kalın,goodbye
+a2_phrases,kendine iyi bak,take care of yourself
+a2_phrases,memnun oldum,nice to meet you
+a2_phrases,rica ederim,you're welcome
+a2_phrases,sen bilirsin,as you wish
+a2_phrases,teşekkür ederim,thank you
+a2_phrases,çok yaşa,bless you
+a2_phrases,yeter mi?,is it enough?
+a2_phrases,ne olur ne olmaz,just in case
+a2_phrases,kusura bakmayın,excuse me
+a2_phrases,kolay gelsin,may it be easy
+a2_phrases,affedersiniz,excuse me
+a2_phrases,buyurun,here you go
+a2_phrases,görüşürüz,see you
+a2_phrases,güle güle,goodbye
+a2_phrases,günaydın,good morning
+a2_phrases,hadi,come on
+a2_phrases,hep beraber,all together
+a2_phrases,iyi akşamlar,good evening
+a2_phrases,iyi eğlenceler,have fun
+a2_phrases,iyi geceler,good night
+a2_phrases,iyi günler,good day
+a2_phrases,iyi ki doğdun,happy birthday
+a2_phrases,iyi yolculuklar,have a good trip
+a2_phrases,iyi şanslar,good luck
+a2_phrases,sağ ol,thank you
+a2_phrases,sağ olun,thank you
+a2_phrases,özür dilerim,i'm sorry
+a2_phrases,şerefe!,cheers
+a2_phrases,tebrikler,congratulations
+a2_phrases,tamam,okay
+a2_phrases,teşekkürler,thanks
+a2_phrases,tünaydın,good afternoon
+a2_phrases,hapşu!,sneeze (expl)
+a2_phrases,selamlaşma,greeting
+a2_phrases,bey,mister
+a2_phrases,efendim,sir/madam
+a2_place,emniyet,police station
+a2_place,coğrafya,geography
+a2_place,alışveriş merkezi,shopping mall
+a2_place,asya,asia
+a2_place,avm,shopping mall
+a2_place,avrupa,europe
+a2_place,bahçe,garden
+a2_place,balkon,balcony
+a2_place,bank,bench
+a2_place,banka,bank
+a2_place,banyo,bathroom
+a2_place,başkent,capital city
+a2_place,belçika,belgium
+a2_place,bina,building
+a2_place,cami,mosque
+a2_place,dağ,mountain
+a2_place,eczane,pharmacy
+a2_place,fas,morocco
+a2_place,havaalanı,airport
+a2_place,hastane,hospital
+a2_place,isveç,sweden
+a2_place,kampüs,campus
+a2_place,kantin,canteen
+a2_place,kapalı çarşı,grand bazaar
+a2_place,karakol,police station
+a2_place,kilise,church
+a2_place,kütüphane,library
+a2_place,lokanta,restaurant
+a2_place,mağaza,store
+a2_place,market,supermarket
+a2_place,mutfak,kitchen
+a2_place,müze,museum
+a2_place,oda,room
+a2_place,okul,school
+a2_place,orman,forest
+a2_place,orta okul,middle school
+a2_place,otopark,parking lot
+a2_place,oturma odası,living room
+a2_place,park,park
+a2_place,pastane,patisserie
+a2_place,postane,post office
+a2_place,restoran,restaurant
+a2_place,sahil,coast
+a2_place,semt,neighborhood
+a2_place,sinema,cinema
+a2_place,sokak,street
+a2_place,spor salonu,gym
+a2_place,suriye,syria
+a2_place,sınıf,class
+a2_place,sınır,border
+a2_place,tiyatro,theater
+a2_place,tuvalet,toilet
+a2_place,üniversite,university
+a2_place,yatak odası,bedroom
+a2_place,yazlık,summer house
+a2_place,yemekhane,dining hall
+a2_place,yer,place
+a2_place,şehir,city
+a2_place,kule,tower
+a2_place,köprü,bridge
+a2_place,manzara,landscape
