@@ -1,0 +1,158 @@
+TOPIC,Türkçe,English,fatashi
+a4a_adjective,ciddi,serious,
+a4a_adjective,kocaman,huge,
+a4a_adjective,aynı,same,
+a4a_adjective,dağınık,messy,f
+a4a_adjective,geniş,"wide, vast",
+a4a_adjective,kalabalık,crowded,
+a4a_adjective,pahalı,expensive,
+a4a_adjective,yüksek,high value,
+a4a_adjective,önemli,important,
+a4a_adjective,şık,"elegant, chic",f
+a4a_adverb,artık,anymore,
+a4a_adverb,beraber,together with,
+a4a_adverb,bütün,all,
+a4a_adverb,hakkında,"about, regarding",
+a4a_adverb,hızlı,fast,
+a4a_adverb,uzak,far,
+a4a_conjunction,sanırım,i guess...,
+a4a_conjunction,bak,"lo, now",f
+a4a_conjunction,çünkü,because,
+a4a_food,kek,"cake, muffin",
+a4a_food,yemek,food,
+a4a_grammar,iyelik,possessive,
+a4a_grammar,sahiplik ekleri,possessive suffix,
+a4a_grammar,sahiplik sıftarı,possessive adjective,
+a4a_health,ateş,fever,
+a4a_health,göz,eye,
+a4a_health,gözlük,eyeglasses,
+a4a_health,koku,"smelll, scent",
+a4a_health,tarak,"comb, brush",
+a4a_household,ayakkabı,shoe,
+a4a_household,ayrı oda,separate room,
+a4a_household,ayuncak,toy,
+a4a_household,kat,floor,
+a4a_household,valiz,suitcase,f
+a4a_household,ütü,iron [ironing],
+a4a_nature,at,horse,
+a4a_nature,gövde,tree trunk,
+a4a_nature,gül,rose flower,
+a4a_nature,sap,stem,
+a4a_nature,yılan,snake,
+a4a_other,albüm,album,f
+a4a_other,arnavut,albania,f
+a4a_other,barut,powder,
+a4a_other,dergi,magazine,f
+a4a_other,dosya,file,
+a4a_other,fiyat,price,
+a4a_other,havuz,swimming pool,
+a4a_other,konser,concert,f
+a4a_other,kulaklık,headphones,
+a4a_other,melek,angel,
+a4a_other,mesaj,text msg,
+a4a_other,not,"marks, grades",
+a4a_other,pembe,pink,
+a4a_other,tek,only one,
+a4a_other,uygun,appropriate,
+a4a_other,yarı,half,f
+a4a_other,yat,yacht,
+a4a_other,ziyaret,visit,
+a4a_other,ülke,country,
+a4a_other,şarj,charger,f
+a4a_people,abi,older brother,
+a4a_people,abla,older sister,
+a4a_people,akraba,relatives,
+a4a_people,amca,uncle (father's bro),
+a4a_people,anne tarafı,mother's side,f
+a4a_people,anneanne,mother's mother,
+a4a_people,ağabey,elder brother,
+a4a_people,baba tarafı,father's side,f
+a4a_people,babaanne,father's mother,
+a4a_people,dayı,uncle (mother's bro),
+a4a_people,dede,father's father,
+a4a_people,enişte,aunt's husband,
+a4a_people,enişte,in-law bro/sis,f
+a4a_people,erkek kardeş,brother,
+a4a_people,evlat,"child, offspring",
+a4a_people,eş,spouse,
+a4a_people,hala,aunt (father's sis),
+a4a_people,hala,aunt,
+a4a_people,karı,wife,
+a4a_people,koca,husband,
+a4a_people,komşu,neighbor,
+a4a_people,kuzen,cousin,
+a4a_people,kız kardeş,sister,
+a4a_people,müdür,"director, manager",
+a4a_people,soy ağacını,family tree,
+a4a_people,takipçi,follower,f
+a4a_people,teyze,aunt (mother's sis),
+a4a_people,torun,grandchild,
+a4a_people,yenge,uncle's wife,f
+a4a_people,yeğen,niece/nephew,
+a4a_phrase,aşağıdaki,the following...,
+a4a_phrase,ciddi misin?,are you serious?,
+a4a_phrase,sorma ya,don't ask,f
+a4a_phrase,doğru tabii,right,
+a4a_phrase,tabii ki,of course,f
+a4a_phrase,öyle mi?,oh really?,
+a4a_verb,-bak,"look at, check on",
+a4a_verb,-doğ,born,
+a4a_verb,-göster,show,
+a4a_verb,-konuş,"converse, talk",
+a4a_verb,-test etmek,test sby,f
+a4a_verb,-yakış,"looks good on, suits",f
+a4b_adjective,antik,ancient,f
+a4b_adjective,dolu,full,
+a4b_adjective,heyecanlı,"excited, thrilling",f
+a4b_adjective,meşhur,famous,
+a4b_adjective,sıcakkanlı,warmblooded,f
+a4b_adjective,yaygın,"common, widespread",
+a4b_adverb,orta,middle,
+a4b_adverb,hep ,always,
+a4b_adverb,hepsi,all of ...,
+a4b_adverb,neler,what,
+a4b_food,kızartma,"fritter, fried food",f
+a4b_grammar,dönüşlü zamirler,reflexive pronouns,
+a4b_health,kafam,head,f
+a4b_household,evin işleri,house chores,
+a4b_nature,doğa,nature,
+a4b_nature,kış,winter,
+a4b_nature,mevsim,season,
+a4b_nature,sonbahar,autumn,
+a4b_nature,ilkbahar,spring,
+a4b_other,diller,languages,
+a4b_other,farklı,different,
+a4b_other,kent,city,
+a4b_other,kontenjan,quota,f
+a4b_other,milliyet,nationality,
+a4b_other,sorun,problem,
+a4b_other,tarih,history,
+a4b_other,tatil,vacation,
+a4b_other,yarın,tomorrow,
+a4b_other,ülke isimleri ,country names,
+a4b_people,all of us,hepimiz,
+a4b_people,ev arkadaşı,roommate,
+a4b_people,kendi,self,
+a4b_people,kişilik,"personality, identify, character",f
+a4b_people,yalnız,alone,
+a4b_phrase,bu yüzden,that is why,f
+a4b_phrase,kendi kendime,on my own [dative],
+a4b_phrase,ne? inanmıyorum,what? i don't believe it,
+a4b_verb,-dön,"return, turn",
+a4b_verb,-düşün,think,
+a4b_verb,-görme,"pass over, omit",f
+a4b_verb,-hallet,"handle, manage",f
+a4b_verb,-izle,watch,
+a4b_verb,-kal,"remain, stay at",
+a4b_verb,-konuş,speak,
+a4b_verb,-oyn,play,
+a4b_verb,-sürükle,"drag, haul, tow",
+a4b_verb,-temizli,clean,
+a4b_verb,-utan,"shy, be ashamed",
+a4b_verb,-yap,do,
+a4b_verb,-yardım istemek,want help,
+a4b_verb,-yemek yapmak,"cook [for, to]",
+a4b_verb,-ziyaret etmek,travel smw,
+a4b_verb,-çalış,work,
+a4b_verb,-özür dilemek,apologize,
+a4b_verb,-öğren,"learn, study",
