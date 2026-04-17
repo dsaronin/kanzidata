@@ -347,6 +347,7 @@ ayak bileği  -- ankle
 ayakkabı  -- shoe
 ayak parmağı  -- toe
 -ayarla  -- adjust, calibrate, tune in, gauge, set	__ 
+-ayarla  -- tighten, set [belt]
 ayarlama  -- adjustment, calibration, tuning
 ayarları  -- settings  (tech)	__ dil ayarları.
 ayı  -- bear
@@ -407,6 +408,7 @@ bağırsak  -- bowel
 -bağır  -- shout, scream, bellow, roar, bark at, holler	__ bağırmayan bir arkadaş istiyorum, lütfen!
 bağlaç  -- conjunction, connective, paperclip
 -bağlan  -- adhere, attach. fasten, hitch
+-bağla  --  attach, connect, link, fasten, tie
 -bağlan  -- connect, join	__ yeniden bağlanmaya çalışıyor.
 bağlan  -- connect  (tech)
 bağlantı  -- link, connection  (tech)	__ dosyaları bir bağlantı aracılığıyla paylaşın.
@@ -866,6 +868,7 @@ cankurtaran  -- lifeguard
 canlı  -- alive, lively, racy, spry, vivid, active, brisk	__ çok harika yerler var gel, birinde canlı canlı görmen ister.
 can  -- life
 canlı  -- live [tv, radio]	__ canlı izle
+canlı  -- vibrant	__ canlı renkler.
 can  -- spirit/life	__ canım çilek yemek istiyor. bir kedinin dokuz canı vardır.
 çanta  -- purse, bag
 çantası  -- handbag
@@ -1384,7 +1387,7 @@ ekipman  -- equipment	__ kişisel koruyucu ekipmanı sağlanmaktadirn.
 eklem ağrısı  -- joint pain
 eklem  -- joint
 ekleyen  -- added
-ekmek  -- bread, loaf of bread
+ekmek  -- bread, loaf of bread  (fd)
 ekonomi  -- economy	__ ülkenin ekonomisi cok kötü.
 ekran  -- screen, display, monitor  (tech)
 ekran  -- screen  (tech)
@@ -1393,7 +1396,7 @@ eksik  -- few; az
 eksik  -- İhtiyaç duyulan şey
 eksik  -- missing
 eksik  -- missing, incomplete, flawed, imperfect	__ bu kitap eksik, baş tarafı yok.
-ekşi mayalı  -- sourdough	__ 
+ekşi mayalı  -- sourdough  (fd)	__ ekşi mayalı ekmek.
 ekstra  -- extra
 ek  -- suffix	__ l-ekinin mahiyeti açık değildir.
 elbette  -- of course
@@ -2566,7 +2569,6 @@ kelime  -- word
 keman  -- violin
 kemek  -- bone
 kemer  -- belt
-kemer  -- belt
 kemik  -- bone
 kenar  -- edge of, alongside
 kendi başıma  -- alone, by oneself	__ ben kendi başıma sinemaya gidecektim.
@@ -3499,7 +3501,7 @@ peru  -- peru [country]
 pervane  -- propeller, fan
 peşindena  -- after	__ böyle bana alışkın ben bakıyorum peşinden geliyor.
 peştemal  -- hamam towel
-petek  -- honeycomb
+petek  -- honeycomb	__ petek doku.
 peynir  -- cheese
 peyzaj  -- landscape
 pide  -- pita bread  (fd)
@@ -3704,7 +3706,6 @@ santi  -- centimeter	__ boyun yüz seksen santim.
 -şantiye olmak  -- become a construction site
 saol  -- thanks [< sağol] (slang)
 sapık  -- pervert
-şapka  -- cap
 şapka  -- cap [bottle]
 şapka  -- cap, hat
 -şaplak at  -- slap, smack, spank	__ kıçıma şaplak atacak mısın?
@@ -3716,7 +3717,6 @@ sap  -- stem, handle, stalk, shaft
 saray  -- palace
 -sarıl  -- hug, cuddle, cling, snuggle	__ sarılıp uyuyalım.
 sarımsak  -- garlic  (fd)
-sarışın  -- blond
 sarı  -- yellow
 şarkıcı  -- singer
 şarkı  -- song
@@ -4137,7 +4137,7 @@ takdir  -- discretion
 -takdir etmek  -- admire sby	__  planlı programlı ilerlemeni takdir ediyorum.
 takı  -- jewelry 
 -takıl  -- be attached, affixed, stuck	__  uçurmasının ağaca takıldığını söylemiş.
--takıl  -- hang out, hook up 	__  takılma isteyenler yazsın. sohbet edecek takılacaklar yazsın.
+-takıl  -- hang out, hook up  (slang) 	__  takılma isteyenler yazsın. sohbet edecek takılacaklar yazsın.
 takılmaca  -- teasing
 -takıl  -- tease, josh, banter
 takım elbise  -- mens suit
@@ -4273,7 +4273,7 @@ temiz  -- clean; [<> kirli]	__ onun odası hiç temiz değil. temiz hava.
 -temizlen  -- to be made clean
 -temizle  -- to make clean [< temiz]	__ masayı temizlemek.
 -temizle  -- clear	__ ayarları temizle.
-temizlik  -- cleanliness	__ temizlik en buyuk istegim.
+temizlik  -- cleaning, cleanliness	__ temizlik en buyuk istegim.
 temizlik görevlisi  -- cleaning staff
 temmuz  -- july [ayı]
 tempo  -- tempo	__ hızlı tempolu olacak.
@@ -4785,7 +4785,6 @@ yaz tatili  -- summer vacation
 -yaz {yazar}  -- to write	__ onlar kitabı yazarlar.
 yedek  -- reserve, spare, replacement, refill	__ yedek maske.
 yedi  -- seven, 7
--ye  -- eat
 yeğen  -- niece, nephew
 yelek  -- vest
 yelkenli  -- sailboat
@@ -4834,7 +4833,7 @@ yetişkin  -- adult
 -yetiştiril  -- be raised, upbringing	__ çocukların sağlıklı gelişip yetiştirilmeleri benimsenmiştir.
 yetkili  -- authorized, competent, authoritative, qualified; izinli
 yetmiş  -- seventy, 70
--ye {yer}  -- to eat
+-ye {yer}  -- eat sth
 -yıkan {yıkanır}  -- to be washed	__ bulaşıklar yıkandı.
 -yıka {yıkar}  -- to wash sby sth, launder, scrub, clean	__ yüz, çatal, kaşık, el yıkamak. kaşığım kirlendiğinde onu yıkarım.
 yılan  -- snake
@@ -5560,7 +5559,8 @@ konu anlatımı  -- topic explanation, topic summary
 kategori  -- category
 fıstıkçı şahap  -- consonents requiring suffixes with ta/da
 alışveriş merkezi  -- shopping mall
-emniyet  -- police station
+emniyet  -- safety, police station
+emniyet kemerleri  -- seat belts, safety belts 
 havaalanı  -- airport
 sıra  -- school desk
 sıra  -- grid
@@ -5637,7 +5637,7 @@ kalabalık  -- crowded
 -bahset  -- mention, touch on, speak of, refer	__ bana biraz kendinizden bahsedin.
 sürekli  -- always
 rahat  -- comfortable
-koltuk  -- seat
+koltuk  -- easy chair, sofa
 manzara  -- landscape
 sayfada  -- page	__ altıncı sayfada ne var?
 sürelik	 -- duration/period
@@ -5650,4 +5650,111 @@ kendine güveniyorsan  -- if you are confident in yourself; özgüvenin varsa	__
 kendine güvenen  -- self-confident	__ kendine güvenenler sadece.
 kimyasal kullanan  -- drug users
 kimyasal  -- chemical
+kir sökücü  -- dirt remover
+-sök  -- pull out, dismantle, rip out, unbind
+sihir  -- magic 
+sünger  -- sponge
+bulaşık süngeri  -- dish sponge
+mucizevi  -- miraculous, supernatural	__ mucizevi temizlik.
+çiğ  -- raw, uncooked
+demet  -- bundle, bunch
+indüksiyonlu ocak  -- induction stove
+köy ekmeği  -- village bread  (fd)
+tam buğday ekmeği  -- whole wheat bread  (fd)
+marul  -- lettuce  (fd)	__ marul çeşitleri. kıvırcık marulu.
+mercimek  -- lentil  (fd)	__ kırmızı mercimek. mercimek çorbası.
+kuruyemiş  -- nuts, dried fruit  (fd)
+kuru erik  -- prune  (fd)
+kuru kayısı  -- dried apricot  (fd)
+pirinç  -- rice [grains]  (fd)
+konseve  -- canned sth	__ domates konsevesi.
+zeytinyağı  -- olive oil  (fd)
+karabiber  -- black pepper  (fd)
+kimyon  -- cumin  (fd)
+baharat  -- spice  (fd)
+oksijen  -- oxygen
+pozisyon  -- position
+biniş  -- boarding [vehicle]
+kalkış  -- take-off [plane]
+düz üçüş  -- cruise flight [plane]
+iniş  --  landing  [plane]
+-çöz  -- untie, unfasten, untangle, unravel, unsnarl
+-çöz  -- figure out, work out, clear up, decode
+can yelekleri  -- life vests
+kaçış yolu  -- escape route
+karaya  -- on land, ashore	__ karaya acil iniş.
+acil iniş  -- emergency landing
+taşınabilir  -- portable	__ taşınabilir elektronik cihazlar.
+enişte  -- in-law brother, sister
+arnavut  -- albania
+yarı  -- half
+şık  -- elegant, chic
+şarj  -- charger
+konser  -- concert
+-yakış  -- looks good on, suits
+dağınık  -- messy
+baba tarafı  -- father's side
+anne tarafı  -- mother's side
+yenge  -- uncle's wife
+dergi  -- magazine
+takipçi  -- follower
+valiz  -- suitcase
+sanırım  -- i guess...
+-test etmek  -- test sby
+albüm  -- album
+tabii ki  -- of course
+bak  -- lo, now
+sorma ya  -- don't ask
+kafam  -- head
+-görme  -- pass over, omit
+-hallet  -- handle, manage
+bu yüzden  -- that is why
+heyecanlı  -- excited, thrilling
+kontenjan  -- quota
+kişilik  -- personality, identify, character
+sıcakkanlı  -- warmblooded
+antik  -- ancient
+kızartma  -- fritter, fried food  (fd)
+gövde  -- tree trunk
+ütü  -- iron [ironing]
+melek  -- angel
+müdür  -- director, manager
+tarak  -- comb, brush
+kek  -- cake, muffin
+barut  -- powder
+yat  -- yacht
+iyelik  -- possessive
+sahiplik ekleri  -- possessive suffix
+sahiplik sıftarı  -- possessive adjective
+tabiki de  -- of course	__ tabiki de soğuk.
+ikinci el  -- second hand, used
+eğlenmeyi  -- having fun
+
+kişilik  -- personality, identify, character
+sıcakkanlı  -- warmblooded
+antik  -- ancient
+kızartma  -- fritter, fried food  (fd)
+gövde  -- tree trunk
+ütü  -- iron [ironing]
+melek  -- angel
+müdür  -- director, manager
+tarak  -- comb, brush
+kek  -- cake, muffin
+barut  -- powder
+yat  -- yacht
+iyelik  -- possessive
+sahiplik ekleri  -- possessive suffix
+sahiplik sıftarı  -- possessive adjective
+tabiki de  -- of course	__ tabiki de soğuk.
+ikinci el  -- second hand, used
+eğlenmeyi  -- having fun
+-yiyiş  -- make out, mess around	__ takılalım, yiyişelim.
+öyle mi  -- really?
+başlık ekleyin  -- add title
+başlık  -- title
+çamaşır makinesi  -- washing machine
+çamaşır  -- laundry
+beyazlatı  -- brightener	__ çamaşır beyazlatıcı.   
+soda  -- baking soda	__ çamaşır sodası.
+matik  -- machine
 
