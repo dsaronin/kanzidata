@@ -819,7 +819,7 @@ büyük  -- big, large, great; [<> küçük]
 büyüklük  -- largeness, bigness, greatness
 -buyur  -- decree, order, rule, command  (archaic)
 -buyur  -- help oneself to, please, there you go	__ 
-buyurun  -- come in
+buyurun  -- come in  (expl)
 buyurun  -- here you are  (expl)
 -büyüt  -- enlarge, amplify, magnify, augment	__ nasıl onu büyüttun?
 -büyütür  -- make bigger	__ ben hala parmağımı deliğine sokup büyütürken.
@@ -2084,7 +2084,7 @@ hortum  -- tornado
 hortum  -- tornado
 hoş  -- beautiful, nice, pleasing	__ insanların tarzı ve giyimi de hoş.
 hoşça kal  -- bye
-hoş geldin  -- welcome  (expr)
+hoş geldin  -- welcome  (expr)	__ hoş bulduk. 
 -hoşlan  -- like, enjoy, attracted to, fancy for	__ neden hoşlanırsın? olgun gizli güvenilir kıllı tiplerden hoslaniyorum. beyaz sarışın insanlardan hoşlanıyorum. ne yapmaktan hoşlanırsın?
 -hoş  -- like, enjoy sth
 hostesi  -- stewardess
@@ -2601,7 +2601,7 @@ keten  -- linen
 -keyif al  -- to get pleasure, delight from sth  [ablat]	__ ben türk çayı içmekten keyif alırım.
 keyif düşkünü  -- pleasureseeker
 keyif  -- joy, delight, pleasure, cheer	__ seninle konuşmaktan keyif duyuyorum.
-keyifli  -- pleasant
+keyifli  -- pleasant	__ umarım keyifli geçiyordur tatilin.
 -keyif vermek  -- intoxicate, please, give pleasure to
 kez  -- times
 kibar  -- kind
@@ -3877,16 +3877,12 @@ sıkça  -- frequently, often	__ sıkça karıştırılan sözler.
 sik  -- cock, dick, prick  (slang)	__ sikini taşağını yerim.
 siken  -- a fuck buddy	__ şuan var mı sikenin.
 sık  -- frequent, often [<> az]
--sik  -- fuck  (slang)?	__ beni sik.
-sikici  -- fucker  (slang)
 -sıkıl  -- be bored	__ sıkılıyorum. çok sıkıldım tek başıma oturmaktan.
 sıkılmış  -- crushed, squeezed	__ taze sıkılmış nar suyu.
 sıkıntı  -- boredom
 sıkıntı  -- bother, annoyance
 sıkıntısız  -- no hassle, no bother (slang)
 sıkıntı  -- trouble, distress, difficulty, adversity	__ sıkıntı yok.
-sikişir  -- fucks
--sıkıştır  -- compress  (tech)	__ dosyaları tek zip dosyasına sıkıştırırım.
 sıkı  -- strict, tight, hard, stringent, rigorous, firm	__ daha sıkı çalışmamız gerekiyor.
 şıklık  -- elegance, style, chic, finery; zarafet, tarz, akıllılık
 sıklık  -- frequency, density; frekans, sık sık olma; yoğunluk
@@ -4991,7 +4987,6 @@ masum  -- innocent, blameless, guiltless	__ eğer bu doğruysa, o zaman tom masu
 masum  -- childlike, immaculate, sinless, clear, clean
 yemek yemeyi   -- eating	__ yemek yemeyi seviyorum.
 -affet  -- forgive, excuse, pardon, condone	__ beni affettiler.
-ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
 madem  -- since, seeing that	__ sen öde madem.
 adına  -- behalf [for sby]	__ senin adına sevindim.
 -ertele  -- postpone, delay, defer, suspend; geciktirmek, sonraya bırakmak	__ dersi erteleyelim lütfen.
@@ -5757,4 +5752,22 @@ başlık  -- title
 beyazlatı  -- brightener	__ çamaşır beyazlatıcı.   
 soda  -- baking soda	__ çamaşır sodası.
 matik  -- machine
+hoş bulduk  -- i am welcomed [response]  (expl)
+ne olsun?  -- just the usual  (expl)
+lise  -- high school, lyceum
+lise  -- seminary
+-sıkış  -- be squeezed, be jammed; bir yere girip dar bir yerde kalmak	__ parmağım kapıya sıkıştı.
+-sıkış  -- be crowded, be packed; çok sayıda insan veya eşyanın dar bir yere toplanması	__ otobüs iyice sıkıştı.
+-sıkış  -- be short of [money], be in a tight spot [financial]; paraya veya kaynağa ihtiyaç duymak	__ bu ay ödemeler yüzünden biraz sıkıştım.
+-sıkış  -- be pressed [time]; işlerin çokluğu nedeniyle vakit bulamamak	__ haftaya sınavlarım olduğu için çok sıkıştım.
+-sıkış  -- feel an urge [bodily]; tuvalete gitme ihtiyacı duymak	__ yoldayken fena sıkıştım.
+-sıkış  -- shake hands [agreement]; el sıkışarak bir konuda anlaşmak	__ fiyatta anlaştık ve el sıkıştık.
+-sıkış  -- fuck (slang); cinsel ilişkide bulunmanın kaba ve sokak ağzı hali	__ barda tanıştığı kişiyle hemen sıkışmışlar.
+sıkışır  -- fucks  (slang)
+-sıkıştır  -- compress  (tech)	__ dosyaları tek zip dosyasına sıkıştırırım.
+sıkıcı  -- fucker  (slang)
+-sık  -- fuck  (slang)	__ beni sık. sıkmayı severim.
+-sıkılmayı  -- be fucked  (slang)	__ sıkılmayı severim.
+dişçi  -- dentist	__ dişçiye dişimi sıkıştırdım.
+ZZZZZZZZ_version 2026-04-18-1
 
