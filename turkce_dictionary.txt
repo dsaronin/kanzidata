@@ -2813,6 +2813,7 @@ kulaklık  -- headphones  (tech)
 kullanıcı  -- user  (tech)	__ yeni kullanıcıyım.
 -kullanıl {kullanır}  -- to be used
 kullanım şekli  -- usage
+kullanım  -- usage	__ kullanım önerisi.
 kullanışlı  -- useful	__ kullanışlı ifadeler
 kullanış  -- usage, practice
 -kullan  -- use	__ ben kitap kullanırım.
@@ -5762,12 +5763,26 @@ lise  -- seminary
 -sıkış  -- be pressed [time]; işlerin çokluğu nedeniyle vakit bulamamak	__ haftaya sınavlarım olduğu için çok sıkıştım.
 -sıkış  -- feel an urge [bodily]; tuvalete gitme ihtiyacı duymak	__ yoldayken fena sıkıştım.
 -sıkış  -- shake hands [agreement]; el sıkışarak bir konuda anlaşmak	__ fiyatta anlaştık ve el sıkıştık.
--sıkış  -- fuck (slang); cinsel ilişkide bulunmanın kaba ve sokak ağzı hali	__ barda tanıştığı kişiyle hemen sıkışmışlar.
-sıkışır  -- fucks  (slang)
+-sikiş  -- fuck (slang); cinsel ilişkide bulunmanın kaba ve sokak ağzı hali	__ barda tanıştığı kişiyle hemen sıkışmışlar.
+sikişir  -- fucks  (slang)
 -sıkıştır  -- compress  (tech)	__ dosyaları tek zip dosyasına sıkıştırırım.
-sıkıcı  -- fucker  (slang)
--sık  -- fuck  (slang)	__ beni sık. sıkmayı severim.
--sıkılmayı  -- be fucked  (slang)	__ sıkılmayı severim.
+sikici  -- fucker  (slang)
+-sik  -- fuck  (slang)	__ beni sık. sikmayı severim.
+-sikil  -- be fucked  (slang)	__ sikilmayı severim.
 dişçi  -- dentist	__ dişçiye dişimi sıkıştırdım.
-ZZZZZZZZ_version 2026-04-18-1
+sivi  -- liquid, fluid, watery	__ sivi sabun.
+sivi sabun  -- liquid soap
+mezar  -- tomb, grave, burial
+mezarlık  -- cemetery, graveyard
+bembeyaz  -- snowy white, lily white
+kalıntı  -- ruins, debris, remnant
+kalıntı  -- residual residue, 
+kalıntı  -- relic
+çözünme  -- dissolution, resolution, melt, decomposition, disolve
+çözünme  -- solution
+toz çamaşır deterjanı  -- powdered laundry detergent
+ölçek  -- scale, gauge, measure	__ 1'den 10'a kadar uzanan bir ölçekte, siz yaklaşık 7'siniz.
+yıkıma  -- washing
+bu ne demek?  -- what does this mean?
+ZZZZZZ_version 2026-04-19-1
 
