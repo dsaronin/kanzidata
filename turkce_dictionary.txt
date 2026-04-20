@@ -929,7 +929,7 @@ cevabı  -- answer	__ benim cevabım yanlış, onlarınki doğru.
 -çevir  -- turn, spin, upturn, exchange, roll, twirl
 ceviz  -- coconut
 ceviz  -- walnut  (fd)
-çevre  -- environment	__ politikacılar çevreyi korumak için bir şey yapmalı.
+çevre  -- environment [< -çevir]	__ politikacılar çevreyi korumak için bir şey yapmalı.
 çevresi  -- around [some place x]
 çevresi  -- surroundings, area	__ taksim çevresi.
 çevre yeri  -- vicinity, area	__ Anlık... Varmı yakın çevre yeri olan uyumayan.
@@ -3654,8 +3654,10 @@ sahanda yumurta  -- fried egg (fd)
 sahil  -- beach, seashore, coast
 -sahiplemek  -- two people compatible with each other  (slang)
 -sahip olmak  -- to own, to have	__ seyahat etmek için uçağa sahip olmak gerekmiyor.
-sahip  -- owner, possessor, master	__ halının sahibi. halı sahibi.
-sahip {sahibi}  -- owner, master
+sahip  -- master	__ 
+sahip  -- owner, possessor; bir şeye sahip olan veya onu elinde tutan kimse	__ bu arabanın gerçek sahibi kim. halının sahibi. halı sahibi.
+-sahiple  -- provide an owner, find a home for; bir canlıya veya nesneye bakacak birini bulmak	__ sokaktaki kediyi bir aileye sahipleriz.
+-sahiplen  -- claim ownership, embrace stewardship; bir şeyi kendine mal etmek veya onu korumak	__ mahalledeki parkı tüm komşular sahiplendi.
 sahneye  -- the stage
 sahne  -- scene [in play]
 şair  -- poet	__ sen şairsin.
@@ -5784,5 +5786,19 @@ toz çamaşır deterjanı  -- powdered laundry detergent
 ölçek  -- scale, gauge, measure	__ 1'den 10'a kadar uzanan bir ölçekte, siz yaklaşık 7'siniz.
 yıkıma  -- washing
 bu ne demek?  -- what does this mean?
-ZZZZZZ_version 2026-04-19-1
+-uyumlu olmak  -- be compatible, be in harmony; iki şeyin veya kişinin birbiriyle ahenk içinde olması	__ dürüst olmak gerekirse, pek uyumlu olduğumuzu düşünmüyorum.
+-uyuşmak  -- click mesh with, harmonize; fikir, mizaç veya yapı bakımından birbirine uygun gelmek	__ maalesef pek uyuşmadığımızı hissediyorum.
+-beklentileri farklı olmak  -- have different expectations; umulan veya istenen şeylerin birbiriyle örtüşmemesi	__ beklentilerimizin farklı olduğunu görüyorum.
+-tokuş  -- knock, collide, shock
+makyaj  -- makeup
+-makyaj yapmak  -- apply makeup
+hafta sonları  -- weekends
+-tatile çıkmek  -- take vacation
+-çık  -- go out, exit
+-yemek yimek  -- have dinner
+Bugünlerde  -- lately, these days
+-seyret  -- watch, gaze
+limonata  -- lemonade
+
+ZZZZZZ_version 2026-04-20-1
 
