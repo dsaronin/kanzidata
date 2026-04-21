@@ -2973,7 +2973,8 @@ malı  -- financial
 mallarına  -- to their goods
 mal  -- stupid, idiot  (slang)	__ mallık yapma. [don't be an idiot]
 malzeme  -- ingredient, instrument, apparatus; alet
-malzeme  -- utensil, material, thing, provisions, stock	__ mutfak malzemeleri
+malzeme  -- utensil, thing, provisions, stock	__ mutfak malzemeleri
+malzemler  -- supplies, materials	__ okul malzemleri.
 mama  -- formula, baby food; bebek maması
 manav  -- greengrocer
 manevi  -- spiritual, moral, inner, intangible	__ maddi ve manevi yanımda olcak.
@@ -4733,7 +4734,7 @@ yaşa  -- hurray! yay! viva! cheers!  (expl)
 yasak  -- forbidden, prohibited	__ vatandaşların burada beklemeleri yasaktır.
 yasa  -- law  (lgl)	__  yasaya göre ev artık bizim. 
 yasa  -- legislation, statutes	__ 
--yaşa  -- live, breathe, exist	__ 
+-yaşa  -- live, exist, thrive; canlılığını sürdürmek veya bir duyguyu kutlamak.	__ yaşasın devrim.
 yaşama hakkı  -- the right to live
 yaşam  -- life, living, experience, lifetime	__ toplum yaşamında yasaların herkese sağladığı birtakım haklar vardır.
 -yaşar  -- fill with tears [eyes]
@@ -5545,7 +5546,7 @@ ikram  -- treat, offering	__ can, jülide'ye ne ikram ediyor?
 akışına  -- go with the flow  (slang)
 keyif  -- enjoyment	__ keyif eğlence sohbet arkadaşlık randevu akışına
 randevu  -- dating
-eskort  -- escort
+eskort  -- escort	__ parali eskort.
 karşılık  -- response, return, equivalent; bir şeyin yerini tutan veya bir şeye cevap olan	__ bu iyiliğin bir karşılığı olmalı.
 para karşılığı  -- for money, in exchange for money; maddi bir kazanç uğruna yapılan iş	__ bu işi sadece para karşılığı yapıyor.
 -bedenini kiralamak  -- rent out one's body; geçimini sağlamak amacıyla cinsel hizmet vermek	__ o, bedenini kiralamayı seçti.
@@ -5799,6 +5800,56 @@ hafta sonları  -- weekends
 Bugünlerde  -- lately, these days
 -seyret  -- watch, gaze
 limonata  -- lemonade
+şube  -- branch, chapter, division	__ taksim şubesi. Şirketi Tulsa'da yeni bir şube açıyor.
+şarküteri  -- delicatessen, deli
+hediyelik  -- giftable, presentable
+hediyelik eşya  -- souvenir
+hediyelik dükkanı  -- gift shop
+-değ  -- be worth, touch; bir şeyin değerini karşılamak veya fiziksel olarak temas etmek	__ izlediğine değsin, harika bir film.
+-izlediğine değmek  -- be worth watching; izlenen şeyin harcanan zamana ve emeğe değer olması.	__ bu dizi çok sürükleyici, izlediğine değdi.
+-okuduğuna değmek  -- be worth reading; okunan metnin bilgilendirici veya keyifli bulunması.	__ bu kadar sayfa okudum ama okuduğuna değmedi.
+-gittiğine değmek  -- be worth the trip; gidilen yerin veya yolculuğun zahmetine karşılık gelmesi.	__ o kadar yol katettik, gittiğine değecek mi?
+-izlediğine değmek  -- be worth watching; izlenen şeyin harcanan zamana ve emeğe değer olması.	__ bu dizi çok sürükleyici, izlediğine değdi.
+-okuduğuna değmek  -- be worth reading; okunan metnin bilgilendirici veya keyifli bulunması.	__ bu kadar sayfa okudum ama okuduğuna değmedi.
+-gittiğine değmek  -- be worth the trip; gidilen yerin veya yolculuğun zahmetine karşılık gelmesi.	__ o kadar yol katettik, gittiğine değecek mi?
+taşıt  -- vehicle, means of transport; yolcu veya yük taşımaya yarayan araç.	__ durakta okul taşıtı bekleyen öğrencileri gördüm.
+tesis  -- facility, establishment, plant; belirli bir işin yapılması için gereken araç ve yapıların bütünü.	__ mahallemize yeni bir spor tesisi yapıldı.
+spor tesisi  -- sports facility; spor faaliyetlerinin yapılması için inşa edilmiş yapı.	__ hafta sonları spor tesisi çok kalabalık oluyor.
+pasaj  -- passage
+kırtasiye  -- stationery
+devrim  -- revolution; bir alanda yapılan köklü ve temel değişiklik veya ihtilal.	__ teknoloji dünyasında büyük bir devrim yaşandı.
+yaşasın!  -- hooray!, long live!; sevinç belirten bir ünlem veya bir şeyin ömrünün uzun olması dileği.	__ yaşasın! sınavı geçmişim.
+-devir  -- topple, overturn, knock over; bir şeyi bulunduğu durumdan tersine çevirmek veya yıkmak.	__ rüzgar bahçedeki eski ağacı devirdi.
+-kıvır  -- fold, twist, curl; bir şeyi bükerek katlamak veya eğri büğrü bir hale getirmek.	__ kağıdı küçük parçalar halinde kıvırdı.
+kıvrım  -- fold, curve, twist; bir şeyin katlanmış veya bükülmüş bölümü.	__ yolun keskin kıvrımları sürücüleri zorluyordu.
+yıkama  -- washing; su ve deterjan kullanarak temizleme işlemi.	__ yıkama işlemi bittikten sonra çamaşırları asacağım.
+durulama  -- rinsing; sabun ve deterjanın suyla giderilmesi süreci.	__ makine şu an durulama aşamasında.
+sıkma  -- spinning, wringing; çamaşırların suyunu döndürerek çıkarma işlemi.	__ hassas giysiler için düşük devirde sıkma seçilmelidir.
+bitti  -- finished, ended; bir sürecin veya işlemin sona ermesi.	__ çamaşır makinesinin programı nihayet bitti.
+sıcaklık ayarı  -- temperature setting; suyun derecesini belirleme kontrolü.	__ yünlüler için sıcaklık ayarı düşük tutulmalıdır.
+ayarı  -- setting, adjustment; bir cihazın çalışma düzenini belirleyen kontrol.	__ bu makinenin devir ayarı bozulmuş.
+ön yıkama  -- pre-wash; çok kirli çamaşırlar için ana yıkama öncesi yapılan işlem.	__ lekeli örtüler için ön yıkama programını seçtim.
+bluz  -- blouse; genellikle kadınlar tarafından giyilen üst giysi.	__ ipek bluz narin programda yıkanmalıdır.
+spor giysiler  -- sportswear; spor yaparken giyilen esnek ve teknik kıyafetler.	__ spor giysiler için özel bir yıkama programı var.
+elde yıkama  -- hand wash; makine yerine el ile yıkamaya uygun hassas işlem.	__ bu kazak sadece elde yıkama için uygundur.
+narin  -- delicate, fragile; kolayca hasar görebilen hassas eşya veya giysi.	__ ipekli ve dantelli ürünler narin ayarda yıkanır.
+sentetik  -- synthetic; yapay liflerden üretilmiş kumaş türü.	__ polyester gibi sentetik kumaşlar hızlı kurur.
+emin misin  -- are you sure?
+avcı  -- hunter; avlanan hayvanı yakalayan kişi veya canlı.	__ ormanın derinliklerinde usta bir avcı gizleniyordu.
+yürek  -- heart, soul, courage; kalp organı veya mecazi anlamda sevgi ve cesaretin merkezi.	__ eğer zaman geçecekse yüreğimde, seni hep hatırlayacağım.
+-uğra  -- stop by, visit, drop in; bir yere kısa süreliğine gitmek veya uğramak.	__ uğramayacaksa semtimize ayrılık, huzur içinde yaşarız.
+semt  -- neighborhood, district, quarter; bir şehrin belirli bir bölgesi veya mahallesi.	__ bizim semtimiz her zaman çok sakin ve huzurludur.
+ayrılık  -- separation, parting, breakup; birbirini seven veya tanıyan kişilerin uzaklaşması.	__ zor olsa da bu ayrılık ikimiz için de en iyisiydi.
+aynı  -- same, identical; başka değil, farksız olan veya değişmeyen.	__ gözlerin hep aynı bakacaksa, zamanın önemi kalmaz.
+emin ol  -- rest assured, be certain; bir şeyden şüphe duymamak veya güven vermek.	__ her şeyin yoluna gireceğinden emin ol.
+-tüken  -- run out, be exhausted, be consumed; bitmek, sona ermek veya kalmamak.	__ zaman tükenene kadar seni beklemeye devam edeceğim.
+emin  -- sure, certain, confident [< amin]; kuşku duymayan, güvenli veya inanılır olan.	__ bu kararı verdiğinden emin misin?
+rüya  -- dream [sleep]; uyku sırasında zihinde beliren olayların ve görüntülerin bütünü.	__ dün gece çok ilginç bir rüya gördüm.
+düş  -- dream, daydream, vision [imagination]; uyku sırasında görülen rüya veya gerçekleşmesi istenen hayal.	__ çocukluktan beri en büyük düşü bir yazar olmaktı.
+-düş kurmak  -- daydream, imagine
+kaçta  -- at what time; bir eylemin saat kaçta gerçekleşeceğini sormak için kullanılır.	__ toplantı saat kaçta başlayacak?
+kaçta  -- in which (numerical order); bir sıralama içindeki yeri sormak için kullanılır.	__ bu durak kaçta? (otobüs güzergahındaki sırası).
+kaçta  -- at what price/rate; (nadir) bir oranın veya miktarın içindeki payı sormak için kullanılır.	__ yüz kaçta başarı sağladık?
+kaç  -- how many, how much; miktar veya sayı sormak için kullanılan soru kelimesi.	__ bugün kaç bardak çay içtin?
 
-ZZZZZZ_version 2026-04-20-1
-
+ZZZZZZ_version 2026-04-21-1
