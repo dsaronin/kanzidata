@@ -2872,6 +2872,7 @@ kusur  -- mistake
 -kus  -- vomit, spew	__ ne zaman kusmaya başladın?
 -kutla  -- celebrate, observe, commemorate, congratulate	__ 
 kutlu  -- happy, blessed	__ bayramın kutlu olsun.
+kutlu olsun  -- congratulations
 kutu  -- box
 kutucuk  -- little box	__ adını ortadaki kutucuğa yazalım.
 kütüphane  -- library
@@ -5851,5 +5852,26 @@ kaçta  -- at what time; bir eylemin saat kaçta gerçekleşeceğini sormak içi
 kaçta  -- in which (numerical order); bir sıralama içindeki yeri sormak için kullanılır.	__ bu durak kaçta? (otobüs güzergahındaki sırası).
 kaçta  -- at what price/rate; (nadir) bir oranın veya miktarın içindeki payı sormak için kullanılır.	__ yüz kaçta başarı sağladık?
 kaç  -- how many, how much; miktar veya sayı sormak için kullanılan soru kelimesi.	__ bugün kaç bardak çay içtin?
+bülbül  -- nightingale	__ bülbül mahallesi
+üs  -- base	__ askeri üsler.
+hizmet merkezi  -- service center
+tersane  -- shipyard, dockyard	__ havuç tersanesi.
+kaymakam  -- district governor; bir ilçenin en yüksek mülki idare amiri.	__ yeni atanan kaymakam bugün görevine başladı.
+kaymakamlık  -- district governorship, district office; kaymakamın makamı veya bu makamın bulunduğu bina.	__ pasaport işlemleri için kaymakamlığa gitmem gerekiyor.
+soğutma  -- refrigeration, cooling
+-soğut  -- cool down, refrigerate, chill sth
+sökme  -- removal
+takma  -- installation
+balans  -- balancing
+lastik oteli  -- tire storage
+lastik  -- tire
+babacan  -- fatherly	__ maskülen düzgün babacan erkekler.
+-del  -- pierce, drill, punch a hole; bir şeyin üzerinde delik açmak veya içinden geçmek.	__ usta, matkapla duvarı dikkatlice deldi.
+deler geçer  -- pierces right through, unstoppable  (idm) ; (deyim) çok güçlü, etkili veya keskin olan; engel tanımayan.	__ bu yeni bıçak her şeyi deler geçer.
+bakar geçer  -- just glances and ignores  (idm) ; bir şeye önem vermeden, üzerinde durmadan bakıp geçmek; umursamamak.	__ o kadar çok ilan var ki, insan sadece bakar geçer.
+güler geçer  -- laughs it off  (idm) ; bir durumu ciddiye almamak, üzerinde durmak yerine gülümseyerek geçiştirmek.	__ hakkındaki dedikoduları duyduğunda sadece güler geçer.
+söyler geçer  -- says it in passing  (idm) ; bir şeyi derinlemesine düşünmeden veya sorumluluk almadan öylesine söylemek.	__ onun sözlerine takılma, o her şeyi öyle söyler geçer.
+göt  -- backside, arse (vulg) (slang); vücudun arka kısmı, kaba et.	__ (Argo) Bu işi yapmak cesaret (göt) ister.
 
-ZZZZZZ_version 2026-04-21-1
+ZZZZZZ_version 2026-04-21-2
+
