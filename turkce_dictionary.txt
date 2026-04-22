@@ -2025,7 +2025,7 @@ herşey  -- everything, all, anything	__ güzel olan herşey.
 her uçuş sonrası  -- during the flight
 her yerini  -- everyplace, every location
 her zaman  -- always, ever
-hesap  -- account	__ yeni hesap.
+hesap  -- account	__ yeni hesap. instagram hesabım profil de var.
 hesaplama  -- calculation, computation; hesap	__ ayrıca hesaplamana baktım ve yanlış gibi.
 heyecan  -- commotion, ferment, agitation	__ 
 heyecan  -- excitement, emotion, thrill	__ başka biri heyecanlı mı?
@@ -3564,7 +3564,9 @@ radyo  -- radio
 rağmen  -- although  {+dative V}	__ bakmama rağmen görmüyorum.
 rağmen  -- despite [dativ]
 rağmen  -- even though  (conj)
-rahat  -- easily, comfortable	__ rahat rahat kazandım. istemiyorsun yazmam.
+rahat  -- comfortable, cozy [physical]; fiziksel olarak huzurlu veya geniş olan.	__ Bu koltuk çok rahat, hemen uykum geldi.
+rahat  -- easy, effortless; bir işi zorlanmadan, sıkıntı çekmeden yapma durumu.	__ Soruları çok rahat çözdüm; rahat rahat kazandım.
+rahat  -- relaxed, transparent [social]; endişesiz, vurdumduymaz veya saklayacak bir şeyi olmayan.	__ Sağlık konusunda rahatım, gerekirse test de var.
 -rahat etmek  -- be comfortable	__ umarım rahat etmiştir evden.
 -rahatsız etme  -- do not disturb
 -rahatsız etmek  -- disturb sby	__ işte sen rahatsız etmeyeyim.
@@ -5636,7 +5638,6 @@ kalabalık  -- crowded
 öyleyse  -- so, then, if so, well	__ peki, başlayalım öyleyse.
 -bahset  -- mention, touch on, speak of, refer	__ bana biraz kendinizden bahsedin.
 sürekli  -- always
-rahat  -- comfortable
 koltuk  -- easy chair, sofa
 manzara  -- landscape
 sayfada  -- page	__ altıncı sayfada ne var?
@@ -5867,11 +5868,68 @@ lastik oteli  -- tire storage
 lastik  -- tire
 babacan  -- fatherly	__ maskülen düzgün babacan erkekler.
 -del  -- pierce, drill, punch a hole; bir şeyin üzerinde delik açmak veya içinden geçmek.	__ usta, matkapla duvarı dikkatlice deldi.
-deler geçer  -- pierces right through, unstoppable  (idm) ; (deyim) çok güçlü, etkili veya keskin olan; engel tanımayan.	__ bu yeni bıçak her şeyi deler geçer.
+deler geçer  -- pierces right through, unstoppable  (idm) ; (idm) çok güçlü, etkili veya keskin olan; engel tanımayan.	__ bu yeni bıçak her şeyi deler geçer.
 bakar geçer  -- just glances and ignores  (idm) ; bir şeye önem vermeden, üzerinde durmadan bakıp geçmek; umursamamak.	__ o kadar çok ilan var ki, insan sadece bakar geçer.
 güler geçer  -- laughs it off  (idm) ; bir durumu ciddiye almamak, üzerinde durmak yerine gülümseyerek geçiştirmek.	__ hakkındaki dedikoduları duyduğunda sadece güler geçer.
 söyler geçer  -- says it in passing  (idm) ; bir şeyi derinlemesine düşünmeden veya sorumluluk almadan öylesine söylemek.	__ onun sözlerine takılma, o her şeyi öyle söyler geçer.
 göt  -- backside, arse (vulg) (slang); vücudun arka kısmı, kaba et.	__ (Argo) Bu işi yapmak cesaret (göt) ister.
+yerli üretim  -- domestic production; Türkiye sınırları içinde üretilen veya son işlemi burada yapılan ürün.	__ Marketlerdeki etiketlerde yerli üretim logosuna dikkat ederim.
+menşe  -- origin, source; bir malın üretildiği yer veya bir şeyin çıktığı köken.	__ bu ürünün menşei neresi, çin mi yoksa türkiye mi?
+ürün menşei  -- product origin
+yerli sermaye  -- domestic capital
+rafadan yumurta  -- soft-boiled egg; sarısı akışkan, beyazı tam pişmemiş yumurta.	__ Kahvaltıda rafadan yumurta yemeyi tercih ederim.
+orta katı yumurta  -- medium-boiled egg, "jammy" egg; sarısı yarı katı, tam akışkan olmayan yumurta kıvamı.	__ Kayısı kıvamı olarak da bilinen orta katı yumurta en sevdiğimdir.
+katı yumurta  -- hard-boiled egg; sarısı ve beyazı tamamen pişmiş, sertleşmiş yumurta.	__ Yolculuk için yanımıza birkaç katı yumurta aldık.
+orta ateş  -- medium heat; ocağın ne çok yüksek ne çok düşük ısıda olması.	__ Sosun dibinin tutmaması için orta ateşte pişirin.
+çırpılmış yumurta  -- scrambled eggs; yumurtaların kasede çırpılıp tavada pişirilmesiyle yapılan kahvaltılık.	__ Otel kahvaltısında genellikle çırpılmış yumurta bulunur.
+göz yumurta  -- sunny-side up egg; sarısı bozulmadan tavada pişirilen, göz şeklindeki yumurta.	__ Sucuğun üzerine göz yumurta kırmak çok lezzetli olur.
+kafalar uymak  -- to get along, to vibe; (idm) düşüncelerin ve kişiliklerin birbirine uygun olması.	__ Ev arkadaşı seçerken en önemli şey kafaların uymasıdır.
+gerisi gelir  -- the rest will follow; bir işin başlangıcı iyi olursa devamının kendiliğinden geleceğini ifade eder.	__ Sen ilk adımı at, gerisi gelir.
+şart  -- condition, requirement; yerine getirilmesi zorunlu olan durum.	__ Bu işe girmek için İngilizce bilmek şart.
+gerekirse  -- if necessary; ihtiyaç duyulması durumunda.	__ Projeyi bitirmek için gerekirse hafta sonu da çalışırız.
+deyim  -- idiom  (gram)
+kendini bilen  -- self-aware, dignified; (idm) sınırlarını, sorumluluklarını ve nerede nasıl davranacağını bilen olgun kişi.	__ Bize kendini bilen, saygılı bir oda arkadaşı lazım.
+kendini bilmez  -- discourteous, oblivious; (idm) nerede nasıl davranacağını bilmeyen, saygısız veya haddini aşan kişi.	__ O kendini bilmez adamın sözlerine hiç kulak asma.
+had  -- limit, boundary; insanın yetki, bilgi veya görgü bakımından durması gereken yer.	__ Herkes haddini bilirse aramızda hiçbir sorun çıkmaz.
+-haddini bilmek  -- to know one's place; (idm) yetki ve sorumluluklarının sınırını aşmamak; nerede duracağını bilmek.	__ Yeni çalışan patronuna karşı çok saygılıydı, haddini biliyordu.
+üstü  -- to the power of  (math)
+üstü  -- more than, plus, on up	__ 26 santim veya üstü arıyorum.
+geçici  -- temporary, transient [< -geç]; belli bir süre için olan, kalıcı olmayan.	__ Bu sadece geçici bir çözüm, yakında kalıcı olanı bulacağız.
+süre  -- period, duration; bir olayın başı ile sonu arasında geçen zaman dilimi.	__ Kursun süresi toplamda üç ay sürecek.
+kalıcı  -- permanent, persistent [< -kal]; uzun süre değişmeden kalan, geçici olmayan.	__ Bu boya kalıcıdır, yıkamayla çıkmaz.
+akışa göre  -- according to the flow; (idm) plan yapmadan, olayların gelişimine bırakarak.	__ Hafta sonu ne yapacağımıza henüz karar vermedik, akışa göre bakarız.
+kısmet  -- fate, destiny, providence; (idm) gelecekte olması beklenen şeyin gerçekleşme ihtimali veya şans.	__ Yeni iş başvurusu yaptım, artık orası kısmet.
+nasip  -- lot in life, what is destined; birinin payına düşen veya Tanrı tarafından uygun görülen kısmet.	__ Belki de oraya gitmememiz bizim için daha nasipti.
+duruma göre  -- depending on the situation; mevcut şartların gelişimine ve değişmesine bağlı olarak.	__ Yarın pikniğe gideriz ama duruma göre plan değişebilir.
+düzgün  -- proper, decent, straight [<> bozuk]; (adj) dürüst, güvenilir ve ahlaklı kişi; pürüzsüz.	__ Onun çok düzgün bir karakteri var, ona güvenebilirsin.
+iletişim kurmak  -- to communicate, to establish contact; duygu ve düşüncelerin karşılıklı aktarılması.	__ Sağlıklı bir ilişki için iletişim kurmak şarttır.
+kurabilen  -- capable of establishing; bir şeyi inşa etme veya başlatma yeteneği olan.	__ İnsanlarla kolayca bağ kurabilen biriyle çalışmak isterim.
+bozuk  -- broken, out of order [physical]; çalışmayan, arızalı veya hasarlı olan.	__ Bu switch bozuk, ethernet bağlantısı sağlanamıyor.
+bozuk  -- corrupt, depraved [social] [<> düzgün]; ahlakı veya karakteri düzgün olmayan, güvenilmez kişi.	__ Onun karakteri bozuk, verdiği sözlerin hiçbirini tutmaz.
+bozuk  -- loose change [monetary]; küçük değerli madeni para.	__ Üzerinizde bozuk var mı? Otobüs için lazım.
+ileti  -- message, notification; birine ulaştırılan bilgi veya haber.	__ Telefonuma yeni bir ileti geldi ama henüz okumadım.
+meğer  -- as it turns out, actually; (adv) bilinmeyen bir durumun sonradan öğrenildiğini anlatır.	__ Onu arkadaşı sanıyordum, meğer kardeşiymiş.
+-jeton düşmek  -- to finally understand [idm]; bir durumu geç de olsa kavramak.	__ Konuyu ancak on dakika sonra anladım, jeton geç düştü.
+dilim sürçmüş  -- slip of the tongue; (idm) yanlışlıkla yanlış bir kelime söylemek veya hata yapmak.	__ kusura bakma, dilim sürçmüş; başka bir şey söyleyecektim.
+-sürç  -- to slip, to stumble; (v) yürürken ayağı takılmak veya konuşurken hata yapmak.	__ karanlıkta yürürken ayağım sürçtü ve neredeyse düşüyordum.
+çıtır  -- jail bait, chick  (slang)	__ genç parlak citir pasif var mi.
+kıyafet  -- attire, apparel	__ kadın kıyafeti giymek istiyorum.
+tercihen  -- preferably
+kısmen  -- partially
+şahsen  -- personally
+uzun süreli düşünen  -- long-term thinking; uzun bir zaman dilimi için plan yapan	__ o her zaman uzun süreli düşünen biridir.
+bakımlı  -- well-groomed, well-cared-for; kendisine ve görünümüne özen gösteren	__ yeni tanıştığı kişi çok bakımlı biriydi.
+ağırbaşlı  -- dignified, serious; davranışları ölçülü ve olgun olan	__ toplantıda çok ağırbaşlı bir tavır sergiledi.
+ağırbaşlı  -- sedate, level-headed; nerede nasıl davranacağını bilen ve aşırılıktan kaçınan	__ arkadaşım her zaman ağırbaşlı ve sakindir.
+ağırbaşlı  -- emotionally stable [dating], mature; duygusal olarak dengeli olan ve gereksiz heyecanlardan kaçınan	__ ciddi bir ilişki için ağırbaşlı biriyle tanışmak istiyorum.
+-geç kalmak  -- be or arrive late; bir yere belirlenen zamandan sonra varmak	__ trafiğe takıldığım için işe geç kaldım.
+-geç kalmak  -- stay out late; bir yerde vaktinden sonraya kadar durmak	__ bu akşam ofiste biraz geç kalacağım.
+-kalın olmak  -- boldface sth
+kalın  -- boldface
+ipucu  -- hint, clue
+-üstümü giymek  -- to put on clothes, to get dressed; giysileri vücuda geçirmek	__ dışarı çıkmadan önce hemen üstümü giymek istiyorum.
+-giyin  -- to get dressed; kendi kendine giysi giymek	__ çabuk giyin, geç kalıyoruz.
+-üstümü değiştirmek  -- to change clothes; üzerindeki giysileri çıkarıp başkalarını giymek	__ çok terledim, gidip üstümü değiştirmek gerek.
 
-ZZZZZZ_version 2026-04-21-2
+ZZZZZZ_version 2026-04-22-1
 
