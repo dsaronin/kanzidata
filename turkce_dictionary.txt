@@ -264,7 +264,7 @@ arasında  -- inter-
 ara sokak  -- side street, alley, back street	__ ara sokaktan çıkan araçla çarpıştı.
 -araştırma yapmak  -- research sth
 -aratır  -- make the call	__ ben sana yavaş yavaş aratırım.
-arayiş  -- search  (tech)	__ arayiş için yazmayin sadece arkadaşlik.
+arayış  -- search  (tech)	__ arayış için yazmayın sadece arkadaşlık.
 arı  -- bee
 arı  -- bee, wasp
 arıcılık  -- beekeeping, apiculture
@@ -1318,7 +1318,7 @@ durum  -- case, occasion	__ bu acil bir durum.
 durum  -- situation, issue	__ durum kontrol altında.
 durumunda  -- in case  (conj)
 dürüst  -- honest	__ dürüst ol! 
--duş al  -- take a shower	__ duş aldım; biraz yorgunum.
+-duş almak  -- take a shower	__ duş aldım; biraz yorgunum.
 düşen  -- falling, downward
 -düş  -- fall, decline, descend, drop, fall down/into, drop down	__ telefonu kaldırırken, telefon düştü. fotoğrafsız yazanlar taslak kutusuna düşer.
 düşkün  -- fond, addicted, doting, partial to	__ çiçeklere çok düşkündür.
@@ -2908,7 +2908,6 @@ lideri  -- leader
 likit  -- liquid	__ likit sabun.
 likra  -- lycra
 liman  -- port
-limonata  -- lemonade
 limonata  -- lemonade
 limon  -- lemon
 limonlu  -- with lemon
@@ -5801,7 +5800,6 @@ hafta sonları  -- weekends
 -yemek yimek  -- have dinner
 Bugünlerde  -- lately, these days
 -seyret  -- watch, gaze
-limonata  -- lemonade
 şube  -- branch, chapter, division	__ taksim şubesi. Şirketi Tulsa'da yeni bir şube açıyor.
 şarküteri  -- delicatessen, deli
 hediyelik  -- giftable, presentable
@@ -5930,8 +5928,6 @@ ipucu  -- hint, clue
 -üstümü giymek  -- to put on clothes, to get dressed; giysileri vücuda geçirmek	__ dışarı çıkmadan önce hemen üstümü giymek istiyorum.
 -giyin  -- to get dressed; kendi kendine giysi giymek	__ çabuk giyin, geç kalıyoruz.
 -üstümü değiştirmek  -- to change clothes; üzerindeki giysileri çıkarıp başkalarını giymek	__ çok terledim, gidip üstümü değiştirmek gerek.
-
-ZZZZZZ_verzyon 2026-04-22-1
 çesşme  -- fountain	__ taksim çesşmesi sokağı.
 ütüleme  -- ironing
 ölü  -- dead, deceased
@@ -5940,4 +5936,46 @@ usta  -- master, chef, expert	__ dürüm ustas
 sınırsız  -- unlimited	__ sınırsız fotoğraflar
 -göz atmak  -- check out sth
 -okutu  -- scan sth	__ ilk ürününüzü okutun.
-
+enfes  -- delightful, lovely, charming	__ enfes keklerin sırrı.
+sırrı  -- secret	__ enfes keklerin sırrı.
+ambalaj  -- packaging, wrapping [material]	__ kilitli ambalaj.
+-ambalajla  -- pack, wrap sth
+paketleme  -- packaging
+ütü  -- flatiron, iron [laundry]
+uyum sağlayan  -- sby who is harmonious, goes with flow
+sevecen  -- affectionate, loving, tender, caring
+-net olmak  -- make clear	__ bir konuda net olmak.
+vites kolu  -- gearshift, gear stick
+vites  -- gear
+yavrum  -- my little one
+-eşleş  -- pair together, match w/
+-sürükle  -- drag, nudge
+dönem  -- semester
+hafta sonları  -- weekends
+-tatile çıkmek  -- take vacation
+-çık  -- go out, exit
+-yemek yimek  -- have dinner
+Bugünlerde  -- lately, these days
+-ödev yapmak  -- do homework
+-telefon çalmak  -- make phone call
+okul servisi  -- school bus
+-beslenme hazırlamak  -- prepare a meal
+-cevapla  -- answer
+-kahvaltı etmek  -- have breakfast
+-sipariş vermek  -- order
+-sipariş etmek  -- order
+-temizlik yapmak  -- clean
+-ütü yapmak  -- iron
+-yemek yemek  -- eat
+sıklıkla  -- often
+arada bir  -- occasionally
+ara sıra  -- now and then
+hiçbir zaman  -- never
+sabahları  -- in the mornings
+akşamları  -- in the evenings
+-eşleş  -- pair together
+-sırala  -- sort, list, order
+görsel  -- visual [item]
+öğle molası  -- noon break
+mola  -- break, recess
+ZZZZZZ_verzyon 2026-04-23-1
