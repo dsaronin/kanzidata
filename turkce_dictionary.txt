@@ -5978,4 +5978,29 @@ akşamları  -- in the evenings
 görsel  -- visual [item]
 öğle molası  -- noon break
 mola  -- break, recess
-ZZZZZZ_verzyon 2026-04-23-1
+-bisiklet kullanmak  -- ride bicycle
+yürüyen merdiven  -- escalator
+yürüyen  -- walking, moving; hareket eden	__ yürüyen merdiven bozulmuş.
+meydan  -- square, plaze, large open area
+-tamamla -- complete, finish; bitirmek __ projeyi zamanında tamamladık.
+uçuş -- flight; uçma eylemi __ uçuşumuz iki saat sürdü.
+deneyim -- experience; tecrübe __ bu iş için beş yıllık deneyim gerekiyor.
+düzenleme -- arrangement, regulation, landscaping; tertip, tanzim __ bahçe düzenlemesi harika olmuş.
+meydan düzenlemesi  -- plaza landscaping
+tamam  -- complete, finished; eksiksiz, bitmiş __ işim tamam, eve gidiyorum.
+düzen  -- order, system, arrangement; nizam, sistem __ bu ofiste hiç düzen yok.
+hava meydanı  -- airport
+yaya  -- pedestrian; yürüyerek giden kimse __ yayalar için yeşil ışık yandı.
+-erişilebilir  -- accessible; ulaşılabilir, girilebilir __ bu bina engelliler için erişilebilir değil.
+ağ  -- network, web; şebeke, örgü __ İstanbul'un ulaşım ağı çok geniştir.
+-sür  -- continue, last, drive; devam etmek __ toplantı iki saat sürdü.
+yayalaştırma  -- pedestrianization
+erişilebilirlik  -- accessibility
+tam yol ileri  -- full steam ahead
+yaşam alanı  -- living space
+-yaşat  -- keep alive
+-sürü  -- drag
+esas  -- basis, principle, essence, substance	__ yaşamın esasları.
+yaşamın esasları  -- essentials of life
+
+ZZZZZZ_verzyon 2026-04-23-2
