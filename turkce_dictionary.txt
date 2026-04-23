@@ -5931,5 +5931,13 @@ ipucu  -- hint, clue
 -giyin  -- to get dressed; kendi kendine giysi giymek	__ çabuk giyin, geç kalıyoruz.
 -üstümü değiştirmek  -- to change clothes; üzerindeki giysileri çıkarıp başkalarını giymek	__ çok terledim, gidip üstümü değiştirmek gerek.
 
-ZZZZZZ_version 2026-04-22-1
+ZZZZZZ_verzyon 2026-04-22-1
+çesşme  -- fountain	__ taksim çesşmesi sokağı.
+ütüleme  -- ironing
+ölü  -- dead, deceased
+dürüm  -- bread wrap  (fd)
+usta  -- master, chef, expert	__ dürüm ustas
+sınırsız  -- unlimited	__ sınırsız fotoğraflar
+-göz atmak  -- check out sth
+-okutu  -- scan sth	__ ilk ürününüzü okutun.
 
