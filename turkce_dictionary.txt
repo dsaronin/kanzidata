@@ -979,7 +979,7 @@ cilt  -- skin	__ senin cildin çok sağlıklı.
 çin  -- china [country]
 çinli  -- china [people]
 cinsel sağlık  -- sexual health
-ciplak  -- naked
+çiplak  -- naked	__ çıplak yok mu?
 çırçıplak  -- stark naked [çıplak]	__ gün ışığında çırılçıplak yatıyorum.
 çirkin  -- ugly  [<> güzel]	__ 
 çırpıcı  -- whisk
@@ -2154,9 +2154,9 @@ ileri  -- forward, further, along	__
 -ilerle  -- progress, advance, proceed, go ahead with	__ tamam senin yöntemlerinle ilerleriz.
 iletişim  -- communication, transmission
 iletişim  -- contact   (tech)
--iletişime geç  -- pass communication
+-iletişime geçmek  -- contact, get in touch (idm); biriyle bağ kurmak	__ detaylı bilgi için lütfen bizimle iletişime geçin.
 iletişimkurabil  -- communicatative
--iletişim kur  -- communicate
+-iletişim kurmak  -- communicate
 iletişim  -- transport & communication 
 ile  -- with, and
 ilgi alanı  -- domain, pursuit
@@ -2462,7 +2462,7 @@ kaptan  -- captain
 kara  -- dark, black [turkic] [<> ak]	__ karadeniz.
 karaciğer  -- liver
 karadeniz  -- the black sea	__ karadeniz bölgesi.
-karakterli  -- character
+karakteri  -- character
 karanlık  -- dark, darkness	__ şimdi karanlık.
 karanlık  -- dim, shadow
 karanlık  -- murky, gloomy
@@ -4579,9 +4579,9 @@ varsayalım  -- supposing  (conj)
 vatandaş  -- citizen [vatan+daş]
 vatansever  -- patriot, patriotic
 vay!  -- wow!  (expl)
--vazgeç  -- abandon, give up, disclaim, discontinue, renounce, back down from
--vazgeç  -- surrender, relinquish, recant, quit, forego, forsake
--vaz geç  -- to change one's mind about [ablat]
+-vaz geçmek  -- abandon, give up, disclaim, discontinue, renounce, back down from
+-vaz geçmek  -- surrender, relinquish, recant, quit, forego, forsake
+-vaz geçmek  -- to change one's mind about [ablat]
 vazo  -- vase
 v~diğimce  -- as … x … as 
 v~diğimden  -- from that [ablative]
@@ -5902,7 +5902,7 @@ bozuk  -- corrupt, depraved [social] [<> düzgün]; ahlakı veya karakteri düzg
 bozuk  -- loose change [monetary]; küçük değerli madeni para.	__ Üzerinizde bozuk var mı? Otobüs için lazım.
 ileti  -- message, notification; birine ulaştırılan bilgi veya haber.	__ Telefonuma yeni bir ileti geldi ama henüz okumadım.
 meğer  -- as it turns out, actually; (adv) bilinmeyen bir durumun sonradan öğrenildiğini anlatır.	__ Onu arkadaşı sanıyordum, meğer kardeşiymiş.
--jeton düşmek  -- to finally understand [idm]; bir durumu geç de olsa kavramak.	__ Konuyu ancak on dakika sonra anladım, jeton geç düştü.
+-jeton düşmek  -- to finally understand (idm); bir durumu geç de olsa kavramak.	__ Konuyu ancak on dakika sonra anladım, jeton geç düştü.
 dilim sürçmüş  -- slip of the tongue; (idm) yanlışlıkla yanlış bir kelime söylemek veya hata yapmak.	__ kusura bakma, dilim sürçmüş; başka bir şey söyleyecektim.
 -sürç  -- to slip, to stumble; (v) yürürken ayağı takılmak veya konuşurken hata yapmak.	__ karanlıkta yürürken ayağım sürçtü ve neredeyse düşüyordum.
 çıtır  -- jail bait, chick  (slang)	__ genç parlak citir pasif var mi.
@@ -6023,15 +6023,60 @@ cahil  -- ignorant, clueless	__ ben cahil değilim.
 cahil  -- backwards, bumpkin	__ eyalet cahillerle dolu.
 -yor	-- tire, exhaust; birini yorgun düşürmek	__ bu yoğun iş temposu beni çok yordu.
 yormadan	-- effortlessly, without drama; yorgunluk vermeden	__ beni yormadan ilerleyen bir ilişki istiyorum.
-kıro	-- unrefined, boorish [slang]; görgüsüz ve kaba kimse	__ o adamın kıro tavırları beni rahatsız ediyor.
+kıro	-- unrefined, boorish (slang); görgüsüz ve kaba kimse	__ o adamın kıro tavırları beni rahatsız ediyor.
 maço	-- macho; sert ve baskın erkek tipi	__ maço karakterli insanlarla anlaşamam.
 cahil	-- ignorant, uneducated; bilgisiz, öğrenim görmemiş	__ cahil insanlarla vakit geçirmek istemiyorum.
 ücretli	-- paid, for a fee; parayla yapılan	__ bu uygulama üzerinden ücretli arkadaşlık teklif etmeyin.
 yüksek ego  -- diva, arrogant; kendini diğerlerinden üstün görme durumu	__ yüksek ego sahibi insanlarla anlaşmak çok zordur.
-yüksek ego  -- full of oneself [idm]; başkalarını önemsemeyen bencillik	__ sadece kendinden bahseden yüksek ego sahibi kişilerden bıktım.
+yüksek ego  -- full of oneself (idm); başkalarını önemsemeyen bencillik	__ sadece kendinden bahseden yüksek ego sahibi kişilerden bıktım.
 yüksek beklenti  -- high expectations; bir durumdan veya kişiden çok fazla şey umma	__ yeni işimden yana yüksek beklenti içindeyim.
 dikkatlice  -- carefully	__ dikkatlice dinleysin.
 zirve  -- peak, summit, apogee, apex	__ taksim zirveler.
+öğün  -- meal  (fd)
+öğün yemeği  -- meal	__ Tam bir öğün yemeği için çok geç. 
+duyuru  -- ad, notice
+ne dersin?  -- what do you say? [dative]	__ bir lokantaya ne dersin? Buna ne dersin? Kahveye ne dersin?
+-çek	-- pull, draw, crave; bir şeyi çok istemek veya özlemek	__ canım çok dondurma çekiyor.
+-canı çekmek  -- crave sth; bir şeyi yeme veya yapma isteği duymak	__ hamile olduğu için canı sürekli ekşi şeyler çekiyor.
+mercimek çorbası  -- lentil soup; mercimekle yapılan çorba türü	__ kış aylarında sıcak bir mercimek çorbası çok iyi gider.
+-al	-- take, have, get [ordering food]; bir şeyi satın almak veya sipariş etmek	__ ben bir porsiyon döner alayım.
+sur  -- city wall, rampart	__ theodosius surları.
+su terazisi  -- water balance
+uyuşturucu  -- narcotics, opiates, drugs
+uyarıcı  -- stimulant	__ kafeinin kalp üzerinde uyarıcı etkileri vardır.
+kafeinin  -- caffeine
+masör  -- masseur, masseuse
+-özet geçmek  -- summarize (idm); bir konuyu kısa ve öz anlatmak	__ çok vaktim yok, lütfen özet geç.
+-paylaş  -- share; bölüşmek veya bir şeyi başkalarına sunmak	__ bu bilgiyi sosyal medyada paylaşacağım.
+paylaşım  -- post, share [social media]; sosyal medyada yayınlanan içerik	__ son paylaşımı çok beğeni aldı.
+adına  -- for the sake of, in order to; bir amaç uğruna	__ daha iyi bir gelecek adına çok çalışıyorum.
+abazan  -- sexually frustrated (slang); cinsel açlık çeken kimse	__ sosyal medya abazan mesajlarıyla dolu.
+bağımlı  -- addict, dependent; bir şeye aşırı tutkun olan	__ o tam bir oyun bağımlısı olmuş.
+ortam  -- scene, social circle; bulunulan yer veya sosyal çevre	__ yeni girdiğim ortamı pek sevmedim.
+anlık  -- instant, momentary; o ana mahsus olan	__ anlık kararlar bazen yanlış olabilir.
+sanalcı  -- virtual seeker (slang); sadece internet üzerinden ilişki kuran	__ ciddi bir ilişki yerine sanalcılarla vakit öldürme.
+-karakteri oturmak  -- have a mature character (idm); kişiliği gelişmiş ve dengeli olmak	__ karakteri oturmuş biriyle evlenmek istiyorum.
+arayış  -- search, quest; bir şeyi bulma çabası	__ yeni bir iş arayışı içindeyim.
+odak  -- focus, center; bir şeyin toplandığı yer	__ bütün odak noktamız bu proje olmalı.
+odaklı  -- focused, oriented; bir şeye yönelmiş olan	__ çözüm odaklı bir yaklaşım sergiledi.
+-bağ  -- tie, bond; bir şeyi başka bir şeye iliştirmek	__ ayakkabımın bağını sıkıca bağladım.
+kaçkın  -- escapee, fugitive; bir yerden kaçan kimse	__ o her zaman sorumluluk kaçkını biridir.
+kaşar  -- player (slang), experienced; çok deneyimli veya kurnaz kimse	__ o siyasetin eski kaşarlarındandır.
+kaşar  -- kashar cheese; sarı ve sert bir peynir türü	__ sabah kahvaltısında taze kaşar yedik.
+sanal  -- virtual; gerçekte olmayan ancak bilgisayarda var olan	__ sanal dünyada vakit geçirmeyi seviyor.
+cinsellik  -- sexuality; cinsel özelliklerin bütünü	__ sağlıklı bir ilişkide cinsellik de önemlidir.
+arkadaşlık dostluk  -- friendship and companionship; derin bağlarla kurulan ilişki	__ aramızdaki arkadaşlık dostluk seviyesine ulaştı.
+seks odaklılar  -- sex-oriented, sex-focused people
+-ilet  -- transmit, convey, send; bir şeyi bir yerden başka bir yere ulaştırmak	__ fiber kablo veriyi çok hızlı iletir.
+cinsel  -- sexual; cinsellikle ilgili olan	__ cinsel sağlık konusunda bilinçli olmalıyız.
+cinsel  -- genital; üreme organlarıyla ilgili olan	__ cinsel bölgede kaşıntı ve kızarıklık var.
+cinsel  -- erotic; cinsel istek uyandıran	__ bu filmde cinsel içerikli sahneler çok fazla.
+-bur  -- twist, wring; bir şeyi bükerek sıkmak veya döndürmek	__ ıslak çamaşırları iyice burup astım.
+-bur  -- sting, pinch [pain]; keskin ve ani bir sızı vermek	__ soğuktan parmak uçlarım buruyor.
+-bur  -- astringe, pucker; ağızda kekremsi bir tat bırakmak	__ olgunlaşmamış ham erik ağzımı burdu.
+-bur  -- twist, sprain [joint]; bir eklemi ters hareketle incitmek	__ merdivenden inerken ayağımı burdum.
+fizik  -- physique, body; birinin vücut yapısı	__ düzenli spor yaptığı için fiziği çok düzgün.
+fizik  -- physics; madde ve enerjiyi inceleyen bilim	__ lisedeyken en sevdiğim ders fizikti.
 
-ZZZZZZ_verzyon 2026-04-24-1
+ZZZZZZ_verzyon 2026-04-25-1
 
