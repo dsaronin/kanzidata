@@ -1891,7 +1891,7 @@ hadi lan  -- 《aw come on, yr bsg me!》
 hafif   -- light, lightly	__ 
 hafif yemek  -- snack, light meal; aperatif, meze
 hafriyat  -- excavation
-hafta içi  -- mid-week	__ hafta içi izinliyim bir gün.
+hafta içi  -- weekday, mid-week	__ hafta içi izinliyim bir gün.
 haftalık  -- weekly
 hafta ortası  -- midweek
 hafta sonu  -- weekend
@@ -2582,7 +2582,7 @@ kenyace  -- kenya [language]
 kenya  -- kenya [country]
 kenyalı  -- kenya [people]
 kepçe  -- ladle
-kere  -- time, occurrence
+kere  -- time, occurrence	__ ayda bir kere de sinemaya gidiyoruz. 
 kerhane  -- brothel	__ kerhanede koca arayanlar uzak dursun.
 kertenkele  -- lizard
 -kes  -- cut, chop, carve	__ 
@@ -3243,10 +3243,8 @@ ocak  -- january [ayı]
 ocak  -- stove
 oda arkadaşi  -- roommate
 oda  -- room
-ödeme  -- payment, pay	__ birleşik ödeme hizmetleri.
 -öden  -- pay, be paid
 -öde  -- pay
-ödev  -- homework, assignment	__ ödev için fikirler oluştururken zaman çabuk akıyor.
 oduncu  -- woodcutter, woodsman, timberman
 ofis  -- office
 oğlan  -- boy
@@ -3910,7 +3908,6 @@ silgi  -- eraser
 simit  -- bagel-like pastry  (fd)
 sim kart  -- sim card  (tech)
 simsiyah  -- jet black [siyah]
-sınav  -- exam, test	__ dünkü türkçe sınavı kolay değildi.
 sinek  -- fly
 sinema  -- movie theater	__ buraya yakın bir sinema var mı?
 singapurce  -- singapore [language]
@@ -6077,6 +6074,32 @@ cinsel  -- erotic; cinsel istek uyandıran	__ bu filmde cinsel içerikli sahnele
 -bur  -- twist, sprain [joint]; bir eklemi ters hareketle incitmek	__ merdivenden inerken ayağımı burdum.
 fizik  -- physique, body; birinin vücut yapısı	__ düzenli spor yaptığı için fiziği çok düzgün.
 fizik  -- physics; madde ve enerjiyi inceleyen bilim	__ lisedeyken en sevdiğim ders fizikti.
+sınav  -- exam, test; bilgiyi ölçmek için yapılan yoklama	__ dünkü türkçe sınavı kolay değildi.
+görev  -- duty, mission; birinin yapmakla yükümlü olduğu iş	__ askerlik her türk genci için kutsal bir görevdir.
+işlev  -- function; bir şeyin gördüğü iş veya amaç	__ bu düğmenin işlevini henüz çözemedim.
+türev  -- derivative; bir şeyden türetilmiş olan	__ bu kelime, "göz" kökünden gelen bir türevdir.
+-sın  -- break, fail, be tested; kırılmak veya denemekten geçmek	__ düşman bu cephede ağır bir bozguna uğrayıp sındı.
+-türe  -- derive, emerge, reproduce; bir kökten çıkmak veya çoğalmak	__ bu virüsün yeni bir varyantı türedi.
+-işle  -- process, work, operate; bir şeyi işe yarar hale getirmek	__ terzi kumaşı büyük bir titizlikle işledi.
+öde-  -- pay, fulfill, settle; bir borcu veya yükümlülüğü yerine getirmek	__ bu ayki faturaları henüz ödemedim.
+ödeme  -- payment; borcun karşılığı olan parayı verme işi	__ ödemeyi kredi kartıyla yapabilirsiniz. birleşik ödeme hizmetleri.
+ödev  -- duty, homework; yapılması gereken iş veya görev	__ akşam yemeğinden sonra ödevlerini bitirdi.
+vazife  -- duty, task (arch); ödev veya görev	__ vatanı korumak her vatandaşın vazifesidir.
+tiyatro oyunu  -- theater play
+hobi  -- hobby
+kulüb  -- club
 
-ZZZZZZ_verzyon 2026-04-25-1
+sorma ya  -- don't ask ugh 
+kulüp toplantısı  -- club meeting
+uzun sürüyor  -- takes a long time
+hepimiz  -- all of us
+ayda bir kere  -- once a month
+hangi gün?  -- which day?
+doğru  -- right
+bu arada  -- by the way
+yine mi?  -- again?
+-sıkıl  -- gets bored
+valla bilmiyor  -- well, don't know 
+öf  -- ugh
 
+ZZZZZZ_verzyon 2026-04-25-2
