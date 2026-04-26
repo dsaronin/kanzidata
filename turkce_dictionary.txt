@@ -298,7 +298,7 @@ asılı  -- hanging, suspended; asma	__ ağacın dallarında asılı kaldığın
 -asılı kalmak  -- be hanging, suspended	__ ağacın dallarında asılı kaldığını görmüş.
 aşina  -- familiar; tanıdık, bilinen, alışık	__ bu tür bir çizelge, herhangi bir dil öğrencisine aşina.
 asır  -- century
-aşırı  -- extreme, ultra, excessive, super
+aşırı  -- extreme, ultra, very, excessive, super	__ aşırı gizliyim.
 aşırı  -- over, extremely, excessively	__ aşırı duygusal bir.
 asker  -- soldier
 aşk hikayesi  -- love story, romance
@@ -1750,6 +1750,7 @@ giysiler  -- things, wardrobe, clothes	__ benim yatağım ve giysilerim mavi.
 gizemli  -- mysterious
 gizem  -- mystery
 -gizle  -- hide, conceal, cover up, disguise, cloak	__ fotoğraf atamayacak kadar gizlersen yazma.
+-gizle  -- discreet, secretive	__ aşırı gizliyim.
 gizli  -- confidential, discreet, secretive, covert (slang)	__ gizlilik içinde tanışalım.
 gizli menü  -- secret menu
 gizli  -- private, secret, confidential, hidden	__ herşey gizlilik içinde.
@@ -4525,7 +4526,6 @@ uyma  -- fit [n]
 uyruk  -- nationality, citizen, subject; milliyet, vatandaş
 uyulması gereken  -- observable, to be followed	__ dinlerken uyulması gereken kurallar.
 -uyul  -- to be obeyed, to be followed [rules, etc]	__ 
-uyum  -- harmony
 uyum  -- harmony, accord, balance, proportion	__ genç zayıf sikiciler 2 saat burdayım ucret verebilirim kafa uyumu olursa. 
 uyumlu  -- compatible, matching
 uyumlu  -- harmonic, musical, melodious, harmonious
@@ -6101,5 +6101,33 @@ yine mi?  -- again?
 -sıkıl  -- gets bored
 valla bilmiyor  -- well, don't know 
 öf  -- ugh
+kaliteli  -- qualified, high quality	__ sadece kaliteli seven.
+-vakit geçirmek  -- spend time (idm); zamanı bir işle veya eğlenerek tüketmek	__ hafta sonu ailemle vakit geçirmeyi seviyorum.
+seven  -- lover, one who likes; bir şeyi veya birini seven kimse	__ müzik seven insanlar burada toplandı.
+kalite  -- quality; bir şeyin ne kadar iyi veya üstün olduğu niteliği	__ bu kumaşın kalitesi beklediğimden çok daha yüksek.
+-kalitele  -- qualify, improve quality; bir şeyi kaliteli hale getirmek	__ üretim bandındaki ürünleri tek tek kalitelediler.
+arayış  -- search, quest; bir şeyi bulma veya elde etme çabası	__ yeni bir iş arayışı içindeyim. arayışım dışındakiler mesaj yazmayın.
+iddialı  -- ambitious, assertive [expertise]; büyük hedefleri olan veya kendine çok güvenen	__ yeni projesi için oldukça iddialı konuşuyor.
+iddialı  -- bold, flashy, striking; dikkat çekici ve iddia sahibi (kıyafet vb.)	__ partiye çok iddialı, kırmızı bir elbiseyle geldi.
+iddialı  -- high-end, top-tier, expert; bir konuda en iyisi olduğunu iddia eden	__ bu restoran deniz ürünleri konusunda çok iddialıdır.
+iddia  -- claim/assertion
+-iddia etmek  -- claim, assert; bir şeyi doğru olarak öne sürmek	__ her konuda haklı olduğunu iddia ediyor.
+şahane  -- magnificent, wonderful; çok güzel, mükemmel	__ istanbul'un manzarası gerçekten şahane.
+sabır  -- patience; zorluklara dayanma gücü	__ bu işi bitirmek için çok sabır gerekiyor.
+-gerek  -- be necessary, be required; bir şeyin lazım olması	__ gitmeden önce hazırlık yapmamız gerek.
+staka  -- staccato, fragmented; kesik kesik, parçalı	__ staka bir konuşma tarzıyla kendini ifade etmeye çalıştı.
+-çözümle  -- analyze, parse; bir şeyi öğelerine ayırarak incelemek	__ bu karmaşık cümleyi çözümlemek oldukça zaman aldı.
+yapı  -- structure, construction; bir şeyin oluşturulma biçimi	__ türkçe'nin dil yapısı ingilizce'den çok farklıdır.
+bağlam  -- context; bir olayın veya sözün geçtiği ortam	__ kelimenin anlamını bağlamından koparmadan anlamalısın.
+-bağlan  -- be connected, be dependent; bir şeye bağlı hale gelmek	__ sonuç, senin çabana göre bağlandığı için önemli.
+ölçüt  -- criterion, benchmark; değerlendirme için esas alınan şey	__ işe alımda en büyük ölçüt tecrübedir.
+cömert  -- generous; parasını veya imkanlarını esirgemeyen	__ arkadaşlarına karşı her zaman cömerttir. Kişisine göre cömert olan.
+sinirli  -- angry, nervous, irritable; çabuk öfkelenen	__ bugünlerde çok sinirli görünüyor. Yerine göre sinirlenen.
+-keyiflen  -- become joyful, cheer up; neşelenmek, tadı yerine gelmek	__ güzel haberi alınca birden keyiflendi. Ortama göre keyiflenen.
+ortam  -- environment, atmosphere, vibe; bulunulan yerin havası	__ bu kafenin ortamı çok huzurlu.
+harici  -- external, excluding, besides; bir şeyin dışında kalan	__ bu planın haricinde başka seçeneğimiz yok.
+şeref  -- honor, dignity; toplumca verilen değer, onur	__ şeref sözü vermek ciddi bir sorumluluktur.
+söz  -- word, promise; bir şeyi yapacağına dair verilen garanti	__ sözünü tutmayan insanlara kızarım.
 
-ZZZZZZ_verzyon 2026-04-25-2
+ZZZZZZ_verzyon 2026-04-26-1
+
