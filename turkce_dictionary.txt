@@ -771,11 +771,10 @@ bulma  -- finding; taz -bul: find
 bülteni  -- bulletin
 bulunan  -- situated [in a place], based [in a location] [<-bulun]; merkezli	__ new york'ta bulanan ibm şirketi dünyanın en büyük bilgisayar fırmasıdır.
 -bulun {bulunur}  -- to be found at, be, have, exist, stand, be situated, reside	__ maddi destekte bulunabilecek olgunlar yazsın tanışalım.
--buluş {buluşur}  -- to meet together, to convey
 buluş  -- discovery, invention, find, detect
-buluşma  -- meeting, date, rendezvous, appointment	__ spontane buluşmalar.
+buluşma  -- meeting, date, rendezvous, appointment; bir araya gelmek	__ spontane buluşmalar.
 buluşma noktası  -- meeting point
--buluş  -- meet, get together, date	__ seninle her gün buluşuyorsa, seni seviyor demektir.
+-buluş {buluşur}  -- meet, get together, date	__ seninle her gün buluşuyorsa, seni seviyor demektir.
 buluş  -- puberty; ergenlik, erginlik, buluğ
 -buluşturul {buluşturulur}  -- to be caused to meet or get together
 bulutlar  -- clouds
@@ -3932,7 +3931,7 @@ sıra  -- ordinal	__ sıra sayıları
 sıra sayıları  -- ordinal numbers
 sırasin[da]  -- during, while
 sırf  -- pure, mere, sheer, very
-şirin  -- cute, lovely, sweet, pleasant	__ haliç manzaralı şirin bir stüdyo daire.
+şirin  -- cute, charming, sweet; sevimli, cana yakın __ çok şirin bir kafede kahve içtik. haliç manzaralı şirin bir stüdyo daire.
 şirket  -- company
 şirket  -- company, firm [business]
 sır  -- secret
@@ -6170,6 +6169,12 @@ hassas  -- sensitive, precise, delicate; duyarlı, ince __ bu ölçüm cihazı �
 mıknatıs  -- magnet; demirçeken __ mıknatısın bile birbirini çeken iki zıt kutbu vardır.
 zıt  -- opposite, contrary, reverse; karşıt, ters __ bu iki fikir birbirine tamamen zıt.
 kutup  -- pole, terminal; uç, poyraz __ mıknatısın kuzey ve güney olmak üzere iki kutbu vardır.
+esans  -- essence, fragrance oil, extract; öz, koku __ bu parfümün içindeki gül esansı çok yoğun.
+attar  -- herbalist, perfume seller, traditional apothecary; aktar, baharatçı __ kapalıçarşı'daki eski bir attardan özel bir karışım aldım.
+-sür  -- takes, spans time; devam etmek __ yürüyerek taksim'e gitmek yirmi dakika sürüyor. bazen uzun sürüyor.
+bana haber ver  -- let me know	__ o halde bana haber ver
+o halde  -- then	__ o halde bana haber ver
+demek oluyor ki  -- in that case, then; demek oluyor ki, o halde, öyleyse
 
-ZZZZZZ_verzyon 2026-04-27-1
+ZZZZZZ_verzyon 2026-04-27-2
 
