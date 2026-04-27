@@ -1383,7 +1383,7 @@ ek  -- extra, addition, appendix, supplement, annex, adjunct	__ ek açıklama.
 ekim  -- october [ayı]
 ekip  -- crew, team, squad	__ uçuş ekipler
 ekipman  -- equipment	__ kişisel koruyucu ekipmanı sağlanmaktadirn.
--ekle  -- add, join, attach, insert, affix, append	__ ekleyeyim seni. merhabana yüz foto ekle. sanırım çok fazla tuz eklemişsin.
+-ekle  -- add, join, attach, insert, affix, append	__ ekleyeyim seni. merhabana yüz foto ekle. sanırım çok fazla tuz eklemişsin. tamam whatsappa ekliyorum seni daudi.
 eklem ağrısı  -- joint pain
 eklem  -- joint
 ekleyen  -- added
@@ -2012,7 +2012,7 @@ hep {hepsi}  -- all, all of [it, them]	__ hepsini izleyemedim.
 hepsi  -- total, all of it	__ hepsi ne kadar?
 her  -- all, any, each, every
 her gün  -- daily
-herhalde  -- probably
+herhalde  -- probably	__ 'öğreniyorum' demek istedin herhalde.
 her hangi  -- any, some
 her hangi biri  -- anybody	__ herhangi biriniz parka gidiyor mu?
 her hangi bir şey  -- something, anything
@@ -4397,7 +4397,6 @@ tur  -- tour [tourist]
 tür  -- type, kind, class, species, genre	__ bu başka bir tür. ne tür çeşitleriniz var?
 turuncu  -- orange
 tutarak  -- by holding	__ dakika tutarak beş defa okuyalım.
-tutar  -- amount	__ gönderilebilir minimum tutadır.
 tut  -- choke back, retrain, gethold of
 tutku  -- desire, ambition
 tutku  -- passion, penchant	__ kasmadan, yormadan, tutku ile.
@@ -5721,8 +5720,6 @@ sahiplik sıftarı  -- possessive adjective
 tabiki de  -- of course	__ tabiki de soğuk.
 ikinci el  -- second hand, used
 eğlenmeyi  -- having fun
-
-kişilik  -- personality, identify, character
 sıcakkanlı  -- warmblooded
 antik  -- ancient
 kızartma  -- fritter, fried food  (fd)
@@ -6096,7 +6093,6 @@ hepimiz  -- all of us
 ayda bir kere  -- once a month
 hangi gün?  -- which day?
 doğru  -- right
-bu arada  -- by the way
 yine mi?  -- again?
 -sıkıl  -- gets bored
 valla bilmiyor  -- well, don't know 
@@ -6128,6 +6124,52 @@ ortam  -- environment, atmosphere, vibe; bulunulan yerin havası	__ bu kafenin o
 harici  -- external, excluding, besides; bir şeyin dışında kalan	__ bu planın haricinde başka seçeneğimiz yok.
 şeref  -- honor, dignity; toplumca verilen değer, onur	__ şeref sözü vermek ciddi bir sorumluluktur.
 söz  -- word, promise; bir şeyi yapacağına dair verilen garanti	__ sözünü tutmayan insanlara kızarım.
+samimi  -- sincere, intimate, close; içten, dürüst	__ daha önce çok samimi arkadaşlarım oldu.
+dönem  -- period, term, phase; belli bir süre	__ deneme amaçlı, kısa süreli bir fotoğraf çekimi dönemi mi?
+bişey  -- something, anything (colloquial); bir şey	__ eğer bir yerde kahve veya bişey içmek istersen yaz bana.
+-dur  -- look, stand, appear; bir halde bulunmak	__ dün gördüğüm o siyahi beyfendi çok hoş duruyordu.
+-bahset -- mention, talk about; bir konu hakkında konuşmak	__ sadece bir model olduğunu gösteriyor, bundan bahsetmiyorum.
+bahis -- subject, topic, mention, bet; konu, mevzu __ bu bahis kapandı, artık başka şeylerden konuşalım.
+doğalgaz  -- natural gas; yer gazı __ binaya doğalgaz tesisatı yeni döşendi.
+kombi  -- combi boiler, central heating unit; kat kaloriferi __ kış gelmeden kombi bakımını yaptırmalıyız.
+radyatör  -- radiator; petek __ radyatörün havasını almak gerekiyor.
+tesisat  -- plumbing, installation, wiring; döşem, kuram __ su tesisatında büyük bir sızıntı var.
+bütçe  -- budget; gelir-gider planı __ her bütçeye uygun bir çözümümüz var.
+koşul  -- condition, requirement; şart __ ödeme koşulları hakkında bilgi alabilir miyim?
+mühendislik -- engineering; teknik uzmanlık alanı __ çağ mühendislik projeyi başarıyla tamamladı.
+-ısıt  -- heat, warm up; sıcaklığını artırmak __ kışın evi ısıtmak oldukça maliyetli.
+ısıtma  -- heating; ısınma sistemi __ ısıtma ve soğutma sistemleri bakım gerektirir.
+-soğu  -- cool down, become cold; ısısını kaybetmek __ yemek soğumadan hemen gel.
+soğutma  -- cooling; soğutma işlemi __ soğutma sistemleri yazın aralıksız çalışıyor.
+keşif  -- discovery, exploration, inspection; bulgu, inceleme __ ücretsiz keşif için randevu aldık.
+asıl  -- original, essence, root; temel, gerçek __ bu hikayenin aslını kimse bilmiyor.
+-yaşat  -- keep alive, let live; canlı tutmak __ keşfin aslını yaşatır bu yeni proje.
+sevgi  -- love, affection; aşk, muhabbet __ sevgi her sorunun anahtarıdır.
+soysal  -- social; toplumsal __ sevgi soysal kütüphanesi çok sakin.
+umut  -- hope; ümit __ umut burada her zaman vardır.
+neler  -- what (plural/varied); ne gibi şeyler __ şehirde neler oluyor, takip edemiyorum.
+topuzlu  -- having a knob/mace [proper name]; topuzlu __ cemil topuzlu açık hava tiyatrosu çok meşhur.
+rumeli  -- rumelia [european part of ottoman empire]; balkanlar __ rumeli hisarı istanbul'un simgelerindendir.
+-tut  -- hold, keep; yakalamak __ elimi sıkıca tut.
+tutar  -- amount, fee, rate; miktar, bedel __ toplam tutar ₺220 ediyor. tutar ne kadar? gönderilebilir minimum tutadır.
+cerrahi  -- surgery (medical field); cerrahlık __ plastik cerrahi bölümü üst katta.
+plastik cerrahi  -- plastic surgery
+ilçe  -- district, sub-province; kaza, semt __ her ilde ve her ilçede şubemiz var.
+an  -- moment; saniye, zaman dilimi __ aynı anda iki işi yapabiliyor.
+cerrah  -- surgeon; operatör doktor __ cemil topuzlu türkiye'nin en ünlü cerrahlarından biridir.
+aynı anda  -- simultaneously, at the same time; eş zamanlı __ her il, her ilçede aynı anda Vodacom.
+eş zamanlı  -- simultaneous, concurrent, synchronized  (tech); aynı anda gerçekleşen, senkronize __ paralel süreçlerin eş zamanlı yönetimi yarış durumlarını önler.
+paralellik  -- parallelism
+senkronizasyon  -- synchronization
+kongre  -- congress
+düşünceli  -- thoughtful, considerate, pensive; ince fikirli, saygılı __ çok düşünceli bir beyefendi, her detayı planlamış.
+zarafet  -- elegance, grace, refinement; incelik, naziklik __ onun her hareketinde doğal bir zarafet var.
+hassasiyet  -- sensitivity, precision, susceptibility; duyarlılık, özen __ bu konuda gösterdiğiniz hassasiyet için teşekkür ederim.
+kırılganlık  -- fragility, vulnerability; çabuk kırılma özelliği, hassaslık __ ekonomik verilerdeki kırılganlık devam ediyor.
+hassas  -- sensitive, precise, delicate; duyarlı, ince __ bu ölçüm cihazı çok hassas bir sensöre sahip.
+mıknatıs  -- magnet; demirçeken __ mıknatısın bile birbirini çeken iki zıt kutbu vardır.
+zıt  -- opposite, contrary, reverse; karşıt, ters __ bu iki fikir birbirine tamamen zıt.
+kutup  -- pole, terminal; uç, poyraz __ mıknatısın kuzey ve güney olmak üzere iki kutbu vardır.
 
-ZZZZZZ_verzyon 2026-04-26-1
+ZZZZZZ_verzyon 2026-04-27-1
 
