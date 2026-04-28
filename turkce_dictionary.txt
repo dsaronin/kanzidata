@@ -3280,7 +3280,7 @@ okyanus  -- ocean
 olacaksa  -- if it is going to happen	__ bu yüzden olacaksa gerçek, tam, güzel bir ilişki olsun istiyorum.
 olağan dışı  -- unusual, unordinary, abnormal	__ olağan dışı kar yağışlarının görüldüğü günler yaşadık.
 olağan  -- usual, ordinary, normal, regular, common	__
-olan  -- one [which]	__ şu siyah olan güzelmiş.
+olan  -- one [which]	__ şu siyah olan güzelmiş. X onlar Y olur.
 olan  -- you have sth
 olarak  -- as, in, for	__ kalıp olarak. arkadaş olarak
 olası  -- potential,probable
@@ -3294,7 +3294,7 @@ olay  {olaylar}  -- incident, event, case	__ bu yeni bir olay. bu olaylar gerçe
 -ölçüsünü almak  -- measure
 -ölçü yapmak  -- take measurement	__ havalimanında vücut sıçaklığı ölçümünüz yapılacaktır. 
 -öl {ölür}  -- die	__ birçok kişi o kazada öldü.
--oldu  -- became, happened
+-oldu  -- existed, have, happened	__ 
 olduğu sürece  -- as long as  (conj)
 oldukça  -- quite, rather, fairly
 -öldür  -- to kill sby
@@ -3392,6 +3392,7 @@ ova  -- plain [landform]
 öyle/ki  -- such/that  (conj)
 öylesine  -- just, so, such; böylesine, çok, oldukça	__ merhaba, öylesine profillere bakıyordum.
 öyle  -- thus, in that fashion, so, such; çok, böyle	__ teşekkür ederim; sen de öylesin. öylesine türkçe yazı gördüm.
+öyle  -- like that [o+ile]	__ öyle miyim? öylesin.
 -oyna  -- dance, hop, perform
 -oyna {oynar}  -- to play
 -oyna  -- play, act	__ ben oynarım.
@@ -4069,7 +4070,7 @@ süpermaket  -- supermarket
 şüphe  -- doubt, suspicion, uncertainity, qualm	__ 
 sürahi  -- jug
 -sür  -- apply, wipe, rub, roll, spread [oil]	__ bacaklarima krem sürerek yapsan masaj.
-surat  -- face	__ penisimle surat tokatlarim.
+surat  -- face  (colloq)	__ penisimle surat tokatlarim.
 şura  -- [to] there [far away]
 -sür  -- drive out, banish, cast out, exile, expel
 -sür  -- drive [vehicle]	__ eve gitmen ne kadar sürecek?
@@ -5208,7 +5209,7 @@ hasta hakları bildirgesi  -- patient's bill of rights
 bildirge  -- advice, declaration	__ e-bildirge
 bildirge  -- manifesto, proclamation
 bildirge  -- questionnaire
-çekici  -- attractive, appealing, charming, captivating; cazip, ilgi çekici
+çekici  -- attractive, charismatic, appealing, charming, captivating; cazip, ilgi çekici	__ türk erkekleri çok çekici direk yatağa.
 istem  -- request, demand; talep, dilek
 istem  -- prompt  (tech)
 -hata yapmak  -- make a mistake
@@ -6120,6 +6121,7 @@ samimi  -- sincere, intimate, close; içten, dürüst	__ daha önce çok samimi 
 dönem  -- period, term, phase; belli bir süre	__ deneme amaçlı, kısa süreli bir fotoğraf çekimi dönemi mi?
 bişey  -- something, anything (colloquial); bir şey	__ eğer bir yerde kahve veya bişey içmek istersen yaz bana.
 -dur  -- look, stand, appear; bir halde bulunmak	__ dün gördüğüm o siyahi beyfendi çok hoş duruyordu.
+-adj durmak  -- appears to be adj, looks like adj  (slang)
 -bahset -- mention, talk about; bir konu hakkında konuşmak	__ sadece bir model olduğunu gösteriyor, bundan bahsetmiyorum.
 bahis -- subject, topic, mention, bet; konu, mevzu __ bu bahis kapandı, artık başka şeylerden konuşalım.
 doğalgaz  -- natural gas; yer gazı __ binaya doğalgaz tesisatı yeni döşendi.
@@ -6168,8 +6170,6 @@ attar  -- herbalist, perfume seller, traditional apothecary; aktar, baharatçı 
 bana haber ver  -- let me know	__ o halde bana haber ver
 o halde  -- then	__ o halde bana haber ver
 demek oluyor ki  -- in that case, then; demek oluyor ki, o halde, öyleyse
-
-ZZZZZZ_verzyon 2026-04-27-2
 börek  -- savory pastry, layered dough dish  (fd); hamur işi __ sabah kahvaltısında peynirli börek yemeyi çok severim.
 su böreği  -- boiled börek filled with white cheese (fd)
 sigara böreği  -- fried (fd)
@@ -6181,5 +6181,16 @@ gelmek üzereyim  -- am about to arrive  (expr)
 az kaldı  -- arriving soon [time/distance]  (expr)
 yaklaştım  -- approaching neighborhood  (expr)
 varmak üzereyim  -- about to arrive [formal]  (expr)
+daha önce  -- previously/before	__ daha önce çok samimi arkadaşlarım oldu x-den dolayı.
+dolayı  -- causality: because of, due to [ablat]	__ daha önce çok samimi arkadaşlarım oldu x-den dolayı.
+arama motoru  -- search engine
+gitmişliğim yok  -- i haven't really gone before
+yapmışlığım yok  -- i haven't really done it
+aradığım yok  -- it's not like i'm looking for anything	__ özel bişey aradığım yok sadece takılıyorum.
+haklısın  -- you are right	__ anladım, haklısın.
+hadi eve  -- lets go home
+ben kaçar  -- i am out, leaving
+bu da demek oluyor ki  -- which means that...
 
+ZZZZZZ_verzyon 2026-04-28-2
 
