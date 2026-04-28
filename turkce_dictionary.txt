@@ -958,7 +958,7 @@ cihaz  -- device  (tech)
 çıkarım  -- inference
 -çıkarırı  -- take off, remove sth	__ gömleğini çıkarırım. 
 -çıkar  -- take out, off, remove, eject
--çık {cikar}  -- go out of [ablat]
+-çık {cikar}  -- go out of, exit [ablat]
 -çık {cikar}  -- go up, come up to [dativ]	__ yukarı çıkıyorum.
 -çık {cikar}  -- set forth [dativ]
 -çik  -- exiting, leaving, get out	__ bazı işleri yapmak için dışarı çıkmalıyım.
@@ -1099,7 +1099,6 @@ değen  -- touch
 değerli  -- valuable, precious, worthy	__ dolar Türkiye'de değerli çünkü.
 değer  -- price, amount, rate, valuation
 değer  -- value, worth, merit, precioiusness	__ dokunmanın değerini bil.
--değer vermek  -- to value
 -değer vermek  -- to value sth, to appreciate sth	__ o ülkede sanata değer veriliyor.
 değil  -- instead of sth	__ keşke çocukken okulu değil oyunu seçseydim.
 değil  -- not ["to be"]
@@ -1341,9 +1340,11 @@ duygular  -- feelings, emotions
 duygusal  -- emotional, sentimental, sensual, romantic	__ aşırı duygusal bir.
 -duy  -- hear, feel	__ sana söylemekten mutluluk duyuyorum.
 -düzel  -- mend, repair, fix, improve	__ bunu düzelttim.
--düzenle  -- arrange, coordinate, organize	__ rengine göre düzenlediğim kitapları al.
-düzenlenmiştir  -- edited
+-düzenle  -- arrange, organize, methodize, line up	__ rengine göre düzenlediğim kitapları al.
+-düzenle  -- designate, distribute, frame, impose, set out
+-düzenle  -- coordinate, engineer, promote
 -düzenle  -- regulate	__ devlet, bireylerin hak ve özgürlüklerini yasalarla düzenler ve korur.
+düzenlenmiştir  -- edited
 düzenli ifade  -- regular expression  (tech)
 düzen  -- order, layout, arrangement, array	__ istiklal caddesi'nde pazar günü düzenlenen bombalı saldırıda 6 kişi hayatını kaybetti.
 düzen  -- regulation, regime, scheme, system
@@ -1366,8 +1367,8 @@ eğer ne zaman  -- if when  (conj)
 eğer öyleyse  -- if then  (conj)
 eğer/o zaman  -- if/then  (conj)
 eğik çizgi  -- forward slash mark  [punc]
--eğil  -- bow, bend, droop, hang, sag, stoop	__ eğilirsen basamak olursun.
--eğil  -- bow, bend down	__ eğiliyorum.
+-eğil  -- droop, hang, sag, stoop	__ 
+-eğil  -- bow, bend down	__ eğiliyorum. eğilirsen basamak olursun.
 eğitimci {eğitimciler}  -- educator, trainer; antrenor, eğitici
 eğitimciler birliği  -- educators association
 -eğitim görmek  -- receive an education
@@ -1450,7 +1451,6 @@ erik  -- plum  (fd)
 erişebilirlik  -- accessibility
 erişebilir  -- reachable
 -erişe  -- reach, get to	__ yine de uçurtmaya erişememiş.
--erişilebilir  -- accessible
 -erişilebilir  -- achievable, reachable
 erkek arkadaş   -- boyfriend
 erkek çocuk  -- boy
@@ -1475,7 +1475,7 @@ eskiden  -- in olden times, of old, anciently	__ eskiden her gün kitap okurdum.
 eskiden  -- formerly, once	__ eskiden hayal bile edemediklerimiz.
 eski  -- old, [thing]; [<> yeni]
 -eski  -- to wear out
--eşle  -- match, mate, pair together	__ zıt anlamlı kelimeleri eşleştiriniz.
+-eşle  -- match with, mate, pair together	__ zıt anlamlı kelimeleri eşleştiriniz.
 eşlik  -- companionship, attendance, company
 -eşlik etmek  -- attend, accompany sby
 esnaf lokantası  -- canteen-style restaurant
@@ -3044,7 +3044,7 @@ mesaj  -- message  (tech)	__ bana mesajı at.
 mesela  -- for example; örneğin	__ mesela, bu kitabı okuyabilirsiniz.
 meşgul {ler}  -- busy, occupied [<> müsait]
 -meşgul olmak  -- is busy	__ meşgul olduğunu ...
-meşhur  -- famous
+meşhur  -- famous	__ meşhur sarıyer börekçisi.
 mesleği  -- job, profession	__ benim mesleğim yok.
 meşrubat çeşitleri  -- soft drinks (fd)
 meşrubat  -- soft drink, soda drink	__ 
@@ -3061,7 +3061,7 @@ meyve  -- fruit
 meyve suları  -- fruit juices
 meze  -- tapas  (fd)
 -mezun olmak  -- graduate
-mide  -- stomach, tummy
+mide  -- stomach, abdomen	__ mide kasları göstermeye çalışır.
 midye dolma  -- stuffed mussels  (fd)
 mikrodalga fırın  -- microwave
 mikrofon  -- microphone  (tech)
@@ -5219,9 +5219,6 @@ istem  -- prompt  (tech)
 -kızdır  -- irritate
 -kızdır  -- make sby angry	__ babanı kızdırma.
 çim  -- grass, turf, lawn
--düzenle  -- arrange, organize, methodize, line up
--düzenle  -- designate, distribute, frame, impose, set out
--düzenle  -- regulate, coordinate, engineer, promote
 mutluluklar dilerim  -- i wish you happiness  (expr)
 haberleşiriz  -- i'll let you know  (expr)
 fark etmez  -- i don't care  (expr)
@@ -5245,7 +5242,6 @@ ilgeç  -- postposition  (gram)
 -eyle  -- make  [aux] (arch)?
 -hak etmek  -- deserve
 -farz etmek  -- assume
--affetmek  -- excuse
 -kaybetmek  -- lose
 -terk etmek  -- leave
 -arz etmek  -- submit, supply
@@ -5784,7 +5780,6 @@ makyaj  -- makeup
 -makyaj yapmak  -- apply makeup
 hafta sonları  -- weekends
 -tatile çıkmek  -- take vacation
--çık  -- go out, exit
 -yemek yimek  -- have dinner
 Bugünlerde  -- lately, these days
 -seyret  -- watch, gaze
@@ -5936,12 +5931,10 @@ sevecen  -- affectionate, loving, tender, caring
 vites kolu  -- gearshift, gear stick
 vites  -- gear
 yavrum  -- my little one
--eşleş  -- pair together, match w/
 -sürükle  -- drag, nudge
 dönem  -- semester
 hafta sonları  -- weekends
 -tatile çıkmek  -- take vacation
--çık  -- go out, exit
 -yemek yimek  -- have dinner
 Bugünlerde  -- lately, these days
 -ödev yapmak  -- do homework
@@ -6177,4 +6170,16 @@ o halde  -- then	__ o halde bana haber ver
 demek oluyor ki  -- in that case, then; demek oluyor ki, o halde, öyleyse
 
 ZZZZZZ_verzyon 2026-04-27-2
+börek  -- savory pastry, layered dough dish  (fd); hamur işi __ sabah kahvaltısında peynirli börek yemeyi çok severim.
+su böreği  -- boiled börek filled with white cheese (fd)
+sigara böreği  -- fried (fd)
+kol böreği  -- spiral minced meat  (fd)
+gül böreği  -- rose-shaped  (fd)
+yufka  -- thin sheets of unleavened dough  (fd)
+tamir  -- repair
+gelmek üzereyim  -- am about to arrive  (expr)
+az kaldı  -- arriving soon [time/distance]  (expr)
+yaklaştım  -- approaching neighborhood  (expr)
+varmak üzereyim  -- about to arrive [formal]  (expr)
+
 
