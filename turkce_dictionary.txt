@@ -703,7 +703,7 @@ boğaz ağrısı  -- neck pain
 boğaz  -- bosperous [straits]	__ boğaz'ı gezmek istiyorum. eminönün’nden istanbul boğazını gördüm.
 boğaziçi  -- a bosperian [person]?
 boğaz  -- throat	__ boğazım ağrıyor.
-bok  -- shit
+bok  -- shit	__ bok kokusundan geçilmiyor.
 bölgede  -- area
 bolivya  -- bolivia [country]
 bolivyace  -- bolivia [language]
@@ -1247,7 +1247,7 @@ dolar  -- dollar
 -dolaş  -- circulate, flow, go around
 dolaşım  -- roaming  (tech)
 -dolaş  -- jaunt, stroll, walk, hike, wander, roam	__ dolaşırken onu gördüm.
-dolayı  -- because of [ablat]
+dolayı  -- because of, due to [ablat]	__ geç kaldığımdan dolayı.
 -doldur  -- fill in, stuff, complete [form]	__ öğretmen formunu doldurduğun için teşekkür ederim.
 -dol  -- fill up, swell, stuff?	__ dolma kalem  [fountain pen]
 dolgun  -- fat, chubby, plump, buxom	__ temiz erkeksi genç dolgun.
@@ -1954,11 +1954,9 @@ hasta  -- sick, ill, patient
 hastaca  -- sickly	__ hastaca bakıyor.
 hata  -- err, mistake	__ çok fazla hata yok.
 hatalı  -- faulty, false, inaccurate, incorrect, wrong, error	__ ya tom hatalıysa.
-hat başı-sonu  -- terminus, terminal
 -hatırla {hatırlar}  -- to recall, remember	__ cevabı hatırlayamadın. tam hatırlamıyorum yine de. hatırladım, hatırlamaz olur muyum peki?
 -hatırlat {hatırlatır}  -- to cause to remember
 hatır  -- respect, sake
-hat  -- line [rail, metro]	__ hat uzunluğu.
 hava  -- air, weather	__ hava kapalı, hava güneşli
 hava durumu  -- weather forecast
 havalandır  -- aerate, ventilate
@@ -2333,6 +2331,7 @@ iyilik  -- goodness, the good
 izahlı  -- explanatory, detailed  (tech)
 izinli  -- day off, off duty, on leave, vacation	__ bende çarşamba ya perşembe izinliyim. sen ne zaman izinlisin?
 izin  -- permit, pass, consent, authorization, permission {genitive -> iznin}	__ oturma iznin var mı?
+izin  -- permission
 -izin ver  -- let, allow	__ sen onun arkadaşlarıyla gitmesine izin verecek misin? 
 -izle {isler}  -- watch, track, follow, trace, monitor	__ hiç böyle video izliyordum. nerden izleyebiliriz?
 iznin  -- taz: izin: permit, pass {genitive form}
@@ -2687,7 +2686,7 @@ kızkardeş  -- sister
 klasik  -- classic	__ klasik istanbul.
 klasör  -- folder  (tech)	__ standart klasörler geçerli dile güncelleştirilsin mi?
 klavye  -- keyboard
-klima  -- air conditioning
+klima  -- air conditioning	__ klimayı kapatabilir misin lütfen?
 klinik  -- doctor's office, clinic
 knk  -- kanka / dostum  (abbrev): buddy / my friend
 koca  -- husband	__ kocam bir kitap okuyor. teyzemin kocası.
@@ -3368,6 +3367,7 @@ orta ad  -- middle name; göbek adı
 orta  -- center, mid
 orta gelirli  -- middle income
 ortam  -- environment, atmosphere, ambiance
+ortam  -- vibe, social setting  (slang)	__ ama ortam temiz olmadığından dolayı pek duramıyorum orada.
 orta  -- middle
 -ortaya çıkmak  -- to appear
 -ört  -- to be able to cover
@@ -3823,7 +3823,7 @@ ses kaydı  -- voice recording
 -seslen  -- shout out, call out, address, yell
 sesli  -- audible, voiced, vocal
 ses  -- noise, clatter	__ beraber olsak bayağı ses yapardık.
-sessiz  -- noiseless, quiet, silent, soundless
+sessiz  -- noiseless, quiet, silent, soundless	__ sessiz olabilir misin?
 -sessiz olmak  -- be silent, quiet
 sessiz sokak  -- quiet street
 sessiz terk  -- işin sizden gerektirdiklerini yapmak ve ötesine kafayı yormamak
@@ -4246,7 +4246,7 @@ tekil kart  -- single card  (tech)
 teklif  -- proposal, offer, proposition, suggestion	__ fakat teklifin güzel.
 teknik ressam  -- draftsman
 tek  -- only, one, single, alone, lone, mono	__ tek yaşıyorum. tek misin arayayım mı seni göreyim? tek misin orada?
-tekrar  -- again, once more
+tekrar  -- again, once more	__ tekrar edebilir misin lütfen?
 tekrarlama  -- repetition, iteration, rehearsal
 -tekrarla  -- repeat
 tekrarlayan  -- repetitious, iterative, repetitive	__ 
@@ -4716,7 +4716,7 @@ yardımcı  -- assistant, deputy, auxiliary, helpful
 yardımcı  -- help, assistant, auxiliary, aide, aid	__ yardımcı olabilecek?
 yardımcı  -- vice-
 yardım edin!  -- sby help me!
--yardım etmek  -- help sby	__ yaralandım, bana yardım et!
+-yardım etmek  -- help sby	__ yaralandım, bana yardım et! yardım edebilir misin lütfen?
 yardım  -- help, assistance, aid	__ bana yardım gerekmiyor.
 yargıç  -- judge
 yarım  -- one half [not used with other numbers]
@@ -6191,6 +6191,38 @@ haklısın  -- you are right	__ anladım, haklısın.
 hadi eve  -- lets go home
 ben kaçar  -- i am out, leaving
 bu da demek oluyor ki  -- which means that...
+pişman  -- regret, contrite, remorse	__ pişman olacaksın günün birinde.
+pis  -- filthy, dirty, nasty, foul	__ evet ya, bu aşağıya giden yol çok çirkin ve pis.
+olsa  -- if had chance, possible	__ olsa güzel yalarım.
+bok kokusu  -- shit smell	__ bok kokusundan geçilmiyor.
+-geçilme  -- cannot be past through because so much of sth (idm)	__ bok kokusundan geçilmiyor. insanlardan geçilmiyor. pislikten geçilmiyor.
+neler var ya  -- what strange things [disbelief, frustration]	__ orada insanlar neler yapmıyor, neler var ya! çok pisler.
+neler yapmıyor  -- cannot believe things they do	__ orada insanlar neler yapmıyor, neler var ya! çok pisler.
+neler gördüm  -- things i have seen  (expl)
+ama biliyor musun?  -- but you know what  (expl)	__ ama biliyor musun? bence gitmeliyiz.
+biliyor musun ne oldu?  -- do you know what happened?  (phrs)
+bak ne diyeceğim  -- listen to what i going to say  (phrs)
+-geçip gitmek  -- move thru a place asap	__ mümkünse hemen geçip gitmek istiyorum.
+-sandım ki  -- though that	__ sandım ki, model insanlar böyle pozlar veriyorlar.
+-poz vermek  -- pose [artist, photo]	__ sandım ki, model insanlar böyle pozlar veriyorlar.
+hat  -- line, border, boundary general	[metaphorical]
+hat  -- connection, wire, link tech	[telecom, utility]
+hat  -- route, circuit, course logistics
+hat  -- features, curves, profile [anatomy]	__ tuhaf tuhaf kaslarını, yüz hatlarını veya özellikle mide kaslarını göstermeye çalışır.
+hat  -- script, penmanship [calligraphy]
+hat  -- front, trench, row [military]
+hat  -- pipeline, stream [production]
+hat  -- line [transit]	__ hat uzunluğu.
+hat başı-sonu  -- terminus, terminal
+-çalış  -- tries to verb [dative]	__ göstermeye çalışır.
+-söylediğin gibi  -- like you said
+acaba  -- wonder, interrogative [soft]	__ ne anlatıyor acaba?
+kebap  -- kebab  (fd)
+yulaf  -- oats  (fd)
+iştek  -- want, request, desire, wish
+-araba sürmek  -- drive car
+havasız  -- stuffy	__ burası çok havasız.
+müsait bir yer  -- available safe convenient place	__ şoför bey, ben müsait bir yerde inebilir miyim lütfen?
 
-ZZZZZZ_verzyon 2026-04-28-2
+ZZZZZZ_verzyon 2026-04-29-1
 
