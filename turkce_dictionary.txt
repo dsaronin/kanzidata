@@ -5135,7 +5135,7 @@ başlangıç seviyesi  -- beginner level	__ başlangıç seviyesini tamamlamış
 gergin  -- taut, stiff, tense, uptight, on edge
 gergin  -- jittery, skittish, stressfull	__ ben gerginim.
 nasıl olur  -- how come?	__ nasıl olur da sorarsın?
-hayran  -- admirer, fan, devotee, follwer	__ ona hayran oldu.
+hayran  -- admirer, fan, devotee, follower	__ ona hayran oldu.
 -alkışla  -- applaud, acclaim, clap, cheer	__ seni alkışlamıyorum.
 çalışan  -- worker [lit: he who works]
 çalışanler  -- employees	__ çalışan sayısı
@@ -6245,8 +6245,23 @@ müşteri türü  -- customer type  [classification]  (biz)
 kıymetli maden  -- precious metal  (biz)
 alım belgesi  -- purchase document  (biz)
 -güldür  -- makes smile,  brings smile	__ yüz güldüren tek sonuç. yüz güldüren tek gelişme.
-yüz güldüren  -- gratifying, pleasing, bringing joy  (idm)	__ 
+yüz güldüren  -- gratifying, pleasing, bringing joy  (idm)	__
 gelişme  -- development	__ yüz güldüren tek gelişme.
 
 ZZZZZZ_verzyon 2026-04-30-1
+bina  -- building, structure
+daire  -- apartment, flat, unit [housing]
+cins  -- type, category, kind
+mevkii  -- location, area, site [geographic]
+konum  -- position, location, coordinates
+kira  -- rent, lease [financial]
+fiyat  -- price, cost, rate [financial]
+aylık  -- monthly, per month [duration]
+depozito  -- security deposit, down payment [financial] (biz)
+özellik  -- feature, characteristic, property
+zemin altı  -- basement, below ground [level]
+kot  -- elevation level, grade [construction] (tech)
+soba  -- stove, heater [appliance]
+sobalı  -- stove-heated [heating]
+pilav  -- cooked rice, bulgar	__ pirinç pilavı, bulgur pilavı
 
