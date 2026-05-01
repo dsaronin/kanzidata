@@ -430,7 +430,7 @@ bakar mısınız  -- call for waiter service
 -bak {bakar}  -- to look, check on, look at [dativ], look after [dativ]	__ İstanbul - Denizli arası otobüs fiyatına bakayım.
 bakıcı  -- babysitter
 bakıcı  -- caretaker	__ at bakıcı.
-bakım  -- maintenance
+bakım  -- maintenance, care
 bakım  -- nurse
 bakımsız  -- careless
 bakım  -- well-groomed, taking care of self	__ bakımlı biriyim.
@@ -6289,4 +6289,6 @@ mantı  -- turkish ravioli  (fd)
 dönüm  -- turn, period
 dönüm  -- lap, revolution 
 dönüm noktası  -- milestone, turning point, ,pivot
+doğum  -- birth  [< -doğ]
+bakar  -- excuse me, will you look?	__ bakar mısınız.
 
