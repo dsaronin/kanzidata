@@ -1278,10 +1278,10 @@ dönüşümsel gramer  -- transformational gramer	__ dönüşümsel gramer diyag
 dönüş  -- zamu
 dördüncü  -- fourth	__ dördüncü kitap
 dört {dördü}  -- four, 4
-dost  -- ally, fellow, pal, associate
-dost  -- friend, ally, comrade, associate	__ herkes aradigi insanla dost olsun arkdas olsun.
+dost  -- fellow, pal, associate, ally
+dost  -- comrade, companion, ally [close]	__ herkes aradigi insanla dost olsun arkdas olsun.
 dost  -- lover
-dostluk  -- friendship, amity
+dostluk  -- companionship, amity
 dostu  -- friend	__ bu yılan yaşlı adamın dostuymuş.
 -dostu olmak  -- be friends with sby
 dosya  -- file [computer]  (tech)	__ dosyaları tek zip dosyasına sıkıştırırım.
@@ -3098,8 +3098,7 @@ muallimlik  -- pedagogy
 muallim  -- teacher
 muck  -- öpüyorum.  (abbrev): kisses
 müfettiş  -- inspector, investigator, supervisor
-muhabbet  -- conversation	__ çay kahve ve muhabbete de açığım.
-muhabbet  -- fondness
+muhabbet  -- affectionate, enjoyable chat [social bonding]	__ çay kahve ve muhabbete de açığım.
 muhacir  -- emigrant, immigrant, refugee
 muhafaza  -- casing, preseravation, protection, conservation
 -muhafaza etmek  -- store, keep sth	__ serin yerde muhafaza ediniz.
@@ -6092,7 +6091,8 @@ yine mi?  -- again?
 -sıkıl  -- gets bored
 valla bilmiyor  -- well, don't know
 öf  -- ugh
-kaliteli  -- qualified, high quality	__ sadece kaliteli seven.
+kaliteli  -- qualified, high quality
+kaliteli  -- well-mannered, educated, civilized	__ sadece kaliteli seven. kaliteli insanlar.
 -vakit geçirmek  -- spend time (idm); zamanı bir işle veya eğlenerek tüketmek	__ hafta sonu ailemle vakit geçirmeyi seviyorum.
 seven  -- lover, one who likes; bir şeyi veya birini seven kimse	__ müzik seven insanlar burada toplandı.
 kalite  -- quality; bir şeyin ne kadar iyi veya üstün olduğu niteliği	__ bu kumaşın kalitesi beklediğimden çok daha yüksek.
@@ -6264,4 +6264,29 @@ kot  -- elevation level, grade [construction] (tech)
 soba  -- stove, heater [appliance]
 sobalı  -- stove-heated [heating]
 pilav  -- cooked rice, bulgar	__ pirinç pilavı, bulgur pilavı
+-açık olmak  -- explicit, clear
+açık  -- open	__ kaliteli insanlarla sohbet muhabbete açığım.
+sohbet muhabbet  -- affectionate deep chat
+nezaketli  -- civilized
+evlilik yıldönümü  -- wedding anniversary
+sipariş  -- order
+hesap  -- check
+kola  -- coke  (fd)
+cacık  -- tzatziki  (fd)
+künefe  -- overn shredded pasta  (fd)
+lahmacun  -- turkish pizza  (fd)
+levrek  -- sea bass  (fd)
+lüfer  -- bluefish  (fd)
+mantı  -- dumpling  (fd)
+palamut  -- bonito  (fd)
+pilav  -- rice  (fd)
+poğaça  -- pastry  (fd)
+sardalya  -- sardine  (fd)
+çipura  -- sea bream  (fd)
+ıhlamur  -- linden tea  (fd)
+menemen  -- scrambled eggs w/ vegs  (fd)
+mantı  -- turkish ravioli  (fd)
+dönüm  -- turn, period
+dönüm  -- lap, revolution 
+dönüm noktası  -- milestone, turning point, ,pivot
 
