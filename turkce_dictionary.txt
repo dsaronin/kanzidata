@@ -700,7 +700,7 @@ biz  -- we [1st person plural]
 böbrek  -- kidney	__ böbreğimden rahatsızım; taş düşürüyorum.
 böcet i̇stilası  -- insect infestation
 boğaz ağrısı  -- neck pain
-boğaz  -- bosperous [straits]	__ boğaz'ı gezmek istiyorum. eminönün’nden istanbul boğazını gördüm.
+boğaz  -- bospheros [straits]	__ boğaz'ı gezmek istiyorum. eminönün’nden istanbul boğazını gördüm.
 boğaziçi  -- a bosperian [person]?
 boğaz  -- throat	__ boğazım ağrıyor.
 bok  -- shit	__ bok kokusundan geçilmiyor.
@@ -2991,8 +2991,8 @@ marmara denizi  -- the marmara sea	__
 marmara  -- marble
 mart  -- march [ayı]	__ mart ayı geçti ki.
 masa lambası  -- table lamp	__ bir tane masa lambası almak istiyorum.
-maşallah  -- my goodness! [Arabic: what God wills]
-masa  -- table
+maşallah  -- my goodness! [Arabic: what god wills]
+masa  -- table	__ masamız iki kişilik.
 masaüstü bilgisayar  -- desktop pc  (tech)
 masaüstü  -- desktop  (tech)
 mascülen  -- masculine
@@ -6247,8 +6247,6 @@ alım belgesi  -- purchase document  (biz)
 -güldür  -- makes smile,  brings smile	__ yüz güldüren tek sonuç. yüz güldüren tek gelişme.
 yüz güldüren  -- gratifying, pleasing, bringing joy  (idm)	__
 gelişme  -- development	__ yüz güldüren tek gelişme.
-
-ZZZZZZ_verzyon 2026-04-30-1
 bina  -- building, structure
 daire  -- apartment, flat, unit [housing]
 cins  -- type, category, kind
@@ -6291,4 +6289,16 @@ dönüm  -- lap, revolution
 dönüm noktası  -- milestone, turning point, ,pivot
 doğum  -- birth  [< -doğ]
 bakar  -- excuse me, will you look?	__ bakar mısınız.
+kuşkonmaz  -- asparagus  (fd)
+buğday  -- wheat  (fd)
+kırık pirinç  -- rice fragments  (fd)
+kurabiye  -- cookie  (fd)	__ badem kurabiyesi.
+lezzet  -- flavor  (fd)
+-lezzetlendirilmiş  -- flavored	__ glutensiz-meyve ile lezzetlendirilmiştir.
+-sipariş vermek  -- order sth [restaurant]
+tatlım  -- my sweet
+ciğim  -- my dear x [suffix to name x]
+-lezzetli görünmek  -- looks delicious	__ balıklar çok lezzetli görünüyor.
+
+ZZZZZZ_verzyon 2026-05-01-4
 
