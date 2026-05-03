@@ -3326,7 +3326,7 @@ onay  -- approval, confirmation, ratification, endorsement, certification	__ met
 önceden  -- pre-
 önce  -- firstly, in advance, prior to	__ önce babanı okşa.
 önceki  -- before  (conj)
-öncelik  -- priority	__ yeri olanlar önceliktir.
+öncelik  -- priority	__ yeri olanlar önceliktir. inenlere öncelik tanıyınız.
 öncesinde  -- before
 ondan  -- thereof, from it, [due to, because of]	__ işler biraz yoğun ondan.
 önde  -- ahead, in front	__
@@ -4165,6 +4165,7 @@ tane  -- count [counting word]
 tane  -- many [count]
 tanıdık  -- familiar, acquaintance, friend, contact person
 -tanı  -- recognize, cognize, identify	__
+-tanı  -- grant, allow, accord [rights]	__ inenlere öncelik tanıyınız.
 -tanı  -- get-to-know, familiarize, know [people]
 tanımamaz  -- unacquainted
 tanıma  -- recognition
@@ -5676,6 +5677,7 @@ arnavut  -- albania
 yarı  -- half
 şık  -- elegant, chic
 şarj  -- charger
+-şarj etmek  -- charge device  (tech)
 konser  -- concert
 -yakış  -- looks good on, suits
 dağınık  -- messy
@@ -6327,4 +6329,17 @@ zahmet  -- bother, trouble, inconvenience
 sağlıklı bir iletişim  -- clear/effective communication
 sağlıklı bir karar  -- a sound/wise decision
 sağlıklı bir ilişki  -- a stable/functional relationship
+peron  -- train platform	__ peron 2. peronda.
+saç düzleştirici  -- hair straightener [device]
+alan  -- area, field, zone, lot [physical]	__ bu alanda beklemeyiniz.
+alan  -- field, domain, discipline [knowledge]	__ yapay zeka, benim uzmanlık alanım.
+alan  -- area, square, plaza [urban]	__ miting için büyük bir alan seçildi.
+alan  -- receiver, recipient, buyer [role]	__ bu malın alanı çok, satanı az.
+alan  -- range, scope, spectrum  (tech)	__ bu telsizin kapsama alanı dışında kaldık.
+fatih  -- conquerer, victor
+ilk anki  -- like first moment	__ İlk anki heyecan. hep ilk anki kadar çarpıcı.
+çarpıcı  -- striking, stunning, impressive	__ parfüm etkisi hep ilk anki kadar çarpıcı.
+çarpışma  -- collision [traffic accident]
+çarpıntı  -- heart palpitations
+çarpık  -- distorted, crooked
 
