@@ -1,0 +1,212 @@
+TOPIC,Türkçe,English
+a_abstract,Boşluk,blank (area)
+a_abstract,evlilik yıldönümü,wedding anniversary
+a_abstract,görsel,visual [item]
+a_abstract,ipucu,"hint, clue"
+a_abstract,kulüp toplantısı,club meeting
+a_abstract,manzara,view
+a_abstract,parça,"fragment, snippet"
+a_abstract,rutin,routine
+a_abstract,sessiz,quiet
+a_abstract,Şifre,password
+a_abstract,şirket,company
+a_abstract,tiyatro oyunu ,theater play
+a_abstract,üye,member
+a_abstract,yarışma,competition
+a_adjective,sıkıcı,annoying
+a_adjective,uygun,suitable
+a_adverb,akşamları,in the evenings
+a_adverb,ara sıra,now and then
+a_adverb,arada bir,occasionally
+a_adverb,asla,never
+a_adverb,ayda bir kere,once a month
+a_adverb,bazen,sometimes
+a_adverb,bu arada?,by the way
+a_adverb,bu yüzden,that's why
+a_adverb,Bugünlerde,"lately, these days"
+a_adverb,Bütün,all
+a_adverb,Dikkatlice,carefully
+a_adverb,doğru,that's right
+a_adverb,hakkında,about
+a_adverb,hepimiz,all of us
+a_adverb,hiçbir zaman,never
+a_adverb,sıklıkla,often
+a_adverb,yavaş,slow
+a_conj,çünkü,because
+a_food,akşam yemeği,dinner
+a_food,ayran,yogurt-like drink
+a_food,baklava,baklava
+a_food,cacık,tzatziki
+a_food,çay,tea
+a_food,çipura,sea bream
+a_food,çorba,soup
+a_food,içecek,beverage
+a_food,ıhlamur,linden tea
+a_food,kahvaltı,breakfast
+a_food,kahve,coffee
+a_food,kebap,kebab
+a_food,köfte,meatball
+a_food,kola,coke
+a_food,künefe,overn shredded pasta
+a_food,lahmacun,turkish pizza
+a_food,levrek,sea bass
+a_food,limonata,lemonade
+a_food,lüfer,bluefish
+a_food,makarna,pasta
+a_food,mantı,dumpling
+a_food,Mantı,turkish ravioli
+a_food,menemen,scrambled eggs w/ vegs
+a_food,meyve suyu,fruit juice
+a_food,öğle yemeği,lunch
+a_food,palamut,bonito
+a_food,pilav,rice
+a_food,poğaça,pastry
+a_food,portakal suyu,orange juice
+a_food,salata,salad
+a_food,sardalya,sardine
+a_food,sipariş,order
+a_food,sütlaç,rice pudding
+a_food,yiyecek,food
+a_grammar,bağlaç,conjunction
+a_grammar,Belirtme Durumu,Accusative Case
+a_grammar,özne,subject
+a_grammar,şimdiki zamanda ,present progressive
+a_health,boğaz,throat
+a_household,bıçak,knife
+a_household,çatal,fork
+a_household,kaşık,spoon
+a_household,menü,menu
+a_household,Peçete,napkin
+a_interrogative,hangi gün?,which day?
+a_locate,dışarı,outside (to)
+a_locate,içeri,inside (to)
+a_nature,yağmur,rain
+a_object,bilet,ticket
+a_object,hesap,check
+a_object,makyaj,makeup
+a_object,şemsiye,umbrella
+a_other,kurstan sıkılıyor,bored of the course
+a_other,sorma ya,don't ask ugh
+a_other,uzun sürüyor,it takes a long time
+a_other,valla bilmiyorum,"well, i don't know"
+a_other,yine mi?,again?
+a_people,çalışan,worker
+a_people,eş,spouse
+a_people,oyuncu,actor (here)
+a_people,yazar,writer
+a_people,yönetmen,director
+a_place,sahil,beach
+a_time,buçukta,half past (hour)
+a_time,dönem,semester
+a_time,erken,early
+a_time,hafta sonları,weekends
+a_time,iki hafta sonra,two weeks later
+a_time,mola,"break, recess"
+a_time,öğle molası,noon break
+a_time,sabahları,in the mornings
+a_travel,okul servisi,school bus
+a_travel,vapur,ferry
+a_travel,yolculuk,"travel, journey"
+a_verb, -sür,"takes time, span"
+a_verb, şirin,"cute, lovely"
+a_verb,- çağır,call sby
+a_verb,- seç,choose
+a_verb,-ağla,"cry, weep"
+a_verb,-ağrı,"hurts, pain"
+a_verb,-al,"get, buy"
+a_verb,-anla,understand
+a_verb,-ara,search for
+a_verb,-ara,phone call
+a_verb,-banyo yapmak,take bath
+a_verb,-bekle,wait for
+a_verb,-beslenme hazırlamak,prepare a meal
+a_verb,-bil,know
+a_verb,-bin,board (bus)
+a_verb,-bit,"end, finish"
+a_verb,-bul,find
+a_verb,-buluş,meet
+a_verb,-çağır,call sby
+a_verb,-çal,knock
+a_verb,-çalı,play instrument
+a_verb,-çalış,work
+a_verb,-cevapla,answer
+a_verb,-çiz,draw pic
+a_verb,-çık,"go out, exit"
+a_verb,-de,"say , quote, mean"
+a_verb,-devam etmek,continue
+a_verb,-dinle,listen
+a_verb,-dinlen,"rest, relax"
+a_verb,-doldur,fill in (blank)
+a_verb,-duş almak,take shower
+a_verb,-eşleş,"pair together, match w/"
+a_verb,-evlen,marry
+a_verb,-gel,come
+a_verb,-git,go
+a_verb,-giyin,get dressed
+a_verb,-gör,see
+a_verb,-Gül,laugh
+a_verb,-hazırl,prepare sth
+a_verb,-hazırlan,"prepare, get ready"
+a_verb,-hisset,feel
+a_verb,-hoşlan,like
+a_verb,-iç,drink
+a_verb,-in,"de-board, get off of"
+a_verb,-inan,believe
+a_verb,-işaretle,"mark sth, designate, tick"
+a_verb,-iste,want
+a_verb,-İzle,watch
+a_verb,-kahvaltı etmek,have breakfast
+a_verb,-kalk,"wake, get up"
+a_verb,-kapat,close sth
+a_verb,-katıl,"participate, attend"
+a_verb,-katıl,"join, participate"
+a_verb,-kayak yapmak,ski
+a_verb,-koş,run
+a_verb,-koy,"lay on, put on, add on sth"
+a_verb,-kullan,operate sth
+a_verb,-makyaj yapmak,apply makeup
+a_verb,-nefret etmek,hate  [ablat]
+a_verb,-öde,pay
+a_verb,-ödev yapmak,do homework
+a_verb,-öğren,"study, learn"
+a_verb,-öğretmek,teach
+a_verb,-oku,read
+a_verb,-öp,kiss
+a_verb,-otur,"sit, dwell"
+a_verb,-özle,miss sby
+a_verb,-para çekmek,withdraw cash
+a_verb,-pişir,cook
+a_verb,-sev,love
+a_verb,-seyahat etmek,travel smh
+a_verb,-seyret,"watch, gaze"
+a_verb,-sipariş etmek,order
+a_verb,-sipariş vermek,order sth restaurant
+a_verb,-sırala,"sort, list, order"
+a_verb,-sohbet etmek,chat
+a_verb,-söyle,"say, tell sby sth"
+a_verb,-sür,drive
+a_verb,-sürükle,"drag, nudge"
+a_verb,-tara,"comb, groom"
+a_verb,-tat,taste sth
+a_verb,-tatile çıkmek,take vacation
+a_verb,-telefon çalmak,make phone call
+a_verb,-telefon etmek,call
+a_verb,-temizlik yapmak,clean
+a_verb,-uç,fly
+a_verb,-unut,forget
+a_verb,-üstümü giymek,get dressed
+a_verb,-ütü yapmak,iron
+a_verb,-uyan,wake up
+a_verb,-uyu,sleep
+a_verb,-uzat,"pass sth, hand over sth"
+a_verb,-var,arrive
+a_verb,-yağ,raining
+a_verb,-yap,do
+a_verb,-yardım etmek,help
+a_verb,-yaşa,live
+a_verb,-yaz,write
+a_verb,-ye,eat
+a_verb,-yemek yemek,eat
+a_verb,-yemek yimek,have dinner
+a_verb,-Yürü,walk
+a_verb,-yüz,swim

@@ -1,0 +1,918 @@
+{
+  "a_abstract": {
+    "fc_data": [
+      [
+        "Boşluk",
+        "blank (area)"
+      ],
+      [
+        "evlilik yıldönümü",
+        "wedding anniversary"
+      ],
+      [
+        "görsel",
+        "visual [item]"
+      ],
+      [
+        "ipucu",
+        "hint, clue"
+      ],
+      [
+        "kulüp toplantısı",
+        "club meeting"
+      ],
+      [
+        "manzara",
+        "view"
+      ],
+      [
+        "parça",
+        "fragment, snippet"
+      ],
+      [
+        "rutin",
+        "routine"
+      ],
+      [
+        "sessiz",
+        "quiet"
+      ],
+      [
+        "Şifre",
+        "password"
+      ],
+      [
+        "şirket",
+        "company"
+      ],
+      [
+        "tiyatro oyunu",
+        "theater play"
+      ],
+      [
+        "üye",
+        "member"
+      ],
+      [
+        "yarışma",
+        "competition"
+      ]
+    ]
+  },
+  "a_adjective": {
+    "fc_data": [
+      [
+        "sıkıcı",
+        "annoying"
+      ],
+      [
+        "uygun",
+        "suitable"
+      ]
+    ]
+  },
+  "a_adverb": {
+    "fc_data": [
+      [
+        "akşamları",
+        "in the evenings"
+      ],
+      [
+        "ara sıra",
+        "now and then"
+      ],
+      [
+        "arada bir",
+        "occasionally"
+      ],
+      [
+        "asla",
+        "never"
+      ],
+      [
+        "ayda bir kere",
+        "once a month"
+      ],
+      [
+        "bazen",
+        "sometimes"
+      ],
+      [
+        "bu arada?",
+        "by the way"
+      ],
+      [
+        "bu yüzden",
+        "that's why"
+      ],
+      [
+        "Bugünlerde",
+        "lately, these days"
+      ],
+      [
+        "Bütün",
+        "all"
+      ],
+      [
+        "Dikkatlice",
+        "carefully"
+      ],
+      [
+        "doğru",
+        "that's right"
+      ],
+      [
+        "hakkında",
+        "about"
+      ],
+      [
+        "hepimiz",
+        "all of us"
+      ],
+      [
+        "hiçbir zaman",
+        "never"
+      ],
+      [
+        "sıklıkla",
+        "often"
+      ],
+      [
+        "yavaş",
+        "slow"
+      ]
+    ]
+  },
+  "a_conj": {
+    "fc_data": [
+      [
+        "çünkü",
+        "because"
+      ]
+    ]
+  },
+  "a_food": {
+    "fc_data": [
+      [
+        "akşam yemeği",
+        "dinner"
+      ],
+      [
+        "ayran",
+        "yogurt-like drink"
+      ],
+      [
+        "baklava",
+        "baklava"
+      ],
+      [
+        "cacık",
+        "tzatziki"
+      ],
+      [
+        "çay",
+        "tea"
+      ],
+      [
+        "çipura",
+        "sea bream"
+      ],
+      [
+        "çorba",
+        "soup"
+      ],
+      [
+        "içecek",
+        "beverage"
+      ],
+      [
+        "ıhlamur",
+        "linden tea"
+      ],
+      [
+        "kahvaltı",
+        "breakfast"
+      ],
+      [
+        "kahve",
+        "coffee"
+      ],
+      [
+        "kebap",
+        "kebab"
+      ],
+      [
+        "köfte",
+        "meatball"
+      ],
+      [
+        "kola",
+        "coke"
+      ],
+      [
+        "künefe",
+        "overn shredded pasta"
+      ],
+      [
+        "lahmacun",
+        "turkish pizza"
+      ],
+      [
+        "levrek",
+        "sea bass"
+      ],
+      [
+        "limonata",
+        "lemonade"
+      ],
+      [
+        "lüfer",
+        "bluefish"
+      ],
+      [
+        "makarna",
+        "pasta"
+      ],
+      [
+        "mantı",
+        "dumpling"
+      ],
+      [
+        "Mantı",
+        "turkish ravioli"
+      ],
+      [
+        "menemen",
+        "scrambled eggs w/ vegs"
+      ],
+      [
+        "meyve suyu",
+        "fruit juice"
+      ],
+      [
+        "öğle yemeği",
+        "lunch"
+      ],
+      [
+        "palamut",
+        "bonito"
+      ],
+      [
+        "pilav",
+        "rice"
+      ],
+      [
+        "poğaça",
+        "pastry"
+      ],
+      [
+        "portakal suyu",
+        "orange juice"
+      ],
+      [
+        "salata",
+        "salad"
+      ],
+      [
+        "sardalya",
+        "sardine"
+      ],
+      [
+        "sipariş",
+        "order"
+      ],
+      [
+        "sütlaç",
+        "rice pudding"
+      ],
+      [
+        "yiyecek",
+        "food"
+      ]
+    ]
+  },
+  "a_grammar": {
+    "fc_data": [
+      [
+        "bağlaç",
+        "conjunction"
+      ],
+      [
+        "Belirtme Durumu",
+        "Accusative Case"
+      ],
+      [
+        "özne",
+        "subject"
+      ],
+      [
+        "şimdiki zamanda",
+        "present progressive"
+      ]
+    ]
+  },
+  "a_health": {
+    "fc_data": [
+      [
+        "boğaz",
+        "throat"
+      ]
+    ]
+  },
+  "a_household": {
+    "fc_data": [
+      [
+        "bıçak",
+        "knife"
+      ],
+      [
+        "çatal",
+        "fork"
+      ],
+      [
+        "kaşık",
+        "spoon"
+      ],
+      [
+        "menü",
+        "menu"
+      ],
+      [
+        "Peçete",
+        "napkin"
+      ]
+    ]
+  },
+  "a_interrogative": {
+    "fc_data": [
+      [
+        "hangi gün?",
+        "which day?"
+      ]
+    ]
+  },
+  "a_locate": {
+    "fc_data": [
+      [
+        "dışarı",
+        "outside (to)"
+      ],
+      [
+        "içeri",
+        "inside (to)"
+      ]
+    ]
+  },
+  "a_nature": {
+    "fc_data": [
+      [
+        "yağmur",
+        "rain"
+      ]
+    ]
+  },
+  "a_object": {
+    "fc_data": [
+      [
+        "bilet",
+        "ticket"
+      ],
+      [
+        "hesap",
+        "check"
+      ],
+      [
+        "makyaj",
+        "makeup"
+      ],
+      [
+        "şemsiye",
+        "umbrella"
+      ]
+    ]
+  },
+  "a_other": {
+    "fc_data": [
+      [
+        "kurstan sıkılıyor",
+        "bored of the course"
+      ],
+      [
+        "sorma ya",
+        "don't ask ugh"
+      ],
+      [
+        "uzun sürüyor",
+        "it takes a long time"
+      ],
+      [
+        "valla bilmiyorum",
+        "well, i don't know"
+      ],
+      [
+        "yine mi?",
+        "again?"
+      ]
+    ]
+  },
+  "a_people": {
+    "fc_data": [
+      [
+        "çalışan",
+        "worker"
+      ],
+      [
+        "eş",
+        "spouse"
+      ],
+      [
+        "oyuncu",
+        "actor (here)"
+      ],
+      [
+        "yazar",
+        "writer"
+      ],
+      [
+        "yönetmen",
+        "director"
+      ]
+    ]
+  },
+  "a_place": {
+    "fc_data": [
+      [
+        "sahil",
+        "beach"
+      ]
+    ]
+  },
+  "a_time": {
+    "fc_data": [
+      [
+        "buçukta",
+        "half past (hour)"
+      ],
+      [
+        "dönem",
+        "semester"
+      ],
+      [
+        "erken",
+        "early"
+      ],
+      [
+        "hafta sonları",
+        "weekends"
+      ],
+      [
+        "iki hafta sonra",
+        "two weeks later"
+      ],
+      [
+        "mola",
+        "break, recess"
+      ],
+      [
+        "öğle molası",
+        "noon break"
+      ],
+      [
+        "sabahları",
+        "in the mornings"
+      ]
+    ]
+  },
+  "a_travel": {
+    "fc_data": [
+      [
+        "okul servisi",
+        "school bus"
+      ],
+      [
+        "vapur",
+        "ferry"
+      ],
+      [
+        "yolculuk",
+        "travel, journey"
+      ]
+    ]
+  },
+  "a_verb": {
+    "fc_data": [
+      [
+        "-sür",
+        "takes time, span"
+      ],
+      [
+        "şirin",
+        "cute, lovely"
+      ],
+      [
+        "- çağır",
+        "call sby"
+      ],
+      [
+        "- seç",
+        "choose"
+      ],
+      [
+        "-ağla",
+        "cry, weep"
+      ],
+      [
+        "-ağrı",
+        "hurts, pain"
+      ],
+      [
+        "-al",
+        "get, buy"
+      ],
+      [
+        "-anla",
+        "understand"
+      ],
+      [
+        "-ara",
+        "search for"
+      ],
+      [
+        "-ara",
+        "phone call"
+      ],
+      [
+        "-banyo yapmak",
+        "take bath"
+      ],
+      [
+        "-bekle",
+        "wait for"
+      ],
+      [
+        "-beslenme hazırlamak",
+        "prepare a meal"
+      ],
+      [
+        "-bil",
+        "know"
+      ],
+      [
+        "-bin",
+        "board (bus)"
+      ],
+      [
+        "-bit",
+        "end, finish"
+      ],
+      [
+        "-bul",
+        "find"
+      ],
+      [
+        "-buluş",
+        "meet"
+      ],
+      [
+        "-çağır",
+        "call sby"
+      ],
+      [
+        "-çal",
+        "knock"
+      ],
+      [
+        "-çalı",
+        "play instrument"
+      ],
+      [
+        "-çalış",
+        "work"
+      ],
+      [
+        "-cevapla",
+        "answer"
+      ],
+      [
+        "-çiz",
+        "draw pic"
+      ],
+      [
+        "-çık",
+        "go out, exit"
+      ],
+      [
+        "-de",
+        "say , quote, mean"
+      ],
+      [
+        "-devam etmek",
+        "continue"
+      ],
+      [
+        "-dinle",
+        "listen"
+      ],
+      [
+        "-dinlen",
+        "rest, relax"
+      ],
+      [
+        "-doldur",
+        "fill in (blank)"
+      ],
+      [
+        "-duş almak",
+        "take shower"
+      ],
+      [
+        "-eşleş",
+        "pair together, match w/"
+      ],
+      [
+        "-evlen",
+        "marry"
+      ],
+      [
+        "-gel",
+        "come"
+      ],
+      [
+        "-git",
+        "go"
+      ],
+      [
+        "-giyin",
+        "get dressed"
+      ],
+      [
+        "-gör",
+        "see"
+      ],
+      [
+        "-Gül",
+        "laugh"
+      ],
+      [
+        "-hazırl",
+        "prepare sth"
+      ],
+      [
+        "-hazırlan",
+        "prepare, get ready"
+      ],
+      [
+        "-hisset",
+        "feel"
+      ],
+      [
+        "-hoşlan",
+        "like"
+      ],
+      [
+        "-iç",
+        "drink"
+      ],
+      [
+        "-in",
+        "de-board, get off of"
+      ],
+      [
+        "-inan",
+        "believe"
+      ],
+      [
+        "-işaretle",
+        "mark sth, designate, tick"
+      ],
+      [
+        "-iste",
+        "want"
+      ],
+      [
+        "-İzle",
+        "watch"
+      ],
+      [
+        "-kahvaltı etmek",
+        "have breakfast"
+      ],
+      [
+        "-kalk",
+        "wake, get up"
+      ],
+      [
+        "-kapat",
+        "close sth"
+      ],
+      [
+        "-katıl",
+        "participate, attend"
+      ],
+      [
+        "-katıl",
+        "join, participate"
+      ],
+      [
+        "-kayak yapmak",
+        "ski"
+      ],
+      [
+        "-koş",
+        "run"
+      ],
+      [
+        "-koy",
+        "lay on, put on, add on sth"
+      ],
+      [
+        "-kullan",
+        "operate sth"
+      ],
+      [
+        "-makyaj yapmak",
+        "apply makeup"
+      ],
+      [
+        "-nefret etmek",
+        "hate  [ablat]"
+      ],
+      [
+        "-öde",
+        "pay"
+      ],
+      [
+        "-ödev yapmak",
+        "do homework"
+      ],
+      [
+        "-öğren",
+        "study, learn"
+      ],
+      [
+        "-öğretmek",
+        "teach"
+      ],
+      [
+        "-oku",
+        "read"
+      ],
+      [
+        "-öp",
+        "kiss"
+      ],
+      [
+        "-otur",
+        "sit, dwell"
+      ],
+      [
+        "-özle",
+        "miss sby"
+      ],
+      [
+        "-para çekmek",
+        "withdraw cash"
+      ],
+      [
+        "-pişir",
+        "cook"
+      ],
+      [
+        "-sev",
+        "love"
+      ],
+      [
+        "-seyahat etmek",
+        "travel smh"
+      ],
+      [
+        "-seyret",
+        "watch, gaze"
+      ],
+      [
+        "-sipariş etmek",
+        "order"
+      ],
+      [
+        "-sipariş vermek",
+        "order sth restaurant"
+      ],
+      [
+        "-sırala",
+        "sort, list, order"
+      ],
+      [
+        "-sohbet etmek",
+        "chat"
+      ],
+      [
+        "-söyle",
+        "say, tell sby sth"
+      ],
+      [
+        "-sür",
+        "drive"
+      ],
+      [
+        "-sürükle",
+        "drag, nudge"
+      ],
+      [
+        "-tara",
+        "comb, groom"
+      ],
+      [
+        "-tat",
+        "taste sth"
+      ],
+      [
+        "-tatile çıkmek",
+        "take vacation"
+      ],
+      [
+        "-telefon çalmak",
+        "make phone call"
+      ],
+      [
+        "-telefon etmek",
+        "call"
+      ],
+      [
+        "-temizlik yapmak",
+        "clean"
+      ],
+      [
+        "-uç",
+        "fly"
+      ],
+      [
+        "-unut",
+        "forget"
+      ],
+      [
+        "-üstümü giymek",
+        "get dressed"
+      ],
+      [
+        "-ütü yapmak",
+        "iron"
+      ],
+      [
+        "-uyan",
+        "wake up"
+      ],
+      [
+        "-uyu",
+        "sleep"
+      ],
+      [
+        "-uzat",
+        "pass sth, hand over sth"
+      ],
+      [
+        "-var",
+        "arrive"
+      ],
+      [
+        "-yağ",
+        "raining"
+      ],
+      [
+        "-yap",
+        "do"
+      ],
+      [
+        "-yardım etmek",
+        "help"
+      ],
+      [
+        "-yaşa",
+        "live"
+      ],
+      [
+        "-yaz",
+        "write"
+      ],
+      [
+        "-ye",
+        "eat"
+      ],
+      [
+        "-yemek yemek",
+        "eat"
+      ],
+      [
+        "-yemek yimek",
+        "have dinner"
+      ],
+      [
+        "-Yürü",
+        "walk"
+      ],
+      [
+        "-yüz",
+        "swim"
+      ]
+    ]
+  }
+}

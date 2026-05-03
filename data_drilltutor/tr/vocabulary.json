@@ -845,11 +845,11 @@
       ],
       [
         "geldiğimde",
-        "when I come, came"
+        "when i come, came"
       ],
       [
         "her gittiğimde",
-        "at my every going, whenever I go"
+        "at my every going, whenever i go"
       ],
       [
         "gelmediğinizden dolayı",
@@ -869,15 +869,15 @@
       ],
       [
         "gördüğüm adam",
-        "man whom I saw"
+        "man whom i saw"
       ],
       [
         "kitabını aldığım adam",
-        "man whose book I took"
+        "man whose book i took"
       ],
       [
         "geldiğim gün",
-        "day when I came"
+        "day when i came"
       ],
       [
         "gitmediği halde",
@@ -885,7 +885,7 @@
       ],
       [
         "geldiğim gibi",
-        "as soon as I came"
+        "as soon as i came"
       ],
       [
         "koşa",
@@ -1000,7 +1000,7 @@
         "both, two of them"
       ],
       [
-        "İçin",
+        "için",
         "for"
       ],
       [
@@ -1017,7 +1017,7 @@
       ],
       [
         "veya",
-        "IOR, this or that or both"
+        "ior, this or that or both"
       ],
       [
         "ya",
@@ -1025,19 +1025,19 @@
       ],
       [
         "yoksa…mx",
-        "XOR, if there is no other"
+        "xor, if there is no other"
       ],
       [
-        "𝝙… ya X ya da Y",
-        "𝝙… either X or Y"
+        "𝝙… ya x ya da y",
+        "𝝙… either x or y"
       ],
       [
-        "𝝙… hem X hem de Y",
-        "𝝙… both X and Y, at same time"
+        "𝝙… hem x hem de y",
+        "𝝙… both x and y, at same time"
       ],
       [
-        "𝝙… ne X ne de Y",
-        "𝝙… neither X nor Y"
+        "𝝙… ne x ne de y",
+        "𝝙… neither x nor y"
       ]
     ]
   },
@@ -1236,80 +1236,80 @@
         "quarter till x"
       ],
       [
-        "Pazartesi",
-        "Monday"
+        "pazartesi",
+        "monday"
       ],
       [
-        "Salı",
-        "Tuesday"
+        "salı",
+        "tuesday"
       ],
       [
-        "Çarşamba",
-        "Wednesday"
+        "çarşamba",
+        "wednesday"
       ],
       [
-        "Perşembe",
-        "Thursday"
+        "perşembe",
+        "thursday"
       ],
       [
-        "Cuma",
-        "Friday"
+        "cuma",
+        "friday"
       ],
       [
-        "Cumartesi",
-        "Saturday"
+        "cumartesi",
+        "saturday"
       ],
       [
-        "Pazar",
-        "Sunday"
+        "pazar",
+        "sunday"
       ],
       [
-        "Ocak",
-        "Jan"
+        "ocak",
+        "jan"
       ],
       [
-        "Şubat",
-        "Feb"
+        "şubat",
+        "feb"
       ],
       [
-        "Mart",
-        "Mar"
+        "mart",
+        "mar"
       ],
       [
-        "Nisan",
-        "Apr"
+        "nisan",
+        "apr"
       ],
       [
-        "Mayıs",
-        "May"
+        "mayıs",
+        "may"
       ],
       [
-        "Haziran",
-        "Jun"
+        "haziran",
+        "jun"
       ],
       [
-        "Temmuz",
-        "Jul"
+        "temmuz",
+        "jul"
       ],
       [
-        "Ağustos",
-        "Aug"
+        "ağustos",
+        "aug"
       ],
       [
-        "Eylül",
-        "Sept"
+        "eylül",
+        "sept"
       ],
       [
-        "Ekim",
-        "Oct"
+        "ekim",
+        "oct"
       ],
       [
-        "Kasım",
-        "Nov"
+        "kasım",
+        "nov"
       ],
       [
-        "Aralık",
-        "Dec"
+        "aralık",
+        "dec"
       ]
     ]
   },
@@ -3513,7 +3513,7 @@
       ]
     ]
   },
-  "a2_activities": {
+  "a_activities": {
     "fc_data": [
       [
         "alışveriş arabası",
@@ -3601,8 +3601,1528 @@
       ]
     ]
   },
-  "a2_adjectives": {
+  "a_conjunctions": {
     "fc_data": [
+       [
+        "sanırım",
+        "i guess..."
+      ],
+      [
+        "bak",
+        "lo, now"
+      ],
+      [
+        "çünkü",
+        "because"
+      ],
+      [
+        "ama",
+        "but"
+      ],
+      [
+        "ancak",
+        "however"
+      ],
+      [
+        "ayrıca",
+        "additionally"
+      ],
+      [
+        "veya",
+        "or"
+      ],
+      [
+        "ya da",
+        "or"
+      ],
+      [
+        "yani",
+        "meaning"
+      ],
+      [
+        "çünkü",
+        "because"
+      ],
+      [
+        "öyleyse",
+        "so, then, if so, well"
+      ]
+    ]
+  },
+  "a_grammar": {
+    "fc_data": [
+      [
+        "bağlaç",
+        "conjunction"
+      ],
+      [
+        "belirtme durumu",
+        "accusative case"
+      ],
+      [
+        "özne",
+        "subject"
+      ],
+      [
+        "şimdiki zamanda",
+        "present progressive"
+      ],
+      [
+        "dönüşlü zamirler",
+        "reflexive pronouns"
+      ],
+      [
+        "iyelik",
+        "possessive"
+      ],
+      [
+        "sahiplik ekleri",
+        "possessive suffix"
+      ],
+      [
+        "sahiplik sıftarı",
+        "possessive adjective"
+      ],
+      [
+        "sıfatlar",
+        "adjectives"
+      ],
+      [
+        "mantıksal bağlayıcılar",
+        "logical connectors"
+      ],
+      [
+        "asıl sayılar",
+        "cardinal numbers"
+      ],
+      [
+        "sıra sayıları",
+        "ordinal numbers"
+      ],
+      [
+        "bağlaçlar",
+        "conjunctions"
+      ],
+      [
+        "sıklık zarfları",
+        "adverbs of frequency"
+      ],
+      [
+        "günlük ifadeler",
+        "daily expressions"
+      ],
+      [
+        "kişisel özellikler",
+        "personal characteristics"
+      ],
+      [
+        "alıştırmaları",
+        "exercises"
+      ],
+      [
+        "bulunma durum ekini",
+        "locative case suffix"
+      ],
+      [
+        "isim cümleleri",
+        "nominal sentences"
+      ],
+      [
+        "çoğul eki",
+        "plural suffix"
+      ],
+      [
+        "soru parçacığını",
+        "interrogative particle"
+      ],
+      [
+        "konu anlatımı",
+        "grammar explanation"
+      ],
+      [
+        "selamlaşma",
+        "greetings"
+      ],
+      [
+        "kendini tanıtma",
+        "self-introduction"
+      ],
+      [
+        "işaret zamirleri",
+        "demonstrative pronouns"
+      ],
+      [
+        "çoğul ekleri",
+        "plural suffixes"
+      ],
+      [
+        "çoğul işaret zamirleri",
+        "plural demonstrative pronouns"
+      ],
+      [
+        "kelime listesi",
+        "vocabulary list"
+      ]
+    ]
+  },
+  "a_household": {
+    "fc_data": [
+      [
+        "bıçak",
+        "knife"
+      ],
+      [
+        "çatal",
+        "fork"
+      ],
+      [
+        "kaşık",
+        "spoon"
+      ],
+      [
+        "menü",
+        "menu"
+      ],
+      [
+        "peçete",
+        "napkin"
+      ],
+      [
+        "evin işleri",
+        "house chores"
+      ],
+      [
+        "ayakkabı",
+        "shoe"
+      ],
+      [
+        "ayrı oda",
+        "separate room"
+      ],
+      [
+        "ayuncak",
+        "toy"
+      ],
+      [
+        "kat",
+        "floor"
+      ],
+      [
+        "valiz",
+        "suitcase"
+      ],
+      [
+        "ütü",
+        "iron [ironing]"
+      ],
+      [
+        "ayna",
+        "mirror"
+      ],
+      [
+        "bardak",
+        "glass"
+      ],
+      [
+        "battaniye",
+        "blanket"
+      ],
+      [
+        "bıçak",
+        "knife"
+      ],
+      [
+        "bulaşık makinesi",
+        "dishwasher"
+      ],
+      [
+        "buzdolabı",
+        "refrigerator"
+      ],
+      [
+        "cetvel",
+        "ruler, measure"
+      ],
+      [
+        "defter",
+        "notebook"
+      ],
+      [
+        "deterjan",
+        "detergent"
+      ],
+      [
+        "diş fırçası",
+        "toothbrush"
+      ],
+      [
+        "diş macunu",
+        "toothpaste"
+      ],
+      [
+        "dolap",
+        "closet"
+      ],
+      [
+        "duş kabini",
+        "shower cabin"
+      ],
+      [
+        "fincan",
+        "cup"
+      ],
+      [
+        "fırın",
+        "oven"
+      ],
+      [
+        "gardırop",
+        "wardrobe"
+      ],
+      [
+        "halı",
+        "carpet"
+      ],
+      [
+        "havlu",
+        "towel"
+      ],
+      [
+        "islak mendil",
+        "wet wipe"
+      ],
+      [
+        "kalem",
+        "pen"
+      ],
+      [
+        "kalemlik",
+        "pencil case"
+      ],
+      [
+        "kalemtıraş",
+        "pencil sharpener"
+      ],
+      [
+        "kapı",
+        "door"
+      ],
+      [
+        "kase",
+        "bowl"
+      ],
+      [
+        "kaşık",
+        "spoon"
+      ],
+      [
+        "kitap",
+        "book"
+      ],
+      [
+        "kitaplık",
+        "bookshelf"
+      ],
+      [
+        "kağıt",
+        "paper"
+      ],
+      [
+        "klozet",
+        "toilet bowl"
+      ],
+      [
+        "koltuk",
+        "seat"
+      ],
+      [
+        "komodin",
+        "nightstand"
+      ],
+      [
+        "küvet",
+        "bathtub"
+      ],
+      [
+        "lavabo",
+        "sink"
+      ],
+      [
+        "makas",
+        "scissors"
+      ],
+      [
+        "masa",
+        "table"
+      ],
+      [
+        "pencere",
+        "window"
+      ],
+      [
+        "perde",
+        "curtain"
+      ],
+      [
+        "sabun",
+        "soap"
+      ],
+      [
+        "sandalye",
+        "chair"
+      ],
+      [
+        "sehpa",
+        "coffee table"
+      ],
+      [
+        "silgi",
+        "eraser"
+      ],
+      [
+        "sıra",
+        "desk, school desk"
+      ],
+      [
+        "tablo",
+        "painting, picture"
+      ],
+      [
+        "tahta",
+        "blackboard"
+      ],
+      [
+        "televizyon",
+        "television"
+      ],
+      [
+        "tuvalet kağıdı",
+        "toilet paper"
+      ],
+      [
+        "yastık",
+        "pillow"
+      ],
+      [
+        "yatak",
+        "bed"
+      ],
+      [
+        "yorgan",
+        "quilt"
+      ],
+      [
+        "çatal",
+        "fork"
+      ],
+      [
+        "şampuan",
+        "shampoo"
+      ],
+      [
+        "şömine",
+        "fireplace"
+      ],
+      [
+        "bant",
+        "scotch tape"
+      ],
+      [
+        "bilgisayar",
+        "computer"
+      ],
+      [
+        "zımba",
+        "stapler"
+      ],
+      [
+        "yazı tahtası",
+        "blackboard"
+      ]
+    ]
+  },
+  "a_interrogatives": {
+    "fc_data": [
+      [
+        "hangi gün?",
+        "which day?"
+      ],
+      [
+        "kim var?",
+        "who is in x?"
+      ],
+      [
+        "kimde?",
+        "who has x?"
+      ],
+      [
+        "ne var?",
+        "what's in x?"
+      ],
+      [
+        "nerde?",
+        "where? [nerede]"
+      ]
+    ]
+  },
+  "a_other": {
+    "fc_data": [
+      [
+        "diller",
+        "languages"
+      ],
+      [
+        "farklı",
+        "different"
+      ],
+      [
+        "kent",
+        "city"
+      ],
+      [
+        "kontenjan",
+        "quota"
+      ],
+      [
+        "milliyet",
+        "nationality"
+      ],
+      [
+        "sorun",
+        "problem"
+      ],
+      [
+        "tarih",
+        "history"
+      ],
+      [
+        "tatil",
+        "vacation"
+      ],
+      [
+        "yarın",
+        "tomorrow"
+      ],
+      [
+        "ülke isimleri",
+        "country names"
+      ],
+      [
+        "albüm",
+        "album"
+      ],
+      [
+        "arnavut",
+        "albania"
+      ],
+      [
+        "barut",
+        "powder"
+      ],
+      [
+        "dergi",
+        "magazine"
+      ],
+      [
+        "dosya",
+        "file"
+      ],
+      [
+        "fiyat",
+        "price"
+      ],
+      [
+        "havuz",
+        "swimming pool"
+      ],
+      [
+        "konser",
+        "concert"
+      ],
+      [
+        "kulaklık",
+        "headphones"
+      ],
+      [
+        "melek",
+        "angel"
+      ],
+      [
+        "mesaj",
+        "text msg"
+      ],
+      [
+        "not",
+        "marks, grades"
+      ],
+      [
+        "pembe",
+        "pink"
+      ],
+      [
+        "tek",
+        "only one"
+      ],
+      [
+        "uygun",
+        "appropriate"
+      ],
+      [
+        "yarı",
+        "half"
+      ],
+      [
+        "yat",
+        "yacht"
+      ],
+      [
+        "ziyaret",
+        "visit"
+      ],
+      [
+        "ülke",
+        "country"
+      ],
+      [
+        "şarj",
+        "charger"
+      ],
+      [
+        "adet",
+        "piece"
+      ],
+      [
+        "betimlemeler",
+        "descriptions"
+      ],
+      [
+        "defa",
+        "occurrence, times"
+      ],
+      [
+        "fazla",
+        "extra"
+      ],
+      [
+        "fonksiyon",
+        "function"
+      ],
+      [
+        "hanım",
+        "lady"
+      ],
+      [
+        "iyilik",
+        "goodness"
+      ],
+      [
+        "kredi kartı",
+        "credit card"
+      ],
+      [
+        "lütfen",
+        "please"
+      ],
+      [
+        "miktarlar",
+        "amounts"
+      ],
+      [
+        "motorsiklet",
+        "motocycle"
+      ],
+      [
+        "ortak",
+        "common"
+      ],
+      [
+        "puan",
+        "score"
+      ],
+      [
+        "sayfada",
+        "page"
+      ],
+      [
+        "sayilar",
+        "numbers"
+      ],
+      [
+        "sağlık",
+        "health"
+      ],
+      [
+        "seda",
+        "voice, sound"
+      ],
+      [
+        "sıfır",
+        "zero"
+      ],
+      [
+        "sıra",
+        "grid"
+      ],
+      [
+        "soyad",
+        "last name, surname"
+      ],
+      [
+        "telefon numaran",
+        "telephone number"
+      ],
+      [
+        "özet",
+        "summary, abstract, rundown"
+      ],
+      [
+        "çözümü",
+        "solution"
+      ]
+    ]
+  },
+  "a_phrases": {
+    "fc_data": [
+      [
+        "bu yüzden",
+        "that is why"
+      ],
+      [
+        "kendi kendime",
+        "on my own [dative]"
+      ],
+      [
+        "ne? inanmıyorum",
+        "what? i don't believe it"
+      ],
+      [
+        "aşağıdaki",
+        "the following..."
+      ],
+      [
+        "ciddi misin?",
+        "are you serious?"
+      ],
+      [
+        "sorma ya",
+        "don't ask"
+      ],
+      [
+        "doğru tabii",
+        "right"
+      ],
+      [
+        "tabii ki",
+        "of course"
+      ],
+      [
+        "öyle mi?",
+        "oh really?"
+      ],
+      [
+        "kurstan sıkılıyor",
+        "bored of the course"
+      ],
+      [
+        "sorma ya",
+        "don't ask ugh"
+      ],
+      [
+        "uzun sürüyor",
+        "it takes a long time"
+      ],
+      [
+        "valla bilmiyorum",
+        "well, i don't know"
+      ],
+      [
+        "yine mi?",
+        "again?"
+      ],
+      [
+        "afiyet olsun",
+        "bon appetit"
+      ],
+      [
+        "bedava veriyorlar",
+        "they give it for free"
+      ],
+      [
+        "biraz sonra",
+        "a little later"
+      ],
+      [
+        "bol şans",
+        "good luck"
+      ],
+      [
+        "bu yüzden",
+        "therefore"
+      ],
+      [
+        "doğum günün kutlu olsun",
+        "happy birthday"
+      ],
+      [
+        "geçmiş olsun",
+        "get well soon"
+      ],
+      [
+        "görüşmek üzere",
+        "see you"
+      ],
+      [
+        "hoş bulduk",
+        "glad to be here"
+      ],
+      [
+        "hoş buldum",
+        "well found [response to welcome]"
+      ],
+      [
+        "hoş geldin",
+        "welcome"
+      ],
+      [
+        "hoş geldiniz",
+        "welcome"
+      ],
+      [
+        "hoşça kal",
+        "goodbye"
+      ],
+      [
+        "hoşça kalın",
+        "goodbye"
+      ],
+      [
+        "kendine iyi bak",
+        "take care of yourself"
+      ],
+      [
+        "memnun oldum",
+        "nice to meet you"
+      ],
+      [
+        "rica ederim",
+        "you're welcome"
+      ],
+      [
+        "sen bilirsin",
+        "as you wish"
+      ],
+      [
+        "teşekkür ederim",
+        "thank you"
+      ],
+      [
+        "çok yaşa",
+        "bless you"
+      ],
+      [
+        "yeter mi?",
+        "is it enough?"
+      ],
+      [
+        "ne olur ne olmaz",
+        "just in case"
+      ],
+      [
+        "kusura bakmayın",
+        "excuse me"
+      ],
+      [
+        "kolay gelsin",
+        "may it be easy"
+      ],
+      [
+        "affedersiniz",
+        "excuse me"
+      ],
+      [
+        "buyurun",
+        "here you go"
+      ],
+      [
+        "görüşürüz",
+        "see you"
+      ],
+      [
+        "güle güle",
+        "goodbye"
+      ],
+      [
+        "günaydın",
+        "good morning"
+      ],
+      [
+        "hadi",
+        "come on"
+      ],
+      [
+        "hep beraber",
+        "all together"
+      ],
+      [
+        "iyi akşamlar",
+        "good evening"
+      ],
+      [
+        "iyi eğlenceler",
+        "have fun"
+      ],
+      [
+        "iyi geceler",
+        "good night"
+      ],
+      [
+        "iyi günler",
+        "good day"
+      ],
+      [
+        "iyi ki doğdun",
+        "happy birthday"
+      ],
+      [
+        "iyi yolculuklar",
+        "have a good trip"
+      ],
+      [
+        "iyi şanslar",
+        "good luck"
+      ],
+      [
+        "sağ ol",
+        "thank you"
+      ],
+      [
+        "sağ olun",
+        "thank you"
+      ],
+      [
+        "özür dilerim",
+        "i'm sorry"
+      ],
+      [
+        "şerefe!",
+        "cheers"
+      ],
+      [
+        "tebrikler",
+        "congratulations"
+      ],
+      [
+        "tamam",
+        "okay"
+      ],
+      [
+        "teşekkürler",
+        "thanks"
+      ],
+      [
+        "tünaydın",
+        "good afternoon"
+      ],
+      [
+        "hapşu!",
+        "sneeze (expl)"
+      ],
+      [
+        "selamlaşma",
+        "greeting"
+      ],
+      [
+        "bey",
+        "mister"
+      ],
+      [
+        "efendim",
+        "sir/madam"
+      ]
+    ]
+  },
+  "a_place": {
+    "fc_data": [
+      [
+        "sahil",
+        "beach"
+      ],
+      [
+        "emniyet",
+        "police station"
+      ],
+      [
+        "coğrafya",
+        "geography"
+      ],
+      [
+        "alışveriş merkezi",
+        "shopping mall"
+      ],
+      [
+        "asya",
+        "asia"
+      ],
+      [
+        "avm",
+        "shopping mall"
+      ],
+      [
+        "avrupa",
+        "europe"
+      ],
+      [
+        "bahçe",
+        "garden"
+      ],
+      [
+        "balkon",
+        "balcony"
+      ],
+      [
+        "bank",
+        "bench"
+      ],
+      [
+        "banka",
+        "bank"
+      ],
+      [
+        "banyo",
+        "bathroom"
+      ],
+      [
+        "başkent",
+        "capital city"
+      ],
+      [
+        "belçika",
+        "belgium"
+      ],
+      [
+        "bina",
+        "building"
+      ],
+      [
+        "cami",
+        "mosque"
+      ],
+      [
+        "dağ",
+        "mountain"
+      ],
+      [
+        "eczane",
+        "pharmacy"
+      ],
+      [
+        "fas",
+        "morocco"
+      ],
+      [
+        "havaalanı",
+        "airport"
+      ],
+      [
+        "hastane",
+        "hospital"
+      ],
+      [
+        "isveç",
+        "sweden"
+      ],
+      [
+        "kampüs",
+        "campus"
+      ],
+      [
+        "kantin",
+        "canteen"
+      ],
+      [
+        "kapalı çarşı",
+        "grand bazaar"
+      ],
+      [
+        "karakol",
+        "police station"
+      ],
+      [
+        "kilise",
+        "church"
+      ],
+      [
+        "kütüphane",
+        "library"
+      ],
+      [
+        "lokanta",
+        "restaurant"
+      ],
+      [
+        "mağaza",
+        "store"
+      ],
+      [
+        "market",
+        "supermarket"
+      ],
+      [
+        "mutfak",
+        "kitchen"
+      ],
+      [
+        "müze",
+        "museum"
+      ],
+      [
+        "oda",
+        "room"
+      ],
+      [
+        "okul",
+        "school"
+      ],
+      [
+        "orman",
+        "forest"
+      ],
+      [
+        "orta okul",
+        "middle school"
+      ],
+      [
+        "otopark",
+        "parking lot"
+      ],
+      [
+        "oturma odası",
+        "living room"
+      ],
+      [
+        "park",
+        "park"
+      ],
+      [
+        "pastane",
+        "patisserie"
+      ],
+      [
+        "postane",
+        "post office"
+      ],
+      [
+        "restoran",
+        "restaurant"
+      ],
+      [
+        "sahil",
+        "coast"
+      ],
+      [
+        "semt",
+        "neighborhood"
+      ],
+      [
+        "sinema",
+        "cinema"
+      ],
+      [
+        "sokak",
+        "street"
+      ],
+      [
+        "spor salonu",
+        "gym"
+      ],
+      [
+        "suriye",
+        "syria"
+      ],
+      [
+        "sınıf",
+        "class"
+      ],
+      [
+        "sınır",
+        "border"
+      ],
+      [
+        "tiyatro",
+        "theater"
+      ],
+      [
+        "tuvalet",
+        "toilet"
+      ],
+      [
+        "üniversite",
+        "university"
+      ],
+      [
+        "yatak odası",
+        "bedroom"
+      ],
+      [
+        "yazlık",
+        "summer house"
+      ],
+      [
+        "yemekhane",
+        "dining hall"
+      ],
+      [
+        "yer",
+        "place"
+      ],
+      [
+        "şehir",
+        "city"
+      ],
+      [
+        "kule",
+        "tower"
+      ],
+      [
+        "köprü",
+        "bridge"
+      ],
+      [
+        "manzara",
+        "landscape"
+      ]
+    ]
+  },
+  "a_health": {
+    "fc_data": [
+      [
+        "kafam",
+        "head"
+      ],
+      [
+        "boğaz",
+        "throat"
+      ],
+      [
+        "ateş",
+        "fever"
+      ],
+      [
+        "göz",
+        "eye"
+      ],
+      [
+        "gözlük",
+        "eyeglasses"
+      ],
+      [
+        "koku",
+        "smelll, scent"
+      ],
+      [
+        "tarak",
+        "comb, brush"
+      ]
+    ]
+  },
+  "a_nature": {
+    "fc_data": [
+      [
+        "doğa",
+        "nature"
+      ],
+      [
+        "kış",
+        "winter"
+      ],
+      [
+        "mevsim",
+        "season"
+      ],
+      [
+        "sonbahar",
+        "autumn"
+      ],
+      [
+        "ilkbahar",
+        "spring"
+      ],
+      [
+        "yağmur",
+        "rain"
+      ],
+      [
+        "at",
+        "horse"
+      ],
+      [
+        "gövde",
+        "tree trunk"
+      ],
+      [
+        "gül",
+        "rose flower"
+      ],
+      [
+        "sap",
+        "stem"
+      ],
+      [
+        "yılan",
+        "snake"
+      ]
+    ]
+  },
+  "a_people": {
+    "fc_data": [
+      [
+        "all of us",
+        "hepimiz"
+      ],
+      [
+        "ev arkadaşı",
+        "roommate"
+      ],
+      [
+        "kendi",
+        "self"
+      ],
+      [
+        "kişilik",
+        "personality, identify, character"
+      ],
+      [
+        "yalnız",
+        "alone"
+      ],
+      [
+        "çalışan",
+        "worker"
+      ],
+      [
+        "eş",
+        "spouse"
+      ],
+      [
+        "oyuncu",
+        "actor (here)"
+      ],
+      [
+        "yazar",
+        "writer"
+      ],
+      [
+        "yönetmen",
+        "director"
+      ],
+      [
+        "abi",
+        "older brother"
+      ],
+      [
+        "abla",
+        "older sister"
+      ],
+      [
+        "akraba",
+        "relatives"
+      ],
+      [
+        "amca",
+        "uncle (father's bro)"
+      ],
+      [
+        "anne tarafı",
+        "mother's side"
+      ],
+      [
+        "anneanne",
+        "mother's mother"
+      ],
+      [
+        "ağabey",
+        "elder brother"
+      ],
+      [
+        "baba tarafı",
+        "father's side"
+      ],
+      [
+        "babaanne",
+        "father's mother"
+      ],
+      [
+        "dayı",
+        "uncle (mother's bro)"
+      ],
+      [
+        "dede",
+        "father's father"
+      ],
+      [
+        "enişte",
+        "aunt's husband"
+      ],
+      [
+        "enişte",
+        "in-law bro/sis"
+      ],
+      [
+        "erkek kardeş",
+        "brother"
+      ],
+      [
+        "evlat",
+        "child, offspring"
+      ],
+      [
+        "eş",
+        "spouse"
+      ],
+      [
+        "hala",
+        "aunt (father's sis)"
+      ],
+      [
+        "hala",
+        "aunt"
+      ],
+      [
+        "karı",
+        "wife"
+      ],
+      [
+        "koca",
+        "husband"
+      ],
+      [
+        "komşu",
+        "neighbor"
+      ],
+      [
+        "kuzen",
+        "cousin"
+      ],
+      [
+        "kız kardeş",
+        "sister"
+      ],
+      [
+        "müdür",
+        "director, manager"
+      ],
+      [
+        "soy ağacını",
+        "family tree"
+      ],
+      [
+        "takipçi",
+        "follower"
+      ],
+      [
+        "teyze",
+        "aunt (mother's sis)"
+      ],
+      [
+        "torun",
+        "grandchild"
+      ],
+      [
+        "yenge",
+        "uncle's wife"
+      ],
+      [
+        "yeğen",
+        "niece/nephew"
+      ]
+    ]
+  },
+  "a_abstract": {
+    "fc_data": [
+      [
+        "boşluk",
+        "blank (area)"
+      ],
+      [
+        "evlilik yıldönümü",
+        "wedding anniversary"
+      ],
+      [
+        "görsel",
+        "visual [item]"
+      ],
+      [
+        "ipucu",
+        "hint, clue"
+      ],
+      [
+        "kulüp toplantısı",
+        "club meeting"
+      ],
+      [
+        "manzara",
+        "view"
+      ],
+      [
+        "parça",
+        "fragment, snippet"
+      ],
+      [
+        "rutin",
+        "routine"
+      ],
+      [
+        "sessiz",
+        "quiet"
+      ],
+      [
+        "şifre",
+        "password"
+      ],
+      [
+        "şirket",
+        "company"
+      ],
+      [
+        "tiyatro oyunu",
+        "theater play"
+      ],
+      [
+        "üye",
+        "member"
+      ],
+      [
+        "yarışma",
+        "competition"
+      ]
+    ]
+  },
+  "a_adjective": {
+    "fc_data": [
+      [
+        "antik",
+        "ancient"
+      ],
+      [
+        "dolu",
+        "full"
+      ],
+      [
+        "heyecanlı",
+        "excited, thrilling"
+      ],
+      [
+        "meşhur",
+        "famous"
+      ],
+      [
+        "sıcakkanlı",
+        "warmblooded"
+      ],
+      [
+        "yaygın",
+        "common, widespread"
+      ],
       [
         "vefa",
         "loyalty"
@@ -3938,11 +5458,99 @@
       [
         "tarihi",
         "historical"
+      ],
+      [
+        "ciddi",
+        "serious"
+      ],
+      [
+        "kocaman",
+        "huge"
+      ],
+      [
+        "aynı",
+        "same"
+      ],
+      [
+        "dağınık",
+        "messy"
+      ],
+      [
+        "geniş",
+        "wide, vast"
+      ],
+      [
+        "kalabalık",
+        "crowded"
+      ],
+      [
+        "pahalı",
+        "expensive"
+      ],
+      [
+        "yüksek",
+        "high value"
+      ],
+      [
+        "önemli",
+        "important"
+      ],
+      [
+        "şık",
+        "elegant, chic"
+      ],
+      [
+        "sıkıcı",
+        "annoying"
+      ],
+      [
+        "uygun",
+        "suitable"
       ]
     ]
   },
-  "a2_adverbs": {
+  "a_adverb": {
     "fc_data": [
+      [
+        "orta",
+        "middle"
+      ],
+      [
+        "hep",
+        "always"
+      ],
+      [
+        "hepsi",
+        "all of ..."
+      ],
+      [
+        "neler",
+        "what"
+      ],
+      [
+        "artık",
+        "anymore"
+      ],
+      [
+        "beraber",
+        "together with"
+      ],
+      [
+        "bütün",
+        "all"
+      ],
+      [
+        "hakkında",
+        "about, regarding"
+      ],
+      [
+        "hızlı",
+        "fast"
+      ],
+      [
+        "uzak",
+        "far"
+      ],
       [
         "akşamları",
         "in the evenings"
@@ -4054,47 +5662,87 @@
       [
         "zaman",
         "time"
+      ],
+      [
+        "ara sıra",
+        "now and then"
+      ],
+      [
+        "arada bir",
+        "occasionally"
+      ],
+      [
+        "asla",
+        "never"
+      ],
+      [
+        "ayda bir kere",
+        "once a month"
+      ],
+      [
+        "bazen",
+        "sometimes"
+      ],
+      [
+        "bu arada?",
+        "by the way"
+      ],
+      [
+        "bu yüzden",
+        "that's why"
+      ],
+      [
+        "bugünlerde",
+        "lately, these days"
+      ],
+      [
+        "bütün",
+        "all"
+      ],
+      [
+        "dikkatlice",
+        "carefully"
+      ],
+      [
+        "doğru",
+        "that's right"
+      ],
+      [
+        "hakkında",
+        "about"
+      ],
+      [
+        "hepimiz",
+        "all of us"
+      ],
+      [
+        "hiçbir zaman",
+        "never"
+      ],
+      [
+        "sıklıkla",
+        "often"
+      ],
+      [
+        "yavaş",
+        "slow"
       ]
     ]
   },
-  "a2_conjunctions": {
+  "a_conj": {
     "fc_data": [
-      [
-        "ama",
-        "but"
-      ],
-      [
-        "ancak",
-        "however"
-      ],
-      [
-        "ayrıca",
-        "additionally"
-      ],
-      [
-        "veya",
-        "or"
-      ],
-      [
-        "ya da",
-        "or"
-      ],
-      [
-        "yani",
-        "meaning"
-      ],
       [
         "çünkü",
         "because"
-      ],
-      [
-        "öyleyse",
-        "so, then, if so, well"
       ]
     ]
   },
-  "a2_food": {
+  "a_food": {
     "fc_data": [
+      [
+        "kızartma",
+        "fritter, fried food"
+      ],
       [
         "ananas",
         "pineapple"
@@ -4506,1318 +6154,230 @@
       [
         "karbonhidrat",
         "carbohydrate"
-      ]
-    ]
-  },
-  "a2_grammar": {
-    "fc_data": [
-      [
-        "sıfatlar",
-        "adjectives"
-      ],
-      [
-        "mantıksal bağlayıcılar",
-        "logical connectors"
-      ],
-      [
-        "asıl sayılar",
-        "cardinal numbers"
-      ],
-      [
-        "sıra sayıları",
-        "ordinal numbers"
-      ],
-      [
-        "bağlaçlar",
-        "conjunctions"
-      ],
-      [
-        "sıklık zarfları",
-        "adverbs of frequency"
-      ],
-      [
-        "günlük ifadeler",
-        "daily expressions"
-      ],
-      [
-        "kişisel özellikler",
-        "personal characteristics"
-      ],
-      [
-        "alıştırmaları",
-        "exercises"
-      ],
-      [
-        "bulunma durum ekini",
-        "locative case suffix"
-      ],
-      [
-        "isim cümleleri",
-        "nominal sentences"
-      ],
-      [
-        "çoğul eki",
-        "plural suffix"
-      ],
-      [
-        "soru parçacığını",
-        "interrogative particle"
-      ],
-      [
-        "konu anlatımı",
-        "grammar explanation"
-      ],
-      [
-        "selamlaşma",
-        "greetings"
-      ],
-      [
-        "kendini tanıtma",
-        "self-introduction"
-      ],
-      [
-        "işaret zamirleri",
-        "demonstrative pronouns"
-      ],
-      [
-        "çoğul ekleri",
-        "plural suffixes"
-      ],
-      [
-        "çoğul işaret zamirleri",
-        "plural demonstrative pronouns"
-      ],
-      [
-        "kelime listesi",
-        "vocabulary list"
-      ]
-    ]
-  },
-  "a2_household": {
-    "fc_data": [
-      [
-        "ayna",
-        "mirror"
-      ],
-      [
-        "bardak",
-        "glass"
-      ],
-      [
-        "battaniye",
-        "blanket"
-      ],
-      [
-        "bıçak",
-        "knife"
-      ],
-      [
-        "bulaşık makinesi",
-        "dishwasher"
-      ],
-      [
-        "buzdolabı",
-        "refrigerator"
-      ],
-      [
-        "cetvel",
-        "ruler, measure"
-      ],
-      [
-        "defter",
-        "notebook"
-      ],
-      [
-        "deterjan",
-        "detergent"
-      ],
-      [
-        "diş fırçası",
-        "toothbrush"
-      ],
-      [
-        "diş macunu",
-        "toothpaste"
-      ],
-      [
-        "dolap",
-        "closet"
-      ],
-      [
-        "duş kabini",
-        "shower cabin"
-      ],
-      [
-        "fincan",
-        "cup"
-      ],
-      [
-        "fırın",
-        "oven"
-      ],
-      [
-        "gardırop",
-        "wardrobe"
-      ],
-      [
-        "halı",
-        "carpet"
-      ],
-      [
-        "havlu",
-        "towel"
-      ],
-      [
-        "islak mendil",
-        "wet wipe"
-      ],
-      [
-        "kalem",
-        "pen"
-      ],
-      [
-        "kalemlik",
-        "pencil case"
-      ],
-      [
-        "kalemtıraş",
-        "pencil sharpener"
-      ],
-      [
-        "kapı",
-        "door"
-      ],
-      [
-        "kase",
-        "bowl"
-      ],
-      [
-        "kaşık",
-        "spoon"
-      ],
-      [
-        "kitap",
-        "book"
-      ],
-      [
-        "kitaplık",
-        "bookshelf"
-      ],
-      [
-        "kağıt",
-        "paper"
-      ],
-      [
-        "klozet",
-        "toilet bowl"
-      ],
-      [
-        "koltuk",
-        "seat"
-      ],
-      [
-        "komodin",
-        "nightstand"
-      ],
-      [
-        "küvet",
-        "bathtub"
-      ],
-      [
-        "lavabo",
-        "sink"
-      ],
-      [
-        "makas",
-        "scissors"
-      ],
-      [
-        "masa",
-        "table"
-      ],
-      [
-        "pencere",
-        "window"
-      ],
-      [
-        "perde",
-        "curtain"
-      ],
-      [
-        "sabun",
-        "soap"
-      ],
-      [
-        "sandalye",
-        "chair"
-      ],
-      [
-        "sehpa",
-        "coffee table"
-      ],
-      [
-        "silgi",
-        "eraser"
-      ],
-      [
-        "sıra",
-        "desk, school desk"
-      ],
-      [
-        "tablo",
-        "painting, picture"
-      ],
-      [
-        "tahta",
-        "blackboard"
-      ],
-      [
-        "televizyon",
-        "television"
-      ],
-      [
-        "tuvalet kağıdı",
-        "toilet paper"
-      ],
-      [
-        "yastık",
-        "pillow"
-      ],
-      [
-        "yatak",
-        "bed"
-      ],
-      [
-        "yorgan",
-        "quilt"
-      ],
-      [
-        "çatal",
-        "fork"
-      ],
-      [
-        "şampuan",
-        "shampoo"
-      ],
-      [
-        "şömine",
-        "fireplace"
-      ],
-      [
-        "bant",
-        "scotch tape"
-      ],
-      [
-        "bilgisayar",
-        "computer"
-      ],
-      [
-        "zımba",
-        "stapler"
-      ],
-      [
-        "yazı tahtası",
-        "blackboard"
-      ]
-    ]
-  },
-  "a2_interrogatives": {
-    "fc_data": [
-      [
-        "kim var?",
-        "who is in x?"
-      ],
-      [
-        "kimde?",
-        "who has x?"
-      ],
-      [
-        "ne var?",
-        "what's in x?"
-      ],
-      [
-        "nerde?",
-        "where? [nerede]"
-      ]
-    ]
-  },
-  "a2_other": {
-    "fc_data": [
-      [
-        "adet",
-        "piece"
-      ],
-      [
-        "betimlemeler",
-        "descriptions"
-      ],
-      [
-        "defa",
-        "occurrence, times"
-      ],
-      [
-        "fazla",
-        "extra"
-      ],
-      [
-        "fonksiyon",
-        "function"
-      ],
-      [
-        "hanım",
-        "lady"
-      ],
-      [
-        "iyilik",
-        "goodness"
-      ],
-      [
-        "kredi kartı",
-        "credit card"
-      ],
-      [
-        "lütfen",
-        "please"
-      ],
-      [
-        "miktarlar",
-        "amounts"
-      ],
-      [
-        "motorsiklet",
-        "motocycle"
-      ],
-      [
-        "ortak",
-        "common"
-      ],
-      [
-        "puan",
-        "score"
-      ],
-      [
-        "sayfada",
-        "page"
-      ],
-      [
-        "sayilar",
-        "numbers"
-      ],
-      [
-        "sağlık",
-        "health"
-      ],
-      [
-        "seda",
-        "voice, sound"
-      ],
-      [
-        "sıfır",
-        "zero"
-      ],
-      [
-        "sıra",
-        "grid"
-      ],
-      [
-        "soyad",
-        "last name, surname"
       ],
       [
-        "telefon numaran",
-        "telephone number"
+        "akşam yemeği",
+        "dinner"
       ],
       [
-        "özet",
-        "summary, abstract, rundown"
+        "ayran",
+        "yogurt-like drink"
       ],
       [
-        "çözümü",
-        "solution"
-      ]
-    ]
-  },
-  "a2_phrases": {
-    "fc_data": [
-      [
-        "afiyet olsun",
-        "bon appetit"
-      ],
-      [
-        "bedava veriyorlar",
-        "they give it for free"
-      ],
-      [
-        "biraz sonra",
-        "a little later"
-      ],
-      [
-        "bol şans",
-        "good luck"
-      ],
-      [
-        "bu yüzden",
-        "therefore"
-      ],
-      [
-        "doğum günün kutlu olsun",
-        "happy birthday"
-      ],
-      [
-        "geçmiş olsun",
-        "get well soon"
-      ],
-      [
-        "görüşmek üzere",
-        "see you"
-      ],
-      [
-        "hoş bulduk",
-        "glad to be here"
-      ],
-      [
-        "hoş buldum",
-        "well found [response to welcome]"
-      ],
-      [
-        "hoş geldin",
-        "welcome"
-      ],
-      [
-        "hoş geldiniz",
-        "welcome"
-      ],
-      [
-        "hoşça kal",
-        "goodbye"
-      ],
-      [
-        "hoşça kalın",
-        "goodbye"
-      ],
-      [
-        "kendine iyi bak",
-        "take care of yourself"
-      ],
-      [
-        "memnun oldum",
-        "nice to meet you"
-      ],
-      [
-        "rica ederim",
-        "you're welcome"
-      ],
-      [
-        "sen bilirsin",
-        "as you wish"
-      ],
-      [
-        "teşekkür ederim",
-        "thank you"
-      ],
-      [
-        "çok yaşa",
-        "bless you"
-      ],
-      [
-        "yeter mi?",
-        "is it enough?"
-      ],
-      [
-        "ne olur ne olmaz",
-        "just in case"
-      ],
-      [
-        "kusura bakmayın",
-        "excuse me"
-      ],
-      [
-        "kolay gelsin",
-        "may it be easy"
-      ],
-      [
-        "affedersiniz",
-        "excuse me"
-      ],
-      [
-        "buyurun",
-        "here you go"
-      ],
-      [
-        "görüşürüz",
-        "see you"
-      ],
-      [
-        "güle güle",
-        "goodbye"
-      ],
-      [
-        "günaydın",
-        "good morning"
-      ],
-      [
-        "hadi",
-        "come on"
-      ],
-      [
-        "hep beraber",
-        "all together"
-      ],
-      [
-        "iyi akşamlar",
-        "good evening"
-      ],
-      [
-        "iyi eğlenceler",
-        "have fun"
-      ],
-      [
-        "iyi geceler",
-        "good night"
-      ],
-      [
-        "iyi günler",
-        "good day"
-      ],
-      [
-        "iyi ki doğdun",
-        "happy birthday"
-      ],
-      [
-        "iyi yolculuklar",
-        "have a good trip"
-      ],
-      [
-        "iyi şanslar",
-        "good luck"
-      ],
-      [
-        "sağ ol",
-        "thank you"
-      ],
-      [
-        "sağ olun",
-        "thank you"
-      ],
-      [
-        "özür dilerim",
-        "i'm sorry"
-      ],
-      [
-        "şerefe!",
-        "cheers"
-      ],
-      [
-        "tebrikler",
-        "congratulations"
-      ],
-      [
-        "tamam",
-        "okay"
-      ],
-      [
-        "teşekkürler",
-        "thanks"
-      ],
-      [
-        "tünaydın",
-        "good afternoon"
-      ],
-      [
-        "hapşu!",
-        "sneeze (expl)"
-      ],
-      [
-        "selamlaşma",
-        "greeting"
-      ],
-      [
-        "bey",
-        "mister"
-      ],
-      [
-        "efendim",
-        "sir/madam"
-      ]
-    ]
-  },
-  "a2_place": {
-    "fc_data": [
-      [
-        "emniyet",
-        "police station"
-      ],
-      [
-        "coğrafya",
-        "geography"
-      ],
-      [
-        "alışveriş merkezi",
-        "shopping mall"
-      ],
-      [
-        "asya",
-        "asia"
-      ],
-      [
-        "avm",
-        "shopping mall"
-      ],
-      [
-        "avrupa",
-        "europe"
-      ],
-      [
-        "bahçe",
-        "garden"
-      ],
-      [
-        "balkon",
-        "balcony"
-      ],
-      [
-        "bank",
-        "bench"
-      ],
-      [
-        "banka",
-        "bank"
-      ],
-      [
-        "banyo",
-        "bathroom"
-      ],
-      [
-        "başkent",
-        "capital city"
-      ],
-      [
-        "belçika",
-        "belgium"
-      ],
-      [
-        "bina",
-        "building"
-      ],
-      [
-        "cami",
-        "mosque"
-      ],
-      [
-        "dağ",
-        "mountain"
-      ],
-      [
-        "eczane",
-        "pharmacy"
-      ],
-      [
-        "fas",
-        "morocco"
-      ],
-      [
-        "havaalanı",
-        "airport"
-      ],
-      [
-        "hastane",
-        "hospital"
-      ],
-      [
-        "isveç",
-        "sweden"
-      ],
-      [
-        "kampüs",
-        "campus"
-      ],
-      [
-        "kantin",
-        "canteen"
-      ],
-      [
-        "kapalı çarşı",
-        "grand bazaar"
-      ],
-      [
-        "karakol",
-        "police station"
-      ],
-      [
-        "kilise",
-        "church"
-      ],
-      [
-        "kütüphane",
-        "library"
-      ],
-      [
-        "lokanta",
-        "restaurant"
-      ],
-      [
-        "mağaza",
-        "store"
-      ],
-      [
-        "market",
-        "supermarket"
-      ],
-      [
-        "mutfak",
-        "kitchen"
-      ],
-      [
-        "müze",
-        "museum"
-      ],
-      [
-        "oda",
-        "room"
-      ],
-      [
-        "okul",
-        "school"
-      ],
-      [
-        "orman",
-        "forest"
-      ],
-      [
-        "orta okul",
-        "middle school"
-      ],
-      [
-        "otopark",
-        "parking lot"
-      ],
-      [
-        "oturma odası",
-        "living room"
-      ],
-      [
-        "park",
-        "park"
-      ],
-      [
-        "pastane",
-        "patisserie"
-      ],
-      [
-        "postane",
-        "post office"
-      ],
-      [
-        "restoran",
-        "restaurant"
-      ],
-      [
-        "sahil",
-        "coast"
-      ],
-      [
-        "semt",
-        "neighborhood"
-      ],
-      [
-        "sinema",
-        "cinema"
-      ],
-      [
-        "sokak",
-        "street"
-      ],
-      [
-        "spor salonu",
-        "gym"
+        "baklava",
+        "baklava"
       ],
       [
-        "suriye",
-        "syria"
+        "cacık",
+        "tzatziki"
       ],
       [
-        "sınıf",
-        "class"
+        "çay",
+        "tea"
       ],
       [
-        "sınır",
-        "border"
+        "çipura",
+        "sea bream"
       ],
       [
-        "tiyatro",
-        "theater"
+        "çorba",
+        "soup"
       ],
       [
-        "tuvalet",
-        "toilet"
+        "içecek",
+        "beverage"
       ],
       [
-        "üniversite",
-        "university"
+        "ıhlamur",
+        "linden tea"
       ],
       [
-        "yatak odası",
-        "bedroom"
+        "kahvaltı",
+        "breakfast"
       ],
       [
-        "yazlık",
-        "summer house"
+        "kahve",
+        "coffee"
       ],
       [
-        "yemekhane",
-        "dining hall"
+        "kebap",
+        "kebab"
       ],
       [
-        "yer",
-        "place"
+        "köfte",
+        "meatball"
       ],
       [
-        "şehir",
-        "city"
+        "kola",
+        "coke"
       ],
       [
-        "kule",
-        "tower"
+        "künefe",
+        "overn shredded pasta"
       ],
       [
-        "köprü",
-        "bridge"
+        "lahmacun",
+        "turkish pizza"
       ],
       [
-        "manzara",
-        "landscape"
-      ]
-    ]
-  },
-  "a4a_adjective": {
-    "fc_data": [
-      [
-        "ciddi",
-        "serious"
+        "levrek",
+        "sea bass"
       ],
       [
-        "kocaman",
-        "huge"
+        "limonata",
+        "lemonade"
       ],
       [
-        "aynı",
-        "same"
+        "lüfer",
+        "bluefish"
       ],
       [
-        "dağınık",
-        "messy"
+        "makarna",
+        "pasta"
       ],
       [
-        "geniş",
-        "wide, vast"
+        "mantı",
+        "dumpling"
       ],
       [
-        "kalabalık",
-        "crowded"
+        "mantı",
+        "turkish ravioli"
       ],
       [
-        "pahalı",
-        "expensive"
+        "menemen",
+        "scrambled eggs w/ vegs"
       ],
       [
-        "yüksek",
-        "high value"
+        "meyve suyu",
+        "fruit juice"
       ],
       [
-        "önemli",
-        "important"
+        "öğle yemeği",
+        "lunch"
       ],
-      [
-        "şık",
-        "elegant, chic"
-      ]
-    ]
-  },
-  "a4a_adverb": {
-    "fc_data": [
       [
-        "artık",
-        "anymore"
+        "palamut",
+        "bonito"
       ],
       [
-        "beraber",
-        "together with"
+        "pilav",
+        "rice"
       ],
       [
-        "bütün",
-        "all"
+        "poğaça",
+        "pastry"
       ],
       [
-        "hakkında",
-        "about, regarding"
+        "portakal suyu",
+        "orange juice"
       ],
       [
-        "hızlı",
-        "fast"
+        "salata",
+        "salad"
       ],
       [
-        "uzak",
-        "far"
-      ]
-    ]
-  },
-  "a4a_conjunction": {
-    "fc_data": [
-      [
-        "sanırım",
-        "i guess..."
+        "sardalya",
+        "sardine"
       ],
       [
-        "bak",
-        "lo, now"
+        "sipariş",
+        "order"
       ],
-      [
-        "çünkü",
-        "because"
-      ]
-    ]
-  },
-  "a4a_food": {
-    "fc_data": [
       [
-        "kek",
-        "cake, muffin"
+        "sütlaç",
+        "rice pudding"
       ],
       [
-        "yemek",
+        "yiyecek",
         "food"
       ]
     ]
   },
-  "a4a_grammar": {
+  "a_locate": {
     "fc_data": [
       [
-        "iyelik",
-        "possessive"
+        "dışarı",
+        "outside (to)"
       ],
       [
-        "sahiplik ekleri",
-        "possessive suffix"
-      ],
-      [
-        "sahiplik sıftarı",
-        "possessive adjective"
+        "içeri",
+        "inside (to)"
       ]
     ]
   },
-  "a4a_health": {
+  "a_object": {
     "fc_data": [
       [
-        "ateş",
-        "fever"
+        "bilet",
+        "ticket"
       ],
       [
-        "göz",
-        "eye"
+        "hesap",
+        "check"
       ],
       [
-        "gözlük",
-        "eyeglasses"
+        "makyaj",
+        "makeup"
       ],
       [
-        "koku",
-        "smelll, scent"
-      ],
-      [
-        "tarak",
-        "comb, brush"
+        "şemsiye",
+        "umbrella"
       ]
     ]
   },
-  "a4a_household": {
+  "a_time": {
     "fc_data": [
       [
-        "ayakkabı",
-        "shoe"
+        "buçukta",
+        "half past (hour)"
       ],
       [
-        "ayrı oda",
-        "separate room"
+        "dönem",
+        "semester"
       ],
       [
-        "ayuncak",
-        "toy"
+        "erken",
+        "early"
       ],
       [
-        "kat",
-        "floor"
+        "hafta sonları",
+        "weekends"
       ],
       [
-        "valiz",
-        "suitcase"
+        "iki hafta sonra",
+        "two weeks later"
       ],
       [
-        "ütü",
-        "iron [ironing]"
+        "mola",
+        "break, recess"
+      ],
+      [
+        "öğle molası",
+        "noon break"
+      ],
+      [
+        "sabahları",
+        "in the mornings"
       ]
     ]
   },
-  "a4a_nature": {
+  "a_travel": {
     "fc_data": [
       [
-        "at",
-        "horse"
+        "okul servisi",
+        "school bus"
       ],
       [
-        "gövde",
-        "tree trunk"
+        "vapur",
+        "ferry"
       ],
       [
-        "gül",
-        "rose flower"
-      ],
-      [
-        "sap",
-        "stem"
-      ],
-      [
-        "yılan",
-        "snake"
+        "yolculuk",
+        "travel, journey"
       ]
     ]
   },
-  "a4a_other": {
-    "fc_data": [
-      [
-        "albüm",
-        "album"
-      ],
-      [
-        "arnavut",
-        "albania"
-      ],
-      [
-        "barut",
-        "powder"
-      ],
-      [
-        "dergi",
-        "magazine"
-      ],
-      [
-        "dosya",
-        "file"
-      ],
-      [
-        "fiyat",
-        "price"
-      ],
-      [
-        "havuz",
-        "swimming pool"
-      ],
-      [
-        "konser",
-        "concert"
-      ],
-      [
-        "kulaklık",
-        "headphones"
-      ],
-      [
-        "melek",
-        "angel"
-      ],
-      [
-        "mesaj",
-        "text msg"
-      ],
-      [
-        "not",
-        "marks, grades"
-      ],
-      [
-        "pembe",
-        "pink"
-      ],
-      [
-        "tek",
-        "only one"
-      ],
-      [
-        "uygun",
-        "appropriate"
-      ],
-      [
-        "yarı",
-        "half"
-      ],
-      [
-        "yat",
-        "yacht"
-      ],
-      [
-        "ziyaret",
-        "visit"
-      ],
-      [
-        "ülke",
-        "country"
-      ],
-      [
-        "şarj",
-        "charger"
-      ]
-    ]
-  },
-  "a4a_people": {
-    "fc_data": [
-      [
-        "abi",
-        "older brother"
-      ],
-      [
-        "abla",
-        "older sister"
-      ],
-      [
-        "akraba",
-        "relatives"
-      ],
-      [
-        "amca",
-        "uncle (father's bro)"
-      ],
-      [
-        "anne tarafı",
-        "mother's side"
-      ],
-      [
-        "anneanne",
-        "mother's mother"
-      ],
-      [
-        "ağabey",
-        "elder brother"
-      ],
-      [
-        "baba tarafı",
-        "father's side"
-      ],
-      [
-        "babaanne",
-        "father's mother"
-      ],
-      [
-        "dayı",
-        "uncle (mother's bro)"
-      ],
-      [
-        "dede",
-        "father's father"
-      ],
-      [
-        "enişte",
-        "aunt's husband"
-      ],
-      [
-        "enişte",
-        "in-law bro/sis"
-      ],
-      [
-        "erkek kardeş",
-        "brother"
-      ],
-      [
-        "evlat",
-        "child, offspring"
-      ],
-      [
-        "eş",
-        "spouse"
-      ],
-      [
-        "hala",
-        "aunt (father's sis)"
-      ],
-      [
-        "hala",
-        "aunt"
-      ],
-      [
-        "karı",
-        "wife"
-      ],
-      [
-        "koca",
-        "husband"
-      ],
-      [
-        "komşu",
-        "neighbor"
-      ],
-      [
-        "kuzen",
-        "cousin"
-      ],
-      [
-        "kız kardeş",
-        "sister"
-      ],
-      [
-        "müdür",
-        "director, manager"
-      ],
-      [
-        "soy ağacını",
-        "family tree"
-      ],
-      [
-        "takipçi",
-        "follower"
-      ],
-      [
-        "teyze",
-        "aunt (mother's sis)"
-      ],
-      [
-        "torun",
-        "grandchild"
-      ],
-      [
-        "yenge",
-        "uncle's wife"
-      ],
-      [
-        "yeğen",
-        "niece/nephew"
-      ]
-    ]
-  },
-  "a4a_phrase": {
-    "fc_data": [
-      [
-        "aşağıdaki",
-        "the following..."
-      ],
-      [
-        "ciddi misin?",
-        "are you serious?"
-      ],
-      [
-        "sorma ya",
-        "don't ask"
-      ],
-      [
-        "doğru tabii",
-        "right"
-      ],
-      [
-        "tabii ki",
-        "of course"
-      ],
-      [
-        "öyle mi?",
-        "oh really?"
-      ]
-    ]
-  },
-  "a4a_verb": {
+  "a_verb": {
     "fc_data": [
       [
         "-bak",
@@ -5842,200 +6402,420 @@
       [
         "-yakış",
         "looks good on, suits"
-      ]
-    ]
-  },
-  "a4b_adjective": {
-    "fc_data": [
-      [
-        "antik",
-        "ancient"
       ],
       [
-        "dolu",
-        "full"
+        "-sür",
+        "takes time, span"
       ],
       [
-        "heyecanlı",
-        "excited, thrilling"
+        "şirin",
+        "cute, lovely"
       ],
       [
-        "meşhur",
-        "famous"
+        "- çağır",
+        "call sby"
       ],
       [
-        "sıcakkanlı",
-        "warmblooded"
+        "- seç",
+        "choose"
       ],
       [
-        "yaygın",
-        "common, widespread"
-      ]
-    ]
-  },
-  "a4b_adverb": {
-    "fc_data": [
-      [
-        "orta",
-        "middle"
+        "-ağla",
+        "cry, weep"
       ],
       [
-        "hep",
-        "always"
+        "-ağrı",
+        "hurts, pain"
       ],
       [
-        "hepsi",
-        "all of ..."
+        "-al",
+        "get, buy"
       ],
       [
-        "neler",
-        "what"
-      ]
-    ]
-  },
-  "a4b_food": {
-    "fc_data": [
-      [
-        "kızartma",
-        "fritter, fried food"
-      ]
-    ]
-  },
-  "a4b_grammar": {
-    "fc_data": [
-      [
-        "dönüşlü zamirler",
-        "reflexive pronouns"
-      ]
-    ]
-  },
-  "a4b_health": {
-    "fc_data": [
-      [
-        "kafam",
-        "head"
-      ]
-    ]
-  },
-  "a4b_household": {
-    "fc_data": [
-      [
-        "evin işleri",
-        "house chores"
-      ]
-    ]
-  },
-  "a4b_nature": {
-    "fc_data": [
-      [
-        "doğa",
-        "nature"
+        "-anla",
+        "understand"
       ],
       [
-        "kış",
-        "winter"
+        "-ara",
+        "search for"
       ],
       [
-        "mevsim",
-        "season"
+        "-ara",
+        "phone call"
       ],
       [
-        "sonbahar",
-        "autumn"
+        "-banyo yapmak",
+        "take bath"
       ],
       [
-        "ilkbahar",
-        "spring"
-      ]
-    ]
-  },
-  "a4b_other": {
-    "fc_data": [
-      [
-        "diller",
-        "languages"
+        "-bekle",
+        "wait for"
       ],
       [
-        "farklı",
-        "different"
+        "-beslenme hazırlamak",
+        "prepare a meal"
       ],
       [
-        "kent",
-        "city"
+        "-bil",
+        "know"
       ],
       [
-        "kontenjan",
-        "quota"
+        "-bin",
+        "board (bus)"
       ],
       [
-        "milliyet",
-        "nationality"
+        "-bit",
+        "end, finish"
       ],
       [
-        "sorun",
-        "problem"
+        "-bul",
+        "find"
       ],
       [
-        "tarih",
-        "history"
+        "-buluş",
+        "meet"
       ],
       [
-        "tatil",
-        "vacation"
+        "-çağır",
+        "call sby"
       ],
       [
-        "yarın",
-        "tomorrow"
+        "-çal",
+        "knock"
       ],
       [
-        "ülke isimleri",
-        "country names"
-      ]
-    ]
-  },
-  "a4b_people": {
-    "fc_data": [
-      [
-        "all of us",
-        "hepimiz"
+        "-çalı",
+        "play instrument"
       ],
       [
-        "ev arkadaşı",
-        "roommate"
+        "-çalış",
+        "work"
       ],
       [
-        "kendi",
-        "self"
+        "-cevapla",
+        "answer"
       ],
       [
-        "kişilik",
-        "personality, identify, character"
+        "-çiz",
+        "draw pic"
       ],
       [
-        "yalnız",
-        "alone"
-      ]
-    ]
-  },
-  "a4b_phrase": {
-    "fc_data": [
-      [
-        "bu yüzden",
-        "that is why"
+        "-çık",
+        "go out, exit"
       ],
       [
-        "kendi kendime",
-        "on my own [dative]"
+        "-de",
+        "say , quote, mean"
       ],
       [
-        "ne? inanmıyorum",
-        "what? i don't believe it"
-      ]
-    ]
-  },
-  "a4b_verb": {
-    "fc_data": [
+        "-devam etmek",
+        "continue"
+      ],
       [
+        "-dinle",
+        "listen"
+      ],
+      [
+        "-dinlen",
+        "rest, relax"
+      ],
+      [
+        "-doldur",
+        "fill in (blank)"
+      ],
+      [
+        "-duş almak",
+        "take shower"
+      ],
+      [
+        "-eşleş",
+        "pair together, match w/"
+      ],
+      [
+        "-evlen",
+        "marry"
+      ],
+      [
+        "-gel",
+        "come"
+      ],
+      [
+        "-git",
+        "go"
+      ],
+      [
+        "-giyin",
+        "get dressed"
+      ],
+      [
+        "-gör",
+        "see"
+      ],
+      [
+        "-gül",
+        "laugh"
+      ],
+      [
+        "-hazırl",
+        "prepare sth"
+      ],
+      [
+        "-hazırlan",
+        "prepare, get ready"
+      ],
+      [
+        "-hisset",
+        "feel"
+      ],
+      [
+        "-hoşlan",
+        "like"
+      ],
+      [
+        "-iç",
+        "drink"
+      ],
+      [
+        "-in",
+        "de-board, get off of"
+      ],
+      [
+        "-inan",
+        "believe"
+      ],
+      [
+        "-işaretle",
+        "mark sth, designate, tick"
+      ],
+      [
+        "-iste",
+        "want"
+      ],
+      [
+        "-izle",
+        "watch"
+      ],
+      [
+        "-kahvaltı etmek",
+        "have breakfast"
+      ],
+      [
+        "-kalk",
+        "wake, get up"
+      ],
+      [
+        "-kapat",
+        "close sth"
+      ],
+      [
+        "-katıl",
+        "participate, attend"
+      ],
+      [
+        "-katıl",
+        "join, participate"
+      ],
+      [
+        "-kayak yapmak",
+        "ski"
+      ],
+      [
+        "-koş",
+        "run"
+      ],
+      [
+        "-koy",
+        "lay on, put on, add on sth"
+      ],
+      [
+        "-kullan",
+        "operate sth"
+      ],
+      [
+        "-makyaj yapmak",
+        "apply makeup"
+      ],
+      [
+        "-nefret etmek",
+        "hate  [ablat]"
+      ],
+      [
+        "-öde",
+        "pay"
+      ],
+      [
+        "-ödev yapmak",
+        "do homework"
+      ],
+      [
+        "-öğren",
+        "study, learn"
+      ],
+      [
+        "-öğretmek",
+        "teach"
+      ],
+      [
+        "-oku",
+        "read"
+      ],
+      [
+        "-öp",
+        "kiss"
+      ],
+      [
+        "-otur",
+        "sit, dwell"
+      ],
+      [
+        "-özle",
+        "miss sby"
+      ],
+      [
+        "-para çekmek",
+        "withdraw cash"
+      ],
+      [
+        "-pişir",
+        "cook"
+      ],
+      [
+        "-sev",
+        "love"
+      ],
+      [
+        "-seyahat etmek",
+        "travel smh"
+      ],
+      [
+        "-seyret",
+        "watch, gaze"
+      ],
+      [
+        "-sipariş etmek",
+        "order"
+      ],
+      [
+        "-sipariş vermek",
+        "order sth restaurant"
+      ],
+      [
+        "-sırala",
+        "sort, list, order"
+      ],
+      [
+        "-sohbet etmek",
+        "chat"
+      ],
+      [
+        "-söyle",
+        "say, tell sby sth"
+      ],
+      [
+        "-sür",
+        "drive"
+      ],
+      [
+        "-sürükle",
+        "drag, nudge"
+      ],
+      [
+        "-tara",
+        "comb, groom"
+      ],
+      [
+        "-tat",
+        "taste sth"
+      ],
+      [
+        "-tatile çıkmek",
+        "take vacation"
+      ],
+      [
+        "-telefon çalmak",
+        "make phone call"
+      ],
+      [
+        "-telefon etmek",
+        "call"
+      ],
+      [
+        "-temizlik yapmak",
+        "clean"
+      ],
+      [
+        "-uç",
+        "fly"
+      ],
+      [
+        "-unut",
+        "forget"
+      ],
+      [
+        "-üstümü giymek",
+        "get dressed"
+      ],
+      [
+        "-ütü yapmak",
+        "iron"
+      ],
+      [
+        "-uyan",
+        "wake up"
+      ],
+      [
+        "-uyu",
+        "sleep"
+      ],
+      [
+        "-uzat",
+        "pass sth, hand over sth"
+      ],
+      [
+        "-var",
+        "arrive"
+      ],
+      [
+        "-yağ",
+        "raining"
+      ],
+      [
+        "-yap",
+        "do"
+      ],
+      [
+        "-yardım etmek",
+        "help"
+      ],
+      [
+        "-yaşa",
+        "live"
+      ],
+      [
+        "-yaz",
+        "write"
+      ],
+      [
+        "-ye",
+        "eat"
+      ],
+      [
+        "-yemek yemek",
+        "eat"
+      ],
+      [
+        "-yemek yimek",
+        "have dinner"
+      ],
+      [
+        "-yürü",
+        "walk"
+      ],
+      [
+        "-yüz",
+        "swim"
+      ],
+            [
         "-dön",
         "return, turn"
       ],
