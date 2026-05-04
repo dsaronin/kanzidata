@@ -1,7 +1,7 @@
 AAAAAAAA…
 -abart  -- exaggerate, magnify, dramatize, embroider	__ her zaman abartırsın.
 abartı  -- exaggeration, hyperbole, overstatement
-ABD  -- USA;  Amerika Birleşik Devletleri
+abd  -- usa;  amerika birleşik devletleri
 abi  -- older brother
 abla  -- older sister
 abonelik  -- subscription	__ elektrik ve su aboneliklerini aldım.
@@ -30,7 +30,7 @@ açik sözlü  -- outspoken, frank, blunt, explicit	__ ben açık sözlüyim yal
 acil buluşcak  -- urgent meeting
 acil  -- demanding attention, insistent, immediate
 acil durum  -- emergency [stiuation]	__ acil durumda polisi ara.
-acil  -- emergency, ER	__ bu acil bir durum.
+acil  -- emergency, er	__ bu acil bir durum.
 açiliş  -- opening
 açiliş tarihi  -- opening date	__ açiliş tarihi: 2023’ün ikinci yarisi.
 acil  -- urgent, emergency, exigent	__ acil iş arıyorum; yardımcı olacak.
@@ -95,9 +95,9 @@ a kadar  -- until  (conj)
 akademisyen  -- academician
 -ak {akar}  -- run out, flow
 akciğer  -- lung
-akdeniz  -- mediterranean sea	__ bense tipik bir Akdenizli olduğumu söylerim hep.
+akdeniz  -- mediterranean sea	__ bense tipik bir akdenizli olduğumu söylerim hep.
 -ak  -- discharge, leak, drain	__ burnun akıyor mu?
-akıcı  -- fluent, fluid, smooth, facile, flowing	__ Japoncayı akıcı bir şekilde konuşuyorum.
+akıcı  -- fluent, fluid, smooth, facile, flowing	__ japoncayı akıcı bir şekilde konuşuyorum.
 akılcı  -- rational, reasonable
 akıllı bileklik  -- smart wristbands
 akıllı saat  -- smart watch
@@ -123,7 +123,7 @@ akşam yemeği  -- dinner, evening meal
 aksesuarlar  -- accessory
 aktarma işaretleri  -- transfer signs
 aktarma  -- transfer [transit]
--aktif etmek  -- turn on sth, activate sth	__ eve geldiğimde Wi-Fi aktif et.
+-aktif etmek  -- turn on sth, activate sth	__ eve geldiğimde wi-fi aktif et.
 aktif  -- gay top  (slang)
 aktivite  -- activity	__ tatil aktiviteleri
 aktör  -- actor
@@ -153,19 +153,19 @@ tepkili çalıştırma  -- jet propulsion
 ağır çalıştırma  -- punishment
 zorla çalıştırma  -- forced labor
 elle çalıştırma  -- manual operation
-işletim sistemi  -- operating system, OS  (tech)
+işletim sistemi  -- operating system, os  (tech)
 alışveriş çantası  -- tote bag
 alışveriş merkezi  -- shopping mall
 alışveriş  -- shopping
 -alışveriş yap  -- go do shopping	__ jen markette alışveriş yapıyor.
 alkol {ler}  -- alcohol
-Allah  -- God
+allah  -- god
 almance  -- germany [language]
 alman  -- germany [people]
 almanya  -- germany [country]
 alo  -- hello [telephone]
 alt  -- bottom, beneath
-altındakiler  -- those under X
+altındakiler  -- those under x
 altın  -- gold
 -altını çizmek  -- underline sth	__ anlamını bilmediğimiz sözcüklerin altını çizelim.
 altın rengi  -- gold color
@@ -257,7 +257,7 @@ arama  -- search  (tech)	__ sözlükte ara
 ara  -- midst, interval
 arap  -- arabia [country]
 arap  -- arabia [people]
-Arap {Arabi}  -- Arab
+arap {arabi}  -- arab
 arapçe  -- arabia [language]
 -ara  -- phone call	__ tek misin arayayım mı seni göreyim? dersten sonra sana geri ararım.
 arası  -- inter-	__ 18-23 yaş arası.
@@ -369,9 +369,9 @@ aynı  -- same; [<> farklı]
 ayran  -- buttermilk  (fd)
 ayran  -- thin salted yogurt  (fd)
 ayrıca  -- also	__ ayrıca hesaplamana baktım ve yanlış gibi.
--ayrıl {ayrılır}  -- depart, go away from
+-ayrıl {ayrılır}  -- depart, go away from  [ablat]
 ayrılış  -- departure
--ayrıl  -- leave, split up
+-ayrıl  -- leave, split up  [ablat]
 ayrıntı {ayrıntılar}  -- detail, specification	__ ayrıntılar önemlidir.
 ayrıntı  -- detail, circumstance, elaboration
 ayrıntılı  -- detailed	__ ayrıntılı arama.
@@ -426,7 +426,7 @@ bahreynli  -- bahrain [people]
 bakan  -- minister	__ kültür ve turizm bakanlığı.
 bakarak  -- at sight; görünce	__ mesafeye bakarak yazın.
 bakar mısınız  -- call for waiter service
--bak {bakar}  -- look, check on, look at [dativ], look after [dativ]	__ İstanbul - Denizli arası otobüs fiyatına bakayım.
+-bak {bakar}  -- look, check on, look at [dativ], look after [dativ]	__ istanbul - denizli arası otobüs fiyatına bakayım.
 bakıcı  -- babysitter
 bakıcı  -- caretaker	__ at bakıcı.
 bakım  -- maintenance, care
@@ -511,8 +511,8 @@ bavul  -- suitcase	__ bavulun içinde çok şey var.
 bayağı  -- for a while	__ şimdi müsait oldum bayağıdır görüşmüyoruz.
 bayağı  -- ordinary, vulgar, cheap, inferior, lewd, plebeian	__ beraber olsak bayağı ses yapardık.
 bayağı  -- quite, rather	__ bayağıdır yazamıyorum işlerim çok kusura bakma.
-bayağı  -- quite, rather; oldukça, pek, çok	__ İşler yani bayağı var.
-bayan  -- lady, woman, Mrs., Miss	__ bayansi kişiler.
+bayağı  -- quite, rather; oldukça, pek, çok	__ işler yani bayağı var.
+bayan  -- lady, woman, mrs., miss	__ bayansi kişiler.
 baya  -- taz bayağı: quite, rather	__ işlerim çok baya.
 bayat  -- stale [<> taze]	__ bayat ekmek.
 -bayıl  -- be fond of adore, be enamored of [dativ]	__ oral sevisme öpüşmeye bayılırım. türk çayı içmeye bayılırım.
@@ -567,12 +567,12 @@ bel  -- waist
 bembeyaz  -- very white
 bence  -- my opinion, my thought [i think]	__ kısa saç daha çok yakışıyor bence.
 bende  -- me, for me, at me
-ben  -- I [1st person singular]
+ben  -- i [1st person singular]
 -benimsen  -- be adopted	__ çocukların sağlıklı gelişip yetiştirilmeleri benimsenmiştir.
 -benimse  -- regard as one's own  [< benim-se]
 beni yalnız bırak  -- leave me alone!
 bense  -- me [where as for me]	__ hakan matematik sınavından 100 almak istiyor; bense 50'ye bile razıyım.
-benten daha X  -- more X than me
+benten daha x  -- more x than me
 benzer  -- similar
 benzer  -- similar, like, analogous, same; gibi, aynı	__ benzer sözcükler. benzer renklerle.
 benzer tesimler  -- similar installations
@@ -648,7 +648,7 @@ biraz  -- some, bit [uncountable]	__  biraz yorgunum.
 birbiri  -- each other	__ biz birbirimizi seviyoruz.
 bir bir yerde  -- somewhere, someplace
 bir çok  -- many, lots
-birçok  -- many, lots	__ İstanbul'da birçok cami vardır.
+birçok  -- many, lots	__ istanbul'da birçok cami vardır.
 bir daha  -- again!
 bir daha  -- once more, again
 birden  -- suddenly, at once
@@ -837,7 +837,8 @@ çadır ayağı  -- tent stakes
 -çağır {çagırır}  -- call sby, invite sby, summon sby	__ oğlunu yanına çağırıp demiş ki.
 çağrı  -- phone call  (tech)
 çakmak  -- lighter
--çak  -- strike, hammer, flash
+-çak  -- strike, hammer, flash [dative] [intentional, sharp force]	__ duvara çivi çaktı.
+-çak  -- lightning strike/flash	__ şimşek çakıyor.
 çaldı  -- knocking [on door]
 -çalış {çalışır}  -- work, work hard
 çalışkan  -- hardworking, diligent, studious	__ sen çok çalışkansın.
@@ -852,7 +853,7 @@ cami  -- mosque
 camisi  -- mosque
 -canı çıkmak  -- be exhausted
 -canı istiyor  -- feel like, mood for?, play by ear
-canım acıyor  -- it hurts, I am in pain.
+canım acıyor  -- it hurts, i am in pain.
 canım  -- my dear
 canım sıkıldı  -- nothing to do, any ideas? (slang)
 -canı sıkılmak  -- be bored	__ canım sıkıldı sokağa indim kimse yok.
@@ -872,7 +873,8 @@ can  -- spirit/life	__ canım çilek yemek istiyor. bir kedinin dokuz canı vard
 çantası  -- handbag
 çarçabuk  -- extremely swift
 çare  -- resort, measure
--çarp {çarpar}  -- hit, strike against [dativ]
+-çarp {çarpar}  -- hit, slam, crash into [dativ] [accidental, blunt force]	__ duvara çarptı.
+-çarp  -- multiply  (math)	__ iki çarpı üç altıdır.
 -çarpıl  -- have a crush on sby	__ sana çarpıldım.
 -çarpış {çarpışır}  -- collide
 -çarpıştır {çarpıstırır}  -- cause to collide
@@ -930,7 +932,7 @@ ceviz  -- walnut  (fd)
 çevre  -- environment [< -çevir]	__ politikacılar çevreyi korumak için bir şey yapmalı.
 çevresi  -- around [some place x]
 çevresi  -- surroundings, area	__ taksim çevresi.
-çevre yeri  -- vicinity, area	__ Anlık... Varmı yakın çevre yeri olan uyumayan.
+çevre yeri  -- vicinity, area	__ anlık... varmı yakın çevre yeri olan uyumayan.
 çevrim  -- circuit, net; devre, tur, dolaşma
 çevrim içi  -- online sth	__ çevrim içi sözlük nasıl kullanılır?
 çeyrek geçiyor  -- quarter past [x-accusative]	__ beşi beş geçiyor.
@@ -966,7 +968,7 @@ cihaz  -- device  (tech)
 çıktı  -- minus
 çıktı  -- output, throughput	__
 çilek  -- strawberry
-çılgınlık  -- crazy, madness, frenzy	__ 1 dolar = 17 TL olması çılgınlık.
+çılgınlık  -- crazy, madness, frenzy	__ 1 dolar = 17 tl olması çılgınlık.
 cilt kanseri  -- skin cancer
 cilt  -- skin	__ senin cildin çok sağlıklı.
 -çimdikle  -- pinch, nip, pinch off, tweak
@@ -987,7 +989,7 @@ cisim  -- object, body, matter, substance; madde, nesne	__
 çıtır  -- thin savory pastry  (fd)
 civar  -- vicinity, neighborhood, around spl	__ kağıthane civarı yerin olan.
 çivit mavisi  -- indigo blue
--çiz  -- draw, mark, rule, line	__
+-çiz  -- draw, mark, rule, line  [dative]	__o tahtaya çiçek çiziyor.
 çizgi  -- line, stripe, mark, groove	__ saygı kırmızı çizgimdir.
 çizim  -- drawing
 cızır cızır  -- sizzlingly
@@ -996,7 +998,7 @@ cızır  -- sizzling (ono)
 cızırtı  -- sizzle
 cnm  -- canım  (abbrev): my soul
 çocuk {çocuğu}  -- child
-Çocuk Hakları Sözleşmesi  -- Convention on the Rights of the Child
+çocuk hakları sözleşmesi  -- convention on the rights of the child
 çocuk kilidi  -- child lock
 çocukluk  -- childhood; childishness
 -çoğal  -- increase, become many [< çok]
@@ -1036,7 +1038,7 @@ cumhurbaşkanı  -- president
 cumhuriyeti  -- republic
 cümle  -- sentence
 çünkü  -- because	__ gelmedim çünkü seni sevmiyorum.
-çürük yumurta gibi kokacak.  -- It will smell like rotten eggs.
+çürük yumurta gibi kokacak.  -- it will smell like rotten eggs.
 cüzdan  -- wallet
 cüzdan  -- wallet, purse
 da [de] -- too, also, as well	__ ya bugün gel ya da yarın.
@@ -1090,12 +1092,12 @@ dayan  -- endure, base upon, rest on, stamina ?	__ temiz dayanikli pasifler.
 -dayan  -- endure, survive, hold on, bear, tolerate
 -dayan  -- resist, persist
 dayı  -- uncle [matl]
-de/da  -- also, too, for Xs part, in Xs turn
+de/da  -- also, too, for xs part, in xs turn
 dede  -- grandfather
--de {der}  -- say, speak [direct quote]	__ dedim Türkçe; o diyor ki ben Türkçe bilmiyorum.
+-de {der}  -- say, speak [direct quote]	__ dedim türkçe; o diyor ki ben türkçe bilmiyorum.
 defa  -- occurrence times [of doing sth]	__ postacı günde iki defa gelir.
 değen  -- touch
-değerli  -- valuable, precious, worthy	__ dolar Türkiye'de değerli çünkü.
+değerli  -- valuable, precious, worthy	__ dolar türkiye'de değerli çünkü.
 değer  -- price, amount, rate, valuation
 değer  -- value, worth, merit, precioiusness	__ dokunmanın değerini bil.
 -değer vermek  -- value sth, appreciate sth	__ o ülkede sanata değer veriliyor.
@@ -1104,7 +1106,7 @@ değil  -- not ["to be"]
 -değiş  -- change, alter
 değişik  -- different, diverse, variant, alternative
 değişiklik  -- change	__ değişiklik iyidir.
--değiştir  -- change sth	__ uçuşu değiştirdiğimde İstanbul'da kalmak istiyorum.
+-değiştir  -- change sth	__ uçuşu değiştirdiğimde istanbul'da kalmak istiyorum.
 -değiştirebilir  -- can change	__ en küçük insan bile geleceği değiştirebilir.
 değmez  -- unworthy; alçakça, yakışmaz	__ bir bakişa değmez mi?
 dekont  -- receipt	__ dekont görüntüle.
@@ -1266,10 +1268,10 @@ donanma  -- navy, fleet, armada
 dondurma  -- ice cream (fd)
 dondurma  -- ice cream  (fd)	__ dondurma arabası
 dönme  -- return, rotation, turn, spin; rotasyon, dönüş, çevirme
--dön  -- turn, return	__ ne zaman döneceksin Türkiye'ye? bir saat sonra döneceğim.
+-dön  -- turn, return	__ ne zaman döneceksin türkiye'ye? bir saat sonra döneceğim.
 -dön  -- spin	__ başım dönmeye başlıyor.
 -dönüş  -- change, turn into, expand
-dönüş  -- return, rotation, turn; rotasyon, dönme, sıra	__ sen, İstanbul'a dönüş için bir otobüs bileti istiyorsun.
+dönüş  -- return, rotation, turn; rotasyon, dönme, sıra	__ sen, istanbul'a dönüş için bir otobüs bileti istiyorsun.
 dönüştürme  -- conversion, transformation
 dönüş  -- turn, rotation, spin, return
 dönüşüm  -- transformation, transmutation; transformasyon	__
@@ -1392,7 +1394,7 @@ ekran  -- screen, display, monitor  (tech)
 ekran  -- screen  (tech)
 ekran türü  -- screen type  (tech)
 eksik  -- few; az
-eksik  -- İhtiyaç duyulan şey
+eksik  -- ihtiyaç duyulan şey
 eksik  -- missing
 eksik  -- missing, incomplete, flawed, imperfect	__ bu kitap eksik, baş tarafı yok.
 ekşi mayalı  -- sourdough  (fd)	__ ekşi mayalı ekmek.
@@ -1521,12 +1523,12 @@ e yani  -- duh, so what  (slang)
 ey  -- house
 eylem  -- action
 eylül  -- september [ayı]
-eyvallah  -- ah, by God! so be it!  (expl)
+eyvallah  -- ah, by god! so be it!  (expl)
 -ez  -- crush, grind, mash, paste	__
 ezme  -- crushing	__ fıstık ezmesi.
 ezogelin çorbası  -- red lentil and bulgur soup  (fd)
 fabrika  -- factory
-fabrikası  -- factory	__ türkiye’nin en büyük, en modern ekmek fabrikasını İstanbul’a kazandırdık.
+fabrikası  -- factory	__ türkiye’nin en büyük, en modern ekmek fabrikasını istanbul’a kazandırdık.
 fakat  -- but; ama	__ öyle fakat burası bir başka.
 fakirlik  -- poverty
 fakir  -- poor  [<> zengin]	__
@@ -1626,7 +1628,7 @@ geçen  -- last, previous, former; son, geçmiş, eski, önceki
 geçe  -- past sth	__ kediler yediyi çeyrek geçe süt içer.
 geçerli  -- valid, available, eligible	__ link yalnızca 24 saat geçerlidir.
 gece yürüyüşü  -- nightwalk
--geç {geçer}  -- cross over [ablat, dativ, accus]	__ ben istanbul havalimanından Taksim’e otobüsle geçeceğim.
+-geç {geçer}  -- cross over [ablat, dativ, accus]	__ ben istanbul havalimanından taksim’e otobüsle geçeceğim.
 -geçil {geçilir}  -- be crossed over
 -geçir  -- convey, disseminate, promote, propagate	__
 -geçir  -- pass, make pass, carry, transfer, see off
@@ -1735,7 +1737,7 @@ gidiş  -- manner of going
 giram  -- gram
 -gir {girer}  -- enter, get/go into [dativ]	__ eve girmek. ahmedin eve girmesi.
 -giril {girilir}  -- be entered
-giriş  -- entrance; manner of going in, entry	__ yasalar artık ABD'ye girişe izin.
+giriş  -- entrance; manner of going in, entry	__ yasalar artık abd'ye girişe izin.
 -giriş yapmak  -- login  (tech)	__ yeni bir dil ile giriş yaptınız.
 gırtlak  -- larynx
 gitarı  -- guitar
@@ -1894,7 +1896,7 @@ hafta ortası  -- midweek
 hafta sonu  -- weekend
 haftasonu  -- weekend
 hafta  -- week
-hak {hakki}  -- right, truth; God
+hak {hakki}  -- right, truth; god
 hakikaten  -- really
 hakikat {hakikati}  -- fact, reality
 hakkında  -- about, approx
@@ -1937,7 +1939,7 @@ hapşırma  -- sneeze
 hareket  -- movement, motion, action, gesture	__
 harem  -- women's section of old turkish house
 harf  -- letter, character	__ ingiliz alfabesinin 26 harfı vardır.
-hariç  -- except, excluding	__ baykuşlar kahverengidir, Duo hariç. köpekler hariç hayvanları seviyorum.
+hariç  -- except, excluding	__ baykuşlar kahverengidir, duo hariç. köpekler hariç hayvanları seviyorum.
 harika  -- excellent, great, awesome	__ sen çok harikaydın.
 harita  -- map	__ türkiye haritası.
 ha  -- so!
@@ -2119,7 +2121,7 @@ iddia  -- claims, allegations  (lgl)	__ bunlar onun iddiaları.
 ifade  -- expression, phrase, clause, term, proposition	__ ağlamak bir keder ifadesidir.
 -ifşala  -- reveal  (slang)
 ıhlamur  -- linden (fd)
--ihmal etmek  -- neglect, forget, ignore, disregard	__ Bol bol eğlen ve Türkçe çalışmayı ihmal etme.
+-ihmal etmek  -- neglect, forget, ignore, disregard	__ bol bol eğlen ve türkçe çalışmayı ihmal etme.
 ihtiyaç  -- deprivation, lack, penury	__
 ihtiyaç  -- exigency, necessity, need, requirement, demand	__ kaliforniya'da yağmura ihtiyacımız var; on yıl kuraklık yaşadık.
 ihtiyaç  -- need, want, necessity, requirement	__ bunun için de birinin yardimina ihtiyaçım.
@@ -2176,7 +2178,7 @@ imalat mühendislik  -- production engineer	__ ben imalat mühendisliği okuyoru
 imalat  -- production; üretim
 imam bayıldı  -- eggplant stuffed with tomatoes, onions  (fd)
 imdat  -- help, rescue; kutarma, yadımcı
-imkan  -- possible, possibility	__ türkiye gelmek imkanı olur mu. umarım bir gün gelebilme imkanım olur San Francisco'ya.
+imkan  -- possible, possibility	__ türkiye gelmek imkanı olur mu. umarım bir gün gelebilme imkanım olur san francisco'ya.
 imkansız  -- impossible; [<> mümkün]
 -imza atmak  -- sign, append signature to
 -imza etmek  -- sign sth
@@ -2216,8 +2218,8 @@ inşaat mühendisi  -- civil engineer
 inşaat mühendisliği  -- civil engineering
 inşa  -- construction, building, fabric	__
 -inşa etmek  -- construct, build	__ türk mühendisler dünyada pek çok proje inşa ediyor.
-inşallah  -- if God will; I hope ...
-İnsan Hakları Evrensel Bildirgesi  -- universal declaration of human rights
+inşallah  -- if god will; i hope ...
+insan hakları evrensel bildirgesi  -- universal declaration of human rights
 insan hayatına  -- human life	__ siyasiler insan hayatina karışıyorlar.
 insan  -- human
 inş  -- inşallah  (abbrev): hopefully
@@ -2371,7 +2373,7 @@ kadar  -- [towards], until, as…as
 kadınsı  -- feminine
 kadın  -- woman
 kafa dengi  -- headstrong	__ kafa dengi olabilirsin.
-kafa dengi  -- like-minded	__ Kafa dengi genç aktifler yazabilir.
+kafa dengi  -- like-minded	__ kafa dengi genç aktifler yazabilir.
 kafa  -- head, brains, knob	__ kafanı karıştırmak istemem.
 kafa  -- nut, bean, coconut
 kafaca  -- mentally	__ kafaca en uyumlu biz değiliz.
@@ -2449,7 +2451,7 @@ kapalı  -- overcast, cloudy, skyless
 -kapat  -- switch off, turn off	__ kapatmam lazım şu an derse giriyorum.
 kapıcı  -- doorkeeper, concierge
 kapı  -- door
-kapı kapı  -- door to door	__ kapı kapı İstanbulu geziyorum.
+kapı kapı  -- door to door	__ kapı kapı istanbulu geziyorum.
 kapı kilidi  -- door latch, lock
 kapı kom  -- next-door neighbor
 kaplan  -- tiger
@@ -2482,7 +2484,7 @@ karıştır  -- clutter, mix up	__
 karı  -- wife, consort, mate
 kariyeri  -- career	__ kariyerin ne?
 karma kutu  -- mixed box
-karmaşık  -- complex, complicated	__ İngilizce "ekran" kelimesi de karmaşıktır.
+karmaşık  -- complex, complicated	__ ingilizce "ekran" kelimesi de karmaşıktır.
 karnı aç  -- hungry
 karnıyarık  -- lamb-stuffed eggplant  (fd)
 kar  -- profit
@@ -2525,19 +2527,19 @@ katil {katli}  -- murder
 katı  -- strict, firm, hard, rigid, solid, tough	__
 kat {kati, katlı}  -- floor, story [of a building]	__ 27 yeni katlı otopark açtı. gel bir aşağı kata inelim.
 katlanır sandalye  -- folding chair
-katma değer vergisi  -- value added tax VAT	__ Türkiye'de katma değer vergisi genellikle yüzde sekiz kadar.
+katma değer vergisi  -- value added tax vat	__ türkiye'de katma değer vergisi genellikle yüzde sekiz kadar.
 kat[ta]  -- floor [on the]	__ üst kattaki masaya otururlar.
 kavanoz  -- jar
 kavun  -- melon  (fd)
 -kavuş  -- retrieve, rejoin, resume	__ uçurtmasına kavuştuğu için çok mutlu olmuş.
 -kavuştur  -- regain, get again
 kaya tırmanışı  -- rock climbing
--kaybet  -- lose, forfeit sth	__ almanya'da kaybettiği cüzdanı Alman polisi bulmak zorunda.
+-kaybet  -- lose, forfeit sth	__ almanya'da kaybettiği cüzdanı alman polisi bulmak zorunda.
 -kaybet  -- lose sth
 -kaybol  -- become lost	__ bu şehirde kayboldum.
 kaybolma riski  -- risk of getting lost
 -kaydet  -- record sth  (tech)	__ çarpma anını kask kamerası kaydetti.
-kayıp  -- loss, missing, lost; eksik, zarar	__ WAV kayıpsız bir formattır.
+kayıp  -- loss, missing, lost; eksik, zarar	__ wav kayıpsız bir formattır.
 kayıp  -- missing, lost, gone; eksik
 kayıp ve buluntu eşya ofisi  -- lost & found office
 kayısı  -- apricot  (fd)
@@ -2578,7 +2580,7 @@ kenyace  -- kenya [language]
 kenya  -- kenya [country]
 kenyalı  -- kenya [people]
 kepçe  -- ladle
-kere  -- time, occurrence	__ ayda bir kere de sinemaya gidiyoruz.
+kere  -- time, occurrence	__ ayda bir kere de sinemaya gidiyoruz. iki kere üç, altıya eşittir.
 kerhane  -- brothel	__ kerhanede koca arayanlar uzak dursun.
 kertenkele  -- lizard
 -kes  -- cut, chop, carve	__
@@ -2588,7 +2590,7 @@ kesin  -- definite, certain
 kesin değil  -- indefinite, not certain
 kesinlikle  -- definitely, certainly
 -kes  -- interrupt, break, discontinue, cease	__ karşımdakinin sözünü kesmeden dinlerim.
-Keşke  -- if only  (conj)
+keşke  -- if only  (conj)
 keşke  -- if only, wish	__ keske şimdi burda olsan. keşke burada olsaydın.
 kesme işareti  -- apostrophe  [punc]
 kesme tahtası  -- chopping board
@@ -2741,7 +2743,7 @@ konuşkan  -- talkative, chatty, communicative, articulate	__ konuşkanim; sohbe
 -konuş {konuşur}  -- talk, converse
 konuşma şekli  -- speech
 konuşma  -- speaking	__ dinleme, konuşma, okuma, yazma
-konusunda  -- about, regarding; hakkında, ilgili	__ sana Türkçe öğrenmek konusunda yardımcı olmak isterim.
+konusunda  -- about, regarding; hakkında, ilgili	__ sana türkçe öğrenmek konusunda yardımcı olmak isterim.
 konut  -- housing, residence, dwelling	__ tüm kiralık konut ev sahibi: serkan.
 konu  -- topic, subject	__ hangi konuda konuşalım? bu konuda bir düşüncem yok. sonraki sunumun konusu ne?
 köpek  balığı  -- shark
@@ -2773,7 +2775,7 @@ kosova  -- kosovo [country]
 kosovalı  -- kosovo [people]
 koşu & antrenman  -- running & training
 koşuk  -- poetry, verse, ballad
-kota  -- quota	__ artık İstanbul'daki sikiş kotamı doldurdum.
+kota  -- quota	__ artık istanbul'daki sikiş kotamı doldurdum.
 kot pantolon  -- jeans
 kötü  -- bad, worse; [<> iyi]	__ bizim bu taraflara çok kötü.
 -kov  -- dismiss, banish, drive out, eject, disloge, exile, fire, get rid of
@@ -2860,7 +2862,7 @@ kuru  -- dry; [<> nem]	__ yemekler çok kuru.
 kurulan  -- founded, constituted	__ kurulan cümlede “kim” sorusuna verilen cevap ‘özne’ dir.
 kurum  -- foundation, establishment, corporation, institution, institute	__ türk dil kurumu. güvenlik kurumu.
 kurumsal  -- institutional
-kurus  -- kurus [piaster, 1/100 of a Turkish Lira: unit of money]
+kurus  -- kurus [piaster, 1/100 of a turkish lira: unit of money]
 kuş  -- bird
 kuşburnu  -- rosehip (fd)
 kusma  -- vomit, puke
@@ -2946,7 +2948,7 @@ maddi destek sağlayan kimse  -- sponsor
 -maddi destekte bulunmak  -- give, provide financial support, aid	__
 maddi  -- material, tangible, worldy, concrete, earthy
 maddi  -- financial (slang)
-Mademki  -- in as much as  (conj)
+mademki  -- in as much as  (conj)
 maden suyu  -- mineral water
 mağaza işareti  -- store sign
 magaza  -- shopping center; dükkan
@@ -2988,7 +2990,7 @@ marmara denizi  -- the marmara sea	__
 marmara  -- marble
 mart  -- march [ayı]	__ mart ayı geçti ki.
 masa lambası  -- table lamp	__ bir tane masa lambası almak istiyorum.
-maşallah  -- my goodness! [Arabic: what god wills]
+maşallah  -- my goodness! [arabic: what god wills]
 masa  -- table	__ masamız iki kişilik.
 masaüstü bilgisayar  -- desktop pc  (tech)
 masaüstü  -- desktop  (tech)
@@ -3087,7 +3089,7 @@ modernlik  -- modernity
 modern  -- modern; [<> geleneksel]
 montajsız  -- uncut
 mont  -- coat
-montrö sözleşmesi'ne göre  -- according to the Montreux Convention
+montrö sözleşmesi'ne göre  -- according to the montreux convention
 mor  -- purple
 mösyö  -- monsieur
 motosikleti  -- motorcycle	__ motosikletlinin ölümünü kaskı kaydetti.
@@ -3278,7 +3280,7 @@ okyanus  -- ocean
 olacaksa  -- if it is going to happen	__ bu yüzden olacaksa gerçek, tam, güzel bir ilişki olsun istiyorum.
 olağan dışı  -- unusual, unordinary, abnormal	__ olağan dışı kar yağışlarının görüldüğü günler yaşadık.
 olağan  -- usual, ordinary, normal, regular, common	__
-olan  -- one [which]	__ şu siyah olan güzelmiş. X onlar Y olur.
+olan  -- one [which]	__ şu siyah olan güzelmiş. x onlar y olur.
 olan  -- you have sth
 olarak  -- as, in, for	__ kalıp olarak. arkadaş olarak
 olası  -- potential,probable
@@ -3318,7 +3320,7 @@ omurga  -- spine
 omuz çantası  -- shoulder bag
 omuz {omzum} -- shoulder	__ omzunuza kadar açar mısınız sırtınızı?
 -onarıl  -- be repaired	__ daha önce iki kez batmış ve tekrar onarılmış.
-ona sorduğumda  -- when I asked him	__ ona sorduğumda "ben Türkçe bilmediğini unuttum" dedi.
+ona sorduğumda  -- when i asked him	__ ona sorduğumda "ben türkçe bilmediğini unuttum" dedi.
 onay  -- approval, confirmation, ratification, endorsement, certification	__ metro için onay beliyor.
 -onayla  -- approve, confirm, ratify, acknowledge, validate	__ dersi onayladığın için çok teşekkür ederim.
 önce  -- before, ago, prior, early
@@ -3426,7 +3428,7 @@ o zaman  -- then, so, in that case, at that time	__ o zaman dans etmemiz lazım.
 özür dilerim  -- i'm sorry  (expr)
 paça  -- cuff, lower part of trouser leg	__ boru paça [pipe leg]
 padişah  -- sultan, monarch, soveriegn
-pahalı  -- expensive; [<> ucuz]	__ burada çok pahalı bunlar iPhone. bence pahalı şeyler yemelisin.
+pahalı  -- expensive; [<> ucuz]	__ burada çok pahalı bunlar iphone. bence pahalı şeyler yemelisin.
 pakistance  -- pakistan [language]
 pakistanlı  -- pakistan [people]
 pakistan  -- pakistan [country]
@@ -3552,17 +3554,17 @@ profiller  -- profile	__ boş profiller. profillere bakıyordum.
 program  -- schedule	__ ama esnek bir programım var.
 proje gerçekleşirse  -- if the project is realized
 proje yönetimi  -- project management
-psikiyatrist  -- psychiatrist	__ psikiyatristime sordum. İlacı kullanma dedi.
+psikiyatrist  -- psychiatrist	__ psikiyatristime sordum. ilacı kullanma dedi.
 psikolog  -- psychologist
 pul  -- stamp [postage]
 pusula  -- compass; sınır, alan	__ pusulası bile bozuk bir vapurdu.
 radyo  -- radio
-rağmen  -- although  {+dative V}	__ bakmama rağmen görmüyorum.
+rağmen  -- although  {+dative v}	__ bakmama rağmen görmüyorum.
 rağmen  -- despite [dativ]
 rağmen  -- even though  (conj)
-rahat  -- comfortable, cozy [physical]; fiziksel olarak huzurlu veya geniş olan.	__ Bu koltuk çok rahat, hemen uykum geldi.
-rahat  -- easy, effortless; bir işi zorlanmadan, sıkıntı çekmeden yapma durumu.	__ Soruları çok rahat çözdüm; rahat rahat kazandım.
-rahat  -- relaxed, transparent [social]; endişesiz, vurdumduymaz veya saklayacak bir şeyi olmayan.	__ Sağlık konusunda rahatım, gerekirse test de var.
+rahat  -- comfortable, cozy [physical]; fiziksel olarak huzurlu veya geniş olan.	__ bu koltuk çok rahat, hemen uykum geldi.
+rahat  -- easy, effortless; bir işi zorlanmadan, sıkıntı çekmeden yapma durumu.	__ soruları çok rahat çözdüm; rahat rahat kazandım.
+rahat  -- relaxed, transparent [social]; endişesiz, vurdumduymaz veya saklayacak bir şeyi olmayan.	__ sağlık konusunda rahatım, gerekirse test de var.
 -rahat etmek  -- be comfortable	__ umarım rahat etmiştir evden.
 -rahatsız etme  -- do not disturb
 -rahatsız etmek  -- disturb sby	__ işte sen rahatsız etmeyeyim.
@@ -3598,7 +3600,7 @@ rica  -- request
 riskli  -- risky
 rolü  -- role
 rol {ler}  -- role
--rol yapmak  -- act, perform a role	__ Rol yapıyorsun.
+-rol yapmak  -- act, perform a role	__ rol yapıyorsun.
 roman  -- novel
 romanyace  -- romania [language]
 romanya  -- romania [country]
@@ -3765,7 +3767,7 @@ seçenek  -- option, choice, selection, alternative	__ bu da ikinci seçenek.
 seçenoklevi  -- option function
 seçim  -- election, choice	__ lütfen seçiminizi yapınız.
 seçkin  -- distinguished, selected	__ seçkin şaraplar.
-sefer  -- expedition, voyage, journey	__ Keşke bir gün Antalya'yı ziyarete gelebilsem... ama bu sefer değil.
+sefer  -- expedition, voyage, journey	__ keşke bir gün antalya'yı ziyarete gelebilsem... ama bu sefer değil.
 sefer saatleri  -- departure times
 sefer  -- safari, voyage, journey, travel	__ türkiye'ye kaç sefer geldin.
 şefkat  -- compassion, affection, kindness	__ devlet, her çocuğun eğitim, sevgi ve şefkat görmesi için gerekli önlemleri almakla yükümlüdür.
@@ -3796,7 +3798,7 @@ selamlık  -- men's section of old turkish house
 sel  -- flood
 semaver  -- traditional teapot
 şemsiye  -- umbrella
-semt  -- neighborhood, parts, district	__ o bu semtte yaşıyor. semtin Avrupa yakasında mı?
+semt  -- neighborhood, parts, district	__ o bu semtte yaşıyor. semtin avrupa yakasında mı?
 senaryo  -- scenario
 senaryo  -- script
 şen  -- cheery, merry, festiave, genial, mirthful
@@ -3838,7 +3840,7 @@ sevgi  -- love, affection, fondness	__ aşk, sex, sevgi arayan varmi? herkese se
 sevisir  -- make love	__ sınirsiz sevisirim.
 -seviş  -- make love, have sex	__ sevişmeyi severim. sevişsek.
 sevişme  -- making love, love making, copulating
-seviye {seviyeler}  -- level, grade, standard, plane	__ tüm seviyelere uygun. ego seviyesi standartları aşmış. sen türkçe biliyorsun sanmış. B2-C1 seviyesi gibi.
+seviye {seviyeler}  -- level, grade, standard, plane	__ tüm seviyelere uygun. ego seviyesi standartları aşmış. sen türkçe biliyorsun sanmış. b2-c1 seviyesi gibi.
 seviyeli  -- level
 seviyesiz  -- without standard, level [= lowly?]
 -sev {sever}  -- like, love sth  [accus]	__ türk çayı içmeyi severim. en çok ne seversin ilişkide.
@@ -4150,7 +4152,7 @@ taksi  -- taxi
 taksit  -- installment [payment]	__ kredi kartına 3 taksit yapabiliriz.
 -tak  -- wear accessory
 talebe  -- student
-talimat  -- instruction, direction	__ bir öneri, check-in için İngilizce talimatları geliştirmektir.
+talimat  -- instruction, direction	__ bir öneri, check-in için ingilizce talimatları geliştirmektir.
 tamam  -- alright, ok
 tamamen  -- completely, totally
 -tamamla  -- complete, finish off	__ hikaye haritasını okuduğumuz hikâyeye göre tamamlayalım.
@@ -4183,7 +4185,7 @@ tarçın  -- cinnamon (fd)
 tarihçe  -- historical language	__ eski türkçe
 tarih  -- date
 tarih  -- history	__  yunanistan'dayken birçok tarihi yer gördük.
-tarihindeki ilk  -- first in history	__ ibb tarihindeki ilk Kent Lokantası.
+tarihindeki ilk  -- first in history	__ ibb tarihindeki ilk kent lokantası.
 tarihi yer  -- historical places
 tarlalar  -- fields
 tarz  -- style, manner, mode, genre, fashion	__ insanların tarzı ve giyimi de hoş.
@@ -4337,7 +4339,7 @@ tokuz  -- full	__ biz bekarız ama tokuz.
 tombiş  -- chubby	__ tombiş sever.
 ton başına  -- per ton
 top  -- ball, sphere
-top  -- cannon [< Top-endâz = ball thrower]
+top  -- cannon [< top-endâz = ball thrower]
 -topla  -- bundle, combine, concentrate
 -topla  -- collect, gather, assemble	__ cesaretini toplayıp kızın yanına gitmiş.
 -topla  -- tidy, straighten up	__ evi topluyorum.
@@ -4345,7 +4347,7 @@ toplam  -- [in] total
 toplantı  -- meeting, conference, assembly, forum	__ toplantıda bildik insanlar vardı.
 toplantı odası  -- meeting room	__ toplantı odası nerede?
 -topla  -- total up, accumulate, sum up
-topluluk  -- community, ensemble, group, corps	__ San Francisco, ABD'deki en büyük eşcinsel topluluğa sahiptir.
+topluluk  -- community, ensemble, group, corps	__ san francisco, abd'deki en büyük eşcinsel topluluğa sahiptir.
 toplum  -- society, community, world	__ toplum yaşamında yasaların herkese sağladığı birtakım haklar vardır.
 toprak kayması  -- landslide
 toprak kayması  -- landslide
@@ -4383,7 +4385,7 @@ türkçe  -- the turkish language
 türkçe  -- turkey [language]
 türk dil kurumu  -- turkish language institute
 türk hava yolları  -- turkish airlines	__ türk hava yolları'nın yemekleri çok iyi.
-türkiye türkçesi  -- Turkey Turkish language
+türkiye türkçesi  -- turkey turkish language
 türkiye  -- turkey
 türkiye  -- turkey [country]
 türk lisanı  -- turkish language
@@ -4445,8 +4447,8 @@ ulaşım  -- transportation
 ülke sınırı  -- national border
 ulusal güvenliğimizi  -- our national security
 uluslararası  -- international	__ sabiha gökçen uluslararası.
-umarım  -- i am hoping	__ umarım bir gün gelebilme imkanım olur San Francisco'ya.
-umarım  -- I hope [that sth]	__ umarım bu restoranda yemekler iyidir.
+umarım  -- i am hoping	__ umarım bir gün gelebilme imkanım olur san francisco'ya.
+umarım  -- i hope [that sth]	__ umarım bu restoranda yemekler iyidir.
 ümit {ümidi}  -- hope
 ummance  -- oman [language]
 ummanlı  -- oman [people]
@@ -4479,7 +4481,7 @@ uruguay  -- uruguay [country]
 üst  -- top
 üstü  -- change; değişiklik, değişim, üstü, yenilik, bozuk para, para üstü	__ bu da para üstünüz.
 üstünde duran  -- standing above; üstündeki
-üstündekiler  -- those over X
+üstündekiler  -- those over x
 üst  -- upper part, superior	__ 20 yaş üstü beyler yazsin.
 üşümüş  -- cold
 -utan  -- be shy, ashamed, blush	__ insan küçük olduğu zaman utanacak oluyor. dün, arkadaşım utandığı için seninle çok konuşmadı.
@@ -4637,7 +4639,7 @@ x … olan  -- which is, whose x is	__ babası öğretmen olan bir arkadaşım v
 x var mi?  -- do you have an x?
 ya  -- and as for
 yabancı  -- alien, foreign, foreigner, peregrine, stranger, barbarian	__ bir sürü yabancı geliyor ve çok rahat geziyor.
-yabancı Ziyaretçi  -- foreign visitor
+yabancı ziyaretçi  -- foreign visitor
 yaban mersini  -- blueberries  (fd)
 yaban  -- savage
 ya da değil  -- or not  (conj)
@@ -4711,7 +4713,7 @@ yararlı  -- helpful, useful, beneficial; faydalı	__ hikayenin bir kaydı yarar
 yarasa  -- bat
 yara  -- wound, sore, injury
 -yar  -- cleave, maul, rend, rip, slash, split
-yardıma  -- helping, help	__ İstanbul'a gelmeden önce, Türkçe konuşma ve işitme konusunda yardıma ihtiyacım var.
+yardıma  -- helping, help	__ istanbul'a gelmeden önce, türkçe konuşma ve işitme konusunda yardıma ihtiyacım var.
 yardımcı  -- assistant, deputy, auxiliary, helpful
 yardımcı  -- help, assistant, auxiliary, aide, aid	__ yardımcı olabilecek?
 yardımcı  -- vice-
@@ -4725,7 +4727,7 @@ yarın  -- tomorrow
 yarışma  -- competition, contest, event, match	__ yarışma bitmedi daha.
 -yar  -- plow
 yarrak  -- cock, dick  (slang)	__ büyük yarak. yarrağımi yalamak işteyen var mı?
--yaşa  -- dwell, inhabit	__ peki benimle beraber yaşamak ister misin peki? İstanbul’da mı yaşıyorsun?
+-yaşa  -- dwell, inhabit	__ peki benimle beraber yaşamak ister misin peki? istanbul’da mı yaşıyorsun?
 -yaşa  -- experience, subsist, taste	__ on yıl kuraklık yaşadık.
 yaş  -- age [humans]	__ kaç yaşındasın?
 yaşa  -- hurray! yay! viva! cheers!  (expl)
@@ -4784,7 +4786,7 @@ yelkenli  -- sailboat
 yeme içme  -- eating & drinking	__ yeme içme bizim için önemli.
 -yemek dağıtmak  -- hand out food, distribute food
 yemek -- food, meal
--yemek pişirmek  -- cook	__ Ben yemek pişirirken bir bardak şarap içerim.
+-yemek pişirmek  -- cook	__ ben yemek pişirirken bir bardak şarap içerim.
 yemek ye  -- eat [the meal]	__ çabuk yemek ye!
 -yemek ye  -- eat a meal
 yemence  -- yemen [language]
@@ -4840,7 +4842,7 @@ yil  -- year
 yıl  -- year
 -yıl {yılar}  -- flinch
 yine de  -- still, yet, though	__ tam hatırlamıyorum yine de.
-Yine de  -- though  (conj)
+yine de  -- though  (conj)
 yine  -- taz tekrar: again, once more, still
 yirmi  -- twenty, 20
 yisine  -- again
@@ -4930,9 +4932,9 @@ zahmet  -- bother, trouble, inconvenience	__ aktifler zahmet etmesin.
 zamana kadar  -- by the time  (conj)
 zamanın birinde  -- once upon a time
 zaman  -- time
-zarar  -- damage, harm, loss, hurt, injury; hasar	__ bile Kaliforniya'da enflasyon bize zarar veriyor.
+zarar  -- damage, harm, loss, hurt, injury; hasar	__ bile kaliforniya'da enflasyon bize zarar veriyor.
 -zarar vermek  -- harm
--zarar vermek  -- injure, damage	__ bile Kaliforniya'da enflasyon bize zarar veriyor.
+-zarar vermek  -- injure, damage	__ bile kaliforniya'da enflasyon bize zarar veriyor.
 zaten  -- already	__ saat zaten on bir. zaten bir adam.
 zaten  -- as a matter of fact, in reality, at any rate, anyway	__ ya korkmuyorum zaten
 zayıf  -- slim, thin	__ genç ve zayıflar lütfen.
@@ -4958,7 +4960,7 @@ zıt  -- opposite, adverse, reverse, conflicting; ters, karsı, çelişkili
 zıttı  -- taz karşıtı: opposite
 ziyade  -- rather/than  (conj)
 -ziyaret etmek  -- visit	__ ayşe dedi ki, sen onu ziyaret etmişsin.
-ziyaret  -- visit; visitation; call; stay; visiting	__ ağustos ayında İstanbul'u ziyaret ettiğimde.
+ziyaret  -- visit; visitation; call; stay; visiting	__ ağustos ayında istanbul'u ziyaret ettiğimde.
 ziynet  -- ornament, decoration
 zor  -- difficult, hard; [<> kolay]
 -zorlan  -- struggling [in difficulty]	__ eğer zorlanırsan.
@@ -5028,7 +5030,7 @@ ciğer  -- kidney; böbrek, tabiat
 -iltihaplan  -- inflame  (med)
 -iltihaplan  -- fester, rankle
 iltihaplanma  -- inflammation  (med)
-hap  -- pill, tablet	__ size soğuk algınlığı hapı Nurofen vereceğim.
+hap  -- pill, tablet	__ size soğuk algınlığı hapı nurofen vereceğim.
 iltihap sökücü  -- anti-inflammatory  (med)
 -söktür  -- loosen
 iltihap söktürücü  -- anti-inflammatory  (med)
@@ -5135,8 +5137,8 @@ gergin  -- jittery, skittish, stressfull	__ ben gerginim.
 nasıl olur  -- how come?	__ nasıl olur da sorarsın?
 hayran  -- admirer, fan, devotee, follower	__ ona hayran oldu.
 -alkışla  -- applaud, acclaim, clap, cheer	__ seni alkışlamıyorum.
-çalışan  -- worker [lit: he who works]
-çalışanler  -- employees	__ çalışan sayısı
+çalışan  -- worker [lit: he who works]	__ çalışan sayısı
+çalışanlar  -- employees	__ patron, çalışanlara kızıyor.
 asansör  -- elevator
 iş yapış usulü  -- business manner
 usul  -- manner, method, form, mode, process, style, system
@@ -5622,7 +5624,7 @@ ortak  -- common
 ortak  -- joint, mutual
 kalabalık  -- crowded
 öyleyse  -- so, then, if so, well	__ peki, başlayalım öyleyse.
--bahset  -- mention, touch on, speak of, refer	__ bana biraz kendinizden bahsedin.
+-bahset  -- mention, touch on, speak of, refer  [ablat]	__ bana biraz kendinizden bahsedin.
 sürekli  -- always
 koltuk  -- easy chair, sofa
 manzara  -- landscape
@@ -5783,9 +5785,9 @@ makyaj  -- makeup
 hafta sonları  -- weekends
 -tatile çıkmek  -- take vacation
 -yemek yimek  -- have dinner
-Bugünlerde  -- lately, these days
+bugünlerde  -- lately, these days
 -seyret  -- watch, gaze
-şube  -- branch, chapter, division	__ taksim şubesi. Şirketi Tulsa'da yeni bir şube açıyor.
+şube  -- branch, chapter, division	__ taksim şubesi. şirketi tulsa'da yeni bir şube açıyor.
 şarküteri  -- delicatessen, deli
 hediyelik  -- giftable, presentable
 hediyelik eşya  -- souvenir
@@ -5855,44 +5857,44 @@ deler geçer  -- pierces right through, unstoppable  (idm) ; (idm) çok güçlü
 bakar geçer  -- just glances and ignores  (idm) ; bir şeye önem vermeden, üzerinde durmadan bakıp geçmek; umursamamak.	__ o kadar çok ilan var ki, insan sadece bakar geçer.
 güler geçer  -- laughs it off  (idm) ; bir durumu ciddiye almamak, üzerinde durmak yerine gülümseyerek geçiştirmek.	__ hakkındaki dedikoduları duyduğunda sadece güler geçer.
 söyler geçer  -- says it in passing  (idm) ; bir şeyi derinlemesine düşünmeden veya sorumluluk almadan öylesine söylemek.	__ onun sözlerine takılma, o her şeyi öyle söyler geçer.
-göt  -- backside, arse (vulg) (slang); vücudun arka kısmı, kaba et.	__ (Argo) Bu işi yapmak cesaret (göt) ister.
-yerli üretim  -- domestic production; Türkiye sınırları içinde üretilen veya son işlemi burada yapılan ürün.	__ Marketlerdeki etiketlerde yerli üretim logosuna dikkat ederim.
+göt  -- backside, arse (vulg) (slang); vücudun arka kısmı, kaba et.	__ (argo) bu işi yapmak cesaret (göt) ister.
+yerli üretim  -- domestic production; türkiye sınırları içinde üretilen veya son işlemi burada yapılan ürün.	__ marketlerdeki etiketlerde yerli üretim logosuna dikkat ederim.
 menşe  -- origin, source; bir malın üretildiği yer veya bir şeyin çıktığı köken.	__ bu ürünün menşei neresi, çin mi yoksa türkiye mi?
 ürün menşei  -- product origin
 yerli sermaye  -- domestic capital
-rafadan yumurta  -- soft-boiled egg; sarısı akışkan, beyazı tam pişmemiş yumurta.	__ Kahvaltıda rafadan yumurta yemeyi tercih ederim.
-orta katı yumurta  -- medium-boiled egg, "jammy" egg; sarısı yarı katı, tam akışkan olmayan yumurta kıvamı.	__ Kayısı kıvamı olarak da bilinen orta katı yumurta en sevdiğimdir.
-katı yumurta  -- hard-boiled egg; sarısı ve beyazı tamamen pişmiş, sertleşmiş yumurta.	__ Yolculuk için yanımıza birkaç katı yumurta aldık.
-orta ateş  -- medium heat; ocağın ne çok yüksek ne çok düşük ısıda olması.	__ Sosun dibinin tutmaması için orta ateşte pişirin.
-çırpılmış yumurta  -- scrambled eggs; yumurtaların kasede çırpılıp tavada pişirilmesiyle yapılan kahvaltılık.	__ Otel kahvaltısında genellikle çırpılmış yumurta bulunur.
-göz yumurta  -- sunny-side up egg; sarısı bozulmadan tavada pişirilen, göz şeklindeki yumurta.	__ Sucuğun üzerine göz yumurta kırmak çok lezzetli olur.
-kafalar uymak  -- get along, vibe; (idm) düşüncelerin ve kişiliklerin birbirine uygun olması.	__ Ev arkadaşı seçerken en önemli şey kafaların uymasıdır.
-gerisi gelir  -- the rest will follow; bir işin başlangıcı iyi olursa devamının kendiliğinden geleceğini ifade eder.	__ Sen ilk adımı at, gerisi gelir.
-şart  -- condition, requirement; yerine getirilmesi zorunlu olan durum.	__ Bu işe girmek için İngilizce bilmek şart.
-gerekirse  -- if necessary; ihtiyaç duyulması durumunda.	__ Projeyi bitirmek için gerekirse hafta sonu da çalışırız.
+rafadan yumurta  -- soft-boiled egg; sarısı akışkan, beyazı tam pişmemiş yumurta.	__ kahvaltıda rafadan yumurta yemeyi tercih ederim.
+orta katı yumurta  -- medium-boiled egg, "jammy" egg; sarısı yarı katı, tam akışkan olmayan yumurta kıvamı.	__ kayısı kıvamı olarak da bilinen orta katı yumurta en sevdiğimdir.
+katı yumurta  -- hard-boiled egg; sarısı ve beyazı tamamen pişmiş, sertleşmiş yumurta.	__ yolculuk için yanımıza birkaç katı yumurta aldık.
+orta ateş  -- medium heat; ocağın ne çok yüksek ne çok düşük ısıda olması.	__ sosun dibinin tutmaması için orta ateşte pişirin.
+çırpılmış yumurta  -- scrambled eggs; yumurtaların kasede çırpılıp tavada pişirilmesiyle yapılan kahvaltılık.	__ otel kahvaltısında genellikle çırpılmış yumurta bulunur.
+göz yumurta  -- sunny-side up egg; sarısı bozulmadan tavada pişirilen, göz şeklindeki yumurta.	__ sucuğun üzerine göz yumurta kırmak çok lezzetli olur.
+kafalar uymak  -- get along, vibe; (idm) düşüncelerin ve kişiliklerin birbirine uygun olması.	__ ev arkadaşı seçerken en önemli şey kafaların uymasıdır.
+gerisi gelir  -- the rest will follow; bir işin başlangıcı iyi olursa devamının kendiliğinden geleceğini ifade eder.	__ sen ilk adımı at, gerisi gelir.
+şart  -- condition, requirement; yerine getirilmesi zorunlu olan durum.	__ bu işe girmek için ingilizce bilmek şart.
+gerekirse  -- if necessary; ihtiyaç duyulması durumunda.	__ projeyi bitirmek için gerekirse hafta sonu da çalışırız.
 deyim  -- idiom  (gram)
-kendini bilen  -- self-aware, dignified; (idm) sınırlarını, sorumluluklarını ve nerede nasıl davranacağını bilen olgun kişi.	__ Bize kendini bilen, saygılı bir oda arkadaşı lazım.
-kendini bilmez  -- discourteous, oblivious; (idm) nerede nasıl davranacağını bilmeyen, saygısız veya haddini aşan kişi.	__ O kendini bilmez adamın sözlerine hiç kulak asma.
-had  -- limit, boundary; insanın yetki, bilgi veya görgü bakımından durması gereken yer.	__ Herkes haddini bilirse aramızda hiçbir sorun çıkmaz.
--haddini bilmek  -- know one's place; (idm) yetki ve sorumluluklarının sınırını aşmamak; nerede duracağını bilmek.	__ Yeni çalışan patronuna karşı çok saygılıydı, haddini biliyordu.
+kendini bilen  -- self-aware, dignified; (idm) sınırlarını, sorumluluklarını ve nerede nasıl davranacağını bilen olgun kişi.	__ bize kendini bilen, saygılı bir oda arkadaşı lazım.
+kendini bilmez  -- discourteous, oblivious; (idm) nerede nasıl davranacağını bilmeyen, saygısız veya haddini aşan kişi.	__ o kendini bilmez adamın sözlerine hiç kulak asma.
+had  -- limit, boundary; insanın yetki, bilgi veya görgü bakımından durması gereken yer.	__ herkes haddini bilirse aramızda hiçbir sorun çıkmaz.
+-haddini bilmek  -- know one's place; (idm) yetki ve sorumluluklarının sınırını aşmamak; nerede duracağını bilmek.	__ yeni çalışan patronuna karşı çok saygılıydı, haddini biliyordu.
 üstü  -- the power of  (math)
 üstü  -- more than, plus, on up	__ 26 santim veya üstü arıyorum.
-geçici  -- temporary, transient [< -geç]; belli bir süre için olan, kalıcı olmayan.	__ Bu sadece geçici bir çözüm, yakında kalıcı olanı bulacağız.
-süre  -- period, duration; bir olayın başı ile sonu arasında geçen zaman dilimi.	__ Kursun süresi toplamda üç ay sürecek.
-kalıcı  -- permanent, persistent [< -kal]; uzun süre değişmeden kalan, geçici olmayan.	__ Bu boya kalıcıdır, yıkamayla çıkmaz.
-akışa göre  -- according to the flow; (idm) plan yapmadan, olayların gelişimine bırakarak.	__ Hafta sonu ne yapacağımıza henüz karar vermedik, akışa göre bakarız.
-kısmet  -- fate, destiny, providence; (idm) gelecekte olması beklenen şeyin gerçekleşme ihtimali veya şans.	__ Yeni iş başvurusu yaptım, artık orası kısmet.
-nasip  -- lot in life, what is destined; birinin payına düşen veya Tanrı tarafından uygun görülen kısmet.	__ Belki de oraya gitmememiz bizim için daha nasipti.
-duruma göre  -- depending on the situation; mevcut şartların gelişimine ve değişmesine bağlı olarak.	__ Yarın pikniğe gideriz ama duruma göre plan değişebilir.
-düzgün  -- proper, decent, straight [<> bozuk]; (adj) dürüst, güvenilir ve ahlaklı kişi; pürüzsüz.	__ Onun çok düzgün bir karakteri var, ona güvenebilirsin.
-iletişim kurmak  -- communicate, establish contact; duygu ve düşüncelerin karşılıklı aktarılması.	__ Sağlıklı bir ilişki için iletişim kurmak şarttır.
-kurabilen  -- capable of establishing; bir şeyi inşa etme veya başlatma yeteneği olan.	__ İnsanlarla kolayca bağ kurabilen biriyle çalışmak isterim.
-bozuk  -- broken, out of order [physical]; çalışmayan, arızalı veya hasarlı olan.	__ Bu switch bozuk, ethernet bağlantısı sağlanamıyor.
-bozuk  -- corrupt, depraved [social] [<> düzgün]; ahlakı veya karakteri düzgün olmayan, güvenilmez kişi.	__ Onun karakteri bozuk, verdiği sözlerin hiçbirini tutmaz.
-bozuk  -- loose change [monetary]; küçük değerli madeni para.	__ Üzerinizde bozuk var mı? Otobüs için lazım.
-ileti  -- message, notification; birine ulaştırılan bilgi veya haber.	__ Telefonuma yeni bir ileti geldi ama henüz okumadım.
-meğer  -- as it turns out, actually; (adv) bilinmeyen bir durumun sonradan öğrenildiğini anlatır.	__ Onu arkadaşı sanıyordum, meğer kardeşiymiş.
--jeton düşmek  -- finally understand (idm); bir durumu geç de olsa kavramak.	__ Konuyu ancak on dakika sonra anladım, jeton geç düştü.
+geçici  -- temporary, transient [< -geç]; belli bir süre için olan, kalıcı olmayan.	__ bu sadece geçici bir çözüm, yakında kalıcı olanı bulacağız.
+süre  -- period, duration; bir olayın başı ile sonu arasında geçen zaman dilimi.	__ kursun süresi toplamda üç ay sürecek.
+kalıcı  -- permanent, persistent [< -kal]; uzun süre değişmeden kalan, geçici olmayan.	__ bu boya kalıcıdır, yıkamayla çıkmaz.
+akışa göre  -- according to the flow; (idm) plan yapmadan, olayların gelişimine bırakarak.	__ hafta sonu ne yapacağımıza henüz karar vermedik, akışa göre bakarız.
+kısmet  -- fate, destiny, providence; (idm) gelecekte olması beklenen şeyin gerçekleşme ihtimali veya şans.	__ yeni iş başvurusu yaptım, artık orası kısmet.
+nasip  -- lot in life, what is destined; birinin payına düşen veya tanrı tarafından uygun görülen kısmet.	__ belki de oraya gitmememiz bizim için daha nasipti.
+duruma göre  -- depending on the situation; mevcut şartların gelişimine ve değişmesine bağlı olarak.	__ yarın pikniğe gideriz ama duruma göre plan değişebilir.
+düzgün  -- proper, decent, straight [<> bozuk]; (adj) dürüst, güvenilir ve ahlaklı kişi; pürüzsüz.	__ onun çok düzgün bir karakteri var, ona güvenebilirsin.
+iletişim kurmak  -- communicate, establish contact; duygu ve düşüncelerin karşılıklı aktarılması.	__ sağlıklı bir ilişki için iletişim kurmak şarttır.
+kurabilen  -- capable of establishing; bir şeyi inşa etme veya başlatma yeteneği olan.	__ insanlarla kolayca bağ kurabilen biriyle çalışmak isterim.
+bozuk  -- broken, out of order [physical]; çalışmayan, arızalı veya hasarlı olan.	__ bu switch bozuk, ethernet bağlantısı sağlanamıyor.
+bozuk  -- corrupt, depraved [social] [<> düzgün]; ahlakı veya karakteri düzgün olmayan, güvenilmez kişi.	__ onun karakteri bozuk, verdiği sözlerin hiçbirini tutmaz.
+bozuk  -- loose change [monetary]; küçük değerli madeni para.	__ üzerinizde bozuk var mı? otobüs için lazım.
+ileti  -- message, notification; birine ulaştırılan bilgi veya haber.	__ telefonuma yeni bir ileti geldi ama henüz okumadım.
+meğer  -- as it turns out, actually; (adv) bilinmeyen bir durumun sonradan öğrenildiğini anlatır.	__ onu arkadaşı sanıyordum, meğer kardeşiymiş.
+-jeton düşmek  -- finally understand (idm); bir durumu geç de olsa kavramak.	__ konuyu ancak on dakika sonra anladım, jeton geç düştü.
 dilim sürçmüş  -- slip of the tongue; (idm) yanlışlıkla yanlış bir kelime söylemek veya hata yapmak.	__ kusura bakma, dilim sürçmüş; başka bir şey söyleyecektim.
 -sürç  -- slip, stumble; (v) yürürken ayağı takılmak veya konuşurken hata yapmak.	__ karanlıkta yürürken ayağım sürçtü ve neredeyse düşüyordum.
 çıtır  -- jail bait, chick  (slang)	__ genç parlak citir pasif var mi.
@@ -5938,7 +5940,7 @@ dönem  -- semester
 hafta sonları  -- weekends
 -tatile çıkmek  -- take vacation
 -yemek yimek  -- have dinner
-Bugünlerde  -- lately, these days
+bugünlerde  -- lately, these days
 -ödev yapmak  -- do homework
 -telefon çalmak  -- make phone call
 okul servisi  -- school bus
@@ -5975,7 +5977,7 @@ düzen  -- order, system, arrangement; nizam, sistem __ bu ofiste hiç düzen yo
 hava meydanı  -- airport
 yaya  -- pedestrian; yürüyerek giden kimse __ yayalar için yeşil ışık yandı.
 -erişilebilir  -- accessible; ulaşılabilir, girilebilir __ bu bina engelliler için erişilebilir değil.
-ağ  -- network, web; şebeke, örgü __ İstanbul'un ulaşım ağı çok geniştir.
+ağ  -- network, web; şebeke, örgü __ istanbul'un ulaşım ağı çok geniştir.
 -sür  -- continue, last, drive; devam etmek __ toplantı iki saat sürdü.
 yayalaştırma  -- pedestrianization
 erişilebilirlik  -- accessibility
@@ -5987,7 +5989,7 @@ esas  -- basis, principle, essence, substance	__ yaşamın esasları.
 yaşamın esasları  -- essentials of life
 maya  -- yeast, ferment	__ ekşi maya
 ekşi  -- sour, acidic	__ bu baharatın kuvvetli ekşi bir tadı var.
-lastik  -- tire, rubber, elastic; kauçuktan yapılmış esnek madde	__ Arabanın ön lastiği patladı.
+lastik  -- tire, rubber, elastic; kauçuktan yapılmış esnek madde	__ arabanın ön lastiği patladı.
 araba lastiği  -- car tire
 paket lastiği  -- rubber band
 lastik ayakkabı  -- sneakers
@@ -6021,9 +6023,9 @@ yüksek beklenti  -- high expectations; bir durumdan veya kişiden çok fazla ş
 dikkatlice  -- carefully	__ dikkatlice dinleysin.
 zirve  -- peak, summit, apogee, apex	__ taksim zirveler.
 öğün  -- meal  (fd)
-öğün yemeği  -- meal	__ Tam bir öğün yemeği için çok geç.
+öğün yemeği  -- meal	__ tam bir öğün yemeği için çok geç.
 duyuru  -- ad, notice
-ne dersin?  -- what do you say? [dative]	__ bir lokantaya ne dersin? Buna ne dersin? Kahveye ne dersin?
+ne dersin?  -- what do you say? [dative]	__ bir lokantaya ne dersin? buna ne dersin? kahveye ne dersin?
 -çek	-- pull, draw, crave; bir şeyi çok istemek veya özlemek	__ canım çok dondurma çekiyor.
 -canı çekmek  -- crave sth; bir şeyi yeme veya yapma isteği duymak	__ hamile olduğu için canı sürekli ekşi şeyler çekiyor.
 mercimek çorbası  -- lentil soup; mercimekle yapılan çorba türü	__ kış aylarında sıcak bir mercimek çorbası çok iyi gider.
@@ -6111,9 +6113,9 @@ yapı  -- structure, construction; bir şeyin oluşturulma biçimi	__ türkçe'n
 bağlam  -- context; bir olayın veya sözün geçtiği ortam	__ kelimenin anlamını bağlamından koparmadan anlamalısın.
 -bağlan  -- be connected, be dependent; bir şeye bağlı hale gelmek	__ sonuç, senin çabana göre bağlandığı için önemli.
 ölçüt  -- criterion, benchmark; değerlendirme için esas alınan şey	__ işe alımda en büyük ölçüt tecrübedir.
-cömert  -- generous; parasını veya imkanlarını esirgemeyen	__ arkadaşlarına karşı her zaman cömerttir. Kişisine göre cömert olan.
-sinirli  -- angry, nervous, irritable; çabuk öfkelenen	__ bugünlerde çok sinirli görünüyor. Yerine göre sinirlenen.
--keyiflen  -- become joyful, cheer up; neşelenmek, tadı yerine gelmek	__ güzel haberi alınca birden keyiflendi. Ortama göre keyiflenen.
+cömert  -- generous; parasını veya imkanlarını esirgemeyen	__ arkadaşlarına karşı her zaman cömerttir. kişisine göre cömert olan.
+sinirli  -- angry, nervous, irritable; çabuk öfkelenen	__ bugünlerde çok sinirli görünüyor. yerine göre sinirlenen.
+-keyiflen  -- become joyful, cheer up; neşelenmek, tadı yerine gelmek	__ güzel haberi alınca birden keyiflendi. ortama göre keyiflenen.
 ortam  -- environment, atmosphere, vibe; bulunulan yerin havası	__ bu kafenin ortamı çok huzurlu.
 harici  -- external, excluding, besides; bir şeyin dışında kalan	__ bu planın haricinde başka seçeneğimiz yok.
 şeref  -- honor, dignity; toplumca verilen değer, onur	__ şeref sözü vermek ciddi bir sorumluluktur.
@@ -6123,7 +6125,7 @@ dönem  -- period, term, phase; belli bir süre	__ deneme amaçlı, kısa sürel
 bişey  -- something, anything (colloquial); bir şey	__ eğer bir yerde kahve veya bişey içmek istersen yaz bana.
 -dur  -- look, stand, appear; bir halde bulunmak	__ dün gördüğüm o siyahi beyfendi çok hoş duruyordu.
 -adj durmak  -- appears to be adj, looks like adj  (slang)
--bahset -- mention, talk about; bir konu hakkında konuşmak	__ sadece bir model olduğunu gösteriyor, bundan bahsetmiyorum.
+-bahset -- mention, talk about; bir konu hakkında konuşmak [ablat]	__ sadece bir model olduğunu gösteriyor, bundan bahsetmiyorum.
 bahis -- subject, topic, mention, bet; konu, mevzu __ bu bahis kapandı, artık başka şeylerden konuşalım.
 doğalgaz  -- natural gas; yer gazı __ binaya doğalgaz tesisatı yeni döşendi.
 kombi  -- combi boiler, central heating unit; kat kaloriferi __ kış gelmeden kombi bakımını yaptırmalıyız.
@@ -6152,12 +6154,12 @@ plastik cerrahi  -- plastic surgery
 ilçe  -- district, sub-province; kaza, semt __ her ilde ve her ilçede şubemiz var.
 an  -- moment; saniye, zaman dilimi __ aynı anda iki işi yapabiliyor.
 cerrah  -- surgeon; operatör doktor __ cemil topuzlu türkiye'nin en ünlü cerrahlarından biridir.
-aynı anda  -- simultaneously, at the same time; eş zamanlı __ her il, her ilçede aynı anda Vodacom.
+aynı anda  -- simultaneously, at the same time; eş zamanlı __ her il, her ilçede aynı anda vodacom.
 eş zamanlı  -- simultaneous, concurrent, synchronized  (tech); aynı anda gerçekleşen, senkronize __ paralel süreçlerin eş zamanlı yönetimi yarış durumlarını önler.
 paralellik  -- parallelism
 senkronizasyon  -- synchronization
 kongre  -- congress
-YYYYYY_browzyon
+yyyyyy_browzyon
 düşünceli  -- thoughtful, considerate, pensive; ince fikirli, saygılı __ çok düşünceli bir beyefendi, her detayı planlamış.
 zarafet  -- elegance, grace, refinement; incelik, naziklik __ onun her hareketinde doğal bir zarafet var.
 hassasiyet  -- sensitivity, precision, susceptibility; duyarlılık, özen __ bu konuda gösterdiğiniz hassasiyet için teşekkür ederim.
@@ -6321,8 +6323,6 @@ sonra karar veririz  -- we will decide on dessert later
 -kayak yapmak  -- ski
 -uzat  -- pass, hand over sth	__  tuzu uzatabilir misin lütfen?
 -uzat  -- prolong, stretch out	__ çocuklar bacaklarını uzatmak istediler.
-
-ZZZZZZ_verzyon 2026-05-03-1
 zahmet  -- bother, trouble, inconvenience
 -zahmet etmek  -- take the trouble to do sth, make the effort to do sth [dative]	__ okumaya zahmet edenler.
 -selam vermek  -- greeting, saying hello	__ atiyorsam, selam vermisimdir.
@@ -6337,9 +6337,66 @@ alan  -- area, square, plaza [urban]	__ miting için büyük bir alan seçildi.
 alan  -- receiver, recipient, buyer [role]	__ bu malın alanı çok, satanı az.
 alan  -- range, scope, spectrum  (tech)	__ bu telsizin kapsama alanı dışında kaldık.
 fatih  -- conquerer, victor
-ilk anki  -- like first moment	__ İlk anki heyecan. hep ilk anki kadar çarpıcı.
+ilk anki  -- like first moment	__ ilk anki heyecan. hep ilk anki kadar çarpıcı.
 çarpıcı  -- striking, stunning, impressive	__ parfüm etkisi hep ilk anki kadar çarpıcı.
 çarpışma  -- collision [traffic accident]
 çarpıntı  -- heart palpitations
 çarpık  -- distorted, crooked
+çakmak  -- lighter  [< çak]	__ çakmak çakıyorum.
+çakı  -- pocket knife  [< çak]
+çakıl  -- pebble  [stones that clatter]  [< çak]
+çağrı  -- invitation, call
+çağrışım  -- association, connotation
+çağlayan  -- waterfall
+şimşek  -- lightning, flash	__ şimşek çakıyor.
+-çivi çakmak  -- hammer nail
+toplama  -- addition, adding  (math)	__ bu toplama işlemini yap.
+artı  -- plus  (math)	__ bir artı iki üçtür.
+-topla  -- add  (math)	__ sayıları topla.
+çıkarma  -- subtraction, subtracting  (math)	__ çıkarma sonucu beş çıktı.
+eksi  -- minus  (math)	__ yedi eksi beş ikidir.
+-çıkar  -- subtract  (math)	__ onu buradan çıkar.
+çarpma  -- multiplication, multiplying  (math)	__ çarpma tablosunu ezberle.
+çarpı  -- times, multiplied by  (math)	__ iki çarpı üç altıdır.
+-çarp  -- multiply  (math)	__ sayıyı beşle çarp.
+bölme  -- division, dividing  (math)	__ bölme işleminde hata var.
+bölü  -- divided by  (math)	__ sekiz bölü dört ikidir.
+-böl  -- divide  (math)	__ pastayı dörde böl.
+-eşit  -- equals, is equal to  (math)	__ beş artı beş ona eşittir.
+-et  -- makes, results in  (math)	__ dört artı dört sekiz eder.
+sonuç  -- result, outcome  (math)	__ işlemin sonucu nedir?
+çift kaşarlı tost  -- double cheese toast  (fd)
+kavurmalı tost  -- roasted meat toast  (fd)
+üç peynirli tost  -- 3cheese toast  (fd)
+karışik tost  -- mixed toast  (fd)
+cheddarlı jambonlu tost  -- cheddar and ham toast  (fd)
+kaşar peyniri  -- kashar cheese  (fd)
+kavurma tereyağı  -- roasted meat butter  (fd)
+tulum peyniri  -- tulum cheese  (fd)
+sucuk tereyağı  -- sausage butter  (fd)
+dana jambon  -- beef ham  (fd)
+eritme  -- melting, fusing, fusion
+-eri  --melt
+eritme peyniri  -- processed cheese  (fd)	__ tostlarımızda eritme peyniri olarak da geçen tost peyniri değil.
+olarak da geçen  -- also known as, referred to as, passes as	__ tostlarımızda eritme peyniri olarak da geçen tost peyniri değil.
+teslimat süresi  -- delivery time
+teslim  -- delivery, handover, submit	__ teslimat süresi doldu.
+-teslim etmek  -- deliver sth
+-teslim etmek  -- resign, give up, give in
+-teslim etmek  -- entrust
+-teslim almak  -- take delivery, receive
+kağıt para  -- paper money
+madeni para  -- coins
+giriş yeri  -- insertion slot, entrance
+para üstü  -- change [returned excess]
+-para üstü vermek  -- give change [returned excess]
+kuyruk  -- queue, line
+kuyrukta  -- in the queue
+ihtiyaç torbası  -- barf bag
+yönelme durumu  -- dative case  (gram)
+ayrilma durumu  -- ablative case  (gram)
+benzin  -- diesel gas	__ adam otobüse benzin koyuyor.
+bitkisel yağ  -- palm oil  (fd)
+
+zzzzzz_verzyon 2026-05-04-1
 
