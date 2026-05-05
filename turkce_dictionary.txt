@@ -174,7 +174,7 @@ alt  -- lower part, inferior
 altmış  -- sixty, 60
 altyazı  -- subtitle
 ama  -- but	__  tokum ama yumurta yiyorum.
-amacı  -- purpose, aim	__ ama başka bir amacım yok.
+amacı  -- purpose, aim, goal	__ ama başka bir amacım yok. tek amacı sex olanlar ilgim yok.
 amacıyla  -- in order to  (conj)
 aman  -- oh! alas! my goodness!
 ambulans  -- ambulanc
@@ -306,7 +306,7 @@ asker  -- soldier
 aşk hikayesi  -- love story, romance
 askıda  -- pending
 aşkım  -- my love
-aşk  -- love, eros	__ aşk için zamanım yok.
+aşk  -- passionate love, romance; tutku, heyecan, sarhoşluk	__ aşk için zamanım yok. aşkın sevgiye dönüşmesi,
 aşkm  -- aşkım  (abbrev): my love
 asla  -- never
 assla  -- taz: never [emphatic]
@@ -369,9 +369,8 @@ aynı  -- same; [<> farklı]
 ayran  -- buttermilk  (fd)
 ayran  -- thin salted yogurt  (fd)
 ayrıca  -- also	__ ayrıca hesaplamana baktım ve yanlış gibi.
--ayrıl {ayrılır}  -- depart, go away from  [ablat]
+-ayrıl {ayrılır}  -- leave, separate from, go away from  [ablat]
 ayrılış  -- departure
--ayrıl  -- leave, split up  [ablat]
 ayrıntı {ayrıntılar}  -- detail, specification	__ ayrıntılar önemlidir.
 ayrıntı  -- detail, circumstance, elaboration
 ayrıntılı  -- detailed	__ ayrıntılı arama.
@@ -773,7 +772,7 @@ bulunan  -- situated [in a place], based [in a location] [<-bulun]; merkezli	__ 
 buluş  -- discovery, invention, find, detect
 buluşma  -- meeting, date, rendezvous, appointment; bir araya gelmek	__ spontane buluşmalar.
 buluşma noktası  -- meeting point
--buluş {buluşur}  -- meet, get together, date	__ seninle her gün buluşuyorsa, seni seviyor demektir.
+-buluş {buluşur}  -- meet, get together, unite, date	__ seninle her gün buluşuyorsa, seni seviyor demektir.
 buluş  -- puberty; ergenlik, erginlik, buluğ
 -buluşturul {buluşturulur}  -- be caused to meet or get together
 bulutlar  -- clouds
@@ -1524,7 +1523,7 @@ ey  -- house
 eylem  -- action
 eylül  -- september [ayı]
 eyvallah  -- ah, by god! so be it!  (expl)
--ez  -- crush, grind, mash, paste	__
+-ez  -- crush, grind, mash, paste	__ güreş fantezisi seven, beni ezecek güçlü erkek var mı?
 ezme  -- crushing	__ fıstık ezmesi.
 ezogelin çorbası  -- red lentil and bulgur soup  (fd)
 fabrika  -- factory
@@ -2374,7 +2373,6 @@ kadınsı  -- feminine
 kadın  -- woman
 kafa dengi  -- headstrong	__ kafa dengi olabilirsin.
 kafa dengi  -- like-minded	__ kafa dengi genç aktifler yazabilir.
-kafa  -- head, brains, knob	__ kafanı karıştırmak istemem.
 kafa  -- nut, bean, coconut
 kafaca  -- mentally	__ kafaca en uyumlu biz değiliz.
 -kafa sallamak  -- nod head	__ kafasını sallayarak beklemeye başlamış.
@@ -2410,7 +2408,7 @@ kalın ünlüler  -- back-mouth vowels [a, ı, o, u]
 kalıp  -- pattern, template, mould, model, stencil
 -kal {kalır}  -- remain at [loc]	__ on dakika kaldı. ama o uçuşu için uçakta yer kalmadı maalesef.
 -kal {kalır}  -- stay at	__
-kalkış  -- departure, take-off
+kalkış  -- departure, take-off  [<> varış]
 kalkış  -- takeoff	__ kalkış ve iniş sürelerinde.
 -kalk  -- wake, depart	__ hala yataktayım ve daha şimdi kalktım.
 -kalk  -- get up, stand up	__ ayağa kalktım.
@@ -2522,7 +2520,7 @@ kaşu  -- cashew  (fd)
 -katıl  -- agree [w/ sby]	__ katılıyorum.
 katil {katli}  -- murder
 -katıl  -- mingle, accompany
--katıl  -- participate, join	__ birazdan katılacağım. katılmalı.
+-katıl  -- participate, join together	__ birazdan katılacağım. katılmalı.
 -katıl  -- record [video, audio]?	__ katılıyorum.
 katı  -- strict, firm, hard, rigid, solid, tough	__
 kat {kati, katlı}  -- floor, story [of a building]	__ 27 yeni katlı otopark açtı. gel bir aşağı kata inelim.
@@ -3668,7 +3666,7 @@ sakal  -- beard	__ kıllı sakallı. sakalım çıkmıyor.
 sakalsiz  -- beardless	__ sakalsizlar tercihim.
 -sakın   -- avoid, abstain, eschew, shun
 -sakın   -- be cautious, wary, flinch, hang back
-sakin  -- calm
+sakin  -- calm	__ o sakin kalarak aldı.
 sakın  -- in any case, at any cost, but	__ foto atmiyacaksan sakın yazma.
 -sakla  -- conceal, hide, suppress, disguise, hold back	__ sırlarını saklarsan ve bana güvenmezsen sana nasıl iyi bir baba olabilirim?
 -saklamak  -- -to hide
@@ -4400,7 +4398,7 @@ turuncu  -- orange
 tutarak  -- by holding	__ dakika tutarak beş defa okuyalım.
 tut  -- choke back, retrain, gethold of
 tutku  -- desire, ambition
-tutku  -- passion, penchant	__ kasmadan, yormadan, tutku ile.
+tutku  -- passion, lust	__ kasmadan, yormadan, tutku ile.
 tutku  -- rage, addiction
 -tut {tutar}  -- grasp, hold, catch, keep	__ sert sikini tutmak istiyorum.
 -tutukla  -- arrest, jail, apprehend, imprison	__ iki kişi tutuklanacak.
@@ -4567,13 +4565,13 @@ vapur seferleri  -- ferry service	__ vapur seferleri yeniden başladı.
 vapur  -- steamer, ferry
 var  -- extant
 var  -- have, is, exists
-varış  -- arrival
+varış  -- arrival [<> kalkış]
 varis   -- vericose veins	__ varis var.
 varolan  -- existing  (tech)	__ varolan içeriğin taşınmayacağını unutmayın.
 varsa  -- if have ...
 varsa  -- if there is...
 varsayalım  -- supposing  (conj)
--var {varır}  -- arrive, reach, attain, get to swh	__ bizim eve varırsa haber ver.
+-var {varır}  -- complete, reach, attain sth, get to swh	__ bizim eve varırsa haber ver.
 vatandaş  -- citizen [vatan+daş]
 vatansever  -- patriot, patriotic
 vay!  -- wow!  (expl)
@@ -4712,7 +4710,8 @@ yararlı  -- helpful, useful, beneficial; faydalı	__ hikayenin bir kaydı yarar
 -yararlı olmak  -- be helpful	__ bir tür benzersiz göstergenin olması yararlı olacaktır.
 yarasa  -- bat
 yara  -- wound, sore, injury
--yar  -- cleave, maul, rend, rip, slash, split
+-yar  -- cleave, maul, rend, rip, slash, split	__ odunu yarıyor. karpuzu yarıyor.
+-odun yarmak  -- split, chop wood
 yardıma  -- helping, help	__ istanbul'a gelmeden önce, türkçe konuşma ve işitme konusunda yardıma ihtiyacım var.
 yardımcı  -- assistant, deputy, auxiliary, helpful
 yardımcı  -- help, assistant, auxiliary, aide, aid	__ yardımcı olabilecek?
@@ -4863,7 +4862,7 @@ yoksa  -- or, otherwise, except, else
 yol ayrımı  -- road fork, y-road
 yolculuğa çıkmak  -- go on a journey
 yolculuk  -- journey, trip	__ arabayla yolculuk 2 ya da 3 saat sürecek.
--yolculuk yapmak  -- journey smh [nearby, domestic]	__
+-yolculuk yapmak  -- journey swh [nearby, domestic]	__
 yolcu  -- traveler
 -yol  -- fleece, pluck, pull, tear, pick	__ bana bir seksi video yolsan.
 yol işareti  -- road sign
@@ -5695,7 +5694,6 @@ albüm  -- album
 tabii ki  -- of course
 bak  -- lo, now
 sorma ya  -- don't ask
-kafam  -- head
 -görme  -- pass over, omit
 -hallet  -- handle, manage
 bu yüzden  -- that is why
@@ -6397,6 +6395,78 @@ yönelme durumu  -- dative case  (gram)
 ayrilma durumu  -- ablative case  (gram)
 benzin  -- diesel gas	__ adam otobüse benzin koyuyor.
 bitkisel yağ  -- palm oil  (fd)
+haliç  -- estuary, inlet, mouth, bay
+gezi  -- trip, travel, sightseeing, excursion, tour	__ 
+ilahi aşk  -- soul's ecstatic yearning for the Divine
+hasret  -- loging
+baldır  -- thigh
+topuk  -- ankle
+-yara  -- be useful, beneficial  [dative]	__ ne yiyoruz? nereye yarıyor?  ne yiyoruz? nereye yarıyor? bu ilaç mideye yarıyor. bu kitap işe yarıyor.
+-işe yaramak  -- be useful, work	__ Bu anahtar işe yaramıyor.
+hiçbir şeye yaramaz  -- good for nothing, useless  (phrs)
+yararlı  -- useful, beneficial
+yaramaz  -- naughty, useless
+baş  -- head  (anat)	__ başım çok ağrıyor.
+saç  -- hair  (anat)	__ onun saçları çok uzun.
+kaş  -- eyebrow  (anat)	__ kaşlarını yukarı kaldırdı.
+göz  -- eye  (anat)	__ senin gözlerin ne renk?
+burun  -- nose  (anat)	__ soğuktan burnu kızarmış.
+ağız  -- mouth  (anat)	__ yemek yerken ağzını kapat.
+dil  -- tongue  (anat)	__ bebek komik bir şekilde dilini çıkardı.
+diş  -- teeth  (anat)	__ günde iki kez dişlerini fırçala.
+kulak  -- ear  (anat)	__ kulaklarım sesten rahatsız oldu.
+boyun  -- neck  (anat)	__ atkıyı boynuna sardı.
+omuz  -- shoulder  (anat)	__ çantayı sol omzuna astı.
+kol  -- arm  (anat)	__ kolunu kapıya çarptı.
+dirsek  -- elbow  (anat)	__ dirseklerini masaya koyma.
+bilek  -- wrist  (anat)	__ saati bileğine taktı.
+parmak  -- finger  (anat)	__ elinde beş parmak var.
+deri  -- skin  (anat)	__ güneşten derisi soyuldu.
+göğüs  -- chest  (anat)	__ derin bir nefes alıp göğsünü şişirdi.
+karın  -- abdomen  (anat)	__ çok yemek yediği için karnı şişti.
+kalça  -- hip  (anat)	__ kalça kemiği çok hassastır.
+bacak  -- leg  (anat)	__ koşmaktan bacaklarım yoruldu.
+popo  -- buttock  (anat)	__ bebek poposunun üzerine düştü.
+uyluk  -- thigh  (anat)	__ uyluk kasları çok güçlüdür.
+diz  -- knee  (anat)	__ dizinin üzerine çöktü.
+baldır  -- calf  (anat)	__ yürüyüşten sonra baldırları sertleşti.
+ayak bileği  -- ankle  (anat)	__ ayak bileğini burktu.
+ayak  -- foot  (anat)	__ yeni ayakkabı ayağını sıktı.
+sırt  -- back  (anat)	__ çantasını sırtına aldı.
+omurga  -- spine  (anat)	__ dik durmak omurga için önemlidir.
+omur  -- vertebra  (anat)	__ insanda otuz üç tane omur bulunur.
+kafa  -- head, brains, knob  (colloq)	__ kafanı karıştırmak istemem.
+gövde  -- torso, trunk  (anat)
+uzuvlar  -- limbs, extremities  (anat)
+üst ekstremite  -- upper limb  (anat)
+alt ekstremite  -- lower limb  (anat)
+eklem  -- joint  (anat)
+alın  -- forehead  (anat)
+çene  -- chin/jaw  (anat)
+yanak  -- cheek  (anat)
+bel  -- waist  (anat)
+göbek  -- navel  (anat)
+koltuk altı  -- armpit  (anat)
+avuç içi  -- palm  (anat)
+topuk  -- heel  (anat)
+taban  -- sole [of foot]  (anat)
+tırnak  -- nail [finger, toe]  (anat)
+kafana takma  -- don't worry about it
+baştan savma  -- doing a job sloppily
+kafa kafaya vermek  -- brainstorm or huddle
+tüketim  -- consumption	__ sorumlu tüketim için sıfır atık.
+oluş  -- occurrence	__ ilk oluş (first time)
+sakın gitme!  -- don't you dare go!  (expl)
+bile olsa  -- even if x
+en azından  -- at least
+bunun farkındayım  -- i am aware of this
+hatanın farkındayım  -- i am aware of mistake
+-farkında olmak  -- be aware, realize, notice situation
+kim olduğum  -- who i am [my identity, essence
+kuryesine siparişi alirken kapida
+kurye  -- courier	__ kuryesine siparişi alirken kapida sakso çekmek isteyen pasif varmi.
+güreş  -- wrestling
 
-zzzzzz_verzyon 2026-05-04-1
+zzzzzz_verzyon 2026-05-05-1
+
 
