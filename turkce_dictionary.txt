@@ -641,7 +641,7 @@ biraz ara versinler  -- let them take a break
 biraz ara versin  -- take a break
 birazcık  -- maybe some	__ birazcık kek olabilir.
 biraz daha  -- more
-birazdan  -- soon	__ bunu da düzeltiyorum birazdan.
+birazdan  -- soon, about to do x	__ bunu da düzeltiyorum birazdan.
 bir az  -- some, bit  [uncountable]
 biraz  -- some, bit [uncountable]	__  biraz yorgunum.
 birbiri  -- each other	__ biz birbirimizi seviyoruz.
@@ -855,8 +855,8 @@ camisi  -- mosque
 canım acıyor  -- it hurts, i am in pain.
 canım  -- my dear
 canım sıkıldı  -- nothing to do, any ideas? (slang)
--canı sıkılmak  -- be bored	__ canım sıkıldı sokağa indim kimse yok.
--canı sıkılmış  -- become bored
+-canı sıkılmak  -- be bored [soul pressure]	__ canım sıkıldı sokağa indim kimse yok.
+-canı sıkılmış  -- become bored [soul pressure]
 -can … istemek  -- feel like doing sth	__ canım çilek yemek istiyor.
 cani  -- villain, murderer, felon
 -canı yanmak  -- be hurt, get hurt, in pain	__ canı yanan yılan da bir anda oğlanı ısırmış.
@@ -3059,7 +3059,7 @@ mevsim  -- season
 meyve  -- fruit
 meyve suları  -- fruit juices
 meze  -- tapas  (fd)
--mezun olmak  -- graduate
+-mezun olmak  -- graduate	__ mühendislikten mezun oluyorum.
 mide  -- stomach, abdomen	__ mide kasları göstermeye çalışır.
 midye dolma  -- stuffed mussels  (fd)
 mikrodalga fırın  -- microwave
@@ -3881,9 +3881,10 @@ sıkça  -- frequently, often	__ sıkça karıştırılan sözler.
 sik  -- cock, dick, prick  (slang)	__ sikini taşağını yerim.
 siken  -- a fuck buddy	__ şuan var mı sikenin.
 sık  -- frequent, often [<> az]
--sıkıl  -- be bored	__ sıkılıyorum. çok sıkıldım tek başıma oturmaktan.
+-sıkıl  -- be bored [soul pressure]	__ sıkılıyorum. çok sıkıldım tek başıma oturmaktan.
+-sıkıl  -- shy embarrassed [social awkward]	__ sıkılıyorum.
 sıkılmış  -- crushed, squeezed	__ taze sıkılmış nar suyu.
-sıkıntı  -- boredom
+sıkıntı  -- boredom [soul pressure]
 sıkıntı  -- bother, annoyance
 sıkıntısız  -- no hassle, no bother (slang)
 sıkıntı  -- trouble, distress, difficulty, adversity	__ sıkıntı yok.
@@ -6467,6 +6468,13 @@ kuryesine siparişi alirken kapida
 kurye  -- courier	__ kuryesine siparişi alirken kapida sakso çekmek isteyen pasif varmi.
 güreş  -- wrestling
 
-zzzzzz_verzyon 2026-05-05-1
+zzzzzz_verzyon 2026-05-05-2
+-hediye vermek  -- gift giving to sby
+-internete girmek  -- surf internet
+-sık  -- squeeze, tighten
+sena  -- glory, praise
+sena  -- eulogy
+-besle  -- feed, nurture, foster	__ 
+-hayvan beslemek  -- keep pets
 
 
