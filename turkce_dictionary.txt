@@ -369,7 +369,7 @@ aynı  -- same; [<> farklı]
 ayran  -- buttermilk  (fd)
 ayran  -- thin salted yogurt  (fd)
 ayrıca  -- also	__ ayrıca hesaplamana baktım ve yanlış gibi.
--ayrıl {ayrılır}  -- leave, separate from, go away from  [ablat]
+-ayrıl {ayrılır}  -- leave completely, separate from, go away from  [ablat]
 ayrılış  -- departure
 ayrıntı {ayrıntılar}  -- detail, specification	__ ayrıntılar önemlidir.
 ayrıntı  -- detail, circumstance, elaboration
@@ -1138,7 +1138,6 @@ deniz yatağı  -- air bed
 denk  -- equivalent, equal, balanced	__
 -denk gel  -- balance, come across, come up to, suitable, work out at	__ denk geliriz belki.
 -depola  -- store; -yükle, -doldur, hafızaya
-deprem  -- earthquake
 deprem  -- earthquake
 derece  -- degree [weather]	__ sıcaklık 15 derece.
 -de  -- report [speech], meaning [of sth]
@@ -2077,12 +2076,10 @@ hong konglu  -- hong kong [people]
 hoparlör  -- speakers  (tech)
 hor  -- contemptible
 hortum  -- tornado
-hortum  -- tornado
-hoş  -- beautiful, nice, pleasing	__ insanların tarzı ve giyimi de hoş.
+hoş  -- beautiful, nice, pleasant	__ insanların tarzı ve giyimi de hoş.
 hoşça kal  -- bye
 hoş geldin  -- welcome  (expr)	__ hoş bulduk.
--hoşlan  -- like, enjoy, attracted to, fancy for	__ neden hoşlanırsın? olgun gizli güvenilir kıllı tiplerden hoslaniyorum. beyaz sarışın insanlardan hoşlanıyorum. ne yapmaktan hoşlanırsın?
--hoş  -- like, enjoy sth
+-hoşlan  -- like, enjoy, attracted to, fancy for  [ablat]	__ neden hoşlanırsın? olgun gizli güvenilir kıllı tiplerden hoslaniyorum. beyaz sarışın insanlardan hoşlanıyorum. ne yapmaktan hoşlanırsın? sen neyden hoşlanıyorsun?
 hostesi  -- stewardess
 hoştu  -- it was nice [liked]
 hoştur  -- it's nice
@@ -2411,7 +2408,7 @@ kalıp  -- pattern, template, mould, model, stencil
 kalkış  -- departure, take-off  [<> varış]
 kalkış  -- takeoff	__ kalkış ve iniş sürelerinde.
 -kalk  -- wake, depart	__ hala yataktayım ve daha şimdi kalktım.
--kalk  -- get up, stand up	__ ayağa kalktım.
+-kalk  -- get up, stand up  [ablat]	__ ayağa kalktım. ben yataktan kalkıyorum.
 kalma  -- stay, staying, remaining; ziyaret, ikamet, durma, oturma	__ benim bir beklentim kalmadı artık sadece onun dönmesini bekleyeceğim.
 kalp {ler}  -- heart, cardiac	__ kalbim kırıldı.
 kalp krizi  -- heart attack
@@ -2757,7 +2754,7 @@ körfez  -- gulf
 körfez  -- seagull
 korkak  -- coward, timid, fearful [<> cesur]	__
 -kork  -- fear	__ korktun mu?
--kork {korkar}  -- be afraid of [ablat]
+-kork {korkar}  -- be afraid of [ablat]	__ o neyden korkuyor?
 korkmuş  -- scared/frightened
 -koru  -- conserve, preserve, save, shelter	__ sahipliğini korur.
 -koru  -- keep  (tech)	__ eski adları koru.
@@ -2767,7 +2764,7 @@ korkmuş  -- scared/frightened
 koruyucu siperlik  -- protective visor
 köşe  -- corner
 köşe  -- corner
--koş {kosar}  -- run
+-koş {kosar}  -- run	__ o nasıl koşuyor?
 kosovace  -- kosovo [language]
 kosova  -- kosovo [country]
 kosovalı  -- kosovo [people]
@@ -3073,7 +3070,7 @@ milyar  -- billion, 1000000000
 milyon  -- million, 1000000
 mimar  -- architect	__ herkes kendi hayatının mimarıdır.
 minare  -- minaret
-minnet  -- gratefulness, thankfulness; şükran
+minnet  -- gratitude, indebtedness; şükran [due to receiving help]
 minyon  -- petite
 misafir  -- guest
 mısırce  -- egypt [language]
@@ -3165,7 +3162,7 @@ nefes  -- breath
 -nefes çekmek  -- inhale breath
 nefes darlığı  -- shortness of breath
 -nefes vermek  -- exhale breath
--nefret etmek  -- disgust [hate, resent, repulse]
+-nefret etmek  -- hate, disgust, repulse  [active repulsion]	__ yalandan nefret ederim.
 ne güzel  -- nice
 ne haber  -- what's up?; taz naber
 nehir ağzı  -- estuary
@@ -4086,8 +4083,8 @@ suriye  -- syria [country]
 sürücü  -- driver
 sürü  -- herd, flock, pack
 sürüngen  -- reptile
-susamış  -- thirsty
--susa  -- thirst [< su-se/to want/ ]
+-susamış  -- thirsty
+-susa  -- be thirsty [< su]
 su şiseşi  -- water bottle
 süs  -- ornament, decoration, embellishment
 -sustur {susturur}  -- cause to be silent
@@ -5399,7 +5396,7 @@ bitki  -- plant
 direk  -- pole	__ direğe yaslanıyorum.
 -yaslan  -- lean [on, against sth]	__ direğe yaslanıyorum.
 salıncak  -- swing [child's]	__ salıncağı itiyorum.
--tırman  -- climb [up on sth]	__
+-tırman  -- scale, climb up on sth [requiring effort] [dative]	__ dağcılar sabahın erken saatlerinde zirveye tırmanmaya başladılar. enflasyon rakamları son aylarda hızla yukarıya tırmanıyor.
 hoş buldum  -- well found [response to welcome]
 görüşmek üzere  -- see you
 fonksiyon -- function	__ diyalogları fonksiyonları ile eşleştiriniz.
@@ -6119,7 +6116,8 @@ ortam  -- environment, atmosphere, vibe; bulunulan yerin havası	__ bu kafenin o
 harici  -- external, excluding, besides; bir şeyin dışında kalan	__ bu planın haricinde başka seçeneğimiz yok.
 şeref  -- honor, dignity; toplumca verilen değer, onur	__ şeref sözü vermek ciddi bir sorumluluktur.
 söz  -- word, promise; bir şeyi yapacağına dair verilen garanti	__ sözünü tutmayan insanlara kızarım.
-samimi  -- sincere, intimate, close; içten, dürüst	__ daha önce çok samimi arkadaşlarım oldu.
+samimi  -- sincere, intimate, close; Bir kimsenin, bir topluluğun içtenliği, yürekliliği; yapmacıksız, içten gelen davranış ve tutum; içten, dürüst	__ daha önce çok samimi arkadaşlarım oldu.
+samimi  -- [The state of being from the interior (the gut/heart); the quality of being 'of the soul'; behavior and attitude that is un-manufactured and arrives from the inside."]
 dönem  -- period, term, phase; belli bir süre	__ deneme amaçlı, kısa süreli bir fotoğraf çekimi dönemi mi?
 bişey  -- something, anything (colloquial); bir şey	__ eğer bir yerde kahve veya bişey içmek istersen yaz bana.
 -dur  -- look, stand, appear; bir halde bulunmak	__ dün gördüğüm o siyahi beyfendi çok hoş duruyordu.
@@ -6467,8 +6465,6 @@ kim olduğum  -- who i am [my identity, essence
 kuryesine siparişi alirken kapida
 kurye  -- courier	__ kuryesine siparişi alirken kapida sakso çekmek isteyen pasif varmi.
 güreş  -- wrestling
-
-zzzzzz_verzyon 2026-05-05-2
 -hediye vermek  -- gift giving to sby
 -internete girmek  -- surf internet
 -sık  -- squeeze, tighten
@@ -6476,5 +6472,28 @@ sena  -- glory, praise
 sena  -- eulogy
 -besle  -- feed, nurture, foster	__ 
 -hayvan beslemek  -- keep pets
+bilgilendirme panosu  -- information board
+toplan ulaşım  -- public transport
+-yaşlan  -- grow old
+-horla  -- snore [< hor]
+-garipse  -- find sth strange  [< garip]
+neyden  -- what preference
+neden  -- what motivation, reason [why]
+nefret  -- hatred, loathing, detestation  [emotion]
+-nefret uyandırmak  -- repel, cause revulsion [dative]	__ onun kaba tavırları herkeste nefret uyandırıyor.
+kin ve nefret  -- deep-seated malice, enmity  [hostility]  (idm)
+nefretlik  -- hateful, obnoxious person  [character]  (slang)
+-yok saymak  -- treating the person as if they don't exist
+-merhabalaş  -- exchanging basic greetings
+halktan biri  -- one of the common people
+baş ağrısı  -- annoyance, headache  (idm)
+içim şişti  -- my insides have swollen/inflated [they are describing the literal pressure of their soul pushing against the structural walls of what the family or honor requires of them]
+-yardım istemek  -- want help fm sby  [ablat]	__ öğrenci kimden yardım istiyor?
+yardım  -- = active investment in social capital
+-hoşlan  -- = passive verification of cultural alignment
+gürültü  -- noise, racket	__ biz gürültüdan bahsediyoruz.
+böcek  -- insect, bug
+-odaklan  -- focus, concentrate	__ kardeşimin hedeflerine ulaşması için derslerine odaklanması gerekiyor.
 
+zzzzzz_verzyon 2026-05-06-1
 
