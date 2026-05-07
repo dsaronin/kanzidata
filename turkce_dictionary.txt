@@ -321,7 +321,7 @@ atasözü  -- proverb
 ateşi  -- temperature, fever, fire	__ annemin ateşi var ve kusuyor.
 ateş  -- fire	__ ateş yakmak yasaktır.
 ateşkes  -- truce, armistice, ceasefire	__ mondroş ateşkes antlaşmaşı.
--ateş yakar  -- make a fire, burn	__ ateş yakarsan dikkatli olmalısın.
+-ateş yakmak  -- make a fire, burn sth	__ ateş yakarsan dikkatli olmalısın.
 at  -- horse
 atık  -- waste, refuse	__ sıfır atık.
 atkı  -- scarf
@@ -488,11 +488,11 @@ başkan  -- president	__ komite başkanı kim?
 başka  -- other than [ablat]
 başkasına  -- for/to someone else
 başka yer  -- somewhere else	__ eğer gece parkta bana dokunursa başka yere koşarım.
--başla {başlar}  -- start at [dativ]	__ ders 8:30 da başlar.
+-başla {başlar}  -- start at, begin [dativ]	__ ders 8:30 da başlar. yarın yeni işime başlıyorum.
+-başla  -- start	__ hadi başlayalım.
 başlangıç klasör  -- startup folder  (tech)
 başlangıç  -- start, beginning, origin, first, preliminary	__ bana yüz resmini gösteren de iyi bir başlangıç. başlangıçtan bitişe.
 başlangıçtan bitişe  -- from start to finish	__ bir aradan, başlangıçtan bitişe.
--başla  -- start	__ hadi başlayalım.
 başlat  -- inaugurate, initialize, initiate, originate
 başlat  -- start up, launch, initialize  (tech)	__ 	temel değerleri başlat.
 -başta gelmek  -- come first
@@ -675,7 +675,7 @@ birlikte  -- together [dative]	__ birbirmizle birlikte olmaktan zevk alıyorum.
 bir  -- one, 1, a, an
 bir şey değil  -- it’s nothing, anything
 birşey değil  -- it's nothing, not anything
-bir şey  -- something
+bir şey  -- something	__ bir şeyi anlamak.
 bir süre sonra  -- after a while	__ bir süre sonra ormanın içine düşmüş.
 bir sürü  -- a lot	__ sinzinle bir sürü türkçe fiil öğreneceğiz.
 bir takım  -- some, several, certain [given]	__ toplum yaşamında yasaların herkese sağladığı birtakım haklar vardır.
@@ -839,11 +839,9 @@ çadır ayağı  -- tent stakes
 -çak  -- strike, hammer, flash [dative] [intentional, sharp force]	__ duvara çivi çaktı.
 -çak  -- lightning strike/flash	__ şimşek çakıyor.
 çaldı  -- knocking [on door]
--çalış {çalışır}  -- work, work hard
 çalışkan  -- hardworking, diligent, studious	__ sen çok çalışkansın.
 çalışkan  -- hardworking  [<> tembel]	__
 çalışmalar  -- studies
--çalış  -- work
 -çal  -- knock, blow
 -çal  -- play {instrument]	__ gitar çalmayı seviyor musun?
 -çal  -- steal, thieve, hijack
@@ -1162,6 +1160,7 @@ destek  -- supporting, backing, prop, truss, pillar
 detaylı bilgi  -- detailed information	__ detaylı bilgi için tıklayın.
 devam  -- continuation, attendance, duration, endurance, pursuance
 -devam etmek  -- continue, go on, keep on, proceed, progress, pursue	__ devam etmemeliyiz.
+-devam etmek  -- continue [dative]	__ lütfen anlatmaya devam et.
 devam et  -- go on, keep it up, keep going  (expl)
 devamında  -- in the continuation
 devamlılık  -- continuity
@@ -2080,6 +2079,7 @@ hoş  -- beautiful, nice, pleasant	__ insanların tarzı ve giyimi de hoş.
 hoşça kal  -- bye
 hoş geldin  -- welcome  (expr)	__ hoş bulduk.
 -hoşlan  -- like, enjoy, attracted to, fancy for  [ablat]	__ neden hoşlanırsın? olgun gizli güvenilir kıllı tiplerden hoslaniyorum. beyaz sarışın insanlardan hoşlanıyorum. ne yapmaktan hoşlanırsın? sen neyden hoşlanıyorsun?
+-hoşlan  -- = passive verification of cultural alignment
 hostesi  -- stewardess
 hoştu  -- it was nice [liked]
 hoştur  -- it's nice
@@ -2173,7 +2173,8 @@ iltica  -- asylum, refuge, defection
 imalat mühendislik  -- production engineer	__ ben imalat mühendisliği okuyorum.
 imalat  -- production; üretim
 imam bayıldı  -- eggplant stuffed with tomatoes, onions  (fd)
-imdat  -- help, rescue; kutarma, yadımcı
+imdat  -- help, aid, rescue; kutarma, yadımcı	__ arabam çalışmıyordu ama neyse ki yoldan geçen biri imdadıma koştu.
+imdat!  -- help!  (expl)	__ imdat! imdat!
 imkan  -- possible, possibility	__ türkiye gelmek imkanı olur mu. umarım bir gün gelebilme imkanım olur san francisco'ya.
 imkansız  -- impossible; [<> mümkün]
 -imza atmak  -- sign, append signature to
@@ -2419,7 +2420,7 @@ kamp  -- camp	__ hic kamp yapmadim.
 kamp  -- camping
 kampçı  -- camper
 kamp sobası  -- camp stove
--kamp yap  -- camping	__ dağlarda kamp yapıyorum.
+-kamp yapmak  -- camping	__ dağlarda kamp yapıyorum.
 kamu  -- public
 kamyon  -- truck
 -kana  -- bleed	__ hastanın kanaması var.
@@ -2676,7 +2677,7 @@ kızgın  -- angry	__ omar bana kızgın.
 kız  -- girl, daughter, maiden, female
 kızıl  -- red, scarlet
 kızkardeş  -- sister
--kız {kızar}  -- become angry
+-kız {kızar}  -- get angry at [dative]	__ yaptığı hataya çok kızdım.
 klasik  -- classic	__ klasik istanbul.
 klasör  -- folder  (tech)	__ standart klasörler geçerli dile güncelleştirilsin mi?
 klavye  -- keyboard
@@ -3162,7 +3163,7 @@ nefes  -- breath
 -nefes çekmek  -- inhale breath
 nefes darlığı  -- shortness of breath
 -nefes vermek  -- exhale breath
--nefret etmek  -- hate, disgust, repulse  [active repulsion]	__ yalandan nefret ederim.
+-nefret etmek  -- hate, disgust, repulse  [active repulsion] [ablat]	__ yalandan nefret ederim. soğuk havadan nefret ederim.
 ne güzel  -- nice
 ne haber  -- what's up?; taz naber
 nehir ağzı  -- estuary
@@ -4457,10 +4458,10 @@ umursa  -- care about
 ünlem işareti  -- exclamation point  [punc]
 ünlü harfler  -- vowels
 ünsüz harfler  -- consonants
--unut  -- lose sight of, unlearn
 unutmayın  -- note, mind you, remember, don't forget	__ varolan içeriğin taşınmayacağını unutmayın.
 -unut  -- omit, leave out, neglect	__
--unut {unutur}  -- forget	__ erkek olduğunu unutma. bana fotoğraf göndermeyi unutma.
+-unut  -- lose sight of, unlearn
+-unut {unutur}  -- forget [accus]	__ erkek olduğunu unutma. bana fotoğraf göndermeyi unutma.
 upuzun  -- very long [uzun]
 ürdünce  -- jordan [language]
 ürdün  -- jordan [country]
@@ -6216,6 +6217,7 @@ hat  -- pipeline, stream [production]
 hat  -- line [transit]	__ hat uzunluğu.
 hat başı-sonu  -- terminus, terminal
 -çalış  -- tries to verb [dative]	__ göstermeye çalışır.
+-çalış {çalışır}  -- study, work on [dative]	__ sınava her gün çalışıyorum.
 -söylediğin gibi  -- like you said
 acaba  -- wonder, interrogative [soft]	__ ne anlatıyor acaba?
 kebap  -- kebab  (fd)
@@ -6490,10 +6492,88 @@ baş ağrısı  -- annoyance, headache  (idm)
 içim şişti  -- my insides have swollen/inflated [they are describing the literal pressure of their soul pushing against the structural walls of what the family or honor requires of them]
 -yardım istemek  -- want help fm sby  [ablat]	__ öğrenci kimden yardım istiyor?
 yardım  -- = active investment in social capital
--hoşlan  -- = passive verification of cultural alignment
 gürültü  -- noise, racket	__ biz gürültüdan bahsediyoruz.
 böcek  -- insect, bug
 -odaklan  -- focus, concentrate	__ kardeşimin hedeflerine ulaşması için derslerine odaklanması gerekiyor.
+mangal  -- barbecue	__ mangal yapmayiniz.
+tehdit  -- threat, menace	__ tehdit avi raporu yönetici özeti
+saldırgan  -- attacker, aggressor	__ saldırganlar yapay zekayı silah olarak kullanıyor
+yapay zeka  -- ai, artificial intelligence    (tech)	__ saldırganlar yapay zekayı silah olarak kullanıyor
+silah olarak  -- as a weapon	__ saldırganlar yapay zekayı silah olarak kullanıyor
+-hedef almak  -- target, aim at	__ saldırganlar sistemi hedef alıyor
+av  -- hunt, catch, prey	__ ormanda av sezonu bugün başlıyor.
+av  -- prey, quarry  [target]	__ aslan avının peşinden hızla koşmaya başladı.
+av bölgesi  -- hunting ground	__ bu bölge yaban domuzu için popüler bir av bölgesi.
+avcı kulübü  -- hunting club	__ avcı kulübü hafta sonu akşam yemeği düzenleyecek.
+yem  -- bait, decoy, lure	__ büyük balıkları yakalamak için canlı yem kullanmalısın.
+yakalama  -- catching, capture	__ polis kaçan hırsızı kısa sürede yakalama başardı.
+çekim  -- shooting, filming  [media]	__ yönetmen yarın sabah sahilde çekim yapacak.
+atış  -- shot, firing  [ballistics]	__ keskin nişancı hedefe tam isabetli bir atış yaptı.
+atıcılık  -- marksmanship  [sport]	__ türkiye atıcılık dalında olimpiyatlarda derece aldı.
+-avlan  -- hunt, go hunting	__ boş zamanlarında ormanda avlanmayı çok sever.
+-avla  -- catch, hunt down  [result]  (verb)	__ kaplan, ceylanı büyük bir ustalıkla avladı.
+-yakala  -- catch, capture  [physical act]	__ kaleci son dakikada gelen sert topu yakaladı.
+-esir almak  -- capture, take prisoner	__ askerler operasyon sırasında üç kişiyi esir aldı.
+-ateş etmek  -- shoot, fire a gun  [ballistics]  (expr)	__ avcı havaya ateş ederek kuşları korkuttu.
+-vur  -- hit, shoot (target)	__ hedefi tam on ikiden vurmayı başardı.
+-silahlandırmak  -- arm, weaponize
+-silah haline getirmek  -- weaponize
+-silaha dönüştürmek  -- turn into a weapon
+-silah olarak kullanmak  -- use as a weapon
+ateşli silahlar  -- firearms [pistols, rifles]
+ateşsiz silahlar  -- non-firearms [swords, bows]
+kesici/delici silahlar  -- cutting/piercing weapons [knives, spears]
+biyolojik/kimyasal silahlar  -- biological/chemical weapons.
+tabanca  -- pistol, handgun  specifically a short-barreled firearm.
+tüfek  -- rifle, shotgun  a long-barreled firearm.
+bıçak  -- knife  a general cutting tool or weapon.
+pusat  -- weaponry, arms, gear    (arch)	__ alp arslan pusatlarını kuşanıp meydana çıktı.
+yay  -- bow	__ türk yayları menzil rekorları ile bilinir.
+ok  -- arrow	__ yay gerilince ok hedefe hızla fırlar.
+kılıç  -- sword	__ keskin kılıç kınında durmaz.
+kargı  -- lance, spear, pike	__ süvariler ellerinde uzun kargılarla hücum etti.
+balta  -- axe	__ oduncu ormanda balta ile çalışıyor.
+gürz  -- mace, cudgel	__ ağır gürz zırhlı düşmanlara karşı etkilidir.
+yara  -- wound, injury	__ askerin kolundaki yara yavaşça iyileşiyor.
+-dört gözle beklemek  -- look forward to, anticipate  [intense] [accus]	__ yeni projeyi dört gözle bekliyorum.
+-kolaylaştır  -- simplify, facilitate [accus]	__ bu yazılım işlerimizi kolaylaştıracak.
+-öner  -- suggest, propose [accus]	__ sana bu yöntemi öneriyorum.
+-planla  -- plan [accus]	__ hafta sonu gezisini planladık.
+-rahatlat  -- comfort, soothe [accus]	__ sıcak bir çay insanı rahatlatır.
+-reddet  -- reject, refuse [accus]	__ teklifimi nazikçe reddetti.
+-rica etmek  -- request [accus]	__ yardımı rica ediyorum.
+-tercih etmek  -- prefer [accus]	__ siyah elbiseyi tercih ettim.
+-üz  -- sadden, upset [accus]	__ bu haber beni çok üzdü.
+-zorlaştır  -- complicate, make difficult [accus]	__ karmaşık kurallar süreci zorlaştırıyor.
+-alış  -- get used to, accustom [dative]	__ soğuk havaya yavaşça alıştım.
+-bayıl  -- adore [infatuation] [dative]	__ bu yemeğin tadına bayıldım.
+-izin vermek  -- permit, allow [dative]	__ giriş yapmana izin verildi.
+-karar vermek  -- decide [dative]	__ tatile gitmeye karar verdik.
+-karış  -- interfere, meddle [dative]	__ başkasının işine asla karışmaz.
+-sevin  -- be glad, rejoice [dative]	__ başarınıza yürekten sevindim.
+-sinirlen  -- get annoyed at [dative]	__ yüksek sese çok sinirlenir.
+-söz vermek  -- promise [dative]	__ arkadaşıma yardıma söz verdim.
+-şaşır  -- be surprised at [dative]	__ gördüğü manzaraya çok şaşırdı.
+-üşen  -- be too lazy for [dative]	__ spor yapmaya bugün üşendim.
+-üzül  -- be sorry about, feel sad [dative]	__ kaybettiği oyuncağa çok üzüldü.
+-ısrar etmek  -- insist on [locat]	__ gitmemiz konusunda ısrar etti.
+-ısrarcı olmak  -- be insistent [locat]	__ bu fikirde ısrarcı olmamalısın.
+-iyi olmak  -- be good at [locat]	__ o, yabancı dilde çok iyidir.
+-kötü olmak  -- be bad at [locat]	__ yemek yapmada oldukça kötüyüm.
+-bık  -- be fed up with [ablat]	__ sürekli beklemekten bıktım.
+-memnun olmak  -- be pleased with [ablat]	__ aldığı hizmetten memnun kaldı.
+-rahatsız olmak  -- be disturbed by [ablat]	__ gürültülü ortamdan rahatsız oldum.
+-şikayetçi olmak  -- complain about [ablat]	__ trafikten herkes şikayetçi oldu.
+-utan  -- be ashamed of [ablat]	__ yanlış yapmaktan hiç utanmaz.
+-vazgeç  -- give up on [ablat]	__ arabayı almaktan vazgeçtik.
+-enstrüman çalmak  -- play instrument
+süper kahraman  -- superhero
+maydanoz  -- parsley
+akarsu  -- stream
+-sörf yapmak  -- surfing
+-şarkı söylemek  -- sing a song
+tanrı  -- god, deity
+bir sürü  -- a lot
+saatlerce   -- for hours
 
-zzzzzz_verzyon 2026-05-06-1
-
+zzzzzz_verzyon 2026-05-07-1
