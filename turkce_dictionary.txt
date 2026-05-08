@@ -4234,6 +4234,7 @@ teker  -- wheel	__ ön tekeri kaldırarak.
 tek eşli  -- monogamous	__ sanırım tek eşli yapıda birisiyim.
 tekil kart  -- single card  (tech)
 teklif  -- proposal, offer, proposition, suggestion	__ fakat teklifin güzel.
+-teklif etmek  -- offer sth
 teknik ressam  -- draftsman
 tek  -- only, one, single, alone, lone, mono	__ tek yaşıyorum. tek misin arayayım mı seni göreyim? tek misin orada?
 tekrar  -- again, once more	__ tekrar edebilir misin lütfen?
@@ -4549,6 +4550,7 @@ vadi  -- valley	__ pendik yaşam vadisi'nin.
 vahşi  -- wild	__ vahşi atlar.
 vakit  -- time, when, while, hour, season	__ güzel vakit.
 vali  -- governor
+valilik  -- governorship administration
 vallaha  -- 《i swear》	__ vallaha billaha [no way i swear]
 vandalizm  -- vandalism
 vantilatör  -- fan
@@ -6568,8 +6570,6 @@ akarsu  -- stream
 tanrı  -- god, deity
 bir sürü  -- a lot
 saatlerce   -- for hours
-
-zzzzzz_verzyon 2026-05-07-1
 türbe  -- tomb, mausoleum, shrine
 işitme  -- hearing, audio
 kuşatma  -- siege
@@ -6594,4 +6594,14 @@ dağ tırmanışı  -- mountain climbing  [activity]	__ dağ tırmanışı yapı
 uzun sürüyor  -- it takes a long time
 hepimiz  -- all of us
 yine mi?  -- again?
+veresiye  -- on credit	__ veresiye teklif etmeyiniz.
+koru  -- grove, woods
+devrimcilik  -- revolutionism
+devletçilik  -- statism
+laiklik  -- secularism
+halkçılık  -- populism
+milliyetçilik  -- nationalism
+cumhuriyetçilik  -- republicanism
+
+zzzzzz_verzyon 2026-05-08-2
 
