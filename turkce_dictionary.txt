@@ -1112,7 +1112,6 @@ delta  -- river delta
 demektir  -- it means… 	__ seninle her gün buluşuyorsa, seni seviyor demektir.
 demir  -- anchor; çapa
 -demir atmak  -- anchor sth
-demir  -- iron
 demir  -- iron, ferrous
 -demle  -- brew [tea]	__ babam her akşam bizim için çay demler.
 -demlen  -- brew [tea]	__ türk çayı çaydanlıkta demlenir.
@@ -1491,12 +1490,6 @@ etap  -- lap, leg, stage, phase	__ ilk etabı açıldı.
 -et {eder}  -- do/make + x [activated aux] [turns loanword nouns into action verbs; state/occurrence; activates the concept]
 etek  -- skirt
 etiket  -- tag  (tech)
-etki  -- effect	__ bu yeni ilacın etkileri nelerdir?
-etki  -- impression, influence, impact
--etkile  -- affect, influence, sway	__ bu beni çok etkileyen bir kitap.
--etkile  -- impress, influence, penetrate, pierce
-etkin  -- effective
-etkinlik  -- activity, efficiency; faaliyet, verim, etki	__ ders etkinlikleri.
 et  -- meat
 etnik  -- ethnic	__ aileniz etnik olarak farslı mı?
 evet  -- yes	__ evet, kitaplar bende.
@@ -5395,7 +5388,7 @@ performans  -- performance	__ performansım çok iyi.
 labirent  -- maze	__ bu bir labirent.
 bitki  -- plant
 direk  -- pole	__ direğe yaslanıyorum.
--yaslan  -- lean [on, against sth]	__ direğe yaslanıyorum.
+-yaslan  -- lean [on, against sth]	__ direğe yaslanıyorum. kapılara yaslanmak.
 salıncak  -- swing [child's]	__ salıncağı itiyorum.
 -tırman  -- scale, climb up on sth [requiring effort] [dative]	__ dağcılar sabahın erken saatlerinde zirveye tırmanmaya başladılar. enflasyon rakamları son aylarda hızla yukarıya tırmanıyor.
 hoş buldum  -- well found [response to welcome]
@@ -6577,3 +6570,28 @@ bir sürü  -- a lot
 saatlerce   -- for hours
 
 zzzzzz_verzyon 2026-05-07-1
+türbe  -- tomb, mausoleum, shrine
+işitme  -- hearing, audio
+kuşatma  -- siege
+tufan  -- flood, deluge
+etki  -- impact, effect  [result]	__ bu kararın büyük bir etkisi oldu. bu yeni ilacın etkileri nelerdir?
+etki  -- influence, impression  [sway]	__ onun üzerindeki etkin çok güçlü.
+etki  -- reaction, side effect  [reaction]  (med)	__ ilacın yan etkisi azdır.
+etki  -- force, pressure  [force]  (tech)	__ mıknatısın etkisiyle metal hareket etti.
+etki  -- weight, authority  [authority]  (biz)	__ piyasada büyük bir etkisi var.
+-etki  -- act on, affect sth  [dative]	__ soğuk ona etkiledi.
+-etki etmek  -- affect sth  [dative]	__ işık göze etki eder.
+-etkile  -- affect, influence, sway  [accus]	__ bu beni çok etkileyen bir kitap. müzik ruhu etkiler.
+-etkile  -- impress, influence, penetrate, impact
+etkinlik  -- activity, efficiency; faaliyet, verim, etki	__ ders etkinlikleri.
+etkin  -- active, effective  [functional]	__ sorunun çözümü için etkin bir yol bulduk.
+etkili  -- influential, powerful  [potent]	__ konuşması herkes üzerinde çok etkili oldu.
+etkisiz  -- ineffective, inert  [useless]	__ bu yöntem maalesef etkisiz kaldı.
+-etkilen  -- to be influenced  [passive]	__ soğuk havadan hemen etkilendim.
+etkileşim  -- interaction  [mutual]	__ sosyal medyada etkileşim çok yüksek.
+etkince  -- effectively, actively  [manner]	__ bu süreci etkince yönetmek gerekiyor.
+dağ tırmanışı  -- mountain climbing  [activity]	__ dağ tırmanışı yapıyorum.
+uzun sürüyor  -- it takes a long time
+hepimiz  -- all of us
+yine mi?  -- again?
+
