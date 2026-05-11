@@ -2927,7 +2927,7 @@ macaristan  -- hungary [country]
 macera  -- adventure, affair, flirtation, romance
 maço  -- macho	__ sert maço seven yazsin.
 maço  -- macho	__ sert maçoyum.
-maç  -- match  [sports]
+maç  -- match  [sports]	__ bugün futbol maçı saat kaçta?
 madalyon  -- locket, medallion
 maddeler  -- articles [of agreement, pact]	__ antlaşmanın 7. ve 24. maddelerini.
 madde  -- material, matter, substance, stuff	__ maddi ve manevi yanımda olcak.
@@ -3568,7 +3568,6 @@ rastgele  -- random, haphazard; tesadüfi	__ 100 sayıdan rastgele bir örnek.
 rastlantı  -- coincidence, accident, encounter, incidence, fortuity, conjunction
 razı  -- content, agreeable
 reçel  -- jam  (fd)
--reddet  -- reject
 rehber  -- guide
 reklam  -- advertising
 rende  -- grater
@@ -3812,7 +3811,7 @@ servis  -- service	__ kahve servisi ne zaman olacak?
 ses kaydı  -- voice recording
 -seslen  -- shout out, call out, address, yell
 sesli  -- audible, voiced, vocal
-ses  -- noise, clatter	__ beraber olsak bayağı ses yapardık.
+ses  -- noise, clatter	__ beraber olsak bayağı ses yapardık. yüksek sese çok sinirlenir.
 sessiz  -- noiseless, quiet, silent, soundless	__ sessiz olabilir misin?
 -sessiz olmak  -- be silent, quiet
 sessiz sokak  -- quiet street
@@ -4717,7 +4716,7 @@ yargıç  -- judge
 yarım  -- one half [not used with other numbers]
 yarından sonraki gün  -- day after tomorrow
 yarın  -- tomorrow
-yarışma  -- competition, contest, event, match	__ yarışma bitmedi daha.
+yarışma  -- competition, contest, event [non-sports]	__ yarışma bitmedi daha.
 -yar  -- plow
 yarrak  -- cock, dick  (slang)	__ büyük yarak. yarrağımi yalamak işteyen var mı?
 -yaşa  -- dwell, inhabit	__ peki benimle beraber yaşamak ister misin peki? istanbul’da mı yaşıyorsun?
@@ -6541,7 +6540,8 @@ yara  -- wound, injury	__ askerin kolundaki yara yavaşça iyileşiyor.
 -üz  -- sadden, upset [accus]	__ bu haber beni çok üzdü.
 -zorlaştır  -- complicate, make difficult [accus]	__ karmaşık kurallar süreci zorlaştırıyor.
 -alış  -- get used to, accustom [dative]	__ soğuk havaya yavaşça alıştım.
--bayıl  -- adore [infatuation] [dative]	__ bu yemeğin tadına bayıldım.
+-bayıl  -- adore at sth [infatuation] [dative]	__ bu yemeğin tadına bayıldım.
+-bayıl  -- faint at sth [infatuation] [dative]	__ 
 -izin vermek  -- permit, allow [dative]	__ giriş yapmana izin verildi.
 -karar vermek  -- decide [dative]	__ tatile gitmeye karar verdik.
 -karış  -- interfere, meddle [dative]	__ başkasının işine asla karışmaz.
@@ -6604,4 +6604,20 @@ milliyetçilik  -- nationalism
 cumhuriyetçilik  -- republicanism
 
 zzzzzz_verzyon 2026-05-08-2
+alışkın  -- accustomed, used to [habituated state]	__ soğuk havaya alışkın değilim. kalabalığa alışkınım.
+alışık  -- familiar with [physical, sensory]	__ soğuk havaya alışık değilim. gözüm karanlığa alışık.
+araştırma  -- research
+tamamlama  -- completion
+insaatı  -- construction
+başkanlık  -- directorate, presidency, chairmanship
+fen  -- science
+daire  -- department	__ fen işleri dairesi başkanlığı.
+fen işleri  -- civil works	__ fen işleri dairesi başkanlığı.
+abonman  -- commuter subscription
+abonman ücreti  -- subscription fee
+abonman bileti  -- season ticket
+abonman sahibi  -- commuter
+-yükle  -- topup, top up	__ abonman yükleme. kontör yüklemek.
+-yükle  -- increase	__ fiyatlar: tam abonman 1900 tl, indirimli abonman 625 tl'ye yükselmiştir.
+
 
