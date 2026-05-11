@@ -6602,8 +6602,6 @@ laiklik  -- secularism
 halkçılık  -- populism
 milliyetçilik  -- nationalism
 cumhuriyetçilik  -- republicanism
-
-zzzzzz_verzyon 2026-05-08-2
 alışkın  -- accustomed, used to [habituated state]	__ soğuk havaya alışkın değilim. kalabalığa alışkınım.
 alışık  -- familiar with [physical, sensory]	__ soğuk havaya alışık değilim. gözüm karanlığa alışık.
 araştırma  -- research
@@ -6619,5 +6617,16 @@ abonman bileti  -- season ticket
 abonman sahibi  -- commuter
 -yükle  -- topup, top up	__ abonman yükleme. kontör yüklemek.
 -yükle  -- increase	__ fiyatlar: tam abonman 1900 tl, indirimli abonman 625 tl'ye yükselmiştir.
+iskele  -- pier, wharf, dock	__ eminönü iskelesi.
+aktar  -- herbalist
+aktarma  -- transfer, transshipment
+-aktar  -- transfer, transmit, transpose
+
+zzzzzz_verzyon 2026-05-11-2
+
+-say  -- esteem, respect	__ Sayın Yolcularımız.
+sürme iskele  -- sliding gangway pushed from dock to ship
+tad  -- taste, flavor, savor
+-tadını çıkarın  -- enjoy, savor	__ yolculuğun tadını çıkarın. tatilin tadını çıkarın.
 
 
