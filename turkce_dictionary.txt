@@ -428,7 +428,7 @@ bakar mısınız  -- call for waiter service
 -bak {bakar}  -- look, check on, look at [dativ], look after [dativ]	__ istanbul - denizli arası otobüs fiyatına bakayım.
 bakıcı  -- babysitter
 bakıcı  -- caretaker	__ at bakıcı.
-bakım  -- maintenance, care
+bakım  -- maintenance, care	__ yol bakım araçı.
 bakım  -- nurse
 bakımsız  -- careless
 bakım  -- well-groomed, taking care of self	__ bakımlı biriyim.
@@ -1240,7 +1240,9 @@ dokuz  -- nine, 9
 -dolan  -- stroll, wander about, hang around, ramble	__ biraz dolandıktan sonra…
 -dolan  -- tangle, coil, twine
 dolar  -- dollar
--dola  -- rotate, reel up, twist, wind
+-dola  -- rotate, twist 
+-dola  -- reel up, wind up, wrap around
+-dola  -- bypass
 -dolaş  -- circulate, flow, go around
 dolaşım  -- roaming  (tech)
 -dolaş  -- jaunt, stroll, walk, hike, wander, roam	__ dolaşırken onu gördüm.
@@ -1718,7 +1720,7 @@ gibilerin  -- people like you	__
 gibi  -- like, similar to [postposition]
 gibi  -- like [in compound, adds more figurative, colloqual nuance]	__ yani gibi, buraya gitmek istiyorum.
 gıcık  -- annoying, snappish
-gıda  -- food, diet, nutrition
+gıda  -- food, diet, nutrition	__ gıdada israfa dur de.
 -gidebilir  -- can go
 giden yolcu  -- departure
 -gidil {gidilir}  -- go [impersonal]
@@ -2278,7 +2280,8 @@ i̇spanya  -- spain [country]
 i̇spanyolca  -- spain [language]
 i̇spanyol  -- spain [people]
 ispirto  -- spirits, alcohol
-israf  -- waste
+israf  -- waste	__ gıdada israfa dur de.
+-israf etmek  -- waste sth	__ istanbul'da her yıl binlerce ton gıda israf ediliyor.
 i̇srailce  -- israel [language]
 i̇srail  -- israel [country]
 i̇srailli  -- israel [people]
@@ -2573,7 +2576,7 @@ kere  -- time, occurrence	__ ayda bir kere de sinemaya gidiyoruz. iki kere üç,
 kerhane  -- brothel	__ kerhanede koca arayanlar uzak dursun.
 kertenkele  -- lizard
 -kes  -- cut, chop, carve	__
--keşfet  -- detect, discover, explore, scout	__ türkiye'yi keşfet.
+-keşfet  -- detect, discover, explore, scout	__ türkiye'yi keşfet. projeyi keşfet.
 -kesil  -- is cut	__ bütün mahallenin interneti kesilmiş.
 kesin  -- definite, certain
 kesin değil  -- indefinite, not certain
@@ -3411,7 +3414,7 @@ o zaman  -- then, so, in that case, at that time	__ o zaman dans etmemiz lazım.
 özgür  -- free
 özgür  -- free, independent, liberty	__ mavi kadar özgür, siyah kadar yalnız.
 özgürlük  -- freedom	__ özgürluk yok. hak ve özgürlüklerimiz.
--özle  -- miss sby sth, long for, yearn	__ bebeğim bebeğin seni özledi. seni çok özledim seviyorum.
+-özle  -- miss sby sth, long for, yearn [accus]	__ bebeğim bebeğin seni özledi. seni çok özledim seviyorum.
 özür  -- apology, excuse, pardon, pretence, pretense, pretext
 -özür dilemek  -- apologize, ask pardon, make amends, make an excuse [ablative]	__ o senden özür dileyince ne yaptın? bunun için özür dilerim.
 özür dilerim  -- i'm sorry  (expr)
@@ -6621,12 +6624,45 @@ iskele  -- pier, wharf, dock	__ eminönü iskelesi.
 aktar  -- herbalist
 aktarma  -- transfer, transshipment
 -aktar  -- transfer, transmit, transpose
-
-zzzzzz_verzyon 2026-05-11-2
-
--say  -- esteem, respect	__ Sayın Yolcularımız.
+-say  -- esteem, respect	__ sayın yolcularımız. (our esteemed passengers)
 sürme iskele  -- sliding gangway pushed from dock to ship
 tad  -- taste, flavor, savor
 -tadını çıkarın  -- enjoy, savor	__ yolculuğun tadını çıkarın. tatilin tadını çıkarın.
+ticaret odasi  -- chamber of commerce
+nesil  -- generation, breed	__ gelecek nesillere daha yaşanabilir bir dünya bırakmak için.
+nesil  -- descent, posterity, lineage
+istatistik  -- statistic	__ proje istatistikleri.
+kapsam  -- scope, extent, content	__ proje kapsamı.
+doğrudan hedef  -- direct target
+dolaylı hedef  -- indirect target
+-dola  -- wrap, wind, bypass	__ ipi makaraya dola.
+doğrudan  -- direct, explicit	__ doğrudan hedef
+dolay  -- surroundings, circumference	__ şehir dolaylarında
+dolaylı  -- indirect, roundabout	__ dolaylı hedef
+ilerisi sende  -- rest is up to you
+-kaydol  -- register, sign up  (tech)
+-kilo vermek  -- lose weight
+kasırga  -- hurricane, cyclone, typhoon
+hortum  -- tornado
+tayfun  -- typhoon	__ tayfun yaklaşıyor.
+kasırga  -- hurricane, cyclone	__ kasırga kıyıya vurdu.
+siklon  -- cyclone    (tech)	alçak basınç siklonu
+hortum  -- tornado, waterspout	__ denizde hortum çıktı.
+tufan  -- flood, deluge  [biblical]	__ nuh tufanı
+coşkunluk  -- exuberance, fervor  [emotion]	__ gençlik coşkunluğu
+fırtına  -- storm, tempest	__ fırtına öncesi sessizlik
+hücum  -- attack, assault	__ kaleye hücum ettiler.
+kargaşa  -- chaos, turmoil	__ sokakta kargaşa var.
+öfke  -- anger, rage	__ öfke ile kalkan zararla oturur.
+bora  -- squall, gale	__ sert bir bora esti.
+sağanak  -- downpour, heavy rain	__ sağanak yağış uyarısı
+anasayfa  -- homepage  [web]  (tech)	__ anasayfaya dön.
+hikâye  -- story, narrative	__ hikâyemiz
+paydaş  -- stakeholder, partner    (biz)	__ paydaşlar
+afiş  -- poster, placard	__ afiş çalışmaları
+eğitim  -- training, education	__ eğitimler
+etkinlik  -- activity, event	__ etkinlikler
+basın  -- press, media	__ basında biz
 
+zzzzzz_verzyon 2026-05-14-1
 
