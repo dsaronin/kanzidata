@@ -1263,8 +1263,7 @@ domates  -- tomato
 domuz  -- pig
 donanma  -- navy, fleet, armada
 -dön {döner}  -- turn; to return, go back to [dativ]
-dondurma  -- ice cream (fd)
-dondurma  -- ice cream  (fd)	__ dondurma arabası
+dondurma  -- ice cream  (fd)	__ dondurma arabası. çilekli dondurmayı yiyorum.
 dönme  -- return, rotation, turn, spin; rotasyon, dönüş, çevirme
 -dön  -- turn, return	__ ne zaman döneceksin türkiye'ye? bir saat sonra döneceğim.
 -dön  -- spin	__ başım dönmeye başlıyor.
@@ -1311,6 +1310,7 @@ dürbün  -- binoculars
 -durdurabilmek  -- be able to stop
 -durdur  -- stop sth
 -dur {duru}  -- stand, stop, idle	__ boş durmam yatakta.
+-dur  -- wait, hold on	__ dur, getiriyorum hemen.
 durum  -- case, occasion	__ bu acil bir durum.
 durum  -- situation, issue	__ durum kontrol altında.
 durumunda  -- in case  (conj)
@@ -2821,6 +2821,7 @@ kumpir  -- baked potato  (fd)
 kumsal  -- beach
 kum  -- sand
 kupa  -- mug
+kupa  -- tophy	__ feyyaz gibi kupaya doy.
 küpe  -- earrings
 kupon  -- coupon
 kuraklık  -- drought
@@ -3910,7 +3911,7 @@ sınıf  -- classroom
 sınırı  -- limit
 sinirli  -- angry
 sınır  -- limit, border, boundary	__ sınırsız pasifler nerde?
-sınirsiz  -- limitless	__ sınirsiz sevisirim.
+sınırsız  -- limitless	__ sınırsız sevisirim.
 sipariş durumu  -- order status
 sipariş  -- order, commission	__ siparişine 50 tl indirim.
 -sipariş vermek  -- order sth	__ yemek siparişi vermek.
@@ -5932,7 +5933,6 @@ yavrum  -- my little one
 -sürükle  -- drag, nudge
 dönem  -- semester
 hafta sonları  -- weekends
--tatile çıkmek  -- take vacation
 -yemek yimek  -- have dinner
 bugünlerde  -- lately, these days
 -ödev yapmak  -- do homework
@@ -6665,4 +6665,12 @@ etkinlik  -- activity, event	__ etkinlikler
 basın  -- press, media	__ basında biz
 
 zzzzzz_verzyon 2026-05-14-1
+şehre  -- taz: şehir [locative] city
+bir iki x  -- some x	__ bir iki kitap.
+öptüm  -- kiss
+-davet etmek  -- invite [accus]
+vatan  -- motherland, homeland, country	__ işçilerin vatanı yoktur.
+ürküntü  -- panic, fright
+-üzüntü vermek  -- cause distress
+-üzüntü vermek  -- grieve
 
