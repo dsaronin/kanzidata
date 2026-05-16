@@ -537,7 +537,7 @@ beden  -- body structure, frame
 beden  -- body; vücut	__ beden dilini öğreniyorum.
 beden dilin  -- body language
 beden  -- size, measurement, clothing size	__ peki kaç beden giyiyorsun?
--beğen {beğenir}  -- like, approve, enjoy sth	__ fotolarimi beğendin mi?
+-beğen {beğenir}  -- like, approve, enjoy sth  [accus]	__ fotolarimi beğendin mi?
 beğendi  -- like [sth]	__ haberleri beğendin mi?
 beğen  -- like sth
 bekar  -- single	__ bekarım.
@@ -913,7 +913,7 @@ cep  -- pocket
 cep telefonu  -- cell phone
 cesaret  -- courage, bravery, boldness, daring, fearlessness, fortitude
 -cesaret etmek  -- dare, venture
-çeşit  -- type
+çeşit  -- type	__ başka çeşit var mı?
 çeşit  -- variety, sort, range, assortment	__ biçim çeşitlerini kullanır.
 cesur  -- brave  [<> korkak]	__
 cevabı  -- answer	__ benim cevabım yanlış, onlarınki doğru.
@@ -2114,8 +2114,8 @@ ifade  -- expression, phrase, clause, term, proposition	__ ağlamak bir keder if
 ıhlamur  -- linden (fd)
 -ihmal etmek  -- neglect, forget, ignore, disregard	__ bol bol eğlen ve türkçe çalışmayı ihmal etme.
 ihtiyaç  -- deprivation, lack, penury	__
-ihtiyaç  -- exigency, necessity, need, requirement, demand	__ kaliforniya'da yağmura ihtiyacımız var; on yıl kuraklık yaşadık.
-ihtiyaç  -- need, want, necessity, requirement	__ bunun için de birinin yardimina ihtiyaçım.
+ihtiyaç  -- exigency, necessity, requirement, demand  [dative]	__ kaliforniya'da yağmura ihtiyacımız var; on yıl kuraklık yaşadık.
+ihtiyaç  -- need, want, necessity, requirement  [dative]	__ bir şeye ihtiyacı var mı? kaleme ihtiyacım var. bunun için de birinin yardimina ihtiyaçım.
 -ihtiyarla {ihtiyarlar}  -- grow old
 ikame  -- substitution	__ öğrenci, ikameyi kullanarak cümleyi dönüştürür ve söyler.
 -ikamet etmek  -- reside in [a place]
@@ -3023,7 +3023,7 @@ memur  -- civil svt, ofc
 menemen  -- bell pepper  (fd)
 meni  -- cum, sperm	__ benim meni yutar mısın?
 merak  -- curiosity, interest, hobby
--merak etmek  -- be curious, wonder [about sth]	__ bacak arani merak ediyorum. sen hiç merak etme. hep merak etmişimdir.
+-merak etmek  -- be curious, wonder [about sth; dative]	__ bacak arani merak ediyorum. sen hiç merak etme. hep merak etmişimdir.
 merak  -- fad, fancy, whim
 meraklıler  -- aficionados, freaks	__ büyük yarak meraklıları uzak dursun.
 merak  -- worry, anxiety, disquiet
@@ -4542,7 +4542,7 @@ uzak  -- far [away]; [<> yakın]	__ benim evim metro istasyonuna uzak.
 üzerine  -- above, upon, over, about
 üzgün  -- sad, upset, sorry
 üzücü  -- sad, upset
--üzül  -- sorrow, trouble, sadden, feel bad about, regret	__ acını duyduğuma üzüldüm. senin için çok üzülühyorum.
+-üzül  -- sorrow, trouble, sadden, feel bad about, regret [dative]	__ acını duyduğuma üzüldüm. senin için çok üzülühyorum.
 üzüm  -- grape  (fd)
 uzun  -- long, tall; [<> kısa]	__ bu çok uzun, yazman lazım. batuhan uzun boylu.
 uzun süreli ilişki  -- longterm relationship	__ uzun süreli bir ilişki arıyorum.
@@ -6663,8 +6663,6 @@ afiş  -- poster, placard	__ afiş çalışmaları
 eğitim  -- training, education	__ eğitimler
 etkinlik  -- activity, event	__ etkinlikler
 basın  -- press, media	__ basında biz
-
-zzzzzz_verzyon 2026-05-14-1
 şehre  -- taz: şehir [locative] city
 bir iki x  -- some x	__ bir iki kitap.
 öptüm  -- kiss
@@ -6673,4 +6671,11 @@ vatan  -- motherland, homeland, country	__ işçilerin vatanı yoktur.
 ürküntü  -- panic, fright
 -üzüntü vermek  -- cause distress
 -üzüntü vermek  -- grieve
+-geri vermek  -- return sth, give sth back, restore sth	__ bana geri veriyor.
+-ihtiyacı olmak  -- require sth, need
+öfke  -- anger [dative]	__ ona öfke 
+cevap  -- answer [dative]	__ suale cevap
+nefret  -- hatred [ablat]	__ kedilerden nefret
+
+zzzzzz_verzyon 2026-05-16-1
 
