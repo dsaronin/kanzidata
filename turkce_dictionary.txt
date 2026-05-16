@@ -6677,5 +6677,16 @@ vatan  -- motherland, homeland, country	__ işçilerin vatanı yoktur.
 cevap  -- answer [dative]	__ suale cevap
 nefret  -- hatred [ablat]	__ kedilerden nefret
 
-zzzzzz_verzyon 2026-05-16-1
+zzzzzz_verzyon 2026-05-16-2
+-sonuçlandır  -- accomplish, conclude, finalize
+varsayım  -- assumption
+bozkır  -- steppe, prairie
+devrik cümle  -- inverted sentence
+ceza  -- fine, penalty
+ceza  -- punishment
+bölge  -- area, space	__ 8'li vagon bölgesi.
+ritim  -- rhythm	__ dünyanın ritmini harbiye'de yakala.
+-uzaya çıkmak  -- go to space
+uzay  -- space, cosmos
+-uzaya çıkmak  -- experience ultimate comfort, extreme speed, high quality, wow feature (idm)
 
