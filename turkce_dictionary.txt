@@ -130,7 +130,7 @@ aktör  -- actor
 ak  -- white, pure, honest, unstained [turkic] [<> kara]	__ akdeniz.
 ak saçlı  -- white-haired/venerable
 alakalı  -- relevant; uygun, konu ile ilgili	__ eski türkçe ke edatıyla alakalı olması muhtemel ise.
--al {alır}  -- buy, possess
+-al {alır}  -- buy, possess  [accus]	__ şunu alacağım.
 -al {alır}  -- get, take, pick up
 -al  -- take it in [dative]	__ ağzıma almak istiom.
 alçak  -- low
@@ -1036,7 +1036,6 @@ cumhuriyeti  -- republic
 cümle  -- sentence
 çünkü  -- because	__ gelmedim çünkü seni sevmiyorum.
 çürük yumurta gibi kokacak.  -- it will smell like rotten eggs.
-cüzdan  -- wallet
 cüzdan  -- wallet, purse
 da [de] -- too, also, as well	__ ya bugün gel ya da yarın.
 dadı  -- babysitter
@@ -1945,7 +1944,7 @@ hasta  -- sick, ill, patient
 hastaca  -- sickly	__ hastaca bakıyor.
 hata  -- err, mistake	__ çok fazla hata yok.
 hatalı  -- faulty, false, inaccurate, incorrect, wrong, error	__ ya tom hatalıysa.
--hatırla {hatırlar}  -- recall, remember	__ cevabı hatırlayamadın. tam hatırlamıyorum yine de. hatırladım, hatırlamaz olur muyum peki?
+-hatırla {hatırlar}  -- recall, remember  [accus]	__ burayı hatırlıyorum. cevabı hatırlayamadın. tam hatırlamıyorum yine de. hatırladım, hatırlamaz olur muyum peki?
 -hatırlat {hatırlatır}  -- cause to remember
 hatır  -- respect, sake
 hava  -- air, weather	__ hava kapalı, hava güneşli
@@ -2115,7 +2114,8 @@ ifade  -- expression, phrase, clause, term, proposition	__ ağlamak bir keder if
 -ihmal etmek  -- neglect, forget, ignore, disregard	__ bol bol eğlen ve türkçe çalışmayı ihmal etme.
 ihtiyaç  -- deprivation, lack, penury	__
 ihtiyaç  -- exigency, necessity, requirement, demand  [dative]	__ kaliforniya'da yağmura ihtiyacımız var; on yıl kuraklık yaşadık.
-ihtiyaç  -- need, want, necessity, requirement  [dative]	__ bir şeye ihtiyacı var mı? kaleme ihtiyacım var. bunun için de birinin yardimina ihtiyaçım.
+ihtiyaç  -- need, want, necessity, requirement [personal lack, dependency] [dative]	__ bir şeye ihtiyacı var mı? kaleme ihtiyacım var. bunun için de birinin yardimina ihtiyaçım. yardıma ihtiyacım var.
+ihtiyaç  -- need, necessity [~hitaji]
 -ihtiyarla {ihtiyarlar}  -- grow old
 ikame  -- substitution	__ öğrenci, ikameyi kullanarak cümleyi dönüştürür ve söyler.
 -ikamet etmek  -- reside in [a place]
@@ -2808,7 +2808,7 @@ kullanım şekli  -- usage
 kullanım  -- usage	__ kullanım önerisi.
 kullanışlı  -- useful	__ kullanışlı ifadeler
 kullanış  -- usage, practice
--kullan  -- use	__ ben kitap kullanırım.
+-kullan  -- use sth [accus]	__ neyi kullanıyorsun? ben arabamı kullanırım.
 kul  -- slave, subject, worshiper
 kültürel  -- cultural
 kültürel miras  -- cultural heritage
@@ -2830,6 +2830,7 @@ kuraklık  -- drought, aridness	__ on yıl kuraklık yaşadık.
 kural  -- rule  (lgl)	__ dinleme kurallarını öğreniyorum.
 kurbağa  -- frog
 kurban  -- victim	__ hiç kurban yok.
+kurban  -- martyr, prey, patsy
 -kur  -- build up, line up, put together	__ cümle kuruyorum.
 küre  -- globe, sphere, orb, ball
 -kürek çekmek  -- row [pull on oar]	__ akıntıya karşı kürek çekersin.
@@ -2863,7 +2864,7 @@ kusura bakma  -- sorry, excuse me, forgive me	__
 kusura bakmayın  -- sorry, excuse me, forgive me	__ kusura bakma uyuyordum.
 kusur  -- mistake
 -kus  -- vomit, spew	__ ne zaman kusmaya başladın?
--kutla  -- celebrate, observe, commemorate, congratulate	__
+-kutla  -- celebrate, observe, commemorate, congratulate  [accus]	__ bayramı hep birlikte kutluyoruz.
 kutlu  -- happy, blessed	__ bayramın kutlu olsun.
 kutlu olsun  -- congratulations
 kutu  -- box
@@ -3883,7 +3884,7 @@ sıkıntı  -- bother, annoyance
 sıkıntısız  -- no hassle, no bother (slang)
 sıkıntı  -- trouble, distress, difficulty, adversity	__ sıkıntı yok.
 sıkı  -- strict, tight, hard, stringent, rigorous, firm	__ daha sıkı çalışmamız gerekiyor.
-şıklık  -- elegance, style, chic, finery; zarafet, tarz, akıllılık
+şıklık  -- elegance, style, chic, finery; zarafet, tarz, akıllılık	__ yaza tüm şıklığınla.
 sıklık  -- frequency, density; frekans, sık sık olma; yoğunluk
 sıkma portakal  -- squeezed orange juice (fd)
 sık sık  -- frequently, often
@@ -4955,7 +4956,7 @@ zira  -- because	__ zira, bu çok önemli bir konu.
 zıt  -- opposite, adverse, reverse, conflicting; ters, karsı, çelişkili
 zıttı  -- taz karşıtı: opposite
 ziyade  -- rather/than  (conj)
--ziyaret etmek  -- visit	__ ayşe dedi ki, sen onu ziyaret etmişsin.
+-ziyaret etmek  -- visit  [accus]	__ ayşe dedi ki, sen onu ziyaret etmişsin.
 ziyaret  -- visit; visitation; call; stay; visiting	__ ağustos ayında istanbul'u ziyaret ettiğimde.
 ziynet  -- ornament, decoration
 zor  -- difficult, hard; [<> kolay]
@@ -5529,7 +5530,7 @@ prenses  -- princess, femboy  (slang)
 taşıt  -- vehicle, transport, conveyance
 bu arada  -- by the way
 ikram  -- treat, offering	__ can, jülide'ye ne ikram ediyor?
--ikram etmek  -- offer sby sth	__ can, jülide'ye ne ikram ediyor?
+-ikram etmek  -- offer to sby [dative]	__ can, jülide'ye ne ikram ediyor?
 akışına  -- go with the flow  (slang)
 keyif  -- enjoyment	__ keyif eğlence sohbet arkadaşlık randevu akışına
 randevu  -- dating
@@ -6666,7 +6667,7 @@ basın  -- press, media	__ basında biz
 şehre  -- taz: şehir [locative] city
 bir iki x  -- some x	__ bir iki kitap.
 öptüm  -- kiss
--davet etmek  -- invite [accus]
+-davet etmek  -- invite [accus]	__ bizi partiye davet ediyorlar.
 vatan  -- motherland, homeland, country	__ işçilerin vatanı yoktur.
 ürküntü  -- panic, fright
 -üzüntü vermek  -- cause distress
@@ -6676,8 +6677,6 @@ vatan  -- motherland, homeland, country	__ işçilerin vatanı yoktur.
 öfke  -- anger [dative]	__ ona öfke 
 cevap  -- answer [dative]	__ suale cevap
 nefret  -- hatred [ablat]	__ kedilerden nefret
-
-zzzzzz_verzyon 2026-05-16-2
 -sonuçlandır  -- accomplish, conclude, finalize
 varsayım  -- assumption
 bozkır  -- steppe, prairie
@@ -6689,4 +6688,24 @@ ritim  -- rhythm	__ dünyanın ritmini harbiye'de yakala.
 -uzaya çıkmak  -- go to space
 uzay  -- space, cosmos
 -uzaya çıkmak  -- experience ultimate comfort, extreme speed, high quality, wow feature (idm)
+hacet  -- need, necessity  [~haja]  (dated)	__ hacet yok.
+hacet yok  -- no need, not necessary	__ oraya kadar gitmene hacet yok, ben hallederim.
+-hacet gidermek  -- relieve oneself: go to toilet  (dated)
+gerek yok  -- no need to look
+hacet yeri  -- latrine, toilet  (dated)
+gerek  -- necessity, requirement [circumstances/situational necessity, protocol]	__ sizce yeni bir arabaya gerek var mı?
+şekerlik  -- sugar bowl
+avrupa birliği  -- european union, eu
+ab  -- taz: avrupa birliği
+talim  -- drill, exercise, training	__ bu bir talim değildir.
+talim  -- military drill, training
+noter  -- notary public
+tarafından  -- by  [post-position]	__ metro ist tarafından işletilmeyen rayli sistemler.
+-işletil  -- be operated	__ metro ist tarafından işletilmeyen rayli sistemler.
+şıkılaz  -- sexy
+yaza ait  -- summerlike
+paydaş  -- partner [shared sacrifice]
+kurban bayramı  -- eid al-adha holiday: the feast of sacrifice
+
+zzzzzz_verzyon 2026-05-17-1
 
