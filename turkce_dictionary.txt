@@ -4,7 +4,7 @@ abartı  -- exaggeration, hyperbole, overstatement
 abd  -- usa;  amerika birleşik devletleri
 abi  -- older brother
 abla  -- older sister
-abonelik  -- subscription	__ elektrik ve su aboneliklerini aldım.
+abonelik  -- subscription	__ elektrik ve su aboneliklerini aldım. aboneliğimi iptal ediyorum.
 -abone olun  -- subscribe to  (tech)	__ yeniliklerden haberdar olmak için bültenimize abone olun.
 abone  -- subscriber
 abrvtns  -- abbreviations  (slang)
@@ -2182,7 +2182,7 @@ inanç  -- belief
 -inandır  -- make sby believe, persuade	__ anlattıkları pek inandırmadı.
 inatçı  -- stubborn person	__ o inatçıdır.
 inat  -- determination, dogged, stubbornness, tenacity
--incele  -- analyze, investigate, probe,
+-incele  -- analyze, investigate, probe	__ doktor raporları inceliyor.
 -incele  -- examine, study, audit, check over, look into, observe, survey
 ince ünlüler  -- front-mouth vowels [e, i, ö,u"]
 inci kolye  -- pearl necklace
@@ -2220,7 +2220,7 @@ ipli  -- drawstring, corded; fitilli, bağlı	__ erkek beli ipli keten pantolon.
 ip  -- rope, string, cord, tether, halter	__ attığın ipiden tutup gezdiriyorum.
 ipsiz  -- stringless, cordless	__ başı boş ipsiz sapsızlar yazmasın.
 iptal  -- cancel
--iptal etmek  -- cancel  (tech)
+-iptal etmek  -- cancel  (tech)	__ aboneliğimi iptal ediyorum.
 -iptal etmek  -- cancel sth	__ seyahatimi iptal etmeliyim.
 irade gücü  -- willpower, strength of will
 irade  -- self control
@@ -2246,8 +2246,8 @@ iş  -- employment
 -işgal etmek  -- occupy
 işgal  -- occupation
 -iş gör  -- do work, have a job
-işık  -- light, lamp, gleam	__ işığın gözümü alıyor.
-işık  -- photo-
+ışık  -- light, lamp, gleam	__ ışığın gözümü alıyor.
+ışık  -- photo-
 isim  -- denomination
 isim {ismim}  -- name, first name, title, designation	__ ismin nedir?
 işim  -- my job
@@ -2440,7 +2440,7 @@ kapali  -- covered, roofed-over
 kapalı  -- muggy, murky
 kapalı  -- overcast, cloudy, skyless
 -kapat  -- close down, shut down
--kapat  -- switch off, turn off	__ kapatmam lazım şu an derse giriyorum.
+-kapat  -- switch off, turn off	__ kapatmam lazım şu an derse giriyorum. işığı kapatıyorum.
 kapıcı  -- doorkeeper, concierge
 kapı  -- door
 kapı kapı  -- door to door	__ kapı kapı istanbulu geziyorum.
@@ -2575,7 +2575,7 @@ kepçe  -- ladle
 kere  -- time, occurrence	__ ayda bir kere de sinemaya gidiyoruz. iki kere üç, altıya eşittir.
 kerhane  -- brothel	__ kerhanede koca arayanlar uzak dursun.
 kertenkele  -- lizard
--kes  -- cut, chop, carve	__
+-kes  -- cut, chop, carve	__ o pastayı kesiyor.
 -keşfet  -- detect, discover, explore, scout	__ türkiye'yi keşfet. projeyi keşfet.
 -kesil  -- is cut	__ bütün mahallenin interneti kesilmiş.
 kesin  -- definite, certain
@@ -6708,4 +6708,33 @@ paydaş  -- partner [shared sacrifice]
 kurban bayramı  -- eid al-adha holiday: the feast of sacrifice
 
 zzzzzz_verzyon 2026-05-17-1
+-dizi izlemek  -- watch tv series
+boş zamanlar  -- free time
+-baketbol oynamak  -- play basketball
+valla bilmiyor  -- i dont know
+kolonya  -- cologne	__ misafirlere kolonya ikram ediyorum.
+
+-dilek tutmak  -- make a wish	__ 
+-dilek dilemek  -- make a wish	__ bir dilek diliyorum.
+-el öpmek  -- kiss the hand	__ 
+-süsle  -- decorate, ornament	__ milli bayramlarda sokakları süslüyoruz.
+-uğurla  -- bid farewell	__ yolcuları uğurluyoruz.
+dini bayramlar  -- religious holidays	__ 
+milli bayramlar  -- national holidays	__ 
+gösteri  -- show, demo, display	__ çocuklar gösteride dans ediyorlar.
+harçlık  -- allowance	__ yaşlılar çocuklara harçlık veriyorlar.
+kartpostal  -- postcard	__ 
+mum  -- candle	__ mumları üflüyorum.
+geleneksel  -- traditional	__ çocuklar 23 nisan'da geleneksel kıyafetler giyiyorlar.
+yöresel  -- regional	__ yöresel yemekleri tadıyoruz.
+kolonya  -- cologne	__ 
+yıldönümü  -- anniversary	__ yıldönümünü kutluyoruz.
+-üfle  --  puff on, blow out sth	__ pastadaki bütün mumları üfleyemeyeceğim.
+-üfle	puff, blow on
+-aç  -- turn on [electrical device]	__ televizyonu açıyorum. işığı aç. suyu aç.
+coşkuyla  -- enthusiastically
+islami takvim  -- islamic calender
+hala  -- still
+-oruç tutmak  -- fast
+hep birlikte  -- all together
 
