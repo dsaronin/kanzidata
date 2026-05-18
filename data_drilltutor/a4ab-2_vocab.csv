@@ -1,0 +1,142 @@
+TOPIC,Türkçe,English
+a_abstract,ateş,fire
+a_abstract,bayram,holiday
+a_abstract,boş zamanlar,free time
+a_abstract,etkinlik,activity
+a_abstract,heyecanlı,excited
+a_abstract,şarkı,song
+a_abstract,sena,"glory, praise"
+a_abstract,sevgi,love
+a_abstract,tanri,god
+a_abstract,tatil,vacation
+a_abstract,yarışma,"competition, contest"
+a_adverb,asla,never
+a_adverb,bazen,sometimes
+a_adverb,bir sürü,a lot
+a_adverb,genellikle,usually
+a_adverb,her zaman,always
+a_adverb,hiçbir zaman,never
+a_adverb,nadiren,rarely
+a_adverb,sık sık,often
+a_food,maydanoz,parsley
+a_grammar,yönelme durumu,dative case  (gram)
+a_grammar,ayrilma durumu,ablative case  (gram)
+a_interrogative,kime,who [dative]
+a_interrogative,nereye,where [dative]
+a_interrogative,neye,what [dative]
+a_locative,İçeri,Inward
+a_locative,Dışarı,Outward
+a_locative,İç,Inside (Static)
+a_locative,Dış,Outside (Static)
+a_locative,Üst,Up-Top-On
+a_locative,Alt,Down-Bottom-Under
+a_locative,Yukarı,Above-Up
+a_locative,Aşağı,Below-Down
+a_locative,Ön,Front
+a_locative,Arka,Behind
+a_locative,Önce,Before (Time)
+a_locative,Sonra,After (Time)
+a_locative,İleri,Forward
+a_locative,Geri,Backward
+a_locative,Sağ,Right
+a_locative,Sol,Left
+a_locative,Uzak,Far
+a_locative,Yakın,Near
+a_locative,Yukarıya,Upward
+a_locative,Aşağıya,Downward
+a_locative,Sola,Leftward
+a_locative,Sağa,Rightward
+a_locative,Öne,Frontward
+a_locative,Arkaya,Rearward
+a_locative,İçeriye,Inward
+a_locative,Dışarıya,Outward
+a_locative,İleriye,Forward
+a_locative,Geriye,Backward
+a_nature,akarsu,stream
+a_nature,böcek,insect
+a_nature,gökkuşağı,rainbow
+a_nature,güneş,sun
+a_nature,gürültü,noise
+a_nature,kum,sand
+a_nature,orman,forest
+a_object,asansör,elevator
+a_object,çadar,tent
+a_object,cüzdan,wallet
+a_object,fatura,"bill, invoice"
+a_object,hap,pill
+a_object,köprü,bridge
+a_people,çalışlanler,employees
+a_people,süper kahraman,superhero
+a_phrase,valla bilmiyor,i dont know
+a_place,manav,green grocer
+a_place,tarihi yer,historical site
+a_travel,gezi,"tour, excursion"
+a_verb,-ağla,cry
+a_verb,-alış,"get used to, accustom [dative]"
+a_verb,-baketbol oynamak,play basketball
+a_verb,-bayıl,"adore, love [dative]"
+a_verb,-beğen,like sth
+a_verb,-besle,"feed, nurture, prosper"
+a_verb,-bık,be fed up with [ablat]
+a_verb,-çağır,"call, invite"
+a_verb,-çık,leave swh
+a_verb,-davet etmek,invite to
+a_verb,-devam etmek,continue [dative]
+a_verb,-dikkat etmek,be careful for sth
+a_verb,-dizi izlemek,watch tv series
+a_verb,-dön,return to
+a_verb,-dört gözle beklemek,"look forward to, anticipate [accus]"
+a_verb,-düşün,think
+a_verb,-enstrüman çalmak,play instrument
+a_verb,-fırlat,throw sth
+a_verb,-geç,pass by sth
+a_verb,-getir,bring sth
+a_verb,-getir,bring sth
+a_verb,-hatırla,remember
+a_verb,-hayvan beslemek,keep pets
+a_verb,-hisset,feel
+a_verb,-ikram etmek,offer
+a_verb,-iptal etmek,cancel
+a_verb,-iyi olmak,be good at [locat]
+a_verb,-izin vermek,"permit, allow [dative]"
+a_verb,-ısrar etmek,insist on [locat]
+a_verb,-ısrarcı olmak,be insistent [locat]
+a_verb,-kabul etmek,accept sth
+a_verb,-kaç,run from
+a_verb,-karar vermek,decide [dative]
+a_verb,-karış,"interfere, meddle [dative]"
+a_verb,-kayak yapmak,ski
+a_verb,-kolaylaştır,"simplify, facilitate [accus]"
+a_verb,-koş,run
+a_verb,-kötü olmak,be bad at [locat]
+a_verb,-kutla,celebrate at sth
+a_verb,-memnun olmak,be pleased with [ablat]
+a_verb,-merak etmek,wonder if
+a_verb,-nefret etmek,"hate, loathe [ablat]"
+a_verb,-odaklan,concentrate
+a_verb,-öner,"suggest, propose [accus]"
+a_verb,-öp,kiss
+a_verb,-özür dilmek,apologize fm sby
+a_verb,-planla,plan [accus]
+a_verb,-rahatlat,"comfort, soothe [accus]"
+a_verb,-rahatsız olmak,be disturbed by [ablat]
+a_verb,-reddet,"reject, refuse [accus]"
+a_verb,-rica etmek,request [accus]
+a_verb,-şarkı söylemek,singing
+a_verb,-şaşır,be surprised at [dative]
+a_verb,-sevin,"be glad, rejoice [dative]"
+a_verb,-şikayetçi olmak,complain about [ablat]
+a_verb,-sinirlen,get annoyed at [dative]
+a_verb,-sörf yapmak,surfing
+a_verb,-söz vermek,promise [dative]
+a_verb,-temizle,clean sth
+a_verb,-tercih etmek,prefer [accus]
+a_verb,-topla,tidy up
+a_verb,-unut,forget [accus]
+a_verb,-üşen,be too lazy for [dative]
+a_verb,-utan,be ashamed of [ablat]
+a_verb,-üz,"sadden, upset [accus]"
+a_verb,-üzül,"be sorry about, feel sad [dative]"
+a_verb,-vazgeç,give up on [ablat]
+a_verb,-ziyaret etmek,visit at swh
+a_verb,-zorlaştır,"complicate, make difficult [accus]"

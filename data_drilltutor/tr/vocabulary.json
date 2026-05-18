@@ -3652,6 +3652,14 @@
   "a_grammar": {
     "fc_data": [
       [
+        "yönelme durumu",
+        "dative case  (gram)"
+      ],
+      [
+        "ayrilma durumu",
+        "ablative case  (gram)"
+      ],
+      [
         "bağlaç",
         "conjunction"
       ],
@@ -4044,6 +4052,18 @@
   "a_interrogatives": {
     "fc_data": [
       [
+        "kime",
+        "who [dative]"
+      ],
+      [
+        "nereye",
+        "where [dative]"
+      ],
+      [
+        "neye",
+        "what [dative]"
+      ],
+      [
         "hangi gün?",
         "which day?"
       ],
@@ -4283,6 +4303,10 @@
   },
   "a_phrases": {
     "fc_data": [
+      [
+        "valla bilmiyor",
+        "i dont know"
+      ],
       [
         "bu yüzden",
         "that is why"
@@ -4543,6 +4567,14 @@
   },
   "a_place": {
     "fc_data": [
+      [
+        "manav",
+        "green grocer"
+      ],
+      [
+        "tarihi yer",
+        "historical site"
+      ],
       [
         "sahil",
         "beach"
@@ -4828,6 +4860,34 @@
   "a_nature": {
     "fc_data": [
       [
+        "akarsu",
+        "stream"
+      ],
+      [
+        "böcek",
+        "insect"
+      ],
+      [
+        "gökkuşağı",
+        "rainbow"
+      ],
+      [
+        "güneş",
+        "sun"
+      ],
+      [
+        "gürültü",
+        "noise"
+      ],
+      [
+        "kum",
+        "sand"
+      ],
+      [
+        "orman",
+        "forest"
+      ],
+      [
         "doğa",
         "nature"
       ],
@@ -4875,6 +4935,14 @@
   },
   "a_people": {
     "fc_data": [
+      [
+        "çalışlanler",
+        "employees"
+      ],
+      [
+        "süper kahraman",
+        "superhero"
+      ],
       [
         "all of us",
         "hepimiz"
@@ -5039,6 +5107,51 @@
   },
   "a_abstract": {
     "fc_data": [
+      [
+        "ateş",
+        "fire"
+      ],
+      [
+        "bayram",
+        "holiday"
+      ],
+      [
+        "boş zamanlar",
+        "free time"
+      ],
+      [
+        "etkinlik",
+        "activity"
+      ],
+      [
+        "heyecanlı",
+        "excited"
+      ],
+      [
+        "şarkı",
+        "song"
+      ],
+      [
+        "sena",
+        "glory, praise"
+      ],
+      [
+        "sevgi",
+        "love"
+      ],
+      [
+        "tanri",
+        "god"
+      ],
+      [
+        "tatil",
+        "vacation"
+      ],
+      [
+        "yarışma",
+        "competition, contest"
+      ],
+
       [
         "boşluk",
         "blank (area)"
@@ -5512,6 +5625,38 @@
   "a_adverb": {
     "fc_data": [
       [
+        "asla",
+        "never"
+      ],
+      [
+        "bazen",
+        "sometimes"
+      ],
+      [
+        "bir sürü",
+        "a lot"
+      ],
+      [
+        "genellikle",
+        "usually"
+      ],
+      [
+        "her zaman",
+        "always"
+      ],
+      [
+        "hiçbir zaman",
+        "never"
+      ],
+      [
+        "nadiren",
+        "rarely"
+      ],
+      [
+        "sık sık",
+        "often"
+      ],
+      [
         "orta",
         "middle"
       ],
@@ -5739,6 +5884,10 @@
   },
   "a_food": {
     "fc_data": [
+      [
+        "maydanoz",
+        "parsley"
+      ],
       [
         "kızartma",
         "fritter, fried food"
@@ -6296,6 +6445,118 @@
   "a_locate": {
     "fc_data": [
       [
+        "İçeri",
+        "Inward"
+      ],
+      [
+        "Dışarı",
+        "Outward"
+      ],
+      [
+        "İç",
+        "Inside (Static)"
+      ],
+      [
+        "Dış",
+        "Outside (Static)"
+      ],
+      [
+        "Üst",
+        "Up-Top-On"
+      ],
+      [
+        "Alt",
+        "Down-Bottom-Under"
+      ],
+      [
+        "Yukarı",
+        "Above-Up"
+      ],
+      [
+        "Aşağı",
+        "Below-Down"
+      ],
+      [
+        "Ön",
+        "Front"
+      ],
+      [
+        "Arka",
+        "Behind"
+      ],
+      [
+        "Önce",
+        "Before (Time)"
+      ],
+      [
+        "Sonra",
+        "After (Time)"
+      ],
+      [
+        "İleri",
+        "Forward"
+      ],
+      [
+        "Geri",
+        "Backward"
+      ],
+      [
+        "Sağ",
+        "Right"
+      ],
+      [
+        "Sol",
+        "Left"
+      ],
+      [
+        "Uzak",
+        "Far"
+      ],
+      [
+        "Yakın",
+        "Near"
+      ],
+      [
+        "Yukarıya",
+        "Upward"
+      ],
+      [
+        "Aşağıya",
+        "Downward"
+      ],
+      [
+        "Sola",
+        "Leftward"
+      ],
+      [
+        "Sağa",
+        "Rightward"
+      ],
+      [
+        "Öne",
+        "Frontward"
+      ],
+      [
+        "Arkaya",
+        "Rearward"
+      ],
+      [
+        "İçeriye",
+        "Inward"
+      ],
+      [
+        "Dışarıya",
+        "Outward"
+      ],
+      [
+        "İleriye",
+        "Forward"
+      ],
+      [
+        "Geriye",
+        "Backward"
+      ],
+      [
         "dışarı",
         "outside (to)"
       ],
@@ -6307,6 +6568,30 @@
   },
   "a_object": {
     "fc_data": [
+      [
+        "asansör",
+        "elevator"
+      ],
+      [
+        "çadar",
+        "tent"
+      ],
+      [
+        "cüzdan",
+        "wallet"
+      ],
+      [
+        "fatura",
+        "bill, invoice"
+      ],
+      [
+        "hap",
+        "pill"
+      ],
+      [
+        "köprü",
+        "bridge"
+      ],
       [
         "bilet",
         "ticket"
@@ -6364,6 +6649,10 @@
   "a_travel": {
     "fc_data": [
       [
+        "gezi",
+        "tour, excursion"
+      ],
+      [
         "okul servisi",
         "school bus"
       ],
@@ -6379,6 +6668,282 @@
   },
   "a_verb": {
     "fc_data": [
+      [
+        "-ağla",
+        "cry"
+      ],
+      [
+        "-alış",
+        "get used to, accustom [dative]"
+      ],
+      [
+        "-baketbol oynamak",
+        "play basketball"
+      ],
+      [
+        "-bayıl",
+        "adore, love [dative]"
+      ],
+      [
+        "-beğen",
+        "like sth"
+      ],
+      [
+        "-besle",
+        "feed, nurture, prosper"
+      ],
+      [
+        "-bık",
+        "be fed up with [ablat]"
+      ],
+      [
+        "-çağır",
+        "call, invite"
+      ],
+      [
+        "-çık",
+        "leave swh"
+      ],
+      [
+        "-davet etmek",
+        "invite to"
+      ],
+      [
+        "-devam etmek",
+        "continue [dative]"
+      ],
+      [
+        "-dikkat etmek",
+        "be careful for sth"
+      ],
+      [
+        "-dizi izlemek",
+        "watch tv series"
+      ],
+      [
+        "-dön",
+        "return to"
+      ],
+      [
+        "-dört gözle beklemek",
+        "look forward to, anticipate [accus]"
+      ],
+      [
+        "-düşün",
+        "think"
+      ],
+      [
+        "-enstrüman çalmak",
+        "play instrument"
+      ],
+      [
+        "-fırlat",
+        "throw sth"
+      ],
+      [
+        "-geç",
+        "pass by sth"
+      ],
+      [
+        "-getir",
+        "bring sth"
+      ],
+      [
+        "-getir",
+        "bring sth"
+      ],
+      [
+        "-hatırla",
+        "remember"
+      ],
+      [
+        "-hayvan beslemek",
+        "keep pets"
+      ],
+      [
+        "-hisset",
+        "feel"
+      ],
+      [
+        "-ikram etmek",
+        "offer"
+      ],
+      [
+        "-iptal etmek",
+        "cancel"
+      ],
+      [
+        "-iyi olmak",
+        "be good at [locat]"
+      ],
+      [
+        "-izin vermek",
+        "permit, allow [dative]"
+      ],
+      [
+        "-ısrar etmek",
+        "insist on [locat]"
+      ],
+      [
+        "-ısrarcı olmak",
+        "be insistent [locat]"
+      ],
+      [
+        "-kabul etmek",
+        "accept sth"
+      ],
+      [
+        "-kaç",
+        "run from"
+      ],
+      [
+        "-karar vermek",
+        "decide [dative]"
+      ],
+      [
+        "-karış",
+        "interfere, meddle [dative]"
+      ],
+      [
+        "-kayak yapmak",
+        "ski"
+      ],
+      [
+        "-kolaylaştır",
+        "simplify, facilitate [accus]"
+      ],
+      [
+        "-koş",
+        "run"
+      ],
+      [
+        "-kötü olmak",
+        "be bad at [locat]"
+      ],
+      [
+        "-kutla",
+        "celebrate at sth"
+      ],
+      [
+        "-memnun olmak",
+        "be pleased with [ablat]"
+      ],
+      [
+        "-merak etmek",
+        "wonder if"
+      ],
+      [
+        "-nefret etmek",
+        "hate, loathe [ablat]"
+      ],
+      [
+        "-odaklan",
+        "concentrate"
+      ],
+      [
+        "-öner",
+        "suggest, propose [accus]"
+      ],
+      [
+        "-öp",
+        "kiss"
+      ],
+      [
+        "-özür dilmek",
+        "apologize fm sby"
+      ],
+      [
+        "-planla",
+        "plan [accus]"
+      ],
+      [
+        "-rahatlat",
+        "comfort, soothe [accus]"
+      ],
+      [
+        "-rahatsız olmak",
+        "be disturbed by [ablat]"
+      ],
+      [
+        "-reddet",
+        "reject, refuse [accus]"
+      ],
+      [
+        "-rica etmek",
+        "request [accus]"
+      ],
+      [
+        "-şarkı söylemek",
+        "singing"
+      ],
+      [
+        "-şaşır",
+        "be surprised at [dative]"
+      ],
+      [
+        "-sevin",
+        "be glad, rejoice [dative]"
+      ],
+      [
+        "-şikayetçi olmak",
+        "complain about [ablat]"
+      ],
+      [
+        "-sinirlen",
+        "get annoyed at [dative]"
+      ],
+      [
+        "-sörf yapmak",
+        "surfing"
+      ],
+      [
+        "-söz vermek",
+        "promise [dative]"
+      ],
+      [
+        "-temizle",
+        "clean sth"
+      ],
+      [
+        "-tercih etmek",
+        "prefer [accus]"
+      ],
+      [
+        "-topla",
+        "tidy up"
+      ],
+      [
+        "-unut",
+        "forget [accus]"
+      ],
+      [
+        "-üşen",
+        "be too lazy for [dative]"
+      ],
+      [
+        "-utan",
+        "be ashamed of [ablat]"
+      ],
+      [
+        "-üz",
+        "sadden, upset [accus]"
+      ],
+      [
+        "-üzül",
+        "be sorry about, feel sad [dative]"
+      ],
+      [
+        "-vazgeç",
+        "give up on [ablat]"
+      ],
+      [
+        "-ziyaret etmek",
+        "visit at swh"
+      ],
+      [
+        "-zorlaştır",
+        "complicate, make difficult [accus]"
+      ],
       [
         "-bak",
         "look at, check on"
