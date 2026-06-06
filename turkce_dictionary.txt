@@ -5083,6 +5083,7 @@ sarhoş  -- drunk, intoxicated	_- çok sarhoşsun.
 ilacın yan etkileri  -- medicinal side effects
 yan etkiler  -- side effects [of sth]	__ 	ilacın yan etkileri
 iyelik  -- possession, ownership
+iyelik durumu  -- genitive case [possessive]  (gram)
 aitlik belirten isimler  -- possessive nouns  (gram)
 iyelik belirten sözcük  -- possessive  (gram)
 aitlik hissi  -- sense of belonging
@@ -5682,7 +5683,7 @@ konser  -- concert
 dağınık  -- messy
 baba tarafı  -- father's side
 anne tarafı  -- mother's side
-yenge  -- uncle's wife
+yenge  -- brother's / uncle's wife
 dergi  -- magazine
 takipçi  -- follower
 valiz  -- suitcase
@@ -5709,7 +5710,6 @@ tarak  -- comb, brush
 kek  -- cake, muffin
 barut  -- powder
 yat  -- yacht
-iyelik  -- possessive
 sahiplik ekleri  -- possessive suffix
 sahiplik sıftarı  -- possessive adjective
 tabiki de  -- of course	__ tabiki de soğuk.
@@ -5726,7 +5726,6 @@ tarak  -- comb, brush
 kek  -- cake, muffin
 barut  -- powder
 yat  -- yacht
-iyelik  -- possessive
 sahiplik ekleri  -- possessive suffix
 sahiplik sıftarı  -- possessive adjective
 tabiki de  -- of course	__ tabiki de soğuk.
@@ -6737,4 +6736,7 @@ islami takvim  -- islamic calender
 hala  -- still
 -oruç tutmak  -- fast
 hep birlikte  -- all together
+hocam  -- mr, miss, mrs, sir	__ teşekkür ederim hocam.
+saat ücreti  -- hourly rate
+işlem türü  -- transaction type, item
 
