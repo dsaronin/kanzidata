@@ -6739,4 +6739,7 @@ hep birlikte  -- all together
 hocam  -- mr, miss, mrs, sir	__ teşekkür ederim hocam.
 saat ücreti  -- hourly rate
 işlem türü  -- transaction type, item
+artık  -- anymore
+okuma parçasi  -- reading passage
+
 
