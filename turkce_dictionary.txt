@@ -5697,7 +5697,7 @@ sorma ya  -- don't ask
 -hallet  -- handle, manage
 bu yüzden  -- that is why
 heyecanlı  -- excited, thrilling
-kontenjan  -- quota
+kontenjan  -- quota	__ kamp için kontenjan dolu mu?
 kişilik  -- personality, identify, character
 sıcakkanlı  -- warmblooded
 antik  -- ancient
@@ -6706,7 +6706,7 @@ yaza ait  -- summerlike
 paydaş  -- partner [shared sacrifice]
 kurban bayramı  -- eid al-adha holiday: the feast of sacrifice
 
-zzzzzz_verzyon 2026-05-17-1
+zzzzzz_verzyon 2026-06-18-1
 -dizi izlemek  -- watch tv series
 boş zamanlar  -- free time
 -baketbol oynamak  -- play basketball
