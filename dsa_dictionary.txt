@@ -1853,8 +1853,9 @@ dari  {ma}  -- ceiling	__ dari lenye feni
 darubiniakisi  -- reflective telescope
 darubini  -- binoculars	__ 
 darubini  -- telescope	__ nilitazama kwa darubini.
--data  -- be stuck, jammed, bogged down	__ nilipita kwenye matope na kisha gari yangu ikadata.
+-data  -- be stuck, jammed, bogged down	__ kitasa kimedata. gia imedata. nilipita kwenye matope na kisha gari yangu ikadata.
 -data  -- crackle, snap, click	__ moto unadata jikoni.
+-data  -- go crazy, lose ones head, infatuate, become obsessed  (idm)	__ hakika unanidatisha na njozi tamu natamani nikufuate, aiseee.
 data  -- data, facts, information used for a purpose  (tech)
 data  -- data  (tech)
 data ghafi  -- raw data  (tech)
@@ -10700,7 +10701,7 @@ nyayo  -- footsteps, footprints	__
 nyayo  -- soles of feet	__ 
 -nyea  -- disappear, vanish	__ alienda kule na hatimaye kunyea.
 -nyea  -- shit [on, at, for]
-nyege  -- horny	__ najisikia nyege. nyege zimenipanda nilitamani kutombana na wewe.
+nyege  -- horny	__ najisikia nyege. nyege zimenipanda nilitamani kutombana na wewe. hakika njozi inanisisimua na kufanya nyege zijae ziwe nyingi.
 nyege ni kunyegezana  -- kindess must operate on a two-way basis	__ 
 -nyegeresha  -- arouse / stimulate sexual desire in sby	__ 
 -nyeka  -- be moist, wet	__ kwapa zake zimenyeka kwa jasho.
@@ -11909,8 +11910,9 @@ pwata  -- sound of plopping down on sth  (ono)	__ binti aliukomelea mlango na kw
 ~pweke  -- alone	__ nilijiona mpweke.
 -pwelea  -- go aground, go ashore	__ meli ilipwelea kwenye mwamba.
 -pwelea  -- lose voice, dry up; kauka	__ sauti yake imempwelea.
--pwelewa  -- be left by the water
+-pwelewa  -- be grounded, stuck, high-and-dry
 -pwelewa  -- be unknowing what to do; be confused
+-pwelewa  -- broke, financially stranded, out of options	__ siko vzr nimepwelewa kidogo.
 -pweteka  -- throw oneself down sitting, slump down	__ alijipweteka kwenye kochi kwa sababu ya uchovu.
 pweza  -- octopus, squid	__ 
 -pwita  -- pulse, throb	__ zabibu zilipwitisha pua yake.
