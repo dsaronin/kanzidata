@@ -291,7 +291,6 @@ ambatano {ma}  -- in conjunction, cooperatively; hali ya kufanya kazi pamoja au 
 -ambia  -- told, requested; arifu, juvya	__ fanya unavyoambiwa. [do as you're told]
 -ambika  -- meddle, intrude [in other's affairs]; jiingiza, dukiza	__ alijiambika mambo yasiyomhusu.
 -ambika  -- set a fish-trap; tengeneza mtego wa samaki kwa kutumia mabua au nyavu au wando au uzio ktk maji mafu; tega tando kwa kukita mazio
--ambika  -- set a fish-trap; weka chambo ktk mshipi wa kuvulia
 -ambika  -- singizia mtu habari au jambo lisilo kweli	__ kajiambika ushehe asiokuwa nao.
 -ambika  -- soak in water, drench; tia majini; bambika, loweka	__ watu wanaambika mtama wa togwa.
 -ambilika  -- be approachable; be ready to listen to advice	__ juma ni mtu ambaye haambiliki hasemezeki.
@@ -364,12 +363,12 @@ anatoa huduma kwa njia ya simu popote ulipo  -- he provides his service by phone
 -andaa  -- prepare, organize [sby, sth]	__ mbinu za kumuandaa kijana kuwa kiongozi.
 -andaa  -- prepare, ready, cater [food]	__ mama atatuandalia sisi chakula.
 -andama  -- begin, start; anza	__ kufunga kumeandama.
--andama	 -- begin, start, appear [moon/month]; anza, onekana kwa mwezi	__ ikiwa mwezi utaandama kesho, basi waislamu watafunga siku ya pili yake.
+-andama  -- begin, start, appear [moon/month]; anza, onekana kwa mwezi	__ ikiwa mwezi utaandama kesho, basi waislamu watafunga siku ya pili yake.
 -andama  -- follow in order [birth order, succession]; fuata, fuatia	__ juma alimwandama ali kuzaliwa.
 -andama  -- hound, harass, stalk, target, be on sby case; sakama, fuatilia vibaya	__ askari wananiandama. kwa nini juma anamwandama hadija?
--andamana	-- accompany / go together [entourage] (formal); fuatana pamoja, ongozana katika safari au shughuli	__ waziri aliandamana na ujumbe wa watu kumi.
--andamana	-- demonstrate against sth/sby; fanya maandamano ya kupinga	__ wafanyakazi waliandamana mpaka kwa waziri.
--andamana	-- march / go in procession [group of people]; tembea kwa kufuatana agh kwa watu wengi kuonyesha kuridhika au kutoridhika na jambo	__ watu wengi waliandamana kuunga mkono uamuzi wa serikali.
+-andamana  -- accompany / go together [entourage] (formal); fuatana pamoja, ongozana katika safari au shughuli	__ waziri aliandamana na ujumbe wa watu kumi.
+-andamana  -- demonstrate against sth/sby; fanya maandamano ya kupinga	__ wafanyakazi waliandamana mpaka kwa waziri.
+-andamana  -- march / go in procession [group of people]; tembea kwa kufuatana agh kwa watu wengi kuonyesha kuridhika au kutoridhika na jambo	__ watu wengi waliandamana kuunga mkono uamuzi wa serikali.
 ~andamizi  -- senior [sth]; -a ngazi ya juu	__ mhadhiri mwandamizi [senior lecturer].
 ~andamizi  -- tending to follow the next in order; -enye kufuata	__ 
 -andamwa [na fahali]  -- being chased [by a bull]
@@ -444,8 +443,7 @@ antibiotiki  -- antibiotic	__
 anuai  -- various; ya aina mbalimbali; anuwai	__ dakika 120 za uchambuzi, makala na mijadala anuai.
 -anua  -- take away from sun, rain sth	__ umeanua nguo zako?
 anuwai  -- miscellaneous  (biz)
-anuwai  -- multiple; aina aina, tofauti tofauti	__ wanadamu walianza kujenga nyumba anuwai.
-anuwai  -- multiple	__ kwa sababu ya kuwepo malighafi anuwai.
+anuwai  -- multiple; aina aina, tofauti tofauti	__ wanadamu walianza kujenga nyumba anuwai. kwa sababu ya kuwepo malighafi anuwai.
 anuwai  -- various; ya aina mbalimbali; anuai	__ dakika 120 za uchambuzi, makala na mijadala anuai.
 anwani  -- address  (tech)
 anwani-IP badilifu  -- dynamic ip-address  (tech)
@@ -810,7 +808,6 @@ baraza  -- council	__
 Baraza Kuu la Umoja wa Mataifa  -- UN General Assembly
 baraza la mahakimu  -- assembly of judges	__ 
 baraza la mapinduzi  -- revolutionary council
-baraza la mapinduzi  -- revolutionary council
 baraza la mawakili  -- assembly of legislators	__ 
 baraza la mawaziri  -- assembly of ministers	__ 
 Baraza la Usalama la Umoja wa Mataifa  -- UN Security Council
@@ -853,8 +850,7 @@ bati  {ma}  -- corrugated iron roofing	__ paa la mabati
 -batua  -- waddle, wobble	__ mtoto mdogo yule anabatuabatua.
 batuli  -- virgin girl; binti bikra
 baudi  -- baud  (tech)
-baunsa  {ma} [a-wa]  -- bouncer [at a club]	__ ndani ya boksi, mabaunsa kila kona
-baunsa  {ma} [a-wa]  -- bouncer [at club]
+baunsa  {ma} [a-wa]  -- bouncer [at club]	__ ndani ya boksi, mabaunsa kila kona
 bawaba  -- hinge	__ 
 bawabu  -- doorkeeper, usher	__ nilipata kibarua cha bawabu siku tatu kila wiki.
 bawa  {ma}  -- wing [of bird, plane]	__ mabawa wings
@@ -1279,7 +1275,6 @@ chagizo  -- insistence, arm twisting, annoyance; kero, usumbugu, shinikizo	__ am
 chaguo  {ma}  -- option  (tech)
 chaguo-msingi  -- default  (tech)
 chaguo za wasanidi  -- developer options  (tech)
-chaguo za wasanidi  -- developer options  (tech)
 ~chaguzi  -- fastidious, choosy, picky	__ mtu mchaguzi.
 chai angaa  -- weak tea; hafifu	__ 
 chai ya mkandaa  -- tea without milk, black tea; chai kavu  (idm)
@@ -1477,7 +1472,6 @@ chatini  -- chutney	__
 chatu  -- python; aina ya nyoka mkubwa na mneno anayeua kwa kujivingirisha kwenye mwili wa windo lake.
 chauchau  -- bribe; hongo, rushwa, chai  (slang)	__ hatoi chauchau, wanamuundia kesi ya kuwa mlevi.
 chavua  -- pollen
-chavua  -- pollen	__ 
 chawa  -- louse	__ 
 -cha  -- worship, fear, be scared, in awe of [God]; hofu, ogopa; abudu	__ mcha Mungu si mtovu. ukicha kusemwa, hutatenda jambo. [if you're afraid of what people say, you'll never do anything]
 chaza  [a-wa]  -- oyster
@@ -2203,8 +2197,7 @@ doda  -- great callmness; utulivu
 -dodosa  -- interview, cross-examine, interrogate	__ alijaribu kunidodosa katika mambo yasiyomhusu.
 dodosa  -- orodha ya maswaili ya utafiti ambayo mtafiti atamuuliza mtafitiwa kwa mdomo: kidadisi
 -dodosa  -- scrape, grate	__ 
--doea  -- scrounge, sponge off of sby	__ 
--doea  -- scrounge, sponge off of sby	__ hudoea chakula sikuzote kwa rafiki zake.
+-doea  -- scrounge, sponge off of sby  (slang)	__ hudoea chakula sikuzote kwa rafiki zake.
 -doea  -- spy, scout, snoop, meddle	__ nilimfukuza nyumbani kwa vile anapenda kudoea mambo ya watu.
 -doea  -- use cunning to get sth fm sby; fanya hila za kutaka upewe chakula au kitu kingine kwa watu; bugta, denda, doya, pandia, rombeza, dusa	__ 
 doedoe la usingizi  -- kusema maneno unapolala
@@ -2553,8 +2546,7 @@ fahari  -- pride; prestige [honor, majesty, dignity] [<> kiburi]; kuvutia, hali 
 fahuwa  -- all the same, it makes no difference  (conj)	__ akija asije, kwangu fahuwa.
 faida ghafi  -- gross margin  (biz)
 faida halisi  -- net margin  (biz)
-faida  -- profit	__ faida kubwa zaidi ya tarakilishi ni ...
-faida  -- profit; pato libakialo baada ya kuondoa gharama za kufanya biashara kv: ununuzi na usafirishaji.; faida, tijara, kivuno, chumo, ziada  (biz)
+faida  -- profit; pato libakialo baada ya kuondoa gharama za kufanya biashara kv: ununuzi na usafirishaji.; faida, tijara, kivuno, chumo, ziada  (biz)	__ faida kubwa zaidi ya tarakilishi ni ...
 faida ya uuzaji  -- gross margin on sales  (biz)
 -faidi  -- be pleased, happy	__ nilifaidi mno na mazungumzo yake.
 -faidika  -- profit, benefit from	__ utafaidika na mambo mengi
@@ -2866,7 +2858,6 @@ fokasi  -- focus
 -foka  -- spurt out, gush out [water]; toka maji kwa nvuvu kv ktk chemchemi au tundu ktk mashua; bubujika, buguika	__ maji yalikuwa yanafoka kwenye bomba lililopasuka.
 -fokea  -- yell at sby angerly	__ alinifokea burebure. askari aliwafokea huku akirudi nyuma na hapohapo.
 foko  -- filled to the brim, top; tele, fukuchi	_- nilijaza maji foko kwenye ndoo.
-folda  -- folder  (tech)
 folda  -- folder  (tech)
 foleni  -- queue {n}  (tech)
 foleni ya magari  -- queue of cars	__ 
@@ -3193,8 +3184,7 @@ fusuli  -- totality, detailed, fullness	__ shahidi alitoa maelezo yake mahakaman
 -futa ukungu  -- wipe off dampness	__ nilifuta ukungu uliotuama kwenye kioo cha dirisha.
 -futia  -- jump on sby suddenly	__ mwizi alimfutia msafiri na kumwibia mkoba wake.
 -futika futi  -- lock sth securely  (ono)	__ 
--futika  -- hide, disappear, be erased; insert or tuck	__ sasa uwezekano huo ulikuwa umefutika kabisa
--futika  -- hide, disappear, be erased; put in pocket/wallet, insert/tuck	__ alizifutika pesa zake kibindoni. maandishi haya hayafutiki.
+-futika  -- hide, disappear, be erased; put in pocket/wallet, insert/tuck	__ alizifutika pesa zake kibindoni. maandishi haya hayafutiki. sasa uwezekano huo ulikuwa umefutika kabisa
 futikamba  -- tape measure
 futike  -- embedded  (tech)
 -futua  -- undelete  (tech)
@@ -3293,7 +3283,6 @@ gazi  -- groggy, out of it, [effects of anesthesia]	__ bado ni gazi ila nimewekw
 -gea macho  -- glance, glimpse
 -gea  -- throw away, discard; tupa	__ mtoto alikigea kishada chake.
 gea  -- ujanja, unafiki
-gegedu  {ma}  -- cartilage; tishu
 gegedu  {ma}  -- cartilage; tishu  (med)
 gegenu  {ma}  -- soldier termite
 gegereka  {ma}  -- crustacean
@@ -3318,7 +3307,6 @@ gere  -- envy, jealousy; wivu; kijicho	__
 -geresha  -- deceive, con, deride	__ alijaribu kuigeresha ili nikubali.
 -geresha  -- deceive, con; deride	__ yeye hunigeresha mara kwa mara ninapomdai pesa zangu.
 gereza  -- prison, jail	__ gerezani alikuwa akivunja mawe.
-gesi asilia  -- natural gas
 gesi asilia  -- natural gas
 gesi chafuzi  -- CO2? emissions
 gesi  -- gas  (sci)
@@ -3391,7 +3379,6 @@ ghili  -- store  (tech)
 ghorofa  -- floor of building	__ 
 ghuba  -- bay, gulf	__ ghuba ya Mexico
 ghubari  {ma}  -- nimbus, raincloud	__ 
-ghulamu  [a-wa]  -- young man
 ghulamu  [a-wa]  -- young man
 -ghumiwa  -- be astounded, dumbfounded	__ nilighumiwa nilipomwona kijana mmoja wa kiume kavaa nguo za kike.
 -ghumiwa  -- faint, pass out, lose consciousness	__ alisimama sana juani na hatimaye, akaghumiwa.
@@ -3483,8 +3470,7 @@ govi  -- foreskin, prepuce; uncircumcized penis
 govi mboo  -- foreskin  (arch)
 -gozi gozi  -- disrupt habit; kumzibia riziki mtu  (slang)
 gozi  {ma}  -- soccer
--gua  -- peel, skin, strip; ambua, menya, ondoa maganda	__ aliligua chungwa kwa kutumia kisu kikali.
--gua  -- peel, skin, strip	__ mkuu wa jeshi akagua kikosi chake kila asubuhi.
+-gua  -- peel, skin, strip; ambua, menya, ondoa maganda	__ aliligua chungwa kwa kutumia kisu kikali. mkuu wa jeshi akagua kikosi chake kila asubuhi.
 gubadhi  -- thong	__ 
 guberi  {adv}  -- lecherous, adulterous, lustful; fisadi	__ yeye ni guberi kwelikweli.
 guberi  {ma} [a-wa]  -- colonizer, imperialist; beberu, mkoloni
@@ -3843,8 +3829,8 @@ hari  -- hotness, heat; jasho, joto, mwako, fukuto
 harija  -- endless unfounded arguments; majadaliano	__ kijana yule ana harija sana.
 harija  -- expenditure, expense; matumizi	__ harija yake ya nyumbani imeongezeka siku hizi.
 -hariji  -- expend, disburse, spend; fharimu, tumia	__ alihariji pesa nyingi alipolazwa hospitalini.
--hariri  -- edit (the action); soma maandishi na kuyasahihisha, kuyarekebisha na kuyapanga kwa ajili ya kuchapa katika gazeti, kitabu nk.
--hariri  -- edit (the action)  (tech)
+-hariri  -- edit [the action]; soma maandishi na kuyasahihisha, kuyarekebisha na kuyapanga kwa ajili ya kuchapa katika gazeti, kitabu nk.
+-hariri  -- edit [command]  (tech)
 hariri  -- mpole	__ mtu hariri [mtu mpole]
 hariri  -- silk; nyuzi zinazotokana na viwavi vya nondo	__ nguo ya hariri
 harisha mara kwa mara  -- diahhrehea  (med)
@@ -3962,7 +3948,6 @@ hekaheka  -- bustle; shughuli nyingi zinazomfanya mtu asitulie; pilikapilika, mi
 hekaheka  -- chaos; ghasia, fujo	__ mvua yazua hekaheka. huko kwenye mnada, kuna hekaheka nyingi. 
 hekaheka  -- cheering	__ kulikuwa na hekaheka nyingi jana kwenye michuano ya kandanda.
 hekalu  {ma}  -- temple, pagoda, synagogue
-hekaya  -- fable; exciting incident	__ alinihadithia hekaya zilizomfika katika safari yake.
 hekaya  -- fable; legend	__ hekaya za Isopo
 hekaya  -- phenomenon; exciting incident	__ alinihadithia hekaya zilizomfika katika safari yake.
 -hekemua  -- stretch out	__ alipoamka, alijihekemua kabla hajaenda msalani.
@@ -4160,7 +4145,6 @@ hudhurungi  -- tan color	__ hudhurungi madafu. hudhurungi maskati.
 huduma  -- assistance, service	__ huduma kwa wateja
 huduma  -- service  (tech)
 huduma ya kwanza  -- first aid
-huduma ya kwanza  -- first aid	__ 
 huduma za umma  -- public utility [umeme, maji, usafiri]  (biz)
 -hudumia  -- attend to	__ gharama ya kuhudumiwa
 huenda  -- conditional clause; hali ya kuonyesha uwezekano wa jambo fulani	__ huenda kesho nikasafiri kama nikipata nauli.
@@ -4394,7 +4378,6 @@ ingiza fedha upande wa mtoe  -- enter a sum to the debit side  (biz) (phrs)
 ingizo  {ma}  -- entry, input  (tech)
 ini {ma}  -- liver	__ 
 -injika  -- put cooking pot on fire / stove; heat sth	__ injika chungu kwa vile moto ni mkali
-injili  -- gospel
 injili  -- gospel	__ injili ya kale  [old testament]
 injili ya kali  -- old testament
 injini  -- engine
@@ -4553,7 +4536,6 @@ jama !  -- taz jamani!: hey! wow!
 jambazi  {ma}  -- conman; crook, robber; mtu aliyestadi kwa kuiba.	__ yataka uwe mwepesi kama paa unapofukuzwa na majambazi. jambazi yule amekwenda kuziiba shehena dukani. usimwamini jambazi yule.
 jambazi sugu  -- hardened criminal	__ ni jambazi yupi sugu aliyechomwa na halaiki ya watu?
 jambia  {ma}  -- curved dagger
-jambia  {ma}  -- curved dagger	__ 
 jambo ambalo ni geni kwake  -- things which are strange for him
 jambo geni  -- strange affair
 jambo la pekee  -- exception
@@ -5187,7 +5169,6 @@ kaka wa kambo  -- stepbrother
 kaki  -- khaki; nguo ngumu ya rangi ya majani makavu
 kalamu ya risasi  -- ballpoint pen
 kalasinga  {ma}  -- sikh
-kalasinga  {ma}  -- sikh
 kalavati  -- culvert
 kale  -- ancient, old	__ mambo ya kale
 kale  -- ancient times, long ago, former ages; antiquity	__ kale ipi?
@@ -5511,8 +5492,7 @@ kauliflawa  -- cauliflower
 kaulimbiu  -- slogan, motto, catchphrase	__ serikali imeamua kuyapa maadhimisho haya kaulimbiu isemayo x.
 kauli potovu  -- misleading statement
 kauli  -- promise, pledge	__ alinipa kauli yake kwamba ataimaliza kazi yangu haraka.
-kauli  -- view, opinion	__ kauli ya Tanzania
-kauli  -- view, opinion	__ kuna kauli mbili katika suala lile.
+kauli  -- view, opinion	__ kuna kauli mbili katika suala lile. kauli ya tanzania.
 kauli za vitenzi  -- verb conjugations / forms	__ tendwa, tendua, tendisha
 kaumu ya watu  -- group, crowd, multitude	__ 
 kaunta  -- account; madaftari makubwa
@@ -5832,7 +5812,6 @@ kichopo  {ki}  -- kwa kiasi au kadri inayoweza kushikwa kwa kufumbata kwa vidole
 kichopo  {ki}  -- [time] somewhat	__ nilipozinduka ilikuwa saa kumi na mbili na vichopo jioni.
 kichugu  -- anthill	__ 
 kichuguu  {ki}  -- anthill; kingulima, kidurusi, kishirazi, kisuguu
-kichuguu  {ki}  -- anthill; kingulima, kidurusi, kishirazi, kisuguu
 kichujio  -- sieve, strainer	__ 
 kichungi  -- filter {n}
 kichunguu  {ki}  -- ant larvae?	__ 
@@ -6027,7 +6006,6 @@ kihongwe  -- donkey calf	__
 kihoro  {ki}  -- grief, anguish, sadness	__ kwa kihoro kikubwa
 kihuni  --  rogue, rascal, hoodlum, thug [vulgar] (slang)	__ hii lugha ya kihuni sana.
 kihunzi cha ~  -- swarm of fish	__ kihunzi cha samaki
-kihusishi  -- preposition  (gram)
 kihusishi  -- preposition  (gram)
 kiibodi  -- keyboard  (tech)
 kiigizi  -- emulator  (tech)
@@ -6322,7 +6300,6 @@ kingo cha sufuria  -- pot edge
 king'ola  -- siren	__ 
 king'ong'o  -- nasal sound; usemeaji wa puani	__ aliyeumwa na nyoka akiona ung'ong'o.
 king'ongo  -- nasal sound; usemeaji wa puani	__ aliyeumwa na nyoka akiona ung'ongo.
-king'ora  -- siren	__ 
 king'ora  -- siren	__ 
 -kingwa kuandikwa  -- write-protected  (tech)
 kingwana  {ki}  -- congo swahili
@@ -7246,9 +7223,7 @@ kukurukakukuruka  -- hustle & bustle
 kula hasara  -- eat damage, loss, lose  (idm)
 -kula hepi  -- burudika  (idm)
 -kula huu  -- get nothing, come up empty-handed; ambulia patupu; kosa kupata chochote	__ ukitafuta kwa mabavu utaishia kula huu na hasara juu yake.
--kula kalenda  -- fungwa gerezani  (idm)
 -kula kalenda  -- fungwa gerezani  (idm)	__  
--kula kalenda  -- kufungwa gerezani  (idm)
 -kula kiapo  -- take an oath; kutamka kwa jina la mungu ili kuthibitisha unayoyasema  (idm)
 kula kiapo  -- take an oath, swear  (idm)
 -kula kivuli  -- ruin sby behind their back  (idm)
@@ -7258,14 +7233,12 @@ kula kiapo  -- take an oath, swear  (idm)
 -kula kona  -- run away; kukimbia  (slang)
 kula mate  -- to eat spit, having no food  (idm)
 kula matu  -- to go extremely fast  (idm)
--kula mumbi  -- patwa na matatizo  (idm)
 -kula mumbi  -- patwa na matatizo  (idm)	__  
 -kula mwande  -- fail to get what wanted; be disappointed; kosa ulichotaka   (idm)	__ alijaribu bahati yake kwenye mchezo wa kamari lakini alikula mwande.
 -kula mwereka  -- get nothing, come up empty-handed; ambulia patupu (idm)
 -kulanga  -- kunywa  (dialect)
 -kula njaro  -- puuza kazi  (idm)
 -kula nyama ya ulimi  -- zungumza  (idm)
--kula nyama ya ulimi  -- zungumza  (idm)	__ 
 -kula nyamunyamu  -- eat yum yum (ono)	__ 
 -kula riba  -- earn interest
 -kula shaba  -- to shoot; kupigwa risasi  (slang)
@@ -7532,7 +7505,6 @@ kwa kasi  -- with effort	__ bendera ile inapepea kwa kasi.
 kwa kauli moja  -- unanimously
 kwa kedi  -- arrogance
 kwa kedi  -- craft
-kwa kiasi fulani  -- to a certain extent
 kwa kiasi fulani  -- to a certain extent	__ tunaweza sema anagalau cha kisasa kwa kiasi fulani.
 kwa kifupi  -- in short
 kwa kila hali  -- in any case	__ 
@@ -7937,7 +7909,6 @@ lugha mata  -- extinct language
 lugha mawasiliano  -- lingua franca
 lugha mitaa  -- colloquial language
 lugha ngeni  -- foreign language
-lugha ngeni  -- foreign language
 lugha rasmi  -- official language
 lugha ya alama  -- sign language
 lugha ya bubu kilago  {ki}  -- button, control
@@ -8070,7 +8041,6 @@ madeni yasiyoduma  -- current liabilities  (biz)
 madhabahu  {ma}  -- altar (christian)	__ 
 madhabahu  {ma}  -- slaughterhouse	__ 
 madhabau  -- pulpit
-madhali  -- since, because
 madhali  -- since, because; hutumiwa kuonyesha sababu ya jambo fulani	__ madhali jua limetoka leo nitaweza kufua nguo zangu.
 madhara  -- damage, harm	__ ufundi wa kutumia dawa ili kuleta madhara.
 madhara ya kihisia  -- emotional harm	__ 
@@ -8328,8 +8298,7 @@ mali asili  {ma}  -- natural resources	__ ina kila aina ya maliasili yenye utafi
 maliasili  {ma}  -- natural resources	__ ina kila aina ya maliasili yenye utafiri wa kupindukia.
 maliasili  -- natural resources; utajiri kama vile madini, misitu, maziwa, mito, anga vinavyopatikana katika mazingira  (biz)
 mali ghafi  -- raw material	__ 
-malighafi  -- raw materials	__ ina malighafi kemkemu iliyowatajirisha wavamizi wowote.
-malighafi  -- raw materials; mali yanayotumika kutengeneza vitu vingine km: pamba ni malighafi ya kutengenezea nguo  (biz)
+malighafi  -- raw materials; mali yanayotumika kutengeneza vitu vingine km: pamba ni malighafi ya kutengenezea nguo  (biz)	__ ina malighafi kemkemu iliyowatajirisha wavamizi wowote.
 mali kauli  -- buy sth on credit, verbal transaction?
 malila, kimalila  -- tribe in tanzania
 mali na amuali  -- riches and plenty of riches
@@ -8449,7 +8418,6 @@ mapele  {ma}  -- razor bumps ?	__ mapele na muwasho.
 mapema  -- early
 mapendano  -- endearment, affection; mahaba
 mapendano  -- mutual love; mapenzi
-mapene  -- money; hela  (slang)
 mapene  -- money; pesa  (slang)
 mapenzi  -- love, affection; mahaba	__ hana mapenzi na mumewe.
 mapepe  -- foolishness, lack of seriousness/focus	__ usilete mapepe unapofanya kazi.
@@ -8781,10 +8749,8 @@ mbatana  -- sth continuous, joined, on-going	__ mvua mbatana, mawazo mbatana
 mbata  -- ripe coconut	__ 
 mbatata  -- potatoes	__ 
 mbavu  -- rib	__ mbavu halisi, mbavu zisizo halisi
-mbawazi  [i-zi]  -- huruma
-mbawazi  [i-zi]  -- rehema
-mbawazi  -- mercy, compassion
-mbawazi  -- pity
+mbawazi  [i-zi]  -- compassion; huruma
+mbawazi  [i-zi]  -- mercy; rehema
 mbayuwayu  -- swallow bird	__ 
 mbeberu  {ma}  -- imperialist	__ imewahi kuwa katika minyororo ya mabeberu na wavamizi ambao walituvamia.
 mbega  [a-wa]  -- colobus monkey  (mnyama)
@@ -8841,8 +8807,6 @@ mbiu  -- animal horn, used for calling sound	__
 mbizi  -- dive, deep	__ 
 mbobevu  {wa}  -- skilled, experienced	__ mwanasaikolojia mbobevu.
 mbobezi  {wa}  -- expert, specialist, pundit	__ uchunguzi huo utashirikisha wataalamu wabobezi wa masuala ya miundombinu ya meli, mitambo na mifumo ya uundaji wa meli.
-mbogo  -- buffalo
-mbogo  {wa}  -- buffalo
 mbogo  {wa}  -- buffalo	__ juma alikuwa mkali zaidi ya mbogo
 mboji  -- garbanzo, humus; aina ya maharage
 mbolea  -- manure, fertilizer	__ kiwanda cha mbolea
@@ -9120,7 +9084,6 @@ mfuachuma  {wa}  -- ironsmith, blacksmith
 mfuadhahabu  {wa}  -- goldsmith
 mfuafedha  {wa}  -- silversmith
 mfuanazi  {wa}  -- coconut husker
-mfuasi  {wa}  -- follower
 mfuasi  {wa}  -- follower	__ juma aligeuka kuwa mfuasi mzuri wa dini.
 mfuatano  {mi}  -- sequence, procession
 mfuatano wa muda  -- timeline sequence [logical linear]
@@ -9256,7 +9219,6 @@ mhavile-mkubwa  -- granduncle-in-law (father's aunt's husband)
 mhavile  -- uncle-in-law (father's sister's husband)
 mhazigi  {wa}  -- orthopedic doctor	__ 
 mhazili  {wa}  -- typist, secretary	__ 
-mhazili  {wa}  -- typist, secretary	__ 
 mhemko  -- taz mhemuko: emotion, passion
 mhemuko  {mi}  -- emotion, angry passion; msisimko wa kihisia	__ aliingiwa na mhemuko alipokuwa anawahutubia wanavijiji walionyimwa haki zao.
 mhemuko  {mi}  -- passion; pandwa na hasira au hamu kubwa	__ muradi alikuwa mhubiri mwenye mhemuko.
@@ -9363,11 +9325,8 @@ mistari sambamba  -- parallel lines	__
 misuguano ya kisiasa  -- political conflicts
 misuli ngumu  -- brawn
 misuli ya mkono  -- biceps
-misuli ya mkono  -- biceps
 misuli ya tumbo  -- abdominal muscles
-misuli ya tumbo  -- abdominal muscles
-mitala [a-wa]  -- polygamy; ndoa ya wake wengi
-mitala [a-wa]  -- wanawake wawilli au zaidi walioolewa na mume mmoja	__ juma ana mitala siku hizi.
+mitala [a-wa]  -- polygamy; ndoa ya wake wengi; wanawake wawili au zaidi walioolewa na mume mmoja	__ juma ana mitala siku hizi.
 mita za ujazo  -- cubic meters m3
 -mithili  -- compare with sth	__ 
 -mithilika  -- comparable [to sth]
@@ -9382,7 +9341,6 @@ miundo mbinu  -- infrastructure	__ miundombinu ya usafirishaji ni muhimu katika 
 miundombinu  -- infrastructure	__ miundombinu ya usafirishaji ni muhimu katika nchi yoyote duniani. kuboresha miundombinu ni muhimu katika mchakato wa kuendeleza uchumi.
 miundombinu rafiki kwa x  -- infrastructure friendly for sth, conducive to sth; miundombinu inayounga mkono kwa ajili ya x
 miundomsingi  {mi}  -- foundation	__ mbali na miundomsingi ya barabara na hospitali
-miungu  -- gods [plural]
 miungu  -- gods [plural]	__ kuna hitaji la kuyafurahisha miungu ili kuzuia majanga mengine kutokea.
 miwani  -- eyeglasses	__ miwana wa jua
 miwani ya jua  -- miwani ya kujikinga na jua kali
@@ -9526,7 +9484,6 @@ mkisha  -- kisha, halafu
 mkishirikiana  {wa}  -- accomplice	__ 
 mkishua {wa}  -- wealthy person; mtajiri  (slang)	__ Wakishua wa kili: hii ndio saizi yako.
 mkizi  {mi} [a-wa]  -- flying fish
-mkizi  {mi} [a-wa]  -- mullet fish
 mkoa  {mi}  -- county, district
 mkoba  {mi}  -- bag for medicine man, witchcraft paraphenalia; mfuko anaotumia mganga wa kienyeji kuwekea zana zake	__ kifungua mkoba.
 mkoba  {mi}  -- basket, leather bag [purse]	__ mkoba wa ngozi.
@@ -9701,7 +9658,6 @@ mlinganisho  {mi}  -- balance	__
 mlinganisho wa hesabu  -- trial balance  (biz) 
 mlingano  {mi}  -- announcement, proclamation; tangazo	__ 
 mlingano  {mi}  -- sameness, resemblance, likeness, similarity; mfanano	__ 
-mlinganyo  {mi}  -- equation  (math)
 mlinganyo  {mi}  -- equation  (math)
 mlingoti  -- mast	__ hii ni milongoti si maboriti.	__ 
 mlinzi  {wa}  -- defender (sport)	__ 
@@ -11207,8 +11163,7 @@ ng'ang'ani  -- unyieldingly, uncompromisingly
 ngangari  -- brave person; mtu mwenye msimamo  (slang)
 ngangari  -- kuwa na msimamo [kindengereko][tumika kwenye siasa]  (slang)
 ngangari  -- stable, unswerving; ngunguri, thabiti, imara  (slang)
-ngangari  -- vigilant, alert, firm; chonjo  (slang)	__ chama chao kiko ngangari.
-ngangari  -- vigilant, alert, firm; ndindidni	__ chama chao kiko ngangari. uwe ngangari. wewe ni noma sana kwa picha.
+ngangari  -- vigilant, alert, firm; ndindidni, chonjo  (slang)	__ chama chao kiko ngangari. uwe ngangari. wewe ni noma sana kwa picha.
 ngano  -- fable, story; [< -gana to tell story]	__ njaa iliyokuwa simulizi miongoni mwa ngano za wazee ikawa sasa dhana halisi.
 ngano  -- wheat	__ unga wa ngano
 ngao  -- curtained alcove for sleeping [traditional swahili house]  (arch)
@@ -11541,8 +11496,7 @@ nunge  -- zero, nil	__ mabao matatu kwa nunge.
 -nung'unika  -- mumble, grumble; sema kwa sauti ya chini kwa kutoridhika au kutofurahi
 -nung'unika  -- murmur, mumble alone to oneself	__ alikuwa akinung'unika peke yake chumbani.
 -nung'unika  -- whine	__ 
-nung'uniko  {ma}  -- complaint, grumble; lalamiko	__ manung'uniko ya wafanyakazi lazima yashghulikiwe.
-nung'uniko  {ma}  -- complaint, grumble	__ manung'uniko ya wafanyakazi lazima yashughulikiwe.
+nung'uniko  {ma}  -- complaint, grumble; lalamiko	__ manung'uniko ya wafanyakazi lazima yashghulikiwe. manung'uniko ya wafanyakazi lazima yashughulikiwe.
 nungunungu [a-wa]  -- porcupine  (mnyama)
 -nunulia game  -- support someone playfully, lighten the mood [supportive] (idm)	__ wakati mwingine mambo huwa magumu, unaweza kumnunulia game kumfanya acheke na kusahau kidogo.
 -nunulia maneno matamu  -- shower sby with sweet words [supportive] (idm)	__ wakati mwingine anachohitaji ni mtu wa kumnunulia maneno matamu ili ajisikie vizuri.
@@ -11647,7 +11601,6 @@ nyaturu, kinyaturu  -- tribe in tanzania
 nyau  -- cat; mnyama mdogo anayefugwa nyumbani kwa ajili ya ulinzi au burudani, mara nyingi hula panya	__ paka wangu ana rangi nyeupe na madoa meusi.
 -nyauka  -- wither, shrivel, dry up (plant)	__ majani ya mti ule yamenyauka.
 nyavu  -- nets [pl]
-nyavu  -- nets [plural]
 nyavunyavu  -- web-like	__ kiasi cha kufanya utandu wa buibui kutengeneza mfano wa nyavunyavu angani.
 nyaya  (u,ny)  -- wires (pl)
 nyayo  -- footsteps, footprints	__ 
@@ -11890,9 +11843,7 @@ ondokeo  {ma}  -- starting point of journey; departure	__ ondokeo lake katika bi
 -onesha  -- show  (tech)
 -onesha walakini  -- reveal weakness, err, defect
 ~onevu  -- bully, oppressive	__ mtawala mwonevu.
-~onevu  -- bully, oppressive	__ mtwawala mwonevu.
 onevu {ma}  -- bully, tyrant, oppressor	__ 
-~onevu  -- visible, observable, visual, bright	__ ana macho maonevu.
 ~onevu  -- visible, observable, visual, bright	__ ana macho maonevu.
 -ongea  -- converse, chat, talk; sema, zungumza, longa	__ huongea kwa muda mrefu.
 -ongea  -- increase, magnify, enlargen; zidi	__ idadi ya watu duniani inaongea.
@@ -12150,13 +12101,12 @@ panya  -- rat, mouse
 panza  -- bit of coconut remaining in husk after scraping
 panza  -- piece of leftover soap; kichelema
 panzi  -- grasshopper
-panzi  -- grasshopper	__ 
 -papa  [moyo]  -- throb, flutter, palpitate; kuwa na wasiwasi	__ moyo unampapa. [he is worried]
 papara  -- rush, haste, hurry; bila ya makini	__ mbona una papara?
 -papasa  -- fellatio  (slang)
 -papasa  -- touch gently	__ nakupapasa kwenye kifua.
 papa  -- shark	__ 
-papasi  [a-wa]  -- beach boys  (slang)
+papasi  [a-wa]  -- beach boys [trade] (slang)
 papasi  [a-wa]  -- tick
 -papatika  -- be uneasy, worried, confused; hangaika huku na huku agh. baada ya kufikwa na jambo.	__ kuku alipapatika baada ya kuchinjwa. alipapatika baada ya kugundua kuwa mkoba wake wenye pesa umechopolewa.
 -papatika  -- flutter, flap, flop; rukaguka na kupiga mbawa kwa kuhangaika; kv: afanyavyo kuku au ndege anaposhikwa mtegoni au anapochingwa. 
@@ -12257,7 +12207,6 @@ pasiwe  -- pasikuwe; pasipokuwa, bila pingamizi
 -patanisha  -- attune with sby
 -patanisha  -- reconcile, harmonize	__ alidhamiria kuwapatanisha watoto wale kabla ya kusafiri.
 patapotea  -- gamble, pure luck	__ shughuli hii ni patapotea kwa vile haijaleta faida yoyote.
-patapotea  -- gamble, pure luck	__ shughuli hii ni patapotea kwa vile haijaleta faida yoyote.
 -pata riziki  -- earn a living
 -pata shika  -- confusion, pandemonium  -- < -shika
 -pata shika  -- get hold	__ 
@@ -12279,7 +12228,6 @@ patasi  -- wood chisel	__
 -patiliza  -- wrap around sth, shroud	__ walimpatiliza maiti sanda.
 -patisha  -- cause to get
 -patiza  -- make one get
-pato la taifa  -- national income	__ 
 pato la taifa  -- national income	__ jinsi kodi inavyoweza kuchangia ukuaji wa pato la taifa.
 pato la ziada  -- by-product	__ 
 pato  {ma}  -- income, earnings	__ pato lake ni dogo.
@@ -12323,8 +12271,7 @@ pekupeku  -- barefoot
 -pelekana  -- ongoza
 -peleka salamu  -- convey greetings  (idm)
 -peleka  -- send, convey, deliver; fikisha, wasilisha	__ nimeshapeleka mzigo wake nyumbani.
--pelekea  -- contribute towards; help bring about result; act as a factor	__ kuondoka kwao kulipelekea watu wengi wasikitike.
--pelekea  -- contribute towards	__ ushamba wangu uliopelekea kupotea kwa viatu vya rafiki yangu.
+-pelekea  -- contribute towards; help bring about result; act as a factor	__ kuondoka kwao kulipelekea watu wengi wasikitike. ushamba wangu uliopelekea kupotea kwa viatu vya rafiki yangu.
 -pelekea kupotea  -- contributed to losing, cause	__ kwa ushamba wangu uliopelekea kupotea kwa viatu vya rafiki.
 -pelekwa  -- be sent	__ alipelekwa kwa waziri. [he was sent to the minister]
 -peleleza  -- investigate, probe, research; chunguza	__ makachero waliyapeleleza mauaji.
@@ -12413,7 +12360,6 @@ peupe  -- into the open; waziwazi	__ tumewafumania wanaume hao peupe wakitekelez
 -pevua  -- ripen, mature sth; fanya kukomaa, pevusha, ivisha, vumbisha	__ 
 -pevuka  -- force to mature
 ~pevu  -- matured; komavu	__ binti yake amekuwa mpevu.
-~pevu  -- matured; ripened	__ binti yake amekuwa mpevu. embe pevu.
 ~pevu  -- ripe, ripened [of fruits]; tosa, bivu	__ embe pevu.
 -pevusha  -- be ready to deliver baby
 -pevusha  -- pollinate	__ 
@@ -13540,7 +13486,6 @@ sembuse  -- not to mention; let alone ; neno linalotumiwa  kulinganishia vitu au
 -semeka  -- be customary, usual, pronounceable	__ hilo halisemeki.
 -semeshana  -- speak together  (idm)	__ leo nyoyo zetu zimesemeshana.
 -semezana  -- converse, talk to each other	__ walikuwa wanasemezana kwenye mkutano.
--semezana  -- converse, talk to each other	__ walikuwa wanasemezana kwenye mkutano.
 -semezana  -- start reconciliation after non-communication
 -semezana  -- start reconciling after a period of noncommunication
 -semwa  -- to be said, told?	__ ukweli usemwe! [let truth be told]. inasemwa kwamba dunia ni duara.
@@ -13955,7 +13900,6 @@ shungwaya  -- uswahili homeland  (myth)
 ~shupavu  -- hard, stiff, solid; obstinate, stubborn, obdurate	__ usukani huu wa baiskeli ni shupavu. mwanasiasa yule ni mshupavu.
 -shupaza  -- harden, toughen, firm up, set well, cure
 -shurutika  -- be forced, coerced
--shurutisha  -- force, coerce
 -shurutisha  -- force, coerce	__ nilimshurutisha kuifanya kazi yangu kwa mara ya pili.
 -shusha  -- discharge, off-load, let down	__ papo hapo tulishusha pumzi zetu.
 -shusha  -- down {vt}  (tech)
@@ -14115,8 +14059,8 @@ sindano ya kushonea  -- sewing needle
 -sindika  -- close, shut [door, window] w/o fastening; shindika	__ aliusindika mlango wangu.
 -sindika  -- extract liquid	__ mbata husindikwa na kutoa mafuta ya nazi.
 -sindika  -- mill, process [produce]	__ kiwanda cha kusindika mazao.
--sindikiza	-- escort sby, see sby off [send off sby]; -safiri na mtu kipande cha njia ili kumuaga	__ nilimsindikiza mgeni mpaka stendi ya basi.
--sindikiza	-- wash down [food], push down; sukuma chakula kwa kinywaji	__ alikula mkate na kusindikiza na chai.
+-sindikiza  -- escort sby, see sby off [send off sby]; -safiri na mtu kipande cha njia ili kumuaga	__ nilimsindikiza mgeni mpaka stendi ya basi.
+-sindikiza  -- wash down [food], push down; sukuma chakula kwa kinywaji	__ alikula mkate na kusindikiza na chai.
 si ndivyo?  -- isn't it?
 singa  -- long straight hair	__ 
 -singa  -- massage	__ kumsingia mfalme kwa sandali
@@ -14313,8 +14257,7 @@ stafeli  {ma}  -- soursop
 staftahi  -- breakfast	__ ninywe staftahi
 staftahi; sebeha  (idm)
 -stahabu  -- prefer, opt, choose; pendelea	__ nilistahabu kusafiri kwa ndege kuliko kwa meli. alistahabu kuwa bawabu.
-stahamala  -- ustahamilivu	__ moyo wangu na kujisihi niwe na stahamala.
-stahamala  -- ustahamilivu; subira	__ 
+stahamala  -- ustahamilivu; subira	__ moyo wangu na kujisihi niwe na stahamala.	__ 
 -stahamili  -- bear, endure	__ nimestahamili uchungu kidogo kwa kidole changu
 staha  -- veneration	__ mtu yule hana staha hata kidogo
 -stahiki  -- be fitting, proper, worthy	__ alistahiki kupata zawadi.
@@ -14564,8 +14507,7 @@ tafsiri sisisi  -- literal translation	__
 -tafuta chizi  -- look for trouble; tafuta shida au mzozo (idm)	__ usiende kule, utakuta watu wanatafuta chizi.
 -tafuta  -- determine, find out [ascertain, know abt sth]; gundua ukweli wa jambo; hakiki	__ tafuta sababu ya tatizo hili.
 -tafuta hodari  -- seek sby powerful, seek a challenge; tafuta mtu mwenye uwezo mkubwa au mtu mwenye nguvu; tafuta changamoto (idm)	__ timu hiyo inatafuta hodari wa kucheza nafasi ya beki. kampuni hiyo inatafuta hodari wa masoko ili kuongeza mauzo. natafuta hodari wa kunipa changamoto katika kazi yangu. natafuta hodari wa kunisaidia kushinda hofu yangu.
--tafuta kichaa  -- look for trouble; tafuta matatizo au shida (idm)	__ usiende huko, watakutafuta kichaa.
--tafuta kichaa  -- look for trouble; tafuta shida au mzozo (idm)	__ acha kutafuta kichaa, fanya kazi yako.
+-tafuta kichaa  -- look for trouble; tafuta shida, matatizo, mzozo (idm)	__ acha kutafuta kichaa, fanya kazi yako. usiende huko, watakutafuta kichaa.
 -tafuta kisingizio  -- find an excuse; tafuta sababu ya kutofanya jambo (idm)	__ usiendelee kutafuta kisingizio, fanya kazi yako.
 -tafuta kosa  -- find fault [sby, sth]; tafuta makosa ya mtu mwingine (idm)	__ usiendelee kutafuta kosa langu, fanya kazi yako."
 -tafuta makuu  -- seek greatness or prominence; tafuta umaarufu au umakini (idm)	__ anaota kutafuta makuu duniani.
@@ -15467,7 +15409,6 @@ titi  {ma}  -- breast	__
 -toa  -- offer, give sth to sby; badilisha umilikaji wa kitu cha mmoja kiwe cha mwingine; kupa	__ toa pesa. toa mahari.
 -toa pasi  -- pass sth to sby [ball]  (idm)	__ toa pasi mufti kabisa kuelekea lango la kenya.
 -toa pesa  -- offer money  (idm)	__ 
--toa pima [macho]  -- kodoa macho
 -toa pima [macho]  -- kodoa macho: fungua sana machohasa kwa kushangaa	__ macho alikuwa kayatoa pima.
 -toa pochi  -- get out wallet, purse
 -toa pumzi  -- exhale, deflate sth  (idm)	__ 
@@ -15796,7 +15737,6 @@ turufu  -- veto, trump card	__ nchi tano ambazo ni wanachama wa kudumu zina haki
 turuhani  -- bonus; sth extra given in a sale  (biz)	__ mchuuzi alinipa turuhani niliponunua tungule kwake.
 turuhani  -- discount; punguzo la bei
 turuhani  -- prestige, reverence, honor	__ utajitoa turuhani ukisema mambo ya upuuzi hadharani
-turuhani  -- tare; allowance made in weighing package, vehicle  (biz)
 turuhani  -- tare; kiwango kinachotolewa kutoka katika bei iliyotangazwa  (biz)
 -tusi bali teleza  -- curse but slip, slide; toa maneno machafu ya kumuudhi mtu; tukana
 -tusi  -- insult [usage +++]; toa maneno machafu ya kumuudhi mtu; tukana, chamba, shamulia, subu, taya, sibabi
@@ -16044,7 +15984,6 @@ uduni  -- inferiority, lowness, cheapness; udhaifu, uhafifu, ubaya	__ uduni wa k
 uelekeo  -- tendency, direction	__ uelekeo wa lazima wa magari. uelekeo kati.
 uelekezaji  -- redirection  (tech)
 uelewano  -- understanding, relationship	__ uelewano wake na wafanyakazi ni mbaya.
-uelewa  -- understanding
 uelewa  -- understanding
 uelewevu  -- welekevu ? intelligence, awareness ?
 uendelevu  -- continuity	__ utungo simulizi kimsingi ni sanaa inayopita, isiyo na maisha au uendelevu nje ya utendwaji wake.
@@ -16943,8 +16882,7 @@ utambuzi  -- sensory perception
 utambuzi wa nafsi  -- self-awareness, self-knowledge
 utambuzi wa nafsi ya kweli  -- self-realization [of the true self]
 utandabui  -- spiders web
-utandawazi  -- globalization; utandaridhi
-utandawazi  -- globalization; utaratibu wa mataifa kushirikiana katika nyanja mbalimbali kv: biashara  (biz)
+utandawazi  -- globalization; utandaridhi, utaratibu wa mataifa kushirikiana katika nyanja mbalimbali kv: biashara  (biz)
 utandoni hadi ukokoni  -- top to bottom  (phrs)
 utando wa lami  -- waterproofing
 utando  -- web; film, coating, membrane; ground cover	__ mmea huu huelea majini na kufanya utando unaofanana na blanketi pana la kijani.
@@ -17017,7 +16955,7 @@ utenguo wa sheria uliwafurahisha raia.
 utenguzi  -- destruction, spoil	__ utenguzi wa mipango yangu ulifanywa makusudi.
 utenguzi  -- nullification, annulment; ubatilishaji	__ utenguzi wa matokeo ya uchaguzi ktk eneo letu haukutegemewa.
 ute  {ny} [pl nyute]  -- anything resembling thick body fluid [getting wet sexually]
-ute  {ny} [pl nyute]  -- thick sticky fluid [saliva, mucous, drool, ]; udenda, uderere
+ute  {ny} [pl nyute]  -- thick sticky fluid [saliva, mucous, drool]; udenda, uderere
 utenzi  -- utungo wa mawaidha au masimulizi yoyote tu
 uteo  -- tray for sifting grain; pepeteo, ungo, chekecheo; uteo wa kupepetea mahindi kabla ya kuyatwanga katika kinu huu hapa.	__ 
 utepe  {|}  -- measuring tape, tape, ceremonial ribbon	__ mkuu wa JKT, Brigedia Jenerali Charles Mbuge (katikati), akikata utepe kuashiria uzinduzi wa basi la Kampuni ya Ulinzi.
@@ -17099,7 +17037,6 @@ uume  -- masculinity, maleness, potency [virility]	__ wanaume hao walijulisha uu
 uume  -- penis (sci)
 uundaji  -- creation	__ 
 uungano wa nafsi na kimungu  -- self-realization [of the divine self]
-uungu  -- divinity, godliness	__ suala lile linahusu uungu wa yesu.
 uungu  -- divinity, godliness; uwezo na utukufu wa mwenyezi mungu	__ suala lile linahusu uungu wa yesu.
 uungwaji-mkono  -- act of being supporting
 uungwana  -- gentleness, courtesy	__ uungwana ni kitu adimu.
@@ -17330,7 +17267,6 @@ virai  -- phrases
 virejeshi  -- relative construction
 -virigiza  -- disturb, harass, hassle, pester; sumbua, ghasi	__ mbwa wako alinivirigiza usiku wote.
 -viringana  -- become round, coil	__ unga umeviringana.
--viringana  -- be well-built	__ ameviringana
 -viringana  -- be well-built	__ ameviringana [he is well-built].
 -viringana  -- coil together	__ unga umeviringana.
 -viringa  -- poliah, refine [playful, ironic]	__ nimekuviringa kichwa changu lakini siwezi kukusaidia.
@@ -17620,7 +17556,6 @@ watajua kilichomfanya kanga  -- regret; watajuta  (idm)	__
 watakiona cha mtema kuni  -- meet defeat; tutawatandika vizuri  (idm)	__ 
 watoto [kingazi]  -- children [hierarchy]  (tech)	__ 
 watoto wa 2000  --  gen-z  (slang)
-watu wa kale  -- ancient people
 watu wa kale  -- ancient people
 watu wanne  -- wazee wakuu of a mtaa
 watu wapatao kumi  -- people who numbered ten
@@ -18099,3 +18034,5 @@ zuzu  -- stupid, fool
 -zuzuwaa  -- be stupid; kuwa zuzu; pumbaa	__ 
 zyoba, kizyoba  -- tribe in tanzania
 zzzzzzzzzzzzzz  -- EOF
+-ruhusiwa hospitalini  -- permitted to leave hospital  (idm)
+
