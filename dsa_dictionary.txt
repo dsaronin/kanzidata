@@ -960,7 +960,7 @@ bonge la bwana  -- rich, influential sby  (slang)
 bonge la mvua  -- burst of rain  (phrs)
 bonge  {ma}  -- chunk, lump	__ bonge la barafu. bonge la nyama. bonge la udongo.
 bonge  {ma}  -- huge [emphasizes largeness of sth]	__ bonge la gari. bonge la kazi, bonge la mtu, bonge la matope.
--bongoa  -- stoop, bend down butt stick out; furama	__ 
+-bongoa  -- taz bong'oa: stoop down, butt out
 bongo  -- tanzania; tanzania  (slang)
 -bonyea  -- dent, indent, push in	__ sehemu ya mbele ya gari yangu imebonyea.
 -bonyeza  -- press	__ 
@@ -1853,13 +1853,14 @@ dari  {ma}  -- ceiling	__ dari lenye feni
 darubiniakisi  -- reflective telescope
 darubini  -- binoculars	__ 
 darubini  -- telescope	__ nilitazama kwa darubini.
--data  -- be stuck, jammed, bogged down	__ kitasa kimedata. gia imedata. nilipita kwenye matope na kisha gari yangu ikadata.
--data  -- crackle, snap, click	__ moto unadata jikoni.
+-data  -- be stuck, jammed, bogged down; nasa kwa kitu na kutoweza kutoka; ganda, kwama, sakama	__ kitasa kimedata. gia imedata. nilipita kwenye matope na kisha gari yangu ikadata.
+-data  -- crackle, snap, click; toa sauti kama ya kitawi au kijiti kinapotaka kuvunjika	__ moto unadata jikoni.
 -data  -- go crazy, lose ones head, infatuate, become obsessed  (idm)	__ hakika unanidatisha na njozi tamu natamani nikufuate, aiseee.
-data  -- data, facts, information used for a purpose  (tech)
+-data  -- slip, fail to achieve sth, go wrong; kosa kitu au jambo unalolitaka; mwande; shindwa	__ alimtafuta sana mtoto wake sokoni lakini alidata.
+data  -- data, facts, information used for a purpose; taarifa au takwimu inayotumiwa kuelezea au kuthibitisha hoja fula  (tech)
+data benki  -- kanzi ya data
 data  -- data  (tech)
-data ghafi  -- raw data  (tech)
--data  -- slip, fail to achieve sth, go wrong; shindwa	__ alimtafuta sana mtoto wake sokoni lakini alidata.
+data ghafi  -- raw data; taarifa ambazo hazijafanyiwa uchambuzi wala kufasiliwa  (tech)
 data ya vikundi  -- grouped data  (tech)
 datooga, kidatooga  -- tribe in tanzania
 dau  {ma}  -- dhow	__ 
@@ -2370,7 +2371,7 @@ faharasa  -- glossary  (tech)
 faharasa  -- index, table of contents	__ used as index in scholarly work
 -fahari  -- -enye sifa, -a kupendeza
 -fahari  -- jambo au kitu cha sifa cha kujivunia kwa watu: madaha, makuu
-fahari  -- pride; prestige; kuvutia, hali ya juu	__ yeye ni mtu mwenye fahari sana kwa vile ana mali nyingi. anapenda maisha ya fahari.
+fahari  -- pride; prestige [honor, majesty, dignity] [<> kiburi]; kuvutia, hali ya juu	__ yeye ni mtu mwenye fahari sana kwa vile ana mali nyingi. anapenda maisha ya fahari. anatembea kwa fahari ya simba dume.
 -fahari  -- ukuu, utukufu
 -fahiri  -- live in grand life
 -fahirisha  -- take pride in sth [taz. fahiri]
@@ -7491,10 +7492,14 @@ machozi  -- tears	__ mwanzo toka uje sijawahi kutokwa na machozi mara kwa mara k
 machozi ya mamba  -- crocodile tears  (idm)	__ 
 machua  {ma}  -- mature  {n}
 machugachuga  -- dry dermatitis, skin swelling and itching
+machugachuga  -- uneasiness, disorder, confusion of mind; machulechule, wahaka, wasiwasi	__ mwanasiasa amekuwa ktk hali ya machugachuga tangu kuachiliwa na polisi.
+machugachuga  -- thing causing uneasiness
+machunga  -- care, preservation; matunzo
 machungu  {ma}  -- bitterness; sharp pain; grief	__ mateso ya gerezani yalimzidisha kuwa na machungu dhidi ya serikali. nilimkumbuka mama kwa machungu.
 machwa  -- taz machweo: sunset
 machweo  -- sunset, west; wakati jua linapozama; jioni	__ 
-madaha  {ma}  -- poise, elegance; good actions	__ binti yake hutembea kwa madaha
+madaha  {ma}  -- poise, elegance; matendo na mwendo wa kupendea; mbwembwe, matuko, maringo, fahari, usodai	__ binti yake hutembea kwa madaha.
+madaha  {ma}  -- good actions; matendo mazuri ya kuonyesha adabu
 madaraka  -- responsibility, duty, authority	__ 
 madarasa  -- classes	__ 
 madarasa ya ngumbaru  -- adult classes, adult education
@@ -12068,8 +12073,9 @@ rinda  {ma}  -- woman's dress lrg	__
 -rindima  -- hit, pound, beat	__ bondia alimrindima mpminzani wake.
 -rindima  -- prevail, pervade	__ ufisadi umerindima katika jamii zetu. michuano ya kandanda ya katafuta klabu bingwa ilirindima juma lililopita.
 -rindima  -- resonate, rumble, thunder roar	__ mizinga ilirindima, rais wa nchi ya jirani alipowasili.
--ringa  -- boast, show off; be arrogant, proud, conceited	__ mwanafunzi yule anaringa siku hizi kutokana na ushindi wake mkubwa kwenye mtihani. ringa kama tausi
--ringa  -- tia madaha wakati wa kutenda jambo, kv wakati wa kwenda au kucheza ngoma; tia maringo.	__ dada yule anaringa hatari.
+-ringa  -- show off, be arrogant, proud, conceited; jiona bora kuliko wengine; kuwa na kiburi; jiona, shaua, shana, jibodoa, jifaragua, jivuna, takabari	__ mwanafunzi yule anaringa siku hizi kutokana na ushindi wake mkubwa kwenye mtihani. ringa kama tausi
+-ringa  -- swagger, strut, walk proudly [implies confidence through physical action, not necessarily verbal boasting]; tia madaha wakati wa kutenda jambo, kv wakati wa kwenda au kucheza ngoma; tia maringo	__ anajirusha rinda akiongea na watu. dada yule anaringa hatari.
+-ringa  -- tia msichana mimba kabla ya kuonana	__ paulo amemringa roda.
 -riniu  -- renew
 ripoti ya hitilafu  -- bug report  (tech)
 risala  -- message, communication; letter	__ tulifurahikiwa na risala ya waziri. aliniandikia risala ndefu.
@@ -13490,6 +13496,7 @@ tambaa  {ma}  -- rag, cast-off clothes	__ alitumia tambaa kufuta maziwa yaliyomw
 tambara  {ma}  -- rag, cast-off clothes; taz. tambaa	__ kufua matambara yao pia kulikuwa jukumu lake.
 tambarare  -- flat (surface, sth)
 -tambarika  -- weak due to sickness, old age; worn-out	__ gari yake imetambarika baada ya kutumika kwa muda mrefu.
+-tamba  -- strut, dominate, walk triumphantly, pride [lions, warriors, champions]	__ anatamba kama simba dume kwa kujiamini.
 -tamba  -- brag, boast; jisifu, jigamba, jibodoa (slang)	__ anapenda kutamba kwa vile ana mali nyingi
 -tamba  -- narrate, tell, account; toa maelezo ya hadithi, simulia	__ ni hodari katika kutamba hadithi za kale.
 -tamba  -- roam, meander, wander; enda huku na huko kwa kujigamba, randa, hanja	__ vijana wengi wanatamba siku hizi kutokana na ukosefu wa ajira.
@@ -16707,7 +16714,6 @@ vibanzi  -- cool places, hangouts  (slang)
 dawa  -- solution, effective thing  (slang)
 -bonga  -- bore hole, burrow [grain, wood]	__ dumuzi waliubonga mtama.
 dumizi  -- mealy grain bug
--bongoa  -- stoop, bend down with butt sticking out; furama
 nguvu ya kuvutia  -- attractive force [magnet]; nguvu ya kuungana
 nguvu ya kusukuma mbali  -- repulsive force [magnet] 
 vuto la sumaku  -- magnetic field  (sci)
@@ -16839,7 +16845,6 @@ kitafunwa {ki}  -- snack; kitafunio
 -pandisha sauti  -- raise one's voice [signifies loud and confident boasting] 
 -pompo  -- excessive and self-aggrandizing boasting  (slang)
 -randa  -- roam, wander, also used figuratively to boast (rare) [very rare figurative usage, not common in everyday speech]	__ maneno yake yanaranda kila mahali.
--rinda  -- swagger, strut, walk proudly [implies confidence through physical action, not necessarily verbal boasting]	__ anajirusha rinda akiongea na watu.
 -shaua  -- boast, brag playfully [lighthearted and playful boasting, often among children]	__ watoto wanashauana wacheze nao.
 -tega domo  -- metaphor for bragging to attract attention or admiration ["set a trap" ]
 -tutumua  -- swell up with pride, boast proudly [implies excessive and inflated pride with negative connotations]	__ anajidai anajua kila kitu, anatutumua kila tukio.
@@ -18083,4 +18088,15 @@ matunzo  -- upkeep, maintenance, care; hali ya kupewa huduma nzuri inayomfanya m
 mswada {mi}  -- draft, manuscript
 -piga taffu  -- support me, boost me, get me out of tight spot (slang)	__ nipige taffu ya elfu 10 nieke mambo sawa.
 -weka mambo sawa  -- straighten things out  (slang)
+mdadi  {wa}  -- excitement, drive; hamasa, jazba
+madadi  {ma}  -- fighting spirit, bravado; nguvu au mori unaomfanya mtu kufanya jambo bila ya kujijua na unaotokana na kulipenda sana jambo hilo
+pandwa na madadi  -- be inspired by a fighting spirit
+shikwa na madadi  -- be inspired by a fighting spirit
+madadi  {ma}  -- opium rolled into pellets; bangi iliyoviringwa tayari kwa kuvutwa; afyuni, bangi
+madadi  {ma}  -- assistance, help; hali au kitu anachotoa mtu au nchi ili kutimiza haja ya mtu au nchi nyingine; ada, auni
+-tia madahiro  -- exaggerate, blow out of proportion, boast, brag, be conceited; zidisha jambo; jivuna; jitapa (idm)	__ mtu yule si maarufu kama anavyojisifia bali yeye anatia madahiro tu umaarufu wake.
+-tia maringo  -- put on airs, show off, act haughtily, strut, swagger; ringa, jivuna, jishaua (idm)	__ alipoingia ukumbini, alianza kutia maringo ili kila mtu amwone.
+-tia madaha  -- act with grace or swagger, put on airs, show off, act coyly; ringa, fanya madaha, jidai (idm)	__ mchezaji yule anatia madaha sana akiwa na mpira uwanjani.
+kifua mbele  -- showing positive, bold confidence [proud, brave, self-assured]  (idm)	__ anatembea kifua mbele kama simba, kwa ushujaa na kujiamini.
+-bong'oa  -- stoop, bend down [buttocks sticking out]; furama
 

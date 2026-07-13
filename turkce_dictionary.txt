@@ -4485,12 +4485,11 @@ uyaı  -- warning
 uyak  -- rhyme
 uyanık  -- awake, vigilant, alert, wide awake	__ kimler uyanık?
 -uyan  -- wake up, awaken	__ uçuş sırasında uyanmaman lazım.
--uyar  -- admonish, induce
--uyar  -- awake, awaken, exhort, forewarn
--uyar  -- caution, warn, alert, charge, lecture
+-uyar  -- warn, alert, exhort, forewarn
+-uyar  -- caution, warn, alert, admonish, lecture
 uyarı  -- warning
 -uyarla  -- adapt
--uyar  -- stimulate, excite, sex up	__ şimdi yanımda olsan beraber yatakta uyardık.
+-uyar  -- stimulate, induce, sex up	__ şimdi yanımda olsan beraber yatakta uyardık.
 -uydur  -- adjust, assimilate, conform, regulate, adapt
 uydu  -- satellite, moon, secondary planet
 üye  -- member
