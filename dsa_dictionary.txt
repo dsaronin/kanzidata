@@ -11832,6 +11832,7 @@ ondokeo  {ma}  -- starting point of journey; departure	__ ondokeo lake katika bi
 -onea  -- bully, mistreat, harass; fanyia mtu jambo la dhuluma au mateso, agh aliyechiniyako; nyanyasa, dhulumu
 -onea fahari  -- show/give pride to sby [outward expression]	__ nakuonea fahari kubwa! anajionea fahari kuhusu utajiri wake. mwalimu aliwaonea fahari wanafunzi wake kwa juhudi walizoonyesha kwenye mradi wao. 
 -onea gere  -- be jealous	__ 
+-onea hurumu  -- feel compassion for sby	__ nilikuonea huruma ya utu baada ya kutengwa na familia yako.
 -onea imani  -- show sympathy, mercy	__ kutuonea imani kwa kuwa walituona tumechukua maiti garini.
 -onea kijicho  -- be envious	__ 
 -onea  -- oppress, tyrannize, suppress; kandamiza, nyanyasa	__ wakoloni waliwaonea wenyeji.
@@ -18035,4 +18036,5 @@ zuzu  -- stupid, fool
 zyoba, kizyoba  -- tribe in tanzania
 zzzzzzzzzzzzzz  -- EOF
 -ruhusiwa hospitalini  -- permitted to leave hospital  (idm)
+-ziba pengo  -- fill in gap, cover deficit	__ mimi siyo suluhisho la kudumu la kuziba pengo kati ya mapato na matumizi.
 
