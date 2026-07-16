@@ -6740,5 +6740,7 @@ saat ücreti  -- hourly rate
 işlem türü  -- transaction type, item
 artık  -- anymore
 okuma parçasi  -- reading passage
-
+yas  -- mourning	__ yasta olduğu için gelemedi.
+oyun  -- playing
+bölüm  -- episode [tv series]	__ dizinin yeni bölümü vardı.
 
