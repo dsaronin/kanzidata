@@ -6743,4 +6743,6 @@ okuma parçasi  -- reading passage
 yas  -- mourning	__ yasta olduğu için gelemedi.
 oyun  -- playing
 bölüm  -- episode [tv series]	__ dizinin yeni bölümü vardı.
+nerede kaldın  -- where have you been?
+
 

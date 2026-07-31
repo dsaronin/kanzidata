@@ -18037,4 +18037,15 @@ zyoba, kizyoba  -- tribe in tanzania
 zzzzzzzzzzzzzz  -- EOF
 -ruhusiwa hospitalini  -- permitted to leave hospital  (idm)
 -ziba pengo  -- fill in gap, cover deficit	__ mimi siyo suluhisho la kudumu la kuziba pengo kati ya mapato na matumizi.
+winga  -- chaser, agent, procurer
+hata hivyo  -- by the way
+dira ya mafanikio  -- ambition; dira, nia kuu, au dhamira ya kufanikiwa
+nia ya mafanikio  -- ambition; dira, nia kuu, au dhamira ya kufanikiwa
+soketi ya ukutani  -- electrical socket, wall socket.
+plagi ya ukutani  -- wall outlet
+upepo  -- air [in tire, balloon]	__ upepo unatoka polepole.
+-toa upepo  -- losing air	__ tairi lina pancha ndogo inayotoa upepo taratibu.
+ukaaji kimya  -- remaining silent / going radio silent
+-zingua  -- flaking out on sby, wasting my time, not serious  (idm)
+-zingua  -- threatening, acting aggressively, bringing trouble	__ huyu jamaa anazingua.
 
