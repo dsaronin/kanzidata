@@ -2730,9 +2730,11 @@ konum  -- configuration
 konum  -- location
 konum  -- position, location, site	__ konum: baku. konumun açık olsun.
 konum  -- state, status, attitude
--konuş  -- [act of] speak, talk	__ sen ne zaman istersen o zaman konuşuruz.
+-konuş  -- speak, talk [act of] 	__ sen ne zaman istersen o zaman konuşuruz.
+-konuş  -- speak a language [locat]	__ Türkçe konuşuyorum.
+-konuş  -- speak [using medium of] [dative]	__ Telefonda konuşuyorlar.
 konuşkan  -- talkative, chatty, communicative, articulate	__ konuşkanim; sohbeti severim.
--konuş {konuşur}  -- talk, converse
+-konuş {konuşur}  -- talk, converse [engaging in a two-way conversation]
 konuşma şekli  -- speech
 konuşma  -- speaking	__ dinleme, konuşma, okuma, yazma
 konusunda  -- about, regarding; hakkında, ilgili	__ sana türkçe öğrenmek konusunda yardımcı olmak isterim.
@@ -4005,7 +4007,7 @@ soygun  -- robbery
 söyleniş  -- pronunciation; telaffuz
 -söylen  -- be said
 -söyle {söyler}  -- speak, say, tell [not used with direct quotations: see demek]
--söyle  -- tell sby sth, x said	__ doğru söylüyorsun.
+-söyle  -- say / tell sby sth [accus, dativ] 	__ doğru söylüyorsun. bana gerçeği söyledi. ona selam söyle.
 şöyle  -- thus, in that fashion; as follows
 -soy  -- peel, strip, undress, disrobe	__ onu soyuyorum, şimdi indirdim. muz soymak.
 -soy  -- plunder, rob, burgle
@@ -5621,7 +5623,7 @@ ortak  -- common
 ortak  -- joint, mutual
 kalabalık  -- crowded
 öyleyse  -- so, then, if so, well	__ peki, başlayalım öyleyse.
--bahset  -- mention, touch on, speak of, refer  [ablat]	__ bana biraz kendinizden bahsedin.
+-bahset  -- mention, speak of, refer  [ablat]	__ bana biraz kendinizden bahsedin. bu konudan bahsetmek istemiyorum.
 sürekli  -- always
 koltuk  -- easy chair, sofa
 manzara  -- landscape
