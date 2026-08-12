@@ -5012,7 +5012,7 @@ beslenme  -- nutrition, nourishment; besleme, gıda
 itiraz  -- objection, plea, protest, challenge, contradiction
 sürpriz  -- surprise	__ ne sürpriz.
 iftar  -- iftar: meal after sunset during ramadan
-ramazan  -- ramadan
+ramazan  -- ramadan	__ ramazan bayramı.
 sedye  -- stretcher, gurney; gergi, teskere, tuval	__ sedyeye oturun lütfen.
 ahşap  -- wood, wooden sth; tahta
 çubuk  -- stick, rod, wand	__ ahşap çubuğu.
@@ -6735,7 +6735,7 @@ yıldönümü  -- anniversary	__ yıldönümünü kutluyoruz.
 coşkuyla  -- enthusiastically
 islami takvim  -- islamic calender
 hala  -- still
--oruç tutmak  -- fast
+-oruç tutmak  -- fast [go w/o food]
 hep birlikte  -- all together
 hocam  -- mr, miss, mrs, sir	__ teşekkür ederim hocam.
 saat ücreti  -- hourly rate
