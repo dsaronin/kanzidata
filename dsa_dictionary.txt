@@ -18048,4 +18048,8 @@ upepo  -- air [in tire, balloon]	__ upepo unatoka polepole.
 ukaaji kimya  -- remaining silent / going radio silent
 -zingua  -- flaking out on sby, wasting my time, not serious  (idm)
 -zingua  -- threatening, acting aggressively, bringing trouble	__ huyu jamaa anazingua.
+mdengu  {mi}  -- chickpea, garbanzo, hummus
+unga wa mbaazi za kizungu  -- garbanzo flour [formal]
+unga wa dengu  -- garbanzo flour  [common]
+
 

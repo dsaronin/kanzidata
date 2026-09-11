@@ -1263,6 +1263,7 @@ domuz  -- pig
 donanma  -- navy, fleet, armada
 -dön {döner}  -- turn; to return, go back to [dativ]
 dondurma  -- ice cream  (fd)	__ dondurma arabası. çilekli dondurmayı yiyorum.
+dondurmacı  -- ice cream shop  
 dönme  -- return, rotation, turn, spin; rotasyon, dönüş, çevirme
 -dön  -- turn, return	__ ne zaman döneceksin türkiye'ye? bir saat sonra döneceğim.
 -dön  -- spin	__ başım dönmeye başlıyor.
@@ -3582,6 +3583,7 @@ rengarenk  -- colorful
 renk {rengi}  -- color
 resim  -- pic, drawing, photo, image, illustration	__ özel resim lutfen.
 resmen  -- officially
+resmen  -- literally
 -resmi durmak  -- look formal, official
 resmi  -- official, formal
 ressam  -- painter
@@ -6746,5 +6748,6 @@ yas  -- mourning	__ yasta olduğu için gelemedi.
 oyun  -- playing
 bölüm  -- episode [tv series]	__ dizinin yeni bölümü vardı.
 nerede kaldın  -- where have you been?
+vallahi billahi bilmiyorum  -- well i don't know
 
 
