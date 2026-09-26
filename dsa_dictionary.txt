@@ -18051,5 +18051,20 @@ ukaaji kimya  -- remaining silent / going radio silent
 mdengu  {mi}  -- chickpea, garbanzo, hummus
 unga wa mbaazi za kizungu  -- garbanzo flour [formal]
 unga wa dengu  -- garbanzo flour  [common]
-
+-pangilia muda  -- manage time, plan time	__ inabidi ujue kupangilia muda wako vizuri.
+-tumia muda vizuri  -- use time well [not waste time] 	__ siri ya biashara ni kutumia muda vizuri.
+kutumia muda vizuri  -- time management  (idm)
+-jali muda  -- value time	__ mfanyabiashara lazima ajali muda.
+-bana muda  -- efficiently use time, squeeze time	__ inabidi tubane muda ili tumalize mapema.
+mambo ya kufanya  -- todo list, things to do; ratiba, mipango	__ kwenye mambo yako ya kufanya kwa siku chache zijazo, una nini na nini, kuanzia lile la muhimu zaidi?
+jalada {ma}  -- file folder, dossier; bahasha au kifaa kigumu cha kuwekea na kutunzia nyaraka	__ weka ripoti zote za mauzo ndani ya jalada hili.
+jalada {ma}  -- book cover, binding; gamba gumu la nje linalofunika na kulinda kitabu	__ kitabu hiki kina jalada imara lisiloharibika kirahisi.
+weledi  -- professionalism, competence, expertise; ustadi na ujuzi wa hali ya juu katika utendaji wa kazi	__ anafanya kazi zake za uhasibu kwa weledi mkubwa.
+kato {ma}  -- transaction fee, service charge; fedha inayokatwa kama ada ya huduma ya kibenki au simu	__ makato ya kutoa fedha kwa mpesa yamepunguzwa mwezi huu.
+kato {ma}  -- salary deduction; sehemu ya mshahara inayopunguzwa kwa ajili ya kodi au bima	__ alilalamikia makato makubwa yaliyofanyika kwenye mshahara wake.
+makato  --  taz kato: transaction fees, service charges, salary deductions
+rasimu  -- draft, outline, blueprint; andiko au mpango wa awali unaotayarishwa kabla ya kufikia toleo la mwisho	__ ninaandaa rasimu ya barua kabla ya kuituma
+rasimu ya kwanza  -- first draft; andiko la kwanza kabisa la jaribio kabla ya kufanyiwa masahihisho	__ alikamilisha rasimu ya kwanza ya kitabu chake mwezi uliopita
+rasimu ya mkataba  -- draft contract, draft agreement; makubaliano ya awali ya kisheria yanayotayarishwa kabla ya kusainiwa rasmi	__ mwanasheria anapitia rasimu ya mkataba kabla hatujatia saini
+rasimu ya katiba  -- draft constitution; pendekezo la awali la sheria mama ya nchi kabla ya kupigiwa kura au kupitishwa	__ bunge maalum lilijadili rasimu ya katiba mpya kwa miezi kadhaa
 
