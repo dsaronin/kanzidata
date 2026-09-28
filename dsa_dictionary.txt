@@ -18067,4 +18067,13 @@ rasimu  -- draft, outline, blueprint; andiko au mpango wa awali unaotayarishwa k
 rasimu ya kwanza  -- first draft; andiko la kwanza kabisa la jaribio kabla ya kufanyiwa masahihisho	__ alikamilisha rasimu ya kwanza ya kitabu chake mwezi uliopita
 rasimu ya mkataba  -- draft contract, draft agreement; makubaliano ya awali ya kisheria yanayotayarishwa kabla ya kusainiwa rasmi	__ mwanasheria anapitia rasimu ya mkataba kabla hatujatia saini
 rasimu ya katiba  -- draft constitution; pendekezo la awali la sheria mama ya nchi kabla ya kupigiwa kura au kupitishwa	__ bunge maalum lilijadili rasimu ya katiba mpya kwa miezi kadhaa
+orodha hakiki  -- checklist	__ 
+orodha ya kazi  -- checklist	__ 
+orodha ya mambo ya kufanya  -- checklist	__ 
+orodha hakiki ya kila siku  -- daily checklist	__ 
+hatua za uhakiki  -- verification steps, check-off steps	__ 
+hamna  -- no  (idm)
+muda umekwenda  -- it is late
+thubutu  -- daare to do it; no way!
+wapi  -- not at all, no chance, no
 
