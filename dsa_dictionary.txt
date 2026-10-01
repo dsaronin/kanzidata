@@ -9540,8 +9540,9 @@ mkoo  {wa}  -- dirty slovenly person	__
 mkopo  {mi}  -- loan, credit	__ mikopo yenye hasara
 mkora  {wa}  -- rascal, scoundrel	juma umekuwa mkora siku hizi.
 mkorofi  {wa}  -- jinxed person; troublemaker	__ mtu yule ni mkorofi kwa vile chochote anachokipata, hakikai. mkorofi yule anaweza kukuharibia mipango yako.
-mkorogo  -- bleaching cream
-mkorogo  -- local made "bleach cream"; dawa ya kujichubulia uso  (slang)
+mkorogo  {mi}  -- local made "bleach cream"; dawa ya kujichubulia uso  (slang)
+mkorogo  {mi}  -- crude home-brewed alcohol  (slang)
+mkorogo  {mi}  -- muddle, mess, confusion; mambo yaliyovurugika  (slang)
 mkoromo  {mi}  -- snoring sound	__ nilisikia mikoromo mikalimikali inatoka ndani.
 mkorosho  -- cashew tree
 mkosaji  {wa}  -- wrongdoer, guilty party, sinner	__ mimi sikukosa lolote; mkosaji ni yeye.
@@ -18076,4 +18077,6 @@ hamna  -- no  (idm)
 muda umekwenda  -- it is late
 thubutu  -- daare to do it; no way!
 wapi  -- not at all, no chance, no
-
+fungu kamili  -- complete lot, batch [inventory tracking]
+pishi kamili  -- full cooking batch
+awamu kamili  -- full batch, full run
