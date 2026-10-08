@@ -5693,7 +5693,7 @@ valiz  -- suitcase
 sanırım  -- i guess...
 -test etmek  -- test sby
 albüm  -- album
-tabii ki  -- of course
+tabii ki  -- of course	__ değil tabii ki.
 bak  -- lo, now
 sorma ya  -- don't ask
 -görme  -- pass over, omit
@@ -6715,7 +6715,6 @@ boş zamanlar  -- free time
 -baketbol oynamak  -- play basketball
 valla bilmiyor  -- i dont know
 kolonya  -- cologne	__ misafirlere kolonya ikram ediyorum.
-
 -dilek tutmak  -- make a wish	__ 
 -dilek dilemek  -- make a wish	__ bir dilek diliyorum.
 -el öpmek  -- kiss the hand	__ 
@@ -6729,7 +6728,6 @@ kartpostal  -- postcard	__
 mum  -- candle	__ mumları üflüyorum.
 geleneksel  -- traditional	__ çocuklar 23 nisan'da geleneksel kıyafetler giyiyorlar.
 yöresel  -- regional	__ yöresel yemekleri tadıyoruz.
-kolonya  -- cologne	__ 
 yıldönümü  -- anniversary	__ yıldönümünü kutluyoruz.
 -üfle  --  puff on, blow out sth	__ pastadaki bütün mumları üfleyemeyeceğim.
 -üfle	puff, blow on
@@ -6749,5 +6747,5 @@ oyun  -- playing
 bölüm  -- episode [tv series]	__ dizinin yeni bölümü vardı.
 nerede kaldın  -- where have you been?
 vallahi billahi bilmiyorum  -- well i don't know
-
+sıra sende!  -- it's your turn!
 
